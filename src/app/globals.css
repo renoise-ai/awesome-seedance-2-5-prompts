@@ -1,0 +1,188 @@
+@import "tailwindcss";
+
+/* ===== YouWare Fonts ===== */
+@font-face {
+  font-family: "YouWare Sans";
+  src: url("/fonts/YouWare Sans Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "YouWare Sans";
+  src: url("/fonts/YouWare Sans Medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "YouWare Sans";
+  src: url("/fonts/YouWare Sans Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roboto Flex";
+  src: url("/fonts/RobotoFlex-Variable.ttf") format("truetype-variations");
+  font-weight: 100 1000;
+  font-stretch: 25% 151%;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ===== YouWare Design Tokens ===== */
+@theme {
+  --font-heading: "YouWare Sans", system-ui, sans-serif;
+  --font-body: "Roboto Flex", system-ui, sans-serif;
+  --font-mono: "Roboto Mono", monospace;
+
+  --color-brand: #55644a;
+  --color-green1: #2e4226;
+  --color-green3: #e0e7d0;
+  --color-orange1: #a55500;
+  --color-orange2: #ffd15d;
+  --color-orange3: #f8dfaa;
+  --color-success: #50a14f;
+  --color-error: #d42727;
+  --color-warn: #b68c37;
+  --color-link: #0077ff;
+  --color-fill-primary: #ffffff;
+  --color-fill-secondary: #f6f4f1;
+  --color-grey1: rgba(0, 0, 0, 0.12);
+  --color-grey2: rgba(0, 0, 0, 0.06);
+  --color-grey3: rgba(0, 0, 0, 0.03);
+
+  --animate-fade-in-up: fade-in-up 0.3s ease-out;
+  --animate-fade-in-down: fade-in-down 0.3s ease-out;
+  --animate-slide-in-right: slide-in-right 0.25s ease-out;
+
+  --text-color-primary: rgba(0, 0, 0, 0.95);
+  --text-color-secondary: rgba(0, 0, 0, 0.6);
+  --text-color-tertiary: rgba(0, 0, 0, 0.4);
+  --text-color-disabled: rgba(0, 0, 0, 0.2);
+}
+
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slide-in-right {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes fade-in-down {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ===== YouWare Typography Utilities ===== */
+@layer utilities {
+  .typo-title-hero {
+    font-family: var(--font-heading);
+    font-size: 72px;
+    font-weight: 500;
+    line-height: 1.2;
+  }
+  .typo-title-page {
+    font-family: var(--font-heading);
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 1.2;
+  }
+  .typo-h1 {
+    font-family: var(--font-heading);
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 1.2;
+  }
+  .typo-h2 {
+    font-family: var(--font-body);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.2;
+    letter-spacing: -0.2px;
+    font-stretch: 115%;
+  }
+  .typo-h3 {
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.2;
+    font-stretch: 115%;
+  }
+  .typo-large {
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.4;
+    font-stretch: 115%;
+  }
+  .typo-body {
+    font-family: var(--font-body);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.4;
+    letter-spacing: 0.07px;
+    font-stretch: 115%;
+  }
+  .typo-body-strong {
+    font-family: var(--font-body);
+    font-size: 14px;
+    font-weight: 580;
+    line-height: 1.4;
+    letter-spacing: -0.21px;
+    font-stretch: 115%;
+  }
+  .typo-small {
+    font-family: var(--font-body);
+    font-size: 12px;
+    font-weight: 420;
+    line-height: 1.3;
+    font-stretch: 115%;
+  }
+  .typo-small-strong {
+    font-family: var(--font-body);
+    font-size: 12px;
+    font-weight: 580;
+    line-height: 1.3;
+    font-stretch: 115%;
+  }
+  .typo-ex-small {
+    font-family: var(--font-body);
+    font-size: 10px;
+    font-weight: 420;
+    line-height: 1.3;
+    font-stretch: 115%;
+  }
+}
+
+/* ===== Base Styles ===== */
+body {
+  font-family: var(--font-body);
+  background-color: var(--color-fill-secondary);
+  color: var(--text-color-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

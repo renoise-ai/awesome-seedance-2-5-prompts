@@ -1,0 +1,19 @@
+{
+  "id": "seedance25-part3-group1-output",
+  "title": "FPV multilingual one-take descent",
+  "content": "A one-take FPV drone first-person-view video, a continuous 33-second long shot with no cuts, no jump cuts, and no transitions. The camera begins high inside the clouds and follows one continuous descending flight path through cloud layers, mist, light and shadow, valleys, waterfalls, a lake surface, flower fields, city buildings, and finally a near-ground plaza. Throughout the entire shot, 11 clear and independent language display zones appear in sequence. Each zone shows only the corresponding single-language text, with no mixed typesetting, no overlap, and no additional languages. 0–3 seconds: clouds naturally form the Chinese text “你好”;3–6 seconds: thin mist and volumetric light form the English text “Hello”;6–9 seconds: high-altitude vapor and sunlight projection form the Spanish (Mexico) text “Hola”;9–12 seconds: ribbons in the air form the Indonesian text “Halo”;12–15 seconds: a kite formation forms the Malay text “Hai”;15–18 seconds: morning valley mist forms the Thai text “สวัสดี”;18–21 seconds: waterfall spray forms the Arabic text “مرحبا”;21–24 seconds: lake reflections and rippling light patterns form the Portuguese text “Olá”;24–27 seconds: flower fields and grasslands naturally arrange into the Vietnamese text “Xin chào”;27–30 seconds: 0 reflections and light on city glass buildings form the Japanese text “こんにちは”;30–33 seconds: 1 fountain mist, ground paving, and light strips in the near-ground plaza form the Korean text “안녕하세요”. The overall atmosphere is sunrise in the early morning, with golden backlight, soft volumetric light, realistic clouds and mist, natural motion blur, and cinematic realism. Camera speed starts slowly at 3–5 m/s, gradually accelerates to 14–16 m/s while passing through natural landscapes, then decelerates to 2–3 m/s and stabilizes into a hover over the near-ground plaza. Camera parameters: wide-angle lens, 24fps, smooth FPV drone movement, pitch gradually transitions from -5° to -18°, then returns to 0° at the end; slight yaw of ±10°, roll controlled within 0–10°, ensuring a continuous, stable, realistic one-take flight feeling.expand",
+  "language": "en",
+  "thumbnail": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance-2-5/covers/seedance25-part3-group1-output.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance-2-5/videos/seedance25-part3-group1-output.mp4",
+  "sourceLink": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+  "sourcePublishedAt": "2026-06-23",
+  "author": {
+    "name": "ByteDance · Volcano Ark"
+  },
+  "tags": [
+    "FPV",
+    "One-take",
+    "Multilingual"
+  ],
+  "translations": {}
+}

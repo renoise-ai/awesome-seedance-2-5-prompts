@@ -1,0 +1,45 @@
+name: Sync Data
+
+on:
+  # Scheduled trigger removed 2026-06-01: upstream (YouBase) is deprecated since the
+  # migration to awesome-prompts-lib (035a4ad). A scheduled run would pull legacy
+  # upstream data and unlink our current tweet-id-named files. Kept manual-only
+  # (workflow_dispatch) as an explicit, opt-in escape hatch — never runs on its own.
+  workflow_dispatch:            # Manual trigger only
+
+permissions:
+  contents: write
+
+env:
+  UPSTREAM_DATA_URL: ${{ secrets.UPSTREAM_DATA_URL }}
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'pnpm'
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Sync upstream data
+        run: pnpm run sync
+
+      - name: Regenerate README
+        run: pnpm run generate
+
+      - name: Commit and push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/ README.md README_*.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "data: auto-sync upstream [skip ci]"
+          git push
