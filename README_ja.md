@@ -65,7 +65,7 @@
 | 📝 プロンプト総数 | **12** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **0** |
-| 🔄 最終更新 | **2026-07-01** |
+| 🔄 最終更新 | **2026-07-02** |
 
 ---
 
@@ -335,4 +335,4 @@ Overall style requirements: rock color graphic animation, Oriental and Silk Road
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **🎬 [Seedance 2.5 モデル](https://renoise.ai/ja/features/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-07-01T21:40:47.917Z
+🤖 この README は自動生成されています。最終更新： 2026-07-02T03:56:38.911Z

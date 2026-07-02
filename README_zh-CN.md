@@ -65,7 +65,7 @@
 | 📝 提示词总数 | **12** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **0** |
-| 🔄 最后更新 | **2026-07-01** |
+| 🔄 最后更新 | **2026-07-02** |
 
 ---
 
@@ -335,4 +335,4 @@ Overall style requirements: rock color graphic animation, Oriental and Silk Road
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **🎬 [Seedance 2.5 模型](https://renoise.ai/zh-CN/features/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-07-01T21:40:47.915Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-07-02T03:56:38.909Z
