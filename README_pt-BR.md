@@ -65,7 +65,7 @@
 | 📝 Total de Prompts | **12** |
 | ⭐ Destaques | **0** |
 | 💡 Dicas & Tutoriais | **0** |
-| 🔄 Última Atualização | **2026-08-01** |
+| 🔄 Última Atualização | **2026-08-02** |
 
 ---
 
@@ -335,4 +335,4 @@ Estes prompts de preview são publicados pela **ByteDance / Volcano Ark (火山�
 
 **🌐 [🎬 Ver na Galeria Web](https://renoise.ai/pt-BR/showcase/awesome-seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **🎬 [modelo Seedance 2.5](https://renoise.ai/pt-BR/features/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **📝 Enviar um Prompt** • **⭐ Dar Star**
 
-🤖 Este README é gerado automaticamente. Última atualização: 2026-08-01T20:58:16.184Z
+🤖 Este README é gerado automaticamente. Última atualização: 2026-08-02T03:21:10.712Z
