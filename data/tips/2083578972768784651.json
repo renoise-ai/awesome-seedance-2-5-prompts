@@ -1,0 +1,42 @@
+{
+  "id": "2083578972768784651",
+  "title": "Seedance2.5で30秒生成を使い、強力なリファレンス機能にキャラクターシートを参照として入れて6人のキャラクターを再現する",
+  "content": "Seedance2.5で30秒生成を使い、強力なリファレンス機能にキャラクターシートを参照として入れて6人のキャラクターを再現する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083578906549063680/img/DbkpIblDLUTYUOsD.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083578972768784651.mp4",
+  "sourceLink": "https://x.com/aiko_ai_ai/status/2083578972768784651",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "aiko@AI撮影",
+    "link": "https://x.com/aiko_ai_ai"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.5で30秒生成を使い、強力なリファレンス機能にキャラクターシートを参照として入れて6人のキャラクターを再現する",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2.5’s 30-second generation and leverage its powerful reference feature by inputting a character sheet as a reference to recreate six characters."
+    },
+    "es": {
+      "content": "Usa la generación de 30 segundos en Seedance2.5 y, aprovechando su potente función de referencia, introduce una character sheet como referencia para recrear a 6 personajes."
+    },
+    "fr": {
+      "content": "Utiliser la génération de 30 secondes avec Seedance2.5 et, grâce à sa puissante fonction de référence, intégrer une character sheet comme référence pour recréer 6 personnages."
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 30초 생성 기능을 사용하고, 강력한 reference 기능에 캐릭터 시트를 참조로 넣어 6명의 캐릭터를 재현하기"
+    },
+    "pt": {
+      "content": "Usando a geração de 30 segundos no Seedance2.5, inserir uma character sheet como referência com a poderosa função de referência para recriar 6 personagens."
+    },
+    "zh": {
+      "content": "使用 Seedance2.5 的 30 秒生成功能，并利用强大的参考功能，将角色设定表作为参考输入，以还原 6 个角色。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2083483419502420413",
+  "title": "複数キャラクターのリファレンスを用意して、Seedance 2.5にプロンプトを入れるだけで一連の動画（約30秒の短編）を生成する",
+  "content": "複数キャラクターのリファレンスを用意して、Seedance 2.5にプロンプトを入れるだけで一連の動画（約30秒の短編）を生成する  \n分割画面（スプリットスクリーン）を使った構成でも、Seedance 2.5でスムーズに動かせるので演出として活用する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083482102906122240/img/m1uqgT1_Sloia_PV.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083483419502420413.mp4",
+  "sourceLink": "https://x.com/Art_urbex/status/2083483419502420413",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "UME",
+    "link": "https://x.com/Art_urbex"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "複数キャラクターのリファレンスを用意して、Seedance 2.5にプロンプトを入れるだけで一連の動画（約30秒の短編）を生成する  \n分割画面（スプリットスクリーン）を使った構成でも、Seedance 2.5でスムーズに動かせるので演出として活用する",
+  "translations": {
+    "en": {
+      "content": "Prepare references for multiple characters, then simply enter a prompt into Seedance 2.5 to generate a sequence of videos (a short film of about 30 seconds).  \nEven split-screen compositions can be animated smoothly in Seedance 2.5, so they can be used effectively as a directorial device."
+    },
+    "es": {
+      "content": "Prepara referencias de varios personajes y, con solo introducir un prompt en Seedance 2.5, puedes generar una secuencia de videos (un cortometraje de unos 30 segundos).  \nIncluso en una composición que use pantalla dividida (split screen), Seedance 2.5 puede moverla con fluidez, así que puedes aprovecharla como recurso de puesta en escena."
+    },
+    "fr": {
+      "content": "Préparez des références pour plusieurs personnages, puis saisissez simplement le prompt dans Seedance 2.5 pour générer une série de vidéos (un court métrage d’environ 30 secondes).  \nMême avec une mise en scène utilisant un écran partagé (split-screen), Seedance 2.5 permet de les faire bouger de manière fluide, ce qui en fait un outil utile pour la mise en scène."
+    },
+    "ko": {
+      "content": "여러 캐릭터의 레퍼런스를 준비해 Seedance 2.5에 prompt를 입력하기만 하면 일련의 영상(약 30초 분량의 단편)을 생성할 수 있다.  \n분할 화면(스플릿 스크린)을 활용한 구성도 Seedance 2.5에서 자연스럽게 움직일 수 있으므로, 연출 요소로 적극 활용한다."
+    },
+    "pt": {
+      "content": "Prepare multiple character references and simply enter a prompt into Seedance 2.5 to generate a sequence of videos (a short film of about 30 seconds).  \nEven with a split-screen composition, it can be animated smoothly in Seedance 2.5, so you can use it as a storytelling device."
+    },
+    "zh": {
+      "content": "准备多个角色的参考图，只需向 Seedance 2.5 输入 prompt，就能生成一整段视频（约 30 秒的短片）。  \n即使是使用分屏（split screen）的构成，Seedance 2.5 也能流畅地运作，因此可以将其作为一种演出手法加以运用。"
+    }
+  }
+}

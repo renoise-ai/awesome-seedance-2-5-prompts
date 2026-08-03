@@ -1,0 +1,42 @@
+{
+  "id": "2083528739816681974",
+  "title": "Use Seedance 2.5 to generate one-shot UGC ads from a single product image",
+  "content": "Use Seedance 2.5 to generate one-shot UGC ads from a single product image  \nExpect ~30 seconds generation time for a one-shot UGC ad in Seedance 2.5  \nUse up to 50 reference inputs in Seedance 2.5 to guide the output  \nLeverage Seedance 2.5’s multimodal inputs (audio + image + video) to control the generated ad",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083528356293693440/img/OwQbbXwtYFc-vgw6.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083528739816681974.mp4",
+  "sourceLink": "https://x.com/MaxfusionAI/status/2083528739816681974",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "maxfusion.ai",
+    "link": "https://x.com/MaxfusionAI"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 to generate one-shot UGC ads from a single product image  \nExpect ~30 seconds generation time for a one-shot UGC ad in Seedance 2.5  \nUse up to 50 reference inputs in Seedance 2.5 to guide the output  \nLeverage Seedance 2.5’s multimodal inputs (audio + image + video) to control the generated ad",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 para generar anuncios UGC de una sola toma a partir de una sola imagen de producto  \nEspera un tiempo de generación de aproximadamente 30 segundos para un anuncio UGC de una sola toma en Seedance 2.5  \nUsa hasta 50 entradas de referencia en Seedance 2.5 para guiar el resultado  \nAprovecha las entradas multimodales de Seedance 2.5 (audio + imagen + video) para controlar el anuncio generado"
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 pour générer des publicités UGC en one-shot à partir d’une seule image produit  \nPrévoyez environ 30 secondes de génération pour une publicité UGC en one-shot dans Seedance 2.5  \nUtilisez jusqu’à 50 entrées de référence dans Seedance 2.5 pour guider le résultat  \nExploitez les entrées multimodales de Seedance 2.5 (audio + image + vidéo) pour contrôler la publicité générée"
+    },
+    "ja": {
+      "content": "Seedance 2.5 を使って、1枚の商品画像からワンショットのUGC広告を生成する  \nSeedance 2.5 でワンショットUGC広告を生成する場合、生成時間は約30秒を想定  \nSeedance 2.5 では最大50個の参照入力を使って、出力をガイドできる  \nSeedance 2.5 のマルチモーダル入力（音声 + 画像 + 動画）を活用して、生成される広告を制御する"
+    },
+    "ko": {
+      "content": "Seedance 2.5를 사용해 단일 제품 이미지로 원테이크 UGC 광고를 생성하세요  \nSeedance 2.5에서 원테이크 UGC 광고 1개를 생성하는 데 약 30초의 생성 시간이 예상됩니다  \nSeedance 2.5에서는 최대 50개의 레퍼런스 입력을 사용해 결과를 가이드할 수 있습니다  \nSeedance 2.5의 멀티모달 입력(audio + image + video)을 활용해 생성되는 광고를 제어하세요"
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 para gerar anúncios UGC em plano único a partir de uma única imagem do produto  \nEspere cerca de 30 segundos de tempo de geração para um anúncio UGC em plano único no Seedance 2.5  \nUse até 50 inputs de referência no Seedance 2.5 para orientar o resultado  \nAproveite os inputs multimodais do Seedance 2.5 (áudio + imagem + vídeo) para controlar o anúncio gerado"
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 仅凭一张产品图片生成单镜头 UGC 广告  \n在 Seedance 2.5 中，单镜头 UGC 广告的生成时间预计约为 30 秒  \n在 Seedance 2.5 中最多可使用 50 个参考输入来引导输出  \n利用 Seedance 2.5 的多模态输入（音频 + 图片 + 视频）来控制生成的广告"
+    }
+  }
+}

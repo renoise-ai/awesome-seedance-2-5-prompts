@@ -1,0 +1,42 @@
+{
+  "id": "2072311806681624691",
+  "title": "Blenderでプリビズ（構図・カメラワーク付き）を作ってSeedance 2.0に読み込ませると、プロンプトだけでは出しにくい狙った構図やカメラワークを再現し…",
+  "content": "Blenderでプリビズ（構図・カメラワーク付き）を作ってSeedance 2.0に読み込ませると、プロンプトだけでは出しにくい狙った構図やカメラワークを再現しやすい",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072308250176114688/img/cMVOsHTATkkdpGYi.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2072311806681624691.mp4",
+  "sourceLink": "https://x.com/applete77191758/status/2072311806681624691",
+  "sourcePublishedAt": "2026-07-01",
+  "author": {
+    "name": "appletea 🍎アップルティ☕丨AI動画制作",
+    "link": "https://x.com/applete77191758"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Blenderでプリビズ（構図・カメラワーク付き）を作ってSeedance 2.0に読み込ませると、プロンプトだけでは出しにくい狙った構図やカメラワークを再現しやすい",
+  "translations": {
+    "en": {
+      "content": "When you create a previs (with composition and camera work) in Blender and load it into Seedance 2.0, it becomes easier to reproduce targeted compositions and camera work that are difficult to achieve with prompts alone."
+    },
+    "es": {
+      "content": "Cuando creas un previsualización en Blender (con composición y trabajo de cámara) y lo cargas en Seedance 2.0, es más fácil reproducir la composición y el trabajo de cámara deseados que son difíciles de lograr solo con un prompt."
+    },
+    "fr": {
+      "content": "Lorsque vous créez un prévisualisation (avec composition et travail de caméra) dans Blender et que vous le chargez dans Seedance 2.0, il devient plus facile de reproduire la composition ou le travail de caméra souhaité, qui serait difficile à obtenir uniquement avec un prompt."
+    },
+    "ko": {
+      "content": "Blender에서 프리비즈(구도 및 카메라워크 포함)를 만들어 Seedance 2.0에 로드하면, 프로ンプ트만으로는 표현하기 어려운 목표한 구도와 카메라워크를 재현하기 쉽습니다."
+    },
+    "pt": {
+      "content": "Quando você cria uma pré-visualização no Blender (com composição e trabalho de câmera) e a carrega no Seedance 2.0, fica mais fácil reproduzir a composição ou o trabalho de câmera desejado que seria difícil de alcançar apenas com um prompt."
+    },
+    "zh": {
+      "content": "在Blender中制作带有构图和镜头运动的预演动画，并将其导入Seedance 2.0，这样可以更容易地再现仅靠prompt难以实现的特定构图和镜头运动。"
+    }
+  }
+}

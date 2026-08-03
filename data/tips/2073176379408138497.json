@@ -1,0 +1,42 @@
+{
+  "id": "2073176379408138497",
+  "title": "Seedance 2.5では最大50個のマルチモーダル参照を投入して、ラフな一発生成ではなく細かいディレクションに寄せて生成をコントロールする",
+  "content": "Seedance 2.5では最大50個のマルチモーダル参照を投入して、ラフな一発生成ではなく細かいディレクションに寄せて生成をコントロールする  \n生成前に完成映像を要素（構図・被写体・背景・動き・カメラ・質感など）に分解してイメージし、それぞれに対応する参照素材を用意してから生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2072674322540625921/img/4_N9rdFGbH4UzMe-.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2073176379408138497.mp4",
+  "sourceLink": "https://x.com/taziku_co/status/2073176379408138497",
+  "sourcePublishedAt": "2026-07-03",
+  "author": {
+    "name": "田中義弘 | taziku CEO / AI × Creative",
+    "link": "https://x.com/taziku_co"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5では最大50個のマルチモーダル参照を投入して、ラフな一発生成ではなく細かいディレクションに寄せて生成をコントロールする  \n生成前に完成映像を要素（構図・被写体・背景・動き・カメラ・質感など）に分解してイメージし、それぞれに対応する参照素材を用意してから生成する",
+  "translations": {
+    "en": {
+      "content": "In Seedance 2.5, you can input up to 50 multimodal references to control the generation with detailed direction rather than a rough one-shot generation.  \nBefore generation, deconstruct the final video into elements (composition, subject, background, movement, camera, texture, etc.) and visualize them, then prepare corresponding reference materials for each element before generating."
+    },
+    "es": {
+      "content": "En Seedance 2.5, se pueden introducir hasta 50 referencias multimodales para controlar la generación, no como un resultado bruto, sino ajustándolo a una dirección más detallada.  \nAntes de la generación, se descompone la imagen final en elementos (composición, sujeto, fondo, movimiento, cámara, textura, etc.) y se prepara material de referencia correspondiente para cada uno antes de proceder con la generación."
+    },
+    "fr": {
+      "content": "Dans Seedance 2.5, il est possible d'utiliser jusqu'à 50 références multimodales pour orienter la génération vers une direction précise plutôt que de se contenter d'une création brute. Avant la génération, décomposez la vidéo finale en éléments (composition, sujet, arrière-plan, mouvement, caméra, texture, etc.) et préparez des matériaux de référence correspondants pour chaque élément avant de procéder à la génération."
+    },
+    "ko": {
+      "content": "---\nSeedance 2.5에서는 최대 50개의 멀티모달 참조를 사용하여, 단순한 한 번의 생성이 아닌 세밀한 디렉션에 맞춰 생성을 제어합니다.  \n생성 전에 완성된 영상을 요소(구도, 피사체, 배경, 움직임, 카메라, 질감 등)로 분해하여 이미지화하고, 각각에 대응하는 참조 자료를 준비한 후 생성합니다.\n---"
+    },
+    "pt": {
+      "content": "No Seedance 2.5, é possível inserir até 50 referências multimodais para controlar a geração, aproximando-se de uma direção detalhada em vez de uma geração bruta de uma só vez.  \nAntes da geração, decompõe-se o vídeo finalizado em elementos (como composição, sujeito, fundo, movimento, câmera, textura, etc.) e, em seguida, prepara-se o material de referência correspondente para cada um antes de gerar."
+    },
+    "zh": {
+      "content": "在Seedance 2.5中，可以投入最多50个多模态参考，不是粗略的一次性生成，而是通过细致的指导来控制生成。  \n在生成之前，将完成的影像分解为元素（构图、被摄体、背景、动作、摄像机、质感等）进行构思，并为每个元素准备相应的参考素材后再进行生成。"
+    }
+  }
+}

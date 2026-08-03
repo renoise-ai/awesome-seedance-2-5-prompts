@@ -1,0 +1,42 @@
+{
+  "id": "2083726880918646812",
+  "title": "Manipulate pacing in Seedance 2.5 by adjusting prompt wording and using a shot…",
+  "content": "Manipulate pacing in Seedance 2.5 by adjusting prompt wording and using a shot list to control timing.  \nTo speed up pacing in a 30‑second video, include more shots in the shot list so Seedance moves through them faster.  \nSlightly overload the shot list and prompt it to avoid holding poses or having clashing actions to improve fight-scene pacing.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083726782566420480/img/zct9Y2xqNEmMPzXU.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083726880918646812.mp4",
+  "sourceLink": "https://x.com/Wigglenator/status/2083726880918646812",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "⚔️🎮💫Wigglenator💫🎮⚔️",
+    "link": "https://x.com/Wigglenator"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Manipulate pacing in Seedance 2.5 by adjusting prompt wording and using a shot list to control timing.  \nTo speed up pacing in a 30‑second video, include more shots in the shot list so Seedance moves through them faster.  \nSlightly overload the shot list and prompt it to avoid holding poses or having clashing actions to improve fight-scene pacing.",
+  "translations": {
+    "es": {
+      "content": "Manipula el ritmo en Seedance 2.5 ajustando la redacción del prompt y usando una shot list para controlar el timing.  \nPara acelerar el ritmo en un video de 30 segundos, incluye más shots en la shot list para que Seedance avance por ellos más rápido.  \nSobrecarga ligeramente la shot list y pídele que evite mantener poses o que haya acciones en conflicto para mejorar el ritmo de las escenas de pelea."
+    },
+    "fr": {
+      "content": "Manipulez le rythme dans Seedance 2.5 en ajustant la formulation du prompt et en utilisant une shot list pour contrôler le timing.  \nPour accélérer le rythme dans une vidéo de 30 secondes, incluez davantage de plans dans la shot list afin que Seedance les enchaîne plus rapidement.  \nSurchargez légèrement la shot list et demandez-lui d’éviter de maintenir des poses ou d’avoir des actions qui se chevauchent afin d’améliorer le rythme des scènes de combat."
+    },
+    "ja": {
+      "content": "Seedance 2.5では、promptの文言を調整し、shot listを使ってタイミングをコントロールすることで、pacingを操作できます。  \n30秒の動画でpacingを速くしたい場合は、shot listにより多くのショットを含めることで、Seedanceがそれらをより速いテンポで進めるようにします。  \nshot listをやや多めに設定し、ポーズを長く維持しないことや、動きがぶつかり合うようなアクションを避けるようpromptすることで、格闘シーンのpacingを改善できます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서는 prompt wording을 조정하고 shot list를 사용해 timing을 제어함으로써 pacing을 조절할 수 있습니다.  \n30초 영상의 pacing을 더 빠르게 하려면 shot list에 더 많은 shot을 포함시켜 Seedance가 더 빠르게 장면을 전환하도록 하세요.  \nshot list를 약간 과부하시키고, 포즈를 오래 유지하거나 서로 충돌하는 동작을 피하도록 prompt하면 fight scene의 pacing을 개선할 수 있습니다."
+    },
+    "pt": {
+      "content": "Manipule o ritmo no Seedance 2.5 ajustando a redação do prompt e usando uma shot list para controlar o timing.  \nPara acelerar o ritmo em um vídeo de 30 segundos, inclua mais shots na shot list para que o Seedance passe por eles mais rapidamente.  \nSobrecarregue levemente a shot list e instrua o modelo a evitar manter poses ou ter ações conflitantes para melhorar o ritmo de cenas de luta."
+    },
+    "zh": {
+      "content": "通过调整 prompt 文案并使用 shot list 来控制时长节奏，从而在 Seedance 2.5 中操控 pacing。  \n要加快 30 秒视频的节奏，可以在 shot list 中加入更多镜头，让 Seedance 更快地切换通过这些镜头。  \n适度增加 shot list 的信息量，并在 prompt 中提示避免长时间保持姿势或出现动作冲突，以改善打斗场景的节奏。"
+    }
+  }
+}

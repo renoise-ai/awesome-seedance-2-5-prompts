@@ -1,0 +1,42 @@
+{
+  "id": "2083441759049453656",
+  "title": "Seedance2.5で写真1枚（高校時代の画像など）を参照画像として指定して、静止画から動画化する",
+  "content": "Seedance2.5で写真1枚（高校時代の画像など）を参照画像として指定して、静止画から動画化する  \nSeedance2.5で生成した動画を「延長」機能で尺を伸ばす（クレジット消費は通常の約2倍になる想定で行う）",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083441670541189120/img/Cx0ftTQuqpEc1evi.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083441759049453656.mp4",
+  "sourceLink": "https://x.com/akiyoshisan/status/2083441759049453656",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "右よし左よし秋よし@AIエンタメ",
+    "link": "https://x.com/akiyoshisan"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.5で写真1枚（高校時代の画像など）を参照画像として指定して、静止画から動画化する  \nSeedance2.5で生成した動画を「延長」機能で尺を伸ばす（クレジット消費は通常の約2倍になる想定で行う）",
+  "translations": {
+    "en": {
+      "content": "Use a single photo in Seedance2.5 as a reference image, such as a picture from high school, to turn a still image into a video.  \nExtend the length of a video generated with Seedance2.5 using the “Extend” feature (expected to consume about twice the usual number of credits).\n\n--- QUOTED TWEET ---\nI felt lonely being alone, so I added more band members. Using only one reference image from my high school days in Seedance2.5.\n#dreaminacpp @dreamina_ai https://t.co/UDUeuVBr4s\n---"
+    },
+    "es": {
+      "content": "Usar una sola foto como imagen de referencia en Seedance2.5 (por ejemplo, una imagen de la época del instituto) para convertir una imagen estática en video  \nExtender la duración de un video generado con Seedance2.5 mediante la función de “extensión” (se asume que el consumo de créditos será aproximadamente el doble de lo normal)\n\n--- TWEET CITADO ---\nComo estaba solo y se sentía un poco triste, decidí añadir más miembros a la banda. Solo usé una imagen de mi época del instituto como referencia en Seedance2.5.\n#dreaminacpp @dreamina_ai https://t.co/UDUeuVBr4s"
+    },
+    "fr": {
+      "content": "Utiliser une seule photo (par exemple une image de l’époque du lycée) comme image de référence dans Seedance2.5 pour transformer une image fixe en vidéo  \nAllonger la durée d’une vidéo générée avec Seedance2.5 grâce à la fonction « extension » (en supposant que la consommation de crédits soit environ doublée par rapport à une utilisation normale)\n\n--- TWEET CITÉ ---\nComme j’étais seul, c’était un peu triste, alors j’ai essayé d’ajouter des membres au groupe. Une seule image de l’époque du lycée a été utilisée comme référence dans Seedance2.5.\n#dreaminacpp @dreamina_ai https://t.co/UDUeuVBr4s\n---"
+    },
+    "ko": {
+      "content": "Seedance2.5에서 사진 1장(고등학교 시절 이미지 등)을 참조 이미지로 지정해, 정지 이미지를 영상으로 변환한다  \nSeedance2.5로 생성한 영상을 “연장” 기능으로 길이를 늘린다(크레딧 소모는 일반의 약 2배가 될 것으로 예상하고 진행)\n\n--- 인용된 트윗 ---\n혼자라서 조금 외로워서, 밴드 멤버를 늘려봤습니다. Seedance2.5에서 고등학교 시절 이미지 1장만 참조.\n#dreaminacpp @dreamina_ai https://t.co/UDUeuVBr4s"
+    },
+    "pt": {
+      "content": "Usar uma única foto (como uma imagem da época do ensino médio) como imagem de referência no Seedance2.5 para transformar uma imagem estática em vídeo  \nEstender a duração de um vídeo gerado no Seedance2.5 com a função de “extensão” (pressupondo que o consumo de créditos será cerca de 2x o normal)\n\n--- TWEET CITADO ---\nComo estava solitário sozinho, resolvi aumentar o número de integrantes da banda. Usei apenas uma única imagem da época do ensino médio como referência no Seedance2.5.\n#dreaminacpp @dreamina_ai https://t.co/UDUeuVBr4s"
+    },
+    "zh": {
+      "content": "在 Seedance2.5 中，将一张照片（例如高中时期的图片）指定为参考图像，把静态图片转成视频  \n使用 Seedance2.5 生成的视频，通过“延长”功能拉长时长（预计会消耗约为普通情况下 2 倍的积分）\n\n--- 引用推文 ---\n一个人有点寂寞，所以我试着增加了几位乐队成员。仅使用了 Seedance2.5 中高中时期的一张图片作为参考。\n#dreaminacpp @dreamina_ai https://t.co/UDUeuVBr4s"
+    }
+  }
+}

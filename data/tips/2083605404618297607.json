@@ -1,0 +1,42 @@
+{
+  "id": "2083605404618297607",
+  "title": "Use a storyboard when generating a 30‑second Seedance 2.5 video to improve…",
+  "content": "Use a storyboard when generating a 30‑second Seedance 2.5 video to improve movement and subject positioning.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083605376008892418/img/jQ7sLwMAdv-6NPzW.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083605404618297607.mp4",
+  "sourceLink": "https://x.com/BinaryRot/status/2083605404618297607",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "Binary Rot",
+    "link": "https://x.com/BinaryRot"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a storyboard when generating a 30‑second Seedance 2.5 video to improve movement and subject positioning.",
+  "translations": {
+    "es": {
+      "content": "Usa un storyboard al generar un video de Seedance 2.5 de 30 segundos para mejorar el movimiento y la posición del sujeto."
+    },
+    "fr": {
+      "content": "Utilisez un storyboard lors de la génération d’une vidéo Seedance 2.5 de 30 secondes afin d’améliorer le mouvement et le positionnement du sujet."
+    },
+    "ja": {
+      "content": "30秒のSeedance 2.5動画を生成する際は、動きと被写体の配置を改善するためにストーリーボードを使用してください。"
+    },
+    "ko": {
+      "content": "30초 길이의 Seedance 2.5 비디오를 생성할 때는 움직임과 피사체 배치를 개선하기 위해 스토리보드를 사용하세요."
+    },
+    "pt": {
+      "content": "Use um storyboard ao gerar um vídeo de 30 segundos no Seedance 2.5 para melhorar o movimento e o posicionamento do sujeito."
+    },
+    "zh": {
+      "content": "在生成 30 秒的 Seedance 2.5 视频时，使用分镜脚本可以提升动作表现和主体构图。"
+    }
+  }
+}

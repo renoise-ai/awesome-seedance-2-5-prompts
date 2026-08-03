@@ -1,0 +1,42 @@
+{
+  "id": "2083431489103130736",
+  "title": "参照音源からの改変を減らしたいときは、プロンプトで「参照音源を正確に再現して」と明示してBGM参照生成する（完全ではないが改善する）",
+  "content": "参照音源からの改変を減らしたいときは、プロンプトで「参照音源を正確に再現して」と明示してBGM参照生成する（完全ではないが改善する）",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083430929536815104/img/QDfPMQTtXvd2t7R7.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083431489103130736.mp4",
+  "sourceLink": "https://x.com/minmin_4410/status/2083431489103130736",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "minmin みんみん｜変なAI Creator",
+    "link": "https://x.com/minmin_4410"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "参照音源からの改変を減らしたいときは、プロンプトで「参照音源を正確に再現して」と明示してBGM参照生成する（完全ではないが改善する）",
+  "translations": {
+    "en": {
+      "content": "When you want to reduce deviations from the reference audio source, explicitly instruct the prompt to “accurately reproduce the reference audio source” when generating BGM from a reference (it won’t be perfect, but it improves the result)."
+    },
+    "es": {
+      "content": "Cuando quieras reducir las modificaciones respecto a la fuente de referencia, especifica en el prompt «reproduce con precisión la fuente de referencia» y genera la BGM con referencia (no es perfecto, pero mejora)."
+    },
+    "fr": {
+      "content": "Lorsque vous souhaitez réduire les modifications par rapport à la source de référence, indiquez explicitement dans le prompt « reproduire fidèlement la source de référence » et effectuez une génération de BGM à partir de la référence audio (ce n’est pas parfait, mais cela améliore le résultat)."
+    },
+    "ko": {
+      "content": "참조 음원에서의 변형을 줄이고 싶을 때는, prompt에 “참조 음원을 정확하게 재현해”라고 명시한 뒤 BGM 참조 생성을 하면 된다(완벽하지는 않지만 개선된다)."
+    },
+    "pt": {
+      "content": "Quando quiser reduzir as alterações em relação ao áudio de referência, especifique no prompt “reproduza com precisão o áudio de referência” e faça a geração de BGM com referência (não é perfeito, mas melhora)."
+    },
+    "zh": {
+      "content": "当你想减少对参考音源的改动时，可以在 prompt 中明确写上“请准确再现参考音源”，再进行 BGM 参考生成（虽然不能完全一致，但会有所改善）。"
+    }
+  }
+}

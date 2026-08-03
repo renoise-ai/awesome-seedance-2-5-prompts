@@ -1,0 +1,42 @@
+{
+  "id": "2083562206810046802",
+  "title": "Use a very simple prompt plus two reference images to guide Seedance 2.5 toward…",
+  "content": "Use a very simple prompt plus two reference images to guide Seedance 2.5 toward an avant‑garde “art house” style film.  \nGenerate at 480p resolution for a 3‑minute Seedance 2.5 video in Dreamina (expect ~4100 credits cost).  \nUse Seedance 2.5 3‑minute generations as a brainstorming tool for scenes and edits, especially if you can tolerate continuation issues and basic audio.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083554009609080832/img/jhk2Kt8AJVM6ZwYA.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083562206810046802.mp4",
+  "sourceLink": "https://x.com/Christian_Luoma/status/2083562206810046802",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "Christian Luoma",
+    "link": "https://x.com/Christian_Luoma"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a very simple prompt plus two reference images to guide Seedance 2.5 toward an avant‑garde “art house” style film.  \nGenerate at 480p resolution for a 3‑minute Seedance 2.5 video in Dreamina (expect ~4100 credits cost).  \nUse Seedance 2.5 3‑minute generations as a brainstorming tool for scenes and edits, especially if you can tolerate continuation issues and basic audio.",
+  "translations": {
+    "es": {
+      "content": "Usa un prompt muy simple junto con dos imágenes de referencia para guiar a Seedance 2.5 hacia una película de estilo vanguardista “art house”.  \nGenera en resolución 480p para un video de Seedance 2.5 de 3 minutos en Dreamina (espera un costo de ~4100 créditos).  \nUsa las generaciones de 3 minutos de Seedance 2.5 como una herramienta de brainstorming para escenas y ediciones, especialmente si puedes tolerar problemas de continuidad y audio básico."
+    },
+    "fr": {
+      "content": "Utilisez un prompt très simple ainsi que deux images de référence pour orienter Seedance 2.5 vers un film au style avant-gardiste « art house ».  \nGénérez en résolution 480p pour une vidéo Seedance 2.5 de 3 minutes dans Dreamina (comptez environ 4100 crédits).  \nUtilisez les générations de 3 minutes de Seedance 2.5 comme outil de brainstorming pour les scènes et le montage, surtout si vous pouvez tolérer les problèmes de continuité et un audio basique."
+    },
+    "ja": {
+      "content": "非常にシンプルなpromptと2枚のreference imageを使って、Seedance 2.5を前衛的な「art house」スタイルの映画へと導きます。  \nDreaminaで3分のSeedance 2.5 videoを480p解像度で生成します（約4100 creditsのコストを想定）。  \nSeedance 2.5の3分生成は、シーンや編集のブレインストーミング用として活用してください。特に、継続性の問題や基本的なaudioを許容できる場合に有効です。"
+    },
+    "ko": {
+      "content": "아주 간단한 prompt와 두 장의 reference image를 사용해 Seedance 2.5를 아방가르드한 “art house” 스타일의 영화로 유도하세요.  \nDreamina에서 3분 길이의 Seedance 2.5 video를 480p 해상도로 생성하세요(약 4100 credits가 소요될 것으로 예상).  \nSeedance 2.5의 3분 생성 기능은 장면과 편집 아이디어를 브레인스토밍하는 도구로 활용하세요. 특히 continuation issue와 기본적인 audio를 감수할 수 있다면 더욱 유용합니다."
+    },
+    "pt": {
+      "content": "Use um prompt muito simples, além de duas imagens de referência, para orientar o Seedance 2.5 em direção a um filme em estilo “art house” de vanguarda.  \nGere em resolução 480p para um vídeo de 3 minutos no Seedance 2.5 no Dreamina (espere um custo de cerca de 4100 créditos).  \nUse as gerações de 3 minutos do Seedance 2.5 como uma ferramenta de brainstorming para cenas e edições, especialmente se você conseguir tolerar problemas de continuidade e áudio básico."
+    },
+    "zh": {
+      "content": "使用一个非常简单的 prompt，再加上两张参考图像，引导 Seedance 2.5 朝着先锋派的“art house”风格电影方向生成。  \n在 Dreamina 中以 480p 分辨率生成一段 3 分钟的 Seedance 2.5 视频（预计约消耗 4100 credits）。  \n将 Seedance 2.5 的 3 分钟生成结果作为场景和剪辑的头脑风暴工具，尤其是在你可以接受续接问题和基础音频的情况下。"
+    }
+  }
+}

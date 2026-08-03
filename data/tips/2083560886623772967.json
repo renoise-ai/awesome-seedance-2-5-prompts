@@ -1,0 +1,42 @@
+{
+  "id": "2083560886623772967",
+  "title": "先画/准备机位调度图（分段标注每段镜头的运镜类型与轨迹，如手持、Dolly 推近、机械臂环绕），再让 Seedance 2.5…",
+  "content": "先画/准备机位调度图（分段标注每段镜头的运镜类型与轨迹，如手持、Dolly 推近、机械臂环绕），再让 Seedance 2.5 按该轨迹逐段执行生成，以获得更真实、导演感更强、AI 味更低的运镜效果",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083560406489223168/img/4YdjvAPOzYBvKC5A.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083560886623772967.mp4",
+  "sourceLink": "https://x.com/gkxspace/status/2083560886623772967",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "余温",
+    "link": "https://x.com/gkxspace"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "先画/准备机位调度图（分段标注每段镜头的运镜类型与轨迹，如手持、Dolly 推近、机械臂环绕），再让 Seedance 2.5 按该轨迹逐段执行生成，以获得更真实、导演感更强、AI 味更低的运镜效果",
+  "translations": {
+    "en": {
+      "content": "First, draw or prepare a shot blocking diagram, segmenting and labeling the camera movement type and trajectory for each shot (e.g., handheld, dolly push-in, robotic arm orbit). Then have Seedance 2.5 execute the generation segment by segment along that trajectory to achieve camera movement that feels more realistic, more director-driven, and less AI-generated."
+    },
+    "es": {
+      "content": "Primero dibuja o prepara un plano de puesta en escena de cámara (anotando por segmentos el tipo de movimiento y la trayectoria de cada toma, como handheld, Dolly push-in, o un recorrido envolvente con brazo robótico), y luego haz que Seedance 2.5 ejecute la generación por tramos según esa trayectoria, para obtener un movimiento de cámara más realista, con una sensación más cinematográfica y menos “AI”."
+    },
+    "fr": {
+      "content": "Dessinez d’abord / préparez un plan de mise en scène des mouvements de caméra (en annotant chaque segment avec le type de mouvement et la trajectoire de chaque plan, par exemple : handheld, Dolly push-in, rotation en bras robotisé), puis laissez Seedance 2.5 exécuter la génération segment par segment selon cette trajectoire, afin d’obtenir des mouvements de caméra plus réalistes, plus cinématographiques et moins « AI »."
+    },
+    "ja": {
+      "content": "---\nまず絵コンテ／カメラ配置図を準備し、各ショットごとにカメラワークの種類と軌跡を区間ごとに明記します（例：手持ち、Dolly の寄り、ロボットアームによる周回など）。そのうえで、Seedance 2.5 にその軌跡に沿って区間ごとに生成を実行させることで、よりリアルで、監督の意図が感じられ、AIっぽさの少ないカメラワーク効果を得られます\n---"
+    },
+    "ko": {
+      "content": "먼저 샷/카메라 동선 배치도를 그려 준비하고, 각 구간의 샷에 대해 카메라 무빙 유형과 궤적을 구간별로 표시하세요. 예를 들어 핸드헬드, Dolly 푸시인, 로봇 암의 오비트(orbit) 등으로 나눈 뒤, Seedance 2.5가 해당 궤적에 따라 구간별로 생성하도록 하면 더 사실적이고, 감독의 의도가 살아 있으며, AI 느낌이 덜한 카메라 무빙 효과를 얻을 수 있습니다."
+    },
+    "pt": {
+      "content": "Primeiro, desenhe/preparar um mapa de marcação de posicionamento e movimentação de câmera (dividindo em segmentos e anotando o tipo de movimento e a trajetória de cada plano, como handheld, Dolly push-in, movimento circular de braço robótico), e depois deixe o Seedance 2.5 executar a geração segmento por segmento de acordo com essa trajetória, para obter um efeito de câmera mais realista, com sensação mais forte de direção e menos “cara de IA”."
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2083916434691031135",
+  "title": "Create a basic clay/blockout animation in Blender (even very rough), export it…",
+  "content": "Create a basic clay/blockout animation in Blender (even very rough), export it as a video, then upload it to Dreamina/Seedance with a character reference to have Seedance preserve the camera path, character motion, timing, and composition while converting it to live-action realism.  \nUse Dreamina’s Blender plugin to render your Blender animation and send it directly into the Seedance workflow for easier camera-movement transfer.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083916406270386176/img/_OijTU20IuPxifVl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083916434691031135.mp4",
+  "sourceLink": "https://x.com/aisavvy1/status/2083916434691031135",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "Victor C",
+    "link": "https://x.com/aisavvy1"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Create a basic clay/blockout animation in Blender (even very rough), export it as a video, then upload it to Dreamina/Seedance with a character reference to have Seedance preserve the camera path, character motion, timing, and composition while converting it to live-action realism.  \nUse Dreamina’s Blender plugin to render your Blender animation and send it directly into the Seedance workflow for easier camera-movement transfer.",
+  "translations": {
+    "es": {
+      "content": "Crea una animación básica de clay/blockout en Blender (aunque sea muy rudimentaria), expórtala como video y luego súbela a Dreamina/Seedance con una referencia de personaje para que Seedance conserve la trayectoria de la cámara, el movimiento del personaje, el timing y la composición mientras la convierte en realismo de acción real.  \nUsa el plugin de Blender de Dreamina para renderizar tu animación de Blender y enviarla directamente al flujo de trabajo de Seedance para facilitar la transferencia del movimiento de cámara."
+    },
+    "fr": {
+      "content": "Créez une animation de base en clay/blockout dans Blender (même très rudimentaire), exportez-la en vidéo, puis importez-la dans Dreamina/Seedance avec une référence de personnage afin que Seedance préserve le trajet de la caméra, les mouvements du personnage, le timing et la composition tout en la convertissant en réalisme live-action.  \nUtilisez le plugin Blender de Dreamina pour rendre votre animation Blender et l’envoyer directement dans le workflow Seedance, afin de faciliter le transfert des mouvements de caméra."
+    },
+    "ja": {
+      "content": "Blenderで基本的な clay/blockout アニメーション（かなりラフでも可）を作成し、動画として書き出したら、キャラクター参照と一緒に Dreamina/Seedance にアップロードして、Seedance に camera path、キャラクターの動き、タイミング、構図を保持させつつ、live-action realism に変換します。  \nDreamina の Blender プラグインを使って Blender アニメーションをレンダリングし、Seedance のワークフローへ直接送ることで、camera movement の転送をより簡単に行えます。"
+    },
+    "ko": {
+      "content": "Blender에서 기본적인 clay/blockout 애니메이션을 만드세요(아주 러프해도 괜찮습니다). 그런 다음 이를 비디오로 내보내고, 캐릭터 레퍼런스와 함께 Dreamina/Seedance에 업로드하여 Seedance가 카메라 경로, 캐릭터 동작, 타이밍, 구도를 유지한 채 이를 실사 리얼리즘으로 변환하도록 합니다.  \nDreamina의 Blender 플러그인을 사용해 Blender 애니메이션을 렌더링한 뒤, 이를 Seedance 워크플로로 직접 전송하면 카메라 움직임 전달이 더 쉬워집니다."
+    },
+    "pt": {
+      "content": "Crie uma animação básica em clay/blockout no Blender (mesmo que bem rudimentar), exporte-a como vídeo e depois faça o upload para o Dreamina/Seedance com uma referência de personagem para que o Seedance preserve o caminho da câmera, o movimento do personagem, o timing e a composição, enquanto a converte para realismo em live-action.  \nUse o plugin do Blender do Dreamina para renderizar sua animação no Blender e enviá-la diretamente para o fluxo de trabalho do Seedance, facilitando a transferência do movimento de câmera."
+    },
+    "zh": {
+      "content": "在 Blender 中创建一个基础的 clay/blockout 动画（即使非常粗糙也可以），将其导出为视频，然后上传到 Dreamina/Seedance，并附上角色参考，让 Seedance 在将其转换为写实真人风格的同时，保留镜头路径、角色动作、时间节奏和构图。  \n使用 Dreamina 的 Blender 插件渲染你的 Blender 动画，并将其直接发送到 Seedance 工作流中，以便更轻松地传递镜头运动。"
+    }
+  }
+}

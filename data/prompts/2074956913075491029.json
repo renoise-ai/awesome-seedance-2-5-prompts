@@ -1,0 +1,40 @@
+{
+  "id": "2074956913075491029",
+  "title": "A young East Asian woman riding a bicycle through quiet city streets, casually…",
+  "content": "A young East Asian woman riding a bicycle through quiet city streets, casually exploring the neighborhood, cinematic, natural daylight, realistic, smooth camera movement.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2074956835250122752/pu/img/fiGWvsKanTErJ-Ht.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074956913075491029.mp4",
+  "sourceLink": "https://x.com/noorwithwifi/status/2074956913075491029",
+  "sourcePublishedAt": "2026-07-08",
+  "author": {
+    "name": "NoorAI",
+    "link": "https://x.com/noorwithwifi"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Travel Vlog",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "es": {
+      "content": "Una joven mujer de Asia Oriental montando una bicicleta por las tranquilas calles de la ciudad, explorando el vecindario de manera casual, cinematográfico, luz natural, realista, movimiento de cámara suave."
+    },
+    "fr": {
+      "content": "Une jeune femme d'Asie de l'Est faisant du vélo dans les rues calmes de la ville, explorant le quartier de manière décontractée, cinématique, lumière naturelle, réaliste, mouvement de caméra fluide."
+    },
+    "ja": {
+      "content": "若い東アジア人女性が静かな街の通りを自転車で走りながら、近所を気軽に探索している。シネマティック、自然光、リアルな描写、スムーズなカメラの動き。"
+    },
+    "ko": {
+      "content": "젊은 동아시아 여성이 자전거를 타고 조용한 도시 거리를 지나며 동네를 여유롭게 탐험하는 장면, 시네마틱, 자연광, 현실적, 부드러운 카메라 움직임."
+    },
+    "pt": {
+      "content": "Uma jovem mulher asiática oriental andando de bicicleta pelas ruas tranquilas da cidade, explorando casualmente o bairro, cinematográfico, luz natural do dia, realista, movimento suave de câmera."
+    },
+    "zh": {
+      "content": "一位年轻的东亚女性骑着自行车穿过宁静的城市街道，随意地探索社区，cinematic，自然光线，逼真，smooth camera movement。"
+    }
+  }
+}

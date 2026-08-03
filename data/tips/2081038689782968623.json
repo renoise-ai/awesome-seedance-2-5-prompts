@@ -1,0 +1,42 @@
+{
+  "id": "2081038689782968623",
+  "title": "用故事板/分镜图先定稿（分镜图定稿）再生成长视频，避免只靠一句提示词反复盲抽导致镜头衔接差、角色状态乱、动作不连续和废卡增多",
+  "content": "用故事板/分镜图先定稿（分镜图定稿）再生成长视频，避免只靠一句提示词反复盲抽导致镜头衔接差、角色状态乱、动作不连续和废卡增多",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2081037113014022144/img/W8yaOCRyudLxn8Xo.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2081038689782968623.mp4",
+  "sourceLink": "https://x.com/baqiceloudezhu/status/2081038689782968623",
+  "sourcePublishedAt": "2026-07-25",
+  "author": {
+    "name": "擎苍",
+    "link": "https://x.com/baqiceloudezhu"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "用故事板/分镜图先定稿（分镜图定稿）再生成长视频，避免只靠一句提示词反复盲抽导致镜头衔接差、角色状态乱、动作不连续和废卡增多",
+  "translations": {
+    "en": {
+      "content": "Finalize the storyboard/shot list first (storyboard finalization) before generating the long video, to avoid relying on a single prompt and repeatedly sampling blindly, which leads to poor shot continuity, inconsistent character states, discontinuous actions, and more wasted frames."
+    },
+    "es": {
+      "content": "Primero fija el guion gráfico / storyboard (versión final del storyboard) y luego genera el video largo, para evitar depender solo de una frase de prompt y hacer pruebas al azar repetidamente, lo que provoca mala continuidad entre planos, estados de los personajes desordenados, acciones discontinuas y un aumento de tomas descartadas."
+    },
+    "fr": {
+      "content": "Validez d’abord le storyboard / les plans de découpage (version finale du storyboard), puis générez la vidéo longue, afin d’éviter de vous fier uniquement à une simple phrase de prompt et de tirer au hasard à répétition, ce qui entraîne une mauvaise continuité entre les plans, des états de personnage incohérents, des mouvements discontinus et davantage de cartes inutiles."
+    },
+    "ja": {
+      "content": "まずストーリーボード／分割絵コンテで構成を確定し（分割絵コンテを完成させてから）、長尺動画を生成する。そうすることで、1つのプロンプトだけに頼って何度もランダム生成を繰り返し、ショットのつながりが悪くなったり、キャラクターの状態が乱れたり、動きが不連続になったり、無駄なカットが増えたりするのを防げる。"
+    },
+    "ko": {
+      "content": "스토리보드/분할 화면으로 먼저 최종안을 확정한 뒤(분할 화면 최종 확정) 긴 영상을 생성하면, 한 줄짜리 프롬프트에만 의존해 반복적으로 무작위 추출하는 방식으로 인해 생기는 샷 연결의 부자연스러움, 캐릭터 상태의 혼란, 동작의 비연속성, 그리고 폐카드 증가를 피할 수 있습니다."
+    },
+    "pt": {
+      "content": "Finalize primeiro com storyboard/frames de cena (storyboard finalizado) e só depois gere o vídeo longo, evitando depender apenas de uma única prompt e ficar sorteando às cegas repetidamente, o que leva a uma pior continuidade entre os planos, inconsistência no estado dos personagens, ações descontínuas e mais frames descartados."
+    }
+  }
+}

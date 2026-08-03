@@ -1,0 +1,42 @@
+{
+  "id": "2083504002382352783",
+  "title": "Codexで過去の生成動画素材を整理してから、30秒のラフカット動画を先に制作する",
+  "content": "Codexで過去の生成動画素材を整理してから、30秒のラフカット動画を先に制作する  \nラフカット動画から16カットを抽出して、各カットをSeedance用のショット単位に分割する  \n各カットをDepth Mapコンテ化して、奥行き情報を付けたコンテを作ってから生成に回す  \nSeedance 2.5の最大30秒一括生成を検証する際は、同一題材（例：アイドルのピアノ演奏）で過去テストと比較できるようにする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083497198009139200/img/iHZ76gtEfW4T5qiZ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083504002382352783.mp4",
+  "sourceLink": "https://x.com/wtry1102/status/2083504002382352783",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "WTR",
+    "link": "https://x.com/wtry1102"
+  },
+  "tags": [
+    "Music & Dance",
+    "Concert",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Codexで過去の生成動画素材を整理してから、30秒のラフカット動画を先に制作する  \nラフカット動画から16カットを抽出して、各カットをSeedance用のショット単位に分割する  \n各カットをDepth Mapコンテ化して、奥行き情報を付けたコンテを作ってから生成に回す  \nSeedance 2.5の最大30秒一括生成を検証する際は、同一題材（例：アイドルのピアノ演奏）で過去テストと比較できるようにする",
+  "translations": {
+    "en": {
+      "content": "First, organize the previously generated video assets in Codex, then create a 30-second rough-cut video.  \nExtract 16 cuts from the rough-cut video, and split each cut into shot-level units for Seedance.  \nConvert each cut into a Depth Map storyboard, create a storyboard with depth information, and then send it into generation.  \nWhen verifying Seedance 2.5’s maximum 30-second batch generation, make sure you can compare it with past tests using the same subject matter (e.g., an idol playing the piano).\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/DTTg8Sd1GA\n---"
+    },
+    "es": {
+      "content": "Organiza primero en Codex los materiales de video generados anteriormente y luego produce un video de rough cut de 30 segundos.  \nA partir del video de rough cut, extrae 16 planos y divide cada uno en unidades de shot para Seedance.  \nConvierte cada plano en un storyboard tipo Depth Map y, después de crear un storyboard con información de profundidad, envíalo a generación.  \nAl verificar la generación por lotes de hasta 30 segundos de Seedance 2.5, asegúrate de poder compararla con pruebas anteriores usando el mismo tema (por ejemplo: una idol tocando el piano)\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/DTTg8Sd1GA\n---"
+    },
+    "fr": {
+      "content": "Après avoir organisé dans Codex les anciens assets vidéo générés, produire d’abord une vidéo rough cut de 30 secondes  \nÀ partir de la vidéo rough cut, extraire 16 plans et diviser chaque plan en unités de shot pour Seedance  \nConvertir chaque plan en storyboard au format Depth Map, puis créer un storyboard avec des informations de profondeur avant de lancer la génération  \nLors de la vérification de la génération groupée maximale de 30 secondes de Seedance 2.5, utiliser le même sujet (par exemple : une idole jouant du piano) afin de pouvoir comparer avec les tests précédents\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Thread 1] https://t.co/DTTg8Sd1GA\n---"
+    },
+    "ko": {
+      "content": "Codex에서 과거에 생성한 영상 소재를 먼저 정리한 뒤, 30초 분량의 러프컷 영상을 먼저 제작한다  \n러프컷 영상에서 16개의 컷을 추출해, 각 컷을 Seedance용 샷 단위로 분할한다  \n각 컷을 Depth Map 콘티로 변환해, 깊이 정보를 포함한 콘티를 만든 다음 생성에 돌린다  \nSeedance 2.5의 최대 30초 일괄 생성을 검증할 때는 동일한 소재(예: 아이돌의 피아노 연주)로 과거 테스트와 비교할 수 있도록 한다\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/DTTg8Sd1GA\n---"
+    },
+    "pt": {
+      "content": "Organize os materiais de vídeos gerados anteriormente no Codex e, antes de tudo, produza um vídeo de rough cut de 30 segundos  \nA partir do vídeo de rough cut, extraia 16 cortes e divida cada corte em unidades de shot para o Seedance  \nConverta cada corte em um storyboard com Depth Map e, depois de criar um storyboard com informações de profundidade, envie-o para a geração  \nAo verificar a geração em lote de até 30 segundos do Seedance 2.5, use o mesmo tema (por exemplo: uma idol tocando piano) para permitir a comparação com testes anteriores\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] https://t.co/DTTg8Sd1GA\n---"
+    },
+    "zh": {
+      "content": "先用 Codex 整理过去生成的视频素材，再优先制作一个 30 秒的粗剪视频  \n从粗剪视频中提取 16 个镜头，并将每个镜头拆分为适用于 Seedance 的 shot 单位  \n将每个镜头转换为 Depth Map 版分镜，制作带有深度信息的分镜后再投入生成  \n在验证 Seedance 2.5 最多 30 秒的一次性批量生成时，尽量使用相同题材（例如：偶像弹钢琴），以便与以往测试进行比较\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/DTTg8Sd1GA\n---"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2083516914631168031",
+  "title": "長台詞を含む会話シーンのアニメーション生成にはSeedance2.5を使う（この場面では2.0より明確に便利）",
+  "content": "長台詞を含む会話シーンのアニメーション生成にはSeedance2.5を使う（この場面では2.0より明確に便利）",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083515927463923712/img/YF4wQ16u73UZgTQg.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083516914631168031.mp4",
+  "sourceLink": "https://x.com/TianY64085/status/2083516914631168031",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "フジクマ/C.A. Wisteria",
+    "link": "https://x.com/TianY64085"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "長台詞を含む会話シーンのアニメーション生成にはSeedance2.5を使う（この場面では2.0より明確に便利）",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2.5 for generating animated dialogue scenes that include long lines of dialogue (it is clearly more convenient than 2.0 in this case)."
+    },
+    "es": {
+      "content": "Usa Seedance2.5 para generar animaciones de escenas de diálogo que incluyan largos parlamentos (en esta escena es claramente más útil que 2.0)."
+    },
+    "fr": {
+      "content": "---\nUtilisez Seedance2.5 pour générer l’animation des scènes de dialogue contenant de longs répliques (dans ce cas, c’est nettement plus pratique que 2.0)\n---"
+    },
+    "ko": {
+      "content": "긴 대사가 포함된 대화 장면의 애니메이션 생성에는 Seedance2.5를 사용한다(이 장면에서는 2.0보다 확실히 더 편리하다)"
+    },
+    "pt": {
+      "content": "Use o Seedance2.5 para gerar animações de cenas de diálogo com falas longas (nesta situação, ele é claramente mais útil do que o 2.0)."
+    },
+    "zh": {
+      "content": "使用 Seedance2.5 来生成包含长台词的对话场景动画（在这种场景下，它比 2.0 明显更方便）"
+    }
+  }
+}

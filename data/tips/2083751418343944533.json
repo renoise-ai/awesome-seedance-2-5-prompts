@@ -1,0 +1,42 @@
+{
+  "id": "2083751418343944533",
+  "title": "カメラワークのプロンプトは入れずに、カメラワークは添付の［ファイル名］を忠実に再現してください と指示して参照ファイルのカメラ動作を再現させると再現性が上がる",
+  "content": "カメラワークのプロンプトは入れずに、カメラワークは添付の［ファイル名］を忠実に再現してください と指示して参照ファイルのカメラ動作を再現させると再現性が上がる  \nClaude×Blenderでカメラワーク用の参照データ（ファイル）を作ってSeedance2.5に添付し、そのファイルの再現を指示してカメラワークをコントロールする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083751261871222785/img/ZZvNfZV3fOQO2QYe.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083751418343944533.mp4",
+  "sourceLink": "https://x.com/tkz_aiart/status/2083751418343944533",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "たくぞー｜AI動画最新情報",
+    "link": "https://x.com/tkz_aiart"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "カメラワークのプロンプトは入れずに、カメラワークは添付の［ファイル名］を忠実に再現してください と指示して参照ファイルのカメラ動作を再現させると再現性が上がる  \nClaude×Blenderでカメラワーク用の参照データ（ファイル）を作ってSeedance2.5に添付し、そのファイルの再現を指示してカメラワークをコントロールする",
+  "translations": {
+    "en": {
+      "content": "If you instruct it not to include camera-work prompts and instead say, “Please faithfully reproduce the camera work in the attached [filename],” then having it replicate the camera motion from the reference file improves reproducibility.\n\nCreate reference data (a file) for camera work with Claude × Blender, attach it to Seedance 2.5, and control the camera work by instructing it to reproduce that file.\n\n--- THREAD CONTINUATION ---\n[Thread 1] I’m sharing how to do Claude x Blender here ↓\n\nhttps://t.co/dBxpthXHHL\n---"
+    },
+    "es": {
+      "content": "Si no incluyes un prompt de cámara y le indicas que reproduzca fielmente el movimiento de cámara del archivo adjunto [nombre de archivo], la reproducibilidad mejora al hacer que se replique el movimiento de cámara del archivo de referencia.\n\nCon Claude × Blender, crea datos de referencia (un archivo) para el movimiento de cámara, adjúntalos a Seedance2.5 y, dando la instrucción de reproducir ese archivo, controla el movimiento de cámara.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Aquí regalo la forma de hacerlo con Claude x Blender↓\n\nhttps://t.co/dBxpthXHHL\n---"
+    },
+    "fr": {
+      "content": "Sans inclure de prompt de camera work, demandez : « Reproduisez fidèlement le camera work du fichier joint [nom du fichier] » ; en faisant ainsi reproduire le mouvement de caméra du fichier de référence, la reproductibilité s’améliore.  \nCréer avec Claude × Blender des données de référence (fichier) pour le camera work, les joindre à Seedance2.5, puis demander d’en reproduire le contenu permet de contrôler le camera work.\n\n--- SUITE DU THREAD ---\n[Thread 1] Je vous offre la méthode Claude x Blender ↓\n\nhttps://t.co/dBxpthXHHL\n---"
+    },
+    "ko": {
+      "content": "카메라워크 프롬프트는 넣지 않고, “카메라워크는 첨부한 [파일명]을 충실히 재현해 주세요”라고 지시해 참조 파일의 카메라 동작을 재현하게 하면 재현성이 높아진다.  \nClaude×Blender로 카메라워크용 참조 데이터(파일)를 만들어 Seedance2.5에 첨부한 뒤, 그 파일의 재현을 지시해 카메라워크를 제어한다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Claude x Blender 사용법을 공유합니다↓\n\nhttps://t.co/dBxpthXHHL\n---"
+    },
+    "pt": {
+      "content": "Dizer “não inclua prompt de camera work; reproduza fielmente o camera work do arquivo anexado [nome do arquivo]” e fazer com que o movimento de câmera do arquivo de referência seja reproduzido aumenta a consistência.\n\nCrie dados de referência para camera work (um arquivo) com Claude × Blender, anexe-os ao Seedance 2.5 e instrua a reprodução desse arquivo para controlar o camera work.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Estou disponibilizando o passo a passo de como usar Claude x Blender ↓\n\nhttps://t.co/dBxpthXHHL\n---"
+    },
+    "zh": {
+      "content": "不要加入 camera work 的 prompt，而是指示“camera work 请忠实复现附带的［文件名］”，这样让参考文件中的 camera 动作被复现，能提高可复现性。  \n用 Claude×Blender 制作用于 camera work 的参考数据（文件），并将其附加到 Seedance2.5 中，指示其复现该文件，从而控制 camera work。\n\n--- THREAD CONTINUATION ---\n[Thread 1] Claude x Blender 的使用方法已送出↓\n\nhttps://t.co/dBxpthXHHL\n---"
+    }
+  }
+}

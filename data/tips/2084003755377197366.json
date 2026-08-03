@@ -1,0 +1,41 @@
+{
+  "id": "2084003755377197366",
+  "title": "Use Seedance 2.5 with up to 50 reference inputs (e.g., product + face) to keep…",
+  "content": "Use Seedance 2.5 with up to 50 reference inputs (e.g., product + face) to keep the subject consistent across the ad and across frames  \nUse Seedance 2.5 frame-level editing/redraw to fix a single broken detail (warped logo/extra finger/flicker) without rerolling the entire shot and losing the good parts",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/cookwithmrz/status/2084003755377197366",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "Zeid “Zieed” Daoud",
+    "link": "https://x.com/cookwithmrz"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 with up to 50 reference inputs (e.g., product + face) to keep the subject consistent across the ad and across frames  \nUse Seedance 2.5 frame-level editing/redraw to fix a single broken detail (warped logo/extra finger/flicker) without rerolling the entire shot and losing the good parts",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 con hasta 50 inputs de referencia (p. ej., producto + rostro) para mantener la coherencia del sujeto en todo el anuncio y entre fotogramas  \nUsa la edición/redraw a nivel de frame de Seedance 2.5 para corregir un único detalle defectuoso (logo deformado/dedo extra/parpadeo) sin volver a generar toda la toma y perder las partes buenas"
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 avec jusqu’à 50 inputs de référence (par ex. produit + visage) pour conserver la cohérence du sujet tout au long de la publicité et d’une frame à l’autre  \nUtilisez l’édition/redraw au niveau frame de Seedance 2.5 pour corriger un seul détail défectueux (logo déformé/doigt en trop/flicker) sans relancer toute la prise et perdre les éléments réussis"
+    },
+    "ja": {
+      "content": "Seedance 2.5 を使って、最大 50 個の参照入力（例：商品＋顔）を指定し、広告全体および各フレームを通して被写体の一貫性を保つ  \nSeedance 2.5 の frame-level editing/redraw を使って、歪んだロゴ／余分な指／ちらつきなどの単一の破綻したディテールを修正し、ショット全体を reroll して良い部分まで失わずに済ませる"
+    },
+    "ko": {
+      "content": "Seedance 2.5를 최대 50개의 reference input(예: 제품 + 얼굴)과 함께 사용해 광고 전반과 프레임 간에 subject의 일관성을 유지하세요.  \nSeedance 2.5의 frame-level editing/redraw를 사용하면 전체 shot을 다시 생성해 좋은 부분을 잃지 않고도 왜곡된 로고, 여분의 손가락, flicker 같은 단일한 깨진 디테일을 수정할 수 있습니다."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 com até 50 inputs de referência (por exemplo, produto + rosto) para manter o sujeito consistente ao longo do anúncio e entre os frames  \nUse a edição/redraw em nível de frame do Seedance 2.5 para corrigir um único detalhe quebrado (logo distorcido/dedo extra/flicker) sem refazer toda a tomada e perder as partes boas"
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5，最多可输入 50 个参考素材（例如产品 + 人脸），以确保主体在整支广告及各个画面中保持一致  \n使用 Seedance 2.5 的逐帧编辑/重绘功能，修复单个损坏细节（如变形的 logo / 多余的手指 / 闪烁），而无需重新生成整个镜头并丢失已有的优质部分"
+    }
+  }
+}

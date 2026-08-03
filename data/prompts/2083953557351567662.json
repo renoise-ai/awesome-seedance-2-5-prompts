@@ -1,0 +1,40 @@
+{
+  "id": "2083953557351567662",
+  "title": "Create a 45-second AI racing film.",
+  "content": "Create a 45-second AI racing film.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083953301532663808/img/TNsCaNvP6D-_Nfcw.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083953557351567662.mp4",
+  "sourceLink": "https://x.com/Ezjie2/status/2083953557351567662",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "Ezjie",
+    "link": "https://x.com/Ezjie2"
+  },
+  "tags": [
+    "Auto",
+    "Racing",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "es": {
+      "content": "Crea una película de carreras con IA de 45 segundos."
+    },
+    "fr": {
+      "content": "Créez un film de course IA de 45 secondes."
+    },
+    "ja": {
+      "content": "45秒のAIレース映画を作成する。"
+    },
+    "ko": {
+      "content": "45초 분량의 AI 레이싱 영화를 제작하세요."
+    },
+    "pt": {
+      "content": "Crie um filme de corrida com IA de 45 segundos."
+    },
+    "zh": {
+      "content": "创作一部 45 秒的 AI 赛车电影。"
+    }
+  }
+}

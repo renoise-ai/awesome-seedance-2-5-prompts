@@ -1,0 +1,42 @@
+{
+  "id": "2083430210079211746",
+  "title": "Fashion Drama — controlled tension, elegant menace, professional stakes.",
+  "content": "Fashion Drama — controlled tension, elegant menace, professional stakes.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2083430196225421313/pu/img/ny1ELTGt2C-8jlcY.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083430210079211746.mp4",
+  "sourceLink": "https://x.com/westkast/status/2083430210079211746",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "West Kast",
+    "link": "https://x.com/westkast"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Portrait & Fashion",
+    "Fashion",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "es": {
+      "content": "Drama de moda — tensión controlada, amenaza elegante, apuestas profesionales."
+    },
+    "fr": {
+      "content": "Fashion Drama — tension maîtrisée, menace élégante, enjeux professionnels."
+    },
+    "ja": {
+      "content": "ファッション・ドラマ — 抑制された緊張感、優雅な不穏さ、プロフェッショナルな緊迫感。"
+    },
+    "ko": {
+      "content": "패션 드라마 — 절제된 긴장감, 우아한 위협, 프로페셔널한 긴장감."
+    },
+    "pt": {
+      "content": "Drama de Moda — tensão controlada, ameaça elegante, riscos profissionais."
+    },
+    "zh": {
+      "content": "时尚戏剧——克制的张力、优雅的威慑、专业的博弈。"
+    }
+  }
+}

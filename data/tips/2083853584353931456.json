@@ -1,0 +1,42 @@
+{
+  "id": "2083853584353931456",
+  "title": "Use a character sheet reference and a voice file reference for the main…",
+  "content": "Use a character sheet reference and a voice file reference for the main character, and describe the rest of the scene via text to create a continuous 30-second tracking shot in Seedance 2.5.  \nLeverage Seedance 2.5’s support for up to 50 references to increase control over complex scenes by supplying multiple reference assets.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083852819174449152/img/_C4WQ2aP_Ee2694N.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083853584353931456.mp4",
+  "sourceLink": "https://x.com/pzf_ai/status/2083853584353931456",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "PZF",
+    "link": "https://x.com/pzf_ai"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a character sheet reference and a voice file reference for the main character, and describe the rest of the scene via text to create a continuous 30-second tracking shot in Seedance 2.5.  \nLeverage Seedance 2.5’s support for up to 50 references to increase control over complex scenes by supplying multiple reference assets.",
+  "translations": {
+    "es": {
+      "content": "Usa una referencia de hoja de personaje y una referencia de archivo de voz para el personaje principal, y describe el resto de la escena mediante texto para crear un plano secuencia continuo de 30 segundos en Seedance 2.5.  \nAprovecha la compatibilidad de Seedance 2.5 con hasta 50 referencias para aumentar el control sobre escenas complejas proporcionando múltiples assets de referencia."
+    },
+    "fr": {
+      "content": "Utilisez une référence de character sheet et une référence de fichier audio pour le personnage principal, puis décrivez le reste de la scène par texte afin de créer un plan-séquence continu de 30 secondes dans Seedance 2.5.  \nTirez parti de la prise en charge par Seedance 2.5 jusqu’à 50 références pour renforcer le contrôle des scènes complexes en fournissant plusieurs assets de référence."
+    },
+    "ja": {
+      "content": "メインキャラクターにはキャラクターシートの参照と音声ファイルの参照を使用し、残りのシーンはテキストで記述して、Seedance 2.5で連続した30秒のトラッキングショットを作成します。  \nSeedance 2.5は最大50件の参照に対応しているため、複数の参照アセットを用意することで、複雑なシーンの制御性を高められます。"
+    },
+    "ko": {
+      "content": "메인 캐릭터에는 캐릭터 시트 reference와 음성 파일 reference를 사용하고, 나머지 장면은 텍스트로 설명하여 Seedance 2.5에서 30초짜리 연속 tracking shot을 만드세요.  \nSeedance 2.5는 최대 50개의 reference를 지원하므로, 여러 reference asset을 제공해 복잡한 장면에 대한 제어력을 높일 수 있습니다."
+    },
+    "pt": {
+      "content": "Use uma referência de character sheet e uma referência de arquivo de voz para o personagem principal, e descreva o restante da cena por texto para criar um plano-sequência contínuo de 30 segundos no Seedance 2.5.  \nAproveite o suporte do Seedance 2.5 para até 50 referências para aumentar o controle sobre cenas complexas, fornecendo múltiplos assets de referência."
+    },
+    "zh": {
+      "content": "使用角色设定表参考和主角的语音文件参考，并通过文字描述其余场景，在 Seedance 2.5 中创建一个连续 30 秒的跟拍镜头。  \n利用 Seedance 2.5 最多支持 50 个参考素材的能力，通过提供多个参考资产来增强对复杂场景的控制。"
+    }
+  }
+}

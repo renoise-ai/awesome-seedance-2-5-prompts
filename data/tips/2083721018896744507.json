@@ -1,0 +1,41 @@
+{
+  "id": "2083721018896744507",
+  "title": "絵コンテはラフスケッチ風（白黒ラフ）で描いてSeedance 2.5に渡し、低解像度のカットイラストに忠実に寄せて汚くなるのを避ける",
+  "content": "絵コンテはラフスケッチ風（白黒ラフ）で描いてSeedance 2.5に渡し、低解像度のカットイラストに忠実に寄せて汚くなるのを避ける  \nプロンプト内でこれはスケッチだ（ラフスケッチ）と明示して、入力がスケッチであることを繰り返し指示する",
+  "language": "ja",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/k_matsumaru/status/2083721018896744507",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "松丸 彗吾(keigo matsumaru)",
+    "link": "https://x.com/k_matsumaru"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "絵コンテはラフスケッチ風（白黒ラフ）で描いてSeedance 2.5に渡し、低解像度のカットイラストに忠実に寄せて汚くなるのを避ける  \nプロンプト内でこれはスケッチだ（ラフスケッチ）と明示して、入力がスケッチであることを繰り返し指示する",
+  "translations": {
+    "en": {
+      "content": "Draw the storyboard in a rough sketch style (black-and-white roughs) and pass it to Seedance 2.5 to avoid it getting messy by trying to stay too faithful to the low-resolution cut illustrations.\n\nIn the prompt, explicitly state that this is a sketch (rough sketch), and repeatedly instruct the model that the input is a sketch.\n\n--- QUOTED TWEET ---\nThe technique Matsumaru mentioned of drawing storyboards in a rough sketch style seems even more important in 2.5. Otherwise, it tries to render too faithfully to the low-resolution cut illustrations on the sheet and ends up looking very messy. And in the prompt, you need to keep emphasizing that “this is a sketch.”\n@capcutapp\n@dreamina_ai \ncapcutseedance25&capcutcpp"
+    },
+    "es": {
+      "content": "Dibuja el storyboard con un estilo de boceto tosco (blanco y negro) y pásalo a Seedance 2.5, para evitar que se ensucie al intentar ajustarse demasiado a las ilustraciones de corte de baja resolución.  \nEn el prompt, deja explícito que esto es un sketch (boceto tosco) y repite la instrucción de que la entrada es un sketch.\n\n--- TWEET CITADO ---\nLa técnica que dijo Matsumaru de dibujar el storyboard con un estilo de boceto tosco parece ser aún más importante en 2.5. Si no, intenta reproducir fielmente las ilustraciones de corte de baja resolución de la hoja y termina viéndose muy sucio. Y en el prompt hay que insistir varias veces en que “esto es un sketch”.\n@capcutapp\n@dreamina_ai \ncapcutseedance25&capcutcpp"
+    },
+    "fr": {
+      "content": "Dessinez le storyboard dans un style de croquis rapide (brouillon en noir et blanc) et transmettez-le à Seedance 2.5, afin d’éviter qu’il ne devienne sale en essayant de coller trop fidèlement aux illustrations de coupe en basse résolution.  \nDans le prompt, indiquez clairement qu’il s’agit d’un croquis (rough sketch) et répétez que l’entrée est un sketch.\n\n--- QUOTED TWEET ---\nLa technique dont parlait Matsumaru, qui consiste à dessiner le storyboard dans un style de croquis rapide, semble encore plus importante avec la version 2.5. Sinon, il essaiera de reproduire fidèlement les illustrations de coupe en basse résolution du sheet, et le résultat deviendra très sale. Et il faut insister dans le prompt en répétant que « ceci est un sketch ».\n@capcutapp\n@dreamina_ai \ncapcutseedance25&capcutcpp\n---"
+    },
+    "ko": {
+      "content": "스토리보드는 러프 스케치풍(흑백 러프)으로 그려 Seedance 2.5에 넘기고, 저해상도 컷 일러스트를 지나치게 충실하게 따라가며 지저분해지는 것을 피한다.  \nprompt 안에서 이것은 스케치다(러프 스케치)라고 명시하고, 입력이 스케치임을 반복해서 지시한다.\n\n--- 인용 트윗 ---\n마츠마루 씨가 말했던, 스토리보드를 러프 스케치풍으로 그리는 테크닉은 2.5에서는 더 중요해진 것 같다. 그렇지 않으면 시트의 저해상도 컷 일러스트를 충실하게 그리려다 너무 지저분해진다. 그리고 prompt에서 “이것은 스케치다”라고 거듭 지적해 두어야 한다.\n@capcutapp\n@dreamina_ai \ncapcutseedance25&capcutcpp"
+    },
+    "pt": {
+      "content": "Desenhe o storyboard em estilo de rascunho (rascunho em preto e branco) e passe para o Seedance 2.5, para evitar que ele fique “sujo” ao tentar se aproximar fielmente das ilustrações de corte em baixa resolução.  \nNo prompt, deixe explícito que isso é um sketch (rascunho) e repita a instrução de que a entrada é um sketch.\n\n--- TWEET CITADO ---\nA técnica que o Matsumaru mencionou de desenhar o storyboard em estilo de rascunho parece ainda mais importante no 2.5. Caso contrário, ele tenta reproduzir fielmente as ilustrações de corte em baixa resolução da sheet e acaba ficando muito sujo. E no prompt é preciso reforçar várias vezes que “isso é um sketch”.\n@capcutapp\n@dreamina_ai \ncapcutseedance25&capcutcpp\n---"
+    },
+    "zh": {
+      "content": "分镜要画成粗略草图风格（黑白草图），再交给 Seedance 2.5，这样可以避免它过于忠实地还原低分辨率的分镜插图而变得很脏。  \n在 prompt 里要明确写明“这是草图（rough sketch）”，反复强调输入是草图。\n\n--- QUOTED TWEET ---\n松丸さん提到的把分镜画成粗略草图风格的技巧，在 2.5 里似乎更重要了。否则它会试图忠实地照着 sheet 里的低分辨率分镜插图来画，结果会变得非常脏。而且在 prompt 里必须反复指出“这是草图”。\n@capcutapp\n@dreamina_ai \ncapcutseedance25&capcutcpp\n---"
+    }
+  }
+}

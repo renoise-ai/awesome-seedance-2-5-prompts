@@ -1,0 +1,43 @@
+{
+  "id": "2083814121557185011",
+  "title": "大規模な合戦などスケールの大きい群衆シーン生成にはSeedance 2.5を使う",
+  "content": "大規模な合戦などスケールの大きい群衆シーン生成にはSeedance 2.5を使う  \nコストを抑えるなら480pで生成する（例：制作費約390円）  \nSeedanceで低解像度生成した動画はTopazで4Kにアップスケールして仕上げる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083813605469040640/img/srdhO5hs1eLFNOfy.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083814121557185011.mp4",
+  "sourceLink": "https://x.com/tanabe_fragm/status/2083814121557185011",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "タナベ | AI動画 × マーケティング",
+    "link": "https://x.com/tanabe_fragm"
+  },
+  "tags": [
+    "Action",
+    "Military",
+    "Photoreal",
+    "Historical",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "大規模な合戦などスケールの大きい群衆シーン生成にはSeedance 2.5を使う  \nコストを抑えるなら480pで生成する（例：制作費約390円）  \nSeedanceで低解像度生成した動画はTopazで4Kにアップスケールして仕上げる",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2.5 for generating large-scale crowd scenes such as massive battles.  \nIf you want to keep costs down, generate at 480p (e.g., production cost of about 390 yen).  \nVideos generated at low resolution in Seedance are then upscaled to 4K with Topaz for the final finish."
+    },
+    "es": {
+      "content": "Para la generación de escenas multitudinarias de gran escala, como batallas masivas, utiliza Seedance 2.5.  \nSi quieres reducir costes, genera en 480p (por ejemplo: coste de producción de unos 390 yenes).  \nLos vídeos generados en baja resolución con Seedance se terminan ampliándolos a 4K con Topaz."
+    },
+    "fr": {
+      "content": "Pour générer des scènes de foule à grande échelle, comme de vastes batailles, utilisez Seedance 2.5.  \nPour réduire les coûts, générez en 480p (ex. : coût de production d’environ 390 yens).  \nLes vidéos générées en basse résolution avec Seedance sont ensuite finalisées en 4K avec Topaz pour l’upscaling."
+    },
+    "ko": {
+      "content": "대규모 전투 등 스케일이 큰 군중 장면 생성에는 Seedance 2.5를 사용한다  \n비용을 줄이려면 480p로 생성한다(예: 제작비 약 390엔)  \nSeedance로 저해상도 생성한 영상은 Topaz로 4K로 업스케일해 마무리한다"
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 para gerar cenas de multidão em grande escala, como batalhas de grande porte.  \nSe quiser reduzir custos, gere em 480p (ex.: custo de produção de cerca de 390 ienes).  \nVídeos gerados em baixa resolução no Seedance são finalizados com upscale para 4K no Topaz."
+    },
+    "zh": {
+      "content": "大规模的合战等大场面群像生成可使用 Seedance 2.5  \n如果想控制成本，建议以 480p 生成（例如：制作成本约 390 日元）  \n用 Seedance 低分辨率生成的视频，最后可用 Topaz 放大到 4K 完成制作"
+    }
+  }
+}

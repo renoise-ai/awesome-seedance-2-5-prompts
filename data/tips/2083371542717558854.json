@@ -1,0 +1,41 @@
+{
+  "id": "2083371542717558854",
+  "title": "Generate your character in Midjourney with --chaos 30 --ar 9:16 --exp 30 and a…",
+  "content": "Generate your character in Midjourney with --chaos 30 --ar 9:16 --exp 30 and a fixed --profile (e.g., 2fepykr) to keep a consistent character reference for Seedance.  \nIn Seedance 2.5, use a character reference token (e.g., @[character ref]) inside the prompt to anchor the dancer’s identity across the video.  \nSpecify camera behavior explicitly (aggressive orbiting camera, low-angle tracking, extreme foreshortening, sudden lateral acceleration) to drive dynamic cinematography.  \nCall out motion/physics constraints (controlled motion blur, realistic cloth dynamics, physical blade weight) to improve realism and readability during fast action.  \nDefine the opening beat and ending beat (begin mid-attack; end in full motion on another rotating slash) to control narrative timing and shot progression.  \nAdd environment/lighting cues (cold volumetric haze, wet reflective surfaces) to push a feature-film look and enhance depth.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/aimikoda/status/2083371542717558854",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "Kōda",
+    "link": "https://x.com/aimikoda"
+  },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate your character in Midjourney with --chaos 30 --ar 9:16 --exp 30 and a fixed --profile (e.g., 2fepykr) to keep a consistent character reference for Seedance.  \nIn Seedance 2.5, use a character reference token (e.g., @[character ref]) inside the prompt to anchor the dancer’s identity across the video.  \nSpecify camera behavior explicitly (aggressive orbiting camera, low-angle tracking, extreme foreshortening, sudden lateral acceleration) to drive dynamic cinematography.  \nCall out motion/physics constraints (controlled motion blur, realistic cloth dynamics, physical blade weight) to improve realism and readability during fast action.  \nDefine the opening beat and ending beat (begin mid-attack; end in full motion on another rotating slash) to control narrative timing and shot progression.  \nAdd environment/lighting cues (cold volumetric haze, wet reflective surfaces) to push a feature-film look and enhance depth.",
+  "translations": {
+    "es": {
+      "content": "Genera tu personaje en Midjourney con --chaos 30 --ar 9:16 --exp 30 y un --profile fijo (por ejemplo, 2fepykr) para mantener una referencia de personaje consistente para Seedance.  \nEn Seedance 2.5, usa un token de referencia de personaje (por ejemplo, @[character ref]) dentro del prompt para anclar la identidad del bailarín a lo largo del video.  \nEspecifica explícitamente el comportamiento de la cámara (aggressive orbiting camera, low-angle tracking, extreme foreshortening, sudden lateral acceleration) para impulsar una cinematografía dinámica.  \nIndica las restricciones de movimiento/física (controlled motion blur, realistic cloth dynamics, physical blade weight) para mejorar el realismo y la legibilidad durante la acción rápida.  \nDefine el beat de apertura y el beat de cierre (begin mid-attack; end in full motion on another rotating slash) para controlar el timing narrativo y la progresión de la toma.  \nAñade indicaciones de entorno/iluminación (cold volumetric haze, wet reflective surfaces) para lograr un aspecto de largometraje y realzar la profundidad."
+    },
+    "fr": {
+      "content": "Générez votre personnage dans Midjourney avec --chaos 30 --ar 9:16 --exp 30 et un --profile fixe (par ex. 2fepykr) afin de conserver une référence de personnage cohérente pour Seedance.  \nDans Seedance 2.5, utilisez un token de référence de personnage (par ex. @[character ref]) à l’intérieur du prompt pour ancrer l’identité du danseur tout au long de la vidéo.  \nSpécifiez explicitement le comportement de la caméra (aggressive orbiting camera, low-angle tracking, extreme foreshortening, sudden lateral acceleration) pour obtenir une cinématographie dynamique.  \nPrécisez les contraintes de mouvement et de physique (controlled motion blur, realistic cloth dynamics, physical blade weight) afin d’améliorer le réalisme et la lisibilité pendant les actions rapides.  \nDéfinissez le beat d’ouverture et le beat de fin (begin mid-attack; end in full motion on another rotating slash) pour contrôler le timing narratif et la progression des plans.  \nAjoutez des indications d’environnement et d’éclairage (cold volumetric haze, wet reflective surfaces) pour obtenir un rendu de long-métrage et renforcer la profondeur."
+    },
+    "ja": {
+      "content": "Midjourneyでキャラクターを生成する際は、Seedance向けに一貫したキャラクター参照を保つため、--chaos 30 --ar 9:16 --exp 30 と固定の --profile（例: 2fepykr）を使用します。  \nSeedance 2.5では、動画全体でダンサーのアイデンティティを固定するために、プロンプト内にキャラクター参照トークン（例: @[character ref]）を入れます。  \nダイナミックなシネマティクスを生み出すため、カメラの挙動を明示的に指定します（aggressive orbiting camera、low-angle tracking、extreme foreshortening、sudden lateral acceleration）。  \n高速アクション中のリアリズムと可読性を高めるため、motion/physics の制約も明記します（controlled motion blur、realistic cloth dynamics、physical blade weight）。  \n物語のタイミングとショットの進行を制御するために、冒頭のビートと終わりのビートを定義します（begin mid-attack; end in full motion on another rotating slash）。  \nさらに、環境・ライティングの手がかり（cold volumetric haze、wet reflective surfaces）を加えて、劇映画のようなルックを強め、奥行きを演出します。"
+    },
+    "ko": {
+      "content": "Midjourney에서 --chaos 30 --ar 9:16 --exp 30과 고정된 --profile(예: 2fepykr)을 사용해 캐릭터를 생성하면, Seedance에서 일관된 캐릭터 레퍼런스를 유지할 수 있습니다.  \nSeedance 2.5에서는 프롬프트 안에 캐릭터 레퍼런스 토큰(예: @[character ref])을 넣어 영상 전체에서 댄서의 정체성을 고정합니다.  \n카메라 동작을 명시적으로 지정하세요(aggressive orbiting camera, low-angle tracking, extreme foreshortening, sudden lateral acceleration) — 이렇게 하면 역동적인 cinematography를 이끌어낼 수 있습니다.  \n모션/물리 제약도 함께 명시하세요(controlled motion blur, realistic cloth dynamics, physical blade weight) — 빠른 액션 장면에서 사실감과 가독성을 높이는 데 도움이 됩니다.  \n오프닝 비트와 엔딩 비트를 정의하세요(begin mid-attack; end in full motion on another rotating slash) — 내러티브 타이밍과 샷 진행을 제어할 수 있습니다.  \n환경/조명 단서도 추가하세요(cold volumetric haze, wet reflective surfaces) — feature-film 같은 룩을 강화하고 깊이감을 높일 수 있습니다."
+    },
+    "pt": {
+      "content": "Gere seu personagem no Midjourney com --chaos 30 --ar 9:16 --exp 30 e um --profile fixo (por exemplo, 2fepykr) para manter uma referência consistente do personagem para o Seedance.  \nNo Seedance 2.5, use um token de referência de personagem (por exemplo, @[character ref]) dentro do prompt para ancorar a identidade do dançarino ao longo do vídeo.  \nEspecifique o comportamento da câmera explicitamente (aggressive orbiting camera, low-angle tracking, extreme foreshortening, sudden lateral acceleration) para conduzir uma cinematografia dinâmica.  \nIndique restrições de movimento/física (controlled motion blur, realistic cloth dynamics, physical blade weight) para melhorar o realismo e a legibilidade durante ações rápidas.  \nDefina o beat inicial e o beat final (comece no meio do ataque; termine em movimento total em outro slash giratório) para controlar o timing narrativo e a progressão da cena.  \nAdicione pistas de ambiente/iluminação (cold volumetric haze, wet reflective surfaces) para alcançar um visual de longa-metragem e aumentar a profundidade."
+    },
+    "zh": {
+      "content": "在 Midjourney 中生成你的角色时，使用 --chaos 30 --ar 9:16 --exp 30，并固定 --profile（例如 2fepykr），以便为 Seedance 保持一致的角色参考。  \n在 Seedance 2.5 中，在 prompt 里使用角色参考 token（例如 @[character ref]），以在整个视频中锚定舞者的身份。  \n明确指定 camera 行为（aggressive orbiting camera、low-angle tracking、extreme foreshortening、sudden lateral acceleration），以驱动动态 cinematography。  \n明确说明 motion/physics 约束（controlled motion blur、realistic cloth dynamics、physical blade weight），以提升快速动作中的真实感和可读性。  \n定义开场 beat 和结尾 beat（begin mid-attack; end in full motion on another rotating slash），以控制叙事节奏和镜头推进。  \n添加环境/lighting 线索（cold volumetric haze、wet reflective surfaces），以营造 feature-film 质感并增强景深。"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2080406905584046527",
+  "title": "Tag a singing prompt when generating singing clips in Seedance to improve…",
+  "content": "Tag a singing prompt when generating singing clips in Seedance to improve results compared to using the same prompt without the singing tag.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/BrentLynch/status/2080406905584046527",
+  "sourcePublishedAt": "2026-07-23",
+  "author": {
+    "name": "Brent Lynch",
+    "link": "https://x.com/BrentLynch"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Tag a singing prompt when generating singing clips in Seedance to improve results compared to using the same prompt without the singing tag.",
+  "translations": {
+    "es": {
+      "content": "Etiqueta un prompt de canto al generar clips de canto en Seedance para mejorar los resultados en comparación con usar el mismo prompt sin la etiqueta de canto."
+    },
+    "fr": {
+      "content": "Ajoutez un tag de chant lors de la génération de clips chantés dans Seedance afin d’améliorer les résultats par rapport à l’utilisation du même prompt sans le tag de chant."
+    },
+    "ja": {
+      "content": "Seedanceで歌唱クリップを生成する際は、singingタグを付けることで、同じpromptをタグなしで使う場合よりも結果を改善できます。"
+    },
+    "ko": {
+      "content": "Seedance에서 노래 클립을 생성할 때 singing prompt 태그를 추가하면, 같은 prompt를 singing tag 없이 사용하는 것보다 더 나은 결과를 얻을 수 있습니다."
+    },
+    "pt": {
+      "content": "Marque um prompt de canto ao gerar clipes de canto no Seedance para melhorar os resultados em comparação com o uso do mesmo prompt sem a tag de canto."
+    },
+    "zh": {
+      "content": "在 Seedance 中生成唱歌片段时，添加 singing prompt 标签，相比不使用唱歌标签的相同 prompt，能获得更好的效果。"
+    }
+  }
+}

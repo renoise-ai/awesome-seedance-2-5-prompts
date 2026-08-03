@@ -1,0 +1,42 @@
+{
+  "id": "2077376304811520272",
+  "title": "用 Seedance 2.5 生成单段 30 秒视频来完成完整对话/连贯动作/一镜到底小剧情，减少把内容强行切分成多段带来的返工",
+  "content": "用 Seedance 2.5 生成单段 30 秒视频来完成完整对话/连贯动作/一镜到底小剧情，减少把内容强行切分成多段带来的返工  \n在 Seedance 2.5 中一次性输入最多 50 个参考素材（人物、服装、场景、道具、动作、声音）以统一短剧或品牌内容的风格",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2077375500285329408/img/-ptV0jl1LV-mej6W.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2077376304811520272.mp4",
+  "sourceLink": "https://x.com/ponyodong/status/2077376304811520272",
+  "sourcePublishedAt": "2026-07-15",
+  "author": {
+    "name": "波妞PONYO",
+    "link": "https://x.com/ponyodong"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "用 Seedance 2.5 生成单段 30 秒视频来完成完整对话/连贯动作/一镜到底小剧情，减少把内容强行切分成多段带来的返工  \n在 Seedance 2.5 中一次性输入最多 50 个参考素材（人物、服装、场景、道具、动作、声音）以统一短剧或品牌内容的风格",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2.5 to generate a single 30-second video segment to complete a full conversation, continuous action, or a one-take mini story, reducing the rework caused by forcibly splitting content into multiple segments.\n\nIn Seedance 2.5, you can input up to 50 reference assets at once—characters, clothing, scenes, props, actions, and sounds—to unify the style of short dramas or branded content."
+    },
+    "es": {
+      "content": "Usa Seedance 2.5 para generar un video de 30 segundos en un solo segmento y completar diálogos completos, acciones continuas o pequeñas historias en una sola toma, reduciendo el retrabajo que supone dividir el contenido a la fuerza en varias partes.  \nEn Seedance 2.5, puedes introducir de una sola vez hasta 50 materiales de referencia (personajes, vestuario, escenarios, accesorios, acciones y sonido) para unificar el estilo de una serie corta o de contenido de marca."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 pour générer une vidéo unique de 30 secondes afin de réaliser un dialogue complet, une action continue ou une petite scène en plan-séquence, et réduire les retouches causées par le découpage forcé du contenu en plusieurs segments.  \nDans Seedance 2.5, vous pouvez saisir en une seule fois jusqu’à 50 éléments de référence (personnages, costumes, décors, accessoires, actions, sons) afin d’unifier le style d’une courte fiction ou d’un contenu de marque."
+    },
+    "ja": {
+      "content": "Seedance 2.5 を使って、30秒の単一ショット動画を生成し、完全な会話・一連の動作・ワンカットの短いストーリーを実現。内容を無理に複数パートへ分割することで発生する手戻りを減らします。  \nSeedance 2.5 では、人物・衣装・シーン・小道具・動作・音声など、最大50個の参考素材を一度に入力でき、ショートドラマやブランドコンテンツのスタイルを統一できます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5로 30초짜리 단일 영상 한 편을 생성해 완전한 대화/연속 동작/원테이크형 짧은 스토리를 구현하고, 내용을 억지로 여러 구간으로 나눌 때 생기는 재작업을 줄이세요.  \nSeedance 2.5에서는 인물, 의상, 장면, 소품, 동작, 음성 등 최대 50개의 참고 소재를 한 번에 입력해 숏폼 드라마나 브랜드 콘텐츠의 스타일을 통일할 수 있습니다."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 para gerar um vídeo único de 30 segundos e concluir diálogos completos, ações contínuas ou pequenas cenas em plano-sequência, reduzindo o retrabalho causado por dividir o conteúdo à força em várias partes.  \nNo Seedance 2.5, é possível inserir de uma só vez até 50 materiais de referência (personagens, roupas, cenários, adereços, ações, sons) para unificar o estilo de curtas ou conteúdos de marca."
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2075188591224086622",
+  "title": "プレビズ（Blender等で作った事前ビジュアライゼーション）を参照動画としてSeedance 2.5に渡して、構図やカメラ動きを揃えた生成に使う",
+  "content": "プレビズ（Blender等で作った事前ビジュアライゼーション）を参照動画としてSeedance 2.5に渡して、構図やカメラ動きを揃えた生成に使う  \n複数の静止画を参照画像としてSeedance 2.5に渡し、キャラクター/背景/スタイルの一貫性を保ちながら動画生成する  \nKIEで参照に使われた画像・動画を確認してダウンロードし、同じ参照素材を使って再現・検証する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075187851617345536/img/Llw6GNMfOGm1m9jD.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075188591224086622.mp4",
+  "sourceLink": "https://x.com/tanabe_fragm/status/2075188591224086622",
+  "sourcePublishedAt": "2026-07-09",
+  "author": {
+    "name": "タナベ | 動画・音声生成AI解説",
+    "link": "https://x.com/tanabe_fragm"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "プレビズ（Blender等で作った事前ビジュアライゼーション）を参照動画としてSeedance 2.5に渡して、構図やカメラ動きを揃えた生成に使う  \n複数の静止画を参照画像としてSeedance 2.5に渡し、キャラクター/背景/スタイルの一貫性を保ちながら動画生成する  \nKIEで参照に使われた画像・動画を確認してダウンロードし、同じ参照素材を使って再現・検証する",
+  "translations": {
+    "en": {
+      "content": "---\nUse previsualizations (created with Blender, etc.) as reference videos for Seedance 2.5 to generate content with matching compositions and camera movements.  \nProvide multiple still images as reference images to Seedance 2.5 to generate videos while maintaining consistency in character/background/style.  \nCheck and download the images/videos used as references in KIE, and use the same reference materials for reproduction and verification.\n\n--- QUOTED TWEET ---\nAn example of a video generated with Seedance 2.5.  \nIf this is real, it would have an incredible impact...  \nIn any case, looking forward to its release. 😃\n\nThe video is available on KIE and can be downloaded. https://t.co/QBAKNH6CWG\n---"
+    },
+    "es": {
+      "content": "---\nPasar la previsualización (previsualización creada con Blender, etc.) como video de referencia a Seedance 2.5 para usarla en la generación con composición y movimientos de cámara alineados.  \nPasar múltiples imágenes estáticas como imágenes de referencia a Seedance 2.5 para generar videos manteniendo la consistencia de personajes/fondos/estilo.  \nVerificar y descargar las imágenes/videos utilizados como referencia en KIE, y recrear/verificar usando los mismos materiales de referencia.\n\n--- TWEET CITADO ---\nEjemplo de video generado con Seedance 2.5.  \nSi esto es real, tiene un impacto tremendo, pero...  \nDe cualquier manera, estamos ansiosos por su lanzamiento 😃\n\nEl video está disponible en KIE y se puede descargar. https://t.co/QBAKNH6CWG\n---"
+    },
+    "fr": {
+      "content": "---\nUtiliser une prévisualisation (prévisualisation créée avec Blender, etc.) comme vidéo de référence pour Seedance 2.5 afin de l'utiliser pour la génération en alignant la composition et les mouvements de caméra.  \nFournir plusieurs images fixes comme images de référence à Seedance 2.5 pour générer des vidéos tout en maintenant la cohérence des personnages, des arrière-plans et du style.  \nVérifier et télécharger les images/vidéos utilisées comme références dans KIE, puis recréer et vérifier en utilisant les mêmes matériaux de référence.\n\n--- TWEET CITÉ ---\nExemple de vidéo générée avec Seedance 2.5.  \nSi c'est authentique, l'impact est incroyable...  \nQuoi qu'il en soit, nous attendons avec impatience sa sortie 😃\n\nLa vidéo est publiée sur KIE et peut être téléchargée. https://t.co/QBAKNH6CWG\n---"
+    },
+    "ko": {
+      "content": "---\n프리비즈(Blender 등으로 만든 사전 비주얼라이제이션)를 참조 영상으로 Seedance 2.5에 전달하여, 구도와 카메라 움직임을 맞춘 생성에 사용  \n여러 장의 정지 이미지를 참조 이미지로 Seedance 2.5에 전달하여, 캐릭터/배경/스타일의 일관성을 유지하면서 영상 생성  \nKIE에서 참조에 사용된 이미지·영상을 확인하고 다운로드하여, 동일한 참조 자료를 사용해 재현·검증\n\n--- QUOTED TWEET ---\nSeedance 2.5로 생성된 영상 예시.\n이것이 만약 진짜라면, 엄청난 임팩트인데요...\n어쨌든, 공개가 기대됩니다😃\n\n영상은 KIE에서 공개되어 있으며, 다운로드 가능합니다. https://t.co/QBAKNH6CWG\n---"
+    },
+    "pt": {
+      "content": "---\nUsar uma pré-visualização (previs) criada no Blender ou em outro software como vídeo de referência no Seedance 2.5 para alinhar a composição e o movimento da câmera na geração  \nFornecer múltiplas imagens estáticas como imagens de referência no Seedance 2.5 para gerar vídeos mantendo a consistência de personagens/fundo/estilo  \nVerificar e baixar as imagens/vídeos de referência usados no KIE, e usar os mesmos materiais de referência para recriar e validar\n\n--- TWEET CITADO ---\nExemplo de vídeo gerado com Seedance 2.5.  \nSe isso for real, é um impacto incrível, mas...  \nDe qualquer forma, estou ansioso para o lançamento 😃\n\nO vídeo está disponível no KIE e pode ser baixado. https://t.co/QBAKNH6CWG\n---"
+    },
+    "zh": {
+      "content": "将预可视化（在Blender等软件中制作的预先可视化）作为参考视频传递给Seedance 2.5，用于生成与构图和摄像机运动一致的内容  \n将多张静止图像作为参考图像传递给Seedance 2.5，在保持角色/背景/风格一致性的同时生成视频  \n在KIE中查看并下载用于参考的图像和视频，使用相同的参考素材进行再现和验证\n\n--- 引用推文 ---\n使用Seedance 2.5生成的视频示例。\n如果这是真的，那将产生巨大的影响，不过...\n无论如何，期待公开😃\n\n视频已在KIE上发布，并可下载。https://t.co/QBAKNH6CWG"
+    }
+  }
+}

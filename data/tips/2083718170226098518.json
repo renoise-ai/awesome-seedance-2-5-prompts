@@ -1,0 +1,42 @@
+{
+  "id": "2083718170226098518",
+  "title": "Blenderで箱など簡単なシーンを置いてカメラ動きだけの参照動画を作り、それをSeedance2.5に参照として入力してカメラワークをコントロールする",
+  "content": "Blenderで箱など簡単なシーンを置いてカメラ動きだけの参照動画を作り、それをSeedance2.5に参照として入力してカメラワークをコントロールする  \nカメラワークはテキストで指示せず、参照動画のみ（テキスト指示ゼロ）で狙いの動きを再現させる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083718139075088384/img/WpOcfIw-wxWdRpB7.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083718170226098518.mp4",
+  "sourceLink": "https://x.com/tkz_aiart/status/2083718170226098518",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "たくぞー｜AI動画最新情報",
+    "link": "https://x.com/tkz_aiart"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Blenderで箱など簡単なシーンを置いてカメラ動きだけの参照動画を作り、それをSeedance2.5に参照として入力してカメラワークをコントロールする  \nカメラワークはテキストで指示せず、参照動画のみ（テキスト指示ゼロ）で狙いの動きを再現させる",
+  "translations": {
+    "en": {
+      "content": "Create a reference video in Blender with a simple scene, such as a box, and use only camera movement, then input it into Seedance 2.5 as a reference to control the camera work.  \nInstead of giving camera directions in text, reproduce the intended motion using only the reference video (zero text instructions)."
+    },
+    "es": {
+      "content": "En Blender, coloca una escena sencilla, como una caja, y crea un video de referencia solo con el movimiento de cámara; luego introdúcelo en Seedance2.5 como referencia para controlar el camera work.  \nNo indiques el camera work mediante texto, sino que reproduzca el movimiento deseado únicamente con el video de referencia (cero instrucciones de texto)."
+    },
+    "fr": {
+      "content": "Dans Blender, créez une vidéo de référence avec une scène simple, comme une boîte, en ne faisant varier que le mouvement de caméra, puis utilisez-la comme référence dans Seedance 2.5 pour contrôler le camera work.  \nLe camera work n’est pas indiqué par du texte ; on reproduit le mouvement souhaité uniquement à partir de la vidéo de référence (zéro instruction textuelle)."
+    },
+    "ko": {
+      "content": "Blender에서 박스 같은 간단한 씬을 배치해 카메라 움직임만 담긴 레퍼런스 영상을 만들고, 그것을 Seedance2.5에 참조로 입력해 카메라 워크를 제어한다.  \n카메라 워크는 텍스트로 지시하지 않고, 레퍼런스 영상만으로(텍스트 지시 0) 원하는 움직임을 재현하게 한다."
+    },
+    "pt": {
+      "content": "No Blender, crie um vídeo de referência com apenas o movimento de câmera, usando uma cena simples como uma caixa, e então insira esse vídeo como referência no Seedance2.5 para controlar o camera work.  \nEm vez de নির্দেশar o movimento de câmera por texto, faça com que o movimento desejado seja reproduzido apenas com o vídeo de referência (zero instruções em texto)."
+    },
+    "zh": {
+      "content": "在 Blender 里摆放箱子等简单场景，制作只有镜头运动的参考视频，然后将其作为参考输入到 Seedance2.5 中，用来控制 camera work。  \n不要用文本来指示 camera work，而是仅通过参考视频（文本指令为零）来复现目标运动。"
+    }
+  }
+}

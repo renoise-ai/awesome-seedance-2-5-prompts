@@ -1,0 +1,42 @@
+{
+  "id": "2083421338556084691",
+  "title": "Use multiple reference images in a single Seedance 2.5 prompt to keep every…",
+  "content": "Use multiple reference images in a single Seedance 2.5 prompt to keep every face and outfit locked and prevent morphing/character mixing.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083420836212695040/img/4eV9C4OmulflRUIW.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083421338556084691.mp4",
+  "sourceLink": "https://x.com/huykao_ai/status/2083421338556084691",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "Huy Kao",
+    "link": "https://x.com/huykao_ai"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use multiple reference images in a single Seedance 2.5 prompt to keep every face and outfit locked and prevent morphing/character mixing.",
+  "translations": {
+    "es": {
+      "content": "Usa múltiples imágenes de referencia en un solo prompt de Seedance 2.5 para mantener fijos todos los rostros y atuendos, y evitar la morphing o la mezcla de personajes."
+    },
+    "fr": {
+      "content": "Utilisez plusieurs images de référence dans un seul prompt Seedance 2.5 pour conserver fidèlement chaque visage et chaque tenue, et éviter les déformations ou le mélange des personnages."
+    },
+    "ja": {
+      "content": "1つのSeedance 2.5プロンプトで複数の参照画像を使用し、すべての顔と衣装を固定して、形状の変化やキャラクターの混在を防ぎます。"
+    },
+    "ko": {
+      "content": "하나의 Seedance 2.5 프롬프트에 여러 개의 레퍼런스 이미지를 사용해 모든 얼굴과 의상을 고정하고, 형태 변형이나 캐릭터 혼합을 방지하세요."
+    },
+    "pt": {
+      "content": "Use várias imagens de referência em um único prompt do Seedance 2.5 para manter todos os rostos e roupas fixos e evitar morphing/mistura de personagens."
+    },
+    "zh": {
+      "content": "在单个 Seedance 2.5 prompt 中使用多张参考图像，以锁定每一张脸和每套服装，防止变形或角色混淆。"
+    }
+  }
+}

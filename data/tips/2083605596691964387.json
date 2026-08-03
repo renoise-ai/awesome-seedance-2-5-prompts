@@ -1,0 +1,42 @@
+{
+  "id": "2083605596691964387",
+  "title": "Add prompt constraints like no holds, constant fast paced fighting action to…",
+  "content": "Add prompt constraints like no holds, constant fast paced fighting action to reduce slow pacing and encourage faster action in Seedance 2.5.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083605515557285888/img/babGQkCC6jQUXUXp.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083605596691964387.mp4",
+  "sourceLink": "https://x.com/Wigglenator/status/2083605596691964387",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "⚔️🎮💫Wigglenator💫🎮⚔️",
+    "link": "https://x.com/Wigglenator"
+  },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Add prompt constraints like no holds, constant fast paced fighting action to reduce slow pacing and encourage faster action in Seedance 2.5.",
+  "translations": {
+    "es": {
+      "content": "Añade restricciones al prompt como “no holds” y acción de combate constante y rápida para reducir el ritmo lento y fomentar una acción más ágil en Seedance 2.5."
+    },
+    "fr": {
+      "content": "Ajoutez des contraintes de prompt comme « no holds » et une action de combat constante et rapide afin de réduire les temps morts et d’encourager une action plus dynamique dans Seedance 2.5."
+    },
+    "ja": {
+      "content": "Seedance 2.5 では、テンポの遅さを抑え、より速いアクションを促すために、「no holds」や「constant fast paced fighting action」といった prompt 制約を追加します。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 느린 전개를 줄이고 더 빠른 액션을 유도하려면, no holds, constant fast paced fighting action 같은 prompt 제약을 추가하세요."
+    },
+    "pt": {
+      "content": "Adicione restrições ao prompt, como “no holds” e ação de luta constante em ritmo acelerado, para reduzir o ritmo lento e incentivar uma ação mais rápida no Seedance 2.5."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中添加 prompt 约束，例如 no holds、持续快速的战斗动作，以减少节奏拖沓并鼓励更快的动作表现。"
+    }
+  }
+}

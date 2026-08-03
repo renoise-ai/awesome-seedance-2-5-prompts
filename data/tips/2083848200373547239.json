@@ -1,0 +1,41 @@
+{
+  "id": "2083848200373547239",
+  "title": "Write Seedance 2.5 prompts in Mandarin to fit more detail within the unchanged…",
+  "content": "Write Seedance 2.5 prompts in Mandarin to fit more detail within the unchanged input limit, especially when generating 30-second videos.  \nWhen you hit the prompt length limit in Seedance 2.5, cut the style prefix and fine descriptive details first to make room for essential instructions.  \nUse concise Mandarin phrasing for camera directions (e.g., 摄影机缓缓环绕她，光打在她脸上) to preserve key motion/lighting intent while using fewer characters than English.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/AI__TSUBAKI/status/2083848200373547239",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "TSUBAKI",
+    "link": "https://x.com/AI__TSUBAKI"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Write Seedance 2.5 prompts in Mandarin to fit more detail within the unchanged input limit, especially when generating 30-second videos.  \nWhen you hit the prompt length limit in Seedance 2.5, cut the style prefix and fine descriptive details first to make room for essential instructions.  \nUse concise Mandarin phrasing for camera directions (e.g., 摄影机缓缓环绕她，光打在她脸上) to preserve key motion/lighting intent while using fewer characters than English.",
+  "translations": {
+    "es": {
+      "content": "Escribe prompts de Seedance 2.5 en mandarín para incluir más detalle dentro del límite de entrada sin cambios, especialmente al generar videos de 30 segundos.  \nCuando alcances el límite de longitud del prompt en Seedance 2.5, recorta primero el prefijo de estilo y los detalles descriptivos finos para dejar espacio a las instrucciones esenciales.  \nUsa una redacción concisa en mandarín para las indicaciones de cámara (p. ej., 摄影机缓缓环绕她，光打在她脸上) para preservar la intención clave de movimiento e iluminación usando menos caracteres que en inglés."
+    },
+    "fr": {
+      "content": "Rédigez les prompts Seedance 2.5 en mandarin afin d’intégrer davantage de détails dans la limite d’entrée inchangée, surtout lors de la génération de vidéos de 30 secondes.  \nLorsque vous atteignez la limite de longueur du prompt dans Seedance 2.5, supprimez d’abord le préfixe de style et les détails descriptifs secondaires pour faire de la place aux instructions essentielles.  \nUtilisez des formulations mandarin concises pour les indications de caméra (par ex. 摄影机缓缓环绕她，光打在她脸上) afin de préserver l’intention clé de mouvement et d’éclairage tout en utilisant moins de caractères qu’en anglais."
+    },
+    "ja": {
+      "content": "Seedance 2.5 の prompt は、変更されない入力上限の中でより多くの詳細を収められるよう、特に30秒動画を生成する際は中国語（普通話）で書きましょう。  \nSeedance 2.5 で prompt の長さ制限に達したら、まず style prefix と細かな描写を削って、重要な指示のための余地を確保します。  \nカメラ指示には簡潔な中国語表現を使いましょう（例：摄影机缓缓环绕她，光打在她脸上）。これにより、英語より少ない文字数で、動きやライティングの意図を保てます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 prompt는 입력 길이 제한이 그대로인 상태에서 더 많은 디테일을 담을 수 있도록 중국어(만다린)로 작성하세요. 특히 30초 영상 생성 시에 효과적입니다.  \nSeedance 2.5에서 prompt 길이 제한에 걸리면, 우선 스타일 prefix와 세부 묘사를 줄여 핵심 지시사항을 넣을 공간을 확보하세요.  \n카메라 지시는 간결한 만다린 표현을 사용하세요(예: 摄影机缓缓环绕她，光打在她脸上). 이렇게 하면 핵심적인 움직임/조명 의도를 유지하면서 영어보다 더 적은 글자로 표현할 수 있습니다."
+    },
+    "pt": {
+      "content": "Escreva prompts do Seedance 2.5 em mandarim para incluir mais detalhes dentro do limite de entrada inalterado, especialmente ao gerar vídeos de 30 segundos.  \nQuando você atingir o limite de comprimento do prompt no Seedance 2.5, corte primeiro o prefixo de estilo e os detalhes descritivos mais finos para abrir espaço para as instruções essenciais.  \nUse uma formulação concisa em mandarim para as direções de câmera (por exemplo, 摄影机缓缓环绕她，光打在她脸上) para preservar a intenção principal de movimento/iluminação usando menos caracteres do que em inglês."
+    },
+    "zh": {
+      "content": "用普通话编写 Seedance 2.5 prompts，可以在不变的输入长度限制内容纳更多细节，尤其是在生成 30 秒视频时。  \n当你在 Seedance 2.5 中遇到 prompt 长度限制时，先删减风格前缀和细致的描述，为关键指令腾出空间。  \n摄像机指令尽量使用简洁的普通话表达（例如：摄影机缓缓环绕她，光打在她脸上），以在用更少字符的同时保留关键的运动/光线意图。"
+    }
+  }
+}

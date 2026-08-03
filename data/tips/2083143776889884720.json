@@ -1,0 +1,43 @@
+{
+  "id": "2083143776889884720",
+  "title": "Use a single input image plus a direct text prompt in Dreamina (Seedream 5.0…",
+  "content": "Use a single input image plus a direct text prompt in Dreamina (Seedream 5.0 Pro + Seedance 2.5) to generate the video.  \nPrompt for multiple flash cuts with different camera angles to create rapid editorial-style transitions.  \nSpecify editorial photography-style posing for the subject based on the reference image.  \nInclude multiple camera movements in the prompt to vary motion across cuts.  \nAdd an end-of-video transformation instruction (e.g., subject turns fully chrome, liquifies, then exits frame).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083143624775151616/img/bX53M5l379SM4pZk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083143776889884720.mp4",
+  "sourceLink": "https://x.com/aziz4ai/status/2083143776889884720",
+  "sourcePublishedAt": "2026-07-31",
+  "author": {
+    "name": "AZIZ | AI 🇸🇦",
+    "link": "https://x.com/aziz4ai"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "Use a single input image plus a direct text prompt in Dreamina (Seedream 5.0 Pro + Seedance 2.5) to generate the video.  \nPrompt for multiple flash cuts with different camera angles to create rapid editorial-style transitions.  \nSpecify editorial photography-style posing for the subject based on the reference image.  \nInclude multiple camera movements in the prompt to vary motion across cuts.  \nAdd an end-of-video transformation instruction (e.g., subject turns fully chrome, liquifies, then exits frame).",
+  "translations": {
+    "es": {
+      "content": "Usa una sola imagen de entrada junto con un prompt de texto directo en Dreamina (Seedream 5.0 Pro + Seedance 2.5) para generar el video.  \nPrompt para múltiples flash cuts con distintos ángulos de cámara para crear transiciones rápidas de estilo editorial.  \nEspecifica una pose de estilo fotografía editorial para el sujeto basada en la imagen de referencia.  \nIncluye múltiples movimientos de cámara en el prompt para variar el movimiento entre cortes.  \nAñade una instrucción de transformación al final del video (por ejemplo, el sujeto se vuelve completamente cromado, se licúa y luego sale del encuadre)."
+    },
+    "fr": {
+      "content": "Utilisez une seule image d’entrée ainsi qu’un prompt texte direct dans Dreamina (Seedream 5.0 Pro + Seedance 2.5) pour générer la vidéo.  \nPrompt pour plusieurs flash cuts avec différents angles de caméra afin de créer des transitions rapides de style éditorial.  \nSpécifiez une pose de style photographie éditoriale pour le sujet, en vous basant sur l’image de référence.  \nIncluez plusieurs mouvements de caméra dans le prompt afin de varier le mouvement d’un cut à l’autre.  \nAjoutez une instruction de transformation en fin de vidéo (par exemple : le sujet devient entièrement chromé, se liquéfie, puis sort du cadre)."
+    },
+    "ja": {
+      "content": "Dreamina（Seedream 5.0 Pro + Seedance 2.5）では、1枚の入力画像と直接的なテキストプロンプトを使って動画を生成します。  \n異なるカメラアングルによる複数のフラッシュカットを指定し、テンポの速いエディトリアル風のトランジションを作成します。  \n参照画像をもとに、被写体のエディトリアル写真風のポージングを指定します。  \nカットごとに動きの変化をつけるため、プロンプトに複数のカメラワークを含めます。  \n動画の最後に変形指示を追加します（例：被写体が完全にクローム化し、液状化してからフレーム外へ退出する）。"
+    },
+    "ko": {
+      "content": "Dreamina(Seedream 5.0 Pro + Seedance 2.5)에서 단일 입력 이미지와 직접적인 text prompt를 사용해 비디오를 생성합니다.  \n서로 다른 camera angle을 가진 여러 flash cut을 위한 prompt를 작성해, 빠른 editorial-style transition을 만듭니다.  \n참조 이미지를 바탕으로 피사체의 editorial photography 스타일 포즈를 지정합니다.  \n컷마다 motion이 달라지도록 prompt에 여러 camera movement를 포함합니다.  \n비디오 끝부분의 transformation 지시를 추가합니다(예: 피사체가 완전히 chrome으로 변한 뒤 liquify되고, 이후 frame 밖으로 나감)."
+    },
+    "pt": {
+      "content": "Use uma única imagem de entrada, além de um prompt de texto direto no Dreamina (Seedream 5.0 Pro + Seedance 2.5), para gerar o vídeo.  \nPrompt para múltiplos flash cuts com diferentes ângulos de câmera, criando transições rápidas no estilo editorial.  \nEspecifique poses no estilo de fotografia editorial para o sujeito com base na imagem de referência.  \nInclua múltiplos movimentos de câmera no prompt para variar o movimento entre os cortes.  \nAdicione uma instrução de transformação no final do vídeo (por exemplo, o sujeito fica totalmente cromado, se liquefaz e então sai do quadro)."
+    },
+    "zh": {
+      "content": "使用一张输入图像，再加上一段直接的 text prompt，在 Dreamina（Seedream 5.0 Pro + Seedance 2.5）中生成视频。  \n为多个 flash cuts 设计 prompt，并使用不同的 camera angles 来创建快速的 editorial-style 转场。  \n根据参考图像，为主体指定 editorial photography 风格的姿势。  \n在 prompt 中加入多个 camera movements，以便在不同 cuts 之间变化运动效果。  \n添加一个视频结尾的 transformation 指令（例如，主体完全变成 chrome，随后 liquifies，然后退出画面）。"
+    }
+  }
+}

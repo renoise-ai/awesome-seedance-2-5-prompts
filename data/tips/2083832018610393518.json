@@ -1,0 +1,43 @@
+{
+  "id": "2083832018610393518",
+  "title": "Create character sheets and props sheets as image references (e.g., with GPT…",
+  "content": "Create character sheets and props sheets as image references (e.g., with GPT Image 2.0) and environment/location sheets (e.g., with Seedream 5.0 Pro), then feed them into Seedance 2.5 as R2V references to keep characters/props/locations consistent across shots.  \nIn Seedance 2.5, use Omni reference with complex-scene R2V references (character sheet + props/weapons sheet + environment sheet) to drive multi-scene, multi-shot cinematic storytelling with stable continuity.  \nGenerate a full 30-second video in a single Seedance 2.5 generation to get longer clips with more stable continuity.  \nCombine multiple multimodal references (up to 50 inputs) in Seedance 2.5 to better control complex scenes and visual consistency.  \nUpscale the final video locally using NVIDIA RTX VSR (Video Super Resolution) via ComfyUI.  \nGenerate background music locally using ACE-Step 1.5 XL and add it in post (or alongside Seedance’s built-in sound/voice).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083818187595161601/img/qP2KOK18v-EPyHuF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083832018610393518.mp4",
+  "sourceLink": "https://x.com/XVisualneuFX/status/2083832018610393518",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "ANDRIANOGABRIELB · XVISUALNEUFX",
+    "link": "https://x.com/XVisualneuFX"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Create character sheets and props sheets as image references (e.g., with GPT Image 2.0) and environment/location sheets (e.g., with Seedream 5.0 Pro), then feed them into Seedance 2.5 as R2V references to keep characters/props/locations consistent across shots.  \nIn Seedance 2.5, use Omni reference with complex-scene R2V references (character sheet + props/weapons sheet + environment sheet) to drive multi-scene, multi-shot cinematic storytelling with stable continuity.  \nGenerate a full 30-second video in a single Seedance 2.5 generation to get longer clips with more stable continuity.  \nCombine multiple multimodal references (up to 50 inputs) in Seedance 2.5 to better control complex scenes and visual consistency.  \nUpscale the final video locally using NVIDIA RTX VSR (Video Super Resolution) via ComfyUI.  \nGenerate background music locally using ACE-Step 1.5 XL and add it in post (or alongside Seedance’s built-in sound/voice).",
+  "translations": {
+    "es": {
+      "content": "Crea hojas de personaje y hojas de props como referencias de imagen (por ejemplo, con GPT Image 2.0) y hojas de entorno/ubicación (por ejemplo, con Seedream 5.0 Pro), y luego introdúcelas en Seedance 2.5 como referencias R2V para mantener la coherencia de personajes/props/ubicaciones entre planos.  \nEn Seedance 2.5, usa Omni reference con referencias R2V de escenas complejas (hoja de personaje + hoja de props/armas + hoja de entorno) para impulsar una narrativa cinematográfica multi-escena y multi-shot con continuidad estable.  \nGenera un video completo de 30 segundos en una sola generación de Seedance 2.5 para obtener clips más largos con una continuidad más estable.  \nCombina múltiples referencias multimodales (hasta 50 entradas) en Seedance 2.5 para controlar mejor escenas complejas y la coherencia visual.  \nHaz upscale del video final localmente usando NVIDIA RTX VSR (Video Super Resolution) a través de ComfyUI.  \nGenera música de fondo localmente usando ACE-Step 1.5 XL y añádela en postproducción (o junto con el sonido/voz integrado de Seedance)."
+    },
+    "fr": {
+      "content": "Créez des feuilles de personnage et des feuilles d’accessoires comme références d’image (par exemple avec GPT Image 2.0), ainsi que des feuilles d’environnement/de lieu (par exemple avec Seedream 5.0 Pro), puis importez-les dans Seedance 2.5 comme références R2V afin de conserver la cohérence des personnages/accessoires/lieux d’un plan à l’autre.  \nDans Seedance 2.5, utilisez Omni reference avec des références R2V de scènes complexes (feuille de personnage + feuille d’accessoires/d’armes + feuille d’environnement) pour piloter une narration cinématographique multi-scènes et multi-plans avec une continuité stable.  \nGénérez une vidéo complète de 30 secondes en une seule génération Seedance 2.5 afin d’obtenir des clips plus longs avec une continuité plus stable.  \nCombinez plusieurs références multimodales (jusqu’à 50 entrées) dans Seedance 2.5 pour mieux contrôler les scènes complexes et la cohérence visuelle.  \nAméliorez la vidéo finale localement à l’aide de NVIDIA RTX VSR (Video Super Resolution) via ComfyUI.  \nGénérez localement la musique de fond avec ACE-Step 1.5 XL et ajoutez-la en post-production (ou en parallèle du son/de la voix intégrés à Seedance)."
+    },
+    "ja": {
+      "content": "キャラクターシートやプロップシートを画像リファレンスとして作成し（例：GPT Image 2.0 を使用）、環境／ロケーションシートも作成して（例：Seedream 5.0 Pro を使用）、それらを Seedance 2.5 に R2V リファレンスとして入力することで、ショット間でキャラクター／プロップ／ロケーションの一貫性を保ちます。  \nSeedance 2.5 では、複雑なシーン向けの R2V リファレンス（キャラクターシート + プロップ／武器シート + 環境シート）と Omni reference を使い、安定した連続性を保ちながら、複数シーン・複数ショットの cinematic なストーリーテリングを実現します。  \n1 回の Seedance 2.5 生成で 30 秒の動画全体を生成し、より長いクリップと、より安定した連続性を得ます。  \nSeedance 2.5 では、複数のマルチモーダルリファレンス（最大 50 入力）を組み合わせることで、複雑なシーンと視覚的一貫性をより適切に制御できます。  \n最終動画は、ComfyUI 経由で NVIDIA RTX VSR（Video Super Resolution）を使ってローカルでアップスケールします。  \nACE-Step 1.5 XL を使ってバックグラウンドミュージックをローカル生成し、後処理で追加します（または Seedance の内蔵サウンド／ボイスと併用します）。"
+    },
+    "ko": {
+      "content": "캐릭터 시트와 소품 시트를 이미지 레퍼런스(예: GPT Image 2.0 사용)로 만들고, 환경/로케이션 시트(예: Seedream 5.0 Pro 사용)도 함께 제작한 다음, 이를 Seedance 2.5에 R2V 레퍼런스로 입력해 샷 전반에서 캐릭터/소품/로케이션의 일관성을 유지합니다.  \nSeedance 2.5에서는 복잡한 장면의 R2V 레퍼런스(캐릭터 시트 + 소품/무기 시트 + 환경 시트)에 Omni reference를 사용해, 안정적인 연속성을 갖춘 멀티 씬, 멀티 샷 cinematic 스토리텔링을 구현합니다.  \n더 길고 연속성도 더 안정적인 클립을 얻기 위해, Seedance 2.5 한 번의 생성으로 30초 전체 영상을 생성합니다.  \nSeedance 2.5에서 여러 멀티모달 레퍼런스(최대 50개 입력)를 결합해 복잡한 장면과 시각적 일관성을 더 정교하게 제어합니다.  \n최종 영상은 ComfyUI를 통해 NVIDIA RTX VSR(Video Super Resolution)로 로컬 업스케일합니다.  \nACE-Step 1.5 XL로 배경 음악을 로컬에서 생성하고, 이를 후반 작업에서 추가합니다(또는 Seedance의 내장 사운드/보이스와 함께 사용합니다)."
+    },
+    "pt": {
+      "content": "Crie character sheets e props sheets como referências de imagem (por exemplo, com GPT Image 2.0) e environment/location sheets (por exemplo, com Seedream 5.0 Pro), depois alimente-os no Seedance 2.5 como referências R2V para manter personagens/props/localizações consistentes entre os takes.  \nNo Seedance 2.5, use Omni reference com referências R2V de cena complexa (character sheet + props/weapons sheet + environment sheet) para conduzir uma narrativa cinematográfica multi-cena e multi-take com continuidade estável.  \nGere um vídeo completo de 30 segundos em uma única geração no Seedance 2.5 para obter clipes mais longos com continuidade mais estável.  \nCombine múltiplas referências multimodais (até 50 inputs) no Seedance 2.5 para controlar melhor cenas complexas e a consistência visual.  \nFaça upscale do vídeo final localmente usando NVIDIA RTX VSR (Video Super Resolution) via ComfyUI.  \nGere música de fundo localmente usando ACE-Step 1.5 XL e adicione-a na pós-produção (ou junto com o som/voz nativos do Seedance)."
+    },
+    "zh": {
+      "content": "创建角色设定表和道具设定表作为图像参考（例如使用 GPT Image 2.0），以及环境/场景设定表（例如使用 Seedream 5.0 Pro），然后将它们作为 R2V 参考输入到 Seedance 2.5 中，以保持角色/道具/场景在不同镜头间的一致性。  \n在 Seedance 2.5 中，使用 Omni reference 搭配复杂场景的 R2V references（角色设定表 + 道具/武器设定表 + 环境设定表），以驱动多场景、多镜头的 cinematic 叙事，并保持稳定的连续性。  \n在一次 Seedance 2.5 生成中直接生成完整的 30 秒视频，以获得更长、连续性更稳定的片段。  \n在 Seedance 2.5 中结合多个多模态参考（最多 50 个输入），以更好地控制复杂场景和视觉一致性。  \n使用 NVIDIA RTX VSR（Video Super Resolution）通过 ComfyUI 在本地对最终视频进行 upscale。  \n使用 ACE-Step 1.5 XL 在本地生成背景音乐，并在后期中添加（或与 Seedance 内置的声音/语音一起使用）。"
+    }
+  }
+}

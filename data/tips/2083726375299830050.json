@@ -1,0 +1,42 @@
+{
+  "id": "2083726375299830050",
+  "title": "ボーカル音源のみを入力して生成すると、アフレコになりつつ曲のテンポや歌詞を変えずにMV化できる",
+  "content": "ボーカル音源のみを入力して生成すると、アフレコになりつつ曲のテンポや歌詞を変えずにMV化できる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083724786442911745/img/O7_ubJ5bKrakwhB4.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083726375299830050.mp4",
+  "sourceLink": "https://x.com/Chihuahua_wa/status/2083726375299830050",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "Chihua-wan",
+    "link": "https://x.com/Chihuahua_wa"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "ボーカル音源のみを入力して生成すると、アフレコになりつつ曲のテンポや歌詞を変えずにMV化できる",
+  "translations": {
+    "en": {
+      "content": "If you generate using only the vocal track as input, you can turn it into a music video while keeping the song’s tempo and lyrics unchanged, even as it takes on a dubbed-over feel.\n\n--- THREAD CONTINUATION ---\n[Thread 1] MiniMax H3: shot composition, leave the music video to it\nI hope it’ll support 20- and 30-second clips in the future too https://t.co/z0HfzAGU2O\n---"
+    },
+    "es": {
+      "content": "Al generar solo a partir de una pista vocal, se puede convertir en un MV sin cambiar el tempo de la canción ni la letra, aunque con un resultado que se acerca al doblaje.\n\n--- CONTINUACIÓN DEL THREAD ---\n[Thread 1] MiniMax H3　cortes de edición, MusicVideo en modo automático\nOjalá en el futuro también soporte 20 o 30 segundos. https://t.co/z0HfzAGU2O\n---"
+    },
+    "fr": {
+      "content": "En générant à partir d’une source audio vocale uniquement, il est possible de créer un MV tout en conservant le tempo et les paroles de la chanson, avec un rendu proche du doublage.\n\n--- THREAD CONTINUATION ---\n[Thread 1] MiniMax H3　Découpage des plans, MusicVideo en mode automatique\nJ’espère qu’il prendra aussi en charge 20 ou 30 secondes à l’avenir https://t.co/z0HfzAGU2O\n---"
+    },
+    "ko": {
+      "content": "보컬 음원만 입력해 생성하면, 더빙처럼 되면서도 곡의 템포나 가사를 바꾸지 않고 MV로 만들 수 있다\n\n--- THREAD CONTINUATION ---\n[Thread 1] MiniMax H3　컷 분할, 맡겨두는 MusicVideo\n앞으로 20, 30초도 지원해 주면 좋겠다 https://t.co/z0HfzAGU2O\n---"
+    },
+    "pt": {
+      "content": "Ao gerar apenas com a faixa vocal como entrada, é possível transformá-la em um MV sem alterar o andamento da música nem a letra, enquanto ela ganha um efeito de dublagem.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] MiniMax H3　cortes e edição, Music Video no automático\nTomara que no futuro também dê suporte a 20, 30 segundos. https://t.co/z0HfzAGU2O\n---"
+    },
+    "zh": {
+      "content": "仅输入人声音源进行生成时，可以在不改变歌曲节奏和歌词的情况下，将其制作成配音风格的 MV\n\n--- THREAD CONTINUATION ---\n[Thread 1] MiniMax H3　镜头切分，交给它来做的 MusicVideo\n如果今后也能支持 20、30 秒就好了 https://t.co/z0HfzAGU2O\n---"
+    }
+  }
+}

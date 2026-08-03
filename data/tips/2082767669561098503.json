@@ -1,0 +1,42 @@
+{
+  "id": "2082767669561098503",
+  "title": "Load up to 50 multimodal reference assets in Seedance 2.5 to improve…",
+  "content": "Load up to 50 multimodal reference assets in Seedance 2.5 to improve controllable consistency across scenes/characters.  \nUse a 30-second single-shot generation to build longer, cohesive plots with consistent pacing and narrative continuity.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2082767522441711616/img/XdKedCjYfO5LDQEP.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082767669561098503.mp4",
+  "sourceLink": "https://x.com/monicaa_AI/status/2082767669561098503",
+  "sourcePublishedAt": "2026-07-30",
+  "author": {
+    "name": "Monica",
+    "link": "https://x.com/monicaa_AI"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Load up to 50 multimodal reference assets in Seedance 2.5 to improve controllable consistency across scenes/characters.  \nUse a 30-second single-shot generation to build longer, cohesive plots with consistent pacing and narrative continuity.",
+  "translations": {
+    "es": {
+      "content": "Carga hasta 50 recursos de referencia multimodales en Seedance 2.5 para mejorar la consistencia controlable entre escenas y personajes.  \nUsa una generación de toma única de 30 segundos para construir tramas más largas y cohesionadas, con un ritmo consistente y continuidad narrativa."
+    },
+    "fr": {
+      "content": "Chargez jusqu’à 50 assets de référence multimodaux dans Seedance 2.5 afin d’améliorer la cohérence contrôlable entre les scènes et les personnages.  \nUtilisez une génération en plan-séquence de 30 secondes pour construire des intrigues plus longues et cohérentes, avec un rythme constant et une continuité narrative."
+    },
+    "ja": {
+      "content": "Seedance 2.5 では、最大50個のマルチモーダル参照アセットを読み込んで、シーンやキャラクター全体での制御可能な一貫性を向上できます。  \n30秒のシングルショット生成を使えば、より長くまとまりのあるプロットを、一定のテンポと物語の連続性を保ちながら構築できます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 최대 50개의 멀티모달 레퍼런스 에셋을 불러와 장면/캐릭터 전반의 제어 가능한 일관성을 높이세요.  \n30초 단일 샷 생성 기능을 사용해, 일관된 페이싱과 서사적 연속성을 갖춘 더 길고 응집력 있는 플롯을 구성하세요."
+    },
+    "pt": {
+      "content": "Carregue até 50 assets de referência multimodais no Seedance 2.5 para melhorar a consistência controlável entre cenas/personagens.  \nUse uma geração de plano único de 30 segundos para construir enredos mais longos e coesos, com ritmo consistente e continuidade narrativa."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中最多可加载 50 个多模态参考素材，以提升跨场景/角色的可控一致性。  \n使用 30 秒单镜头生成，构建更长、更连贯的剧情，并保持一致的节奏和叙事连续性。"
+    }
+  }
+}

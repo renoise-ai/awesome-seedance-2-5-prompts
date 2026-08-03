@@ -1,0 +1,42 @@
+{
+  "id": "2083092897042419757",
+  "title": "SeeDance 2.5で最大30枚まで画像参照できるので、キャラシートを15枚ずつ（15 vs 15）読み込ませて対戦シーンのキャラ一貫性を出す",
+  "content": "SeeDance 2.5で最大30枚まで画像参照できるので、キャラシートを15枚ずつ（15 vs 15）読み込ませて対戦シーンのキャラ一貫性を出す  \n15秒・720p設定でトライアル生成して動きや破綻を確認する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083089033501327360/img/5aZpoBnjpnv8Muy1.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083092897042419757.mp4",
+  "sourceLink": "https://x.com/viva_artificial/status/2083092897042419757",
+  "sourcePublishedAt": "2026-07-31",
+  "author": {
+    "name": "viva",
+    "link": "https://x.com/viva_artificial"
+  },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "SeeDance 2.5で最大30枚まで画像参照できるので、キャラシートを15枚ずつ（15 vs 15）読み込ませて対戦シーンのキャラ一貫性を出す  \n15秒・720p設定でトライアル生成して動きや破綻を確認する",
+  "translations": {
+    "en": {
+      "content": "Since SeeDance 2.5 can reference up to 30 images, load 15 character sheet images each (15 vs 15) to maintain character consistency in a battle scene.  \nDo a trial generation with a 15-second, 720p setting to check the motion and any visual glitches."
+    },
+    "es": {
+      "content": "Como SeeDance 2.5 permite usar hasta 30 imágenes de referencia, carga hojas de personaje de 15 en 15 (15 vs 15) para lograr coherencia de los personajes en una escena de combate.  \nHaz una generación de prueba con una configuración de 15 segundos y 720p para comprobar el movimiento y detectar posibles fallos."
+    },
+    "fr": {
+      "content": "Avec SeeDance 2.5, il est possible de référencer jusqu’à 30 images, donc on peut charger des character sheets par lots de 15 images (15 vs 15) afin d’assurer la cohérence des personnages dans une scène de combat.  \nFaire une génération d’essai en réglage 15 secondes / 720p pour vérifier les mouvements et repérer d’éventuelles incohérences."
+    },
+    "ko": {
+      "content": "SeeDance 2.5에서는 최대 30장까지 이미지를 참조할 수 있으므로, 캐릭터 시트를 15장씩(15 vs 15) 불러와 대전 장면에서 캐릭터 일관성을 살린다.  \n15초·720p 설정으로 트라이얼 생성해 움직임과 깨짐 여부를 확인한다"
+    },
+    "pt": {
+      "content": "Como o SeeDance 2.5 permite usar até 30 imagens de referência, carregue character sheets em blocos de 15 (15 vs 15) para manter a consistência dos personagens em cenas de confronto.  \nFaça uma geração de teste com configuração de 15 segundos e 720p para verificar os movimentos e possíveis falhas."
+    },
+    "zh": {
+      "content": "由于 SeeDance 2.5 最多可参考 30 张图片，因此可以将角色设定图分成每组 15 张（15 vs 15）加载进去，以在对战场景中保持角色一致性。  \n先用 15 秒、720p 设置进行试生成，确认动作表现和是否有崩坏。"
+    }
+  }
+}

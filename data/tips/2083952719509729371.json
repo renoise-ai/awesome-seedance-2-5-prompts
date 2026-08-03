@@ -1,0 +1,42 @@
+{
+  "id": "2083952719509729371",
+  "title": "Use the same prompt and the same reference images across Seedance…",
+  "content": "Use the same prompt and the same reference images across Seedance versions/models to make a fair quality comparison for anime scenes.\nUpscale Seedance 2.5 outputs to 60fps and 2K for smoother playback and higher apparent detail.\nIf background fidelity matters, prefer Seedance 2.0 (4K or 1080p) over Seedance 2.5 in cases where 2.0 preserves the intended background better.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083952351149211648/img/tNVfz_N3ibGILHQo.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083952719509729371.mp4",
+  "sourceLink": "https://x.com/KenseiStudio/status/2083952719509729371",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "Kensei Studio",
+    "link": "https://x.com/KenseiStudio"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use the same prompt and the same reference images across Seedance versions/models to make a fair quality comparison for anime scenes.\nUpscale Seedance 2.5 outputs to 60fps and 2K for smoother playback and higher apparent detail.\nIf background fidelity matters, prefer Seedance 2.0 (4K or 1080p) over Seedance 2.5 in cases where 2.0 preserves the intended background better.",
+  "translations": {
+    "es": {
+      "content": "Usa el mismo prompt y las mismas imágenes de referencia en todas las versiones/modelos de Seedance para hacer una comparación justa de calidad en escenas de anime.  \nAumenta la resolución de las salidas de Seedance 2.5 a 60 fps y 2K para una reproducción más fluida y un mayor nivel de detalle aparente.  \nSi la fidelidad del fondo es importante, prefiere Seedance 2.0 (4K o 1080p) en lugar de Seedance 2.5 en los casos en que 2.0 conserve mejor el fondo previsto."
+    },
+    "fr": {
+      "content": "Utilisez le même prompt et les mêmes images de référence sur toutes les versions/modèles de Seedance afin de réaliser une comparaison de qualité équitable pour les scènes d’anime.  \nUpscale les sorties de Seedance 2.5 en 60 fps et en 2K pour une lecture plus fluide et un niveau de détail apparent plus élevé.  \nSi la fidélité de l’arrière-plan est importante, privilégiez Seedance 2.0 (4K ou 1080p) plutôt que Seedance 2.5 dans les cas où 2.0 préserve mieux l’arrière-plan souhaité."
+    },
+    "ja": {
+      "content": "Seedanceの各バージョン／モデル間で公平に品質比較を行うには、同じpromptと同じ参照画像を使用してアニメシーンを生成してください。  \nSeedance 2.5の出力は60fpsと2Kにアップスケールすると、再生がより滑らかになり、見かけ上のディテールも向上します。  \n背景の忠実度が重要な場合は、意図した背景をよりよく保持できるケースでは、Seedance 2.5よりもSeedance 2.0（4Kまたは1080p）を優先してください。"
+    },
+    "ko": {
+      "content": "애니메이션 장면의 공정한 품질 비교를 위해서는 Seedance 버전/모델 전반에 걸쳐 동일한 prompt와 동일한 reference images를 사용하세요.  \n더 부드러운 재생과 더 높은 체감 디테일을 위해 Seedance 2.5 출력은 60fps와 2K로 upscale하세요.  \n배경 충실도가 중요하다면, Seedance 2.0이 의도한 배경을 더 잘 보존하는 경우에는 Seedance 2.5보다 Seedance 2.0(4K 또는 1080p)을 우선하세요."
+    },
+    "pt": {
+      "content": "Use o mesmo prompt e as mesmas imagens de referência em todas as versões/modelos do Seedance para fazer uma comparação justa de qualidade em cenas de anime.\nFaça upscale das saídas do Seedance 2.5 para 60fps e 2K para uma reprodução mais suave e maior nível de detalhe aparente.\nSe a fidelidade do fundo for importante, prefira o Seedance 2.0 (4K ou 1080p) em vez do Seedance 2.5 nos casos em que o 2.0 preserva melhor o fundo pretendido."
+    },
+    "zh": {
+      "content": "在不同的 Seedance 版本/模型中使用相同的 prompt 和相同的参考图像，以便对动漫场景进行公平的质量比较。  \n将 Seedance 2.5 的输出提升到 60fps 和 2K，以获得更流畅的播放效果和更高的表观细节。  \n如果背景保真度很重要，在 2.0 能更好保留预期背景的情况下，优先选择 Seedance 2.0（4K 或 1080p），而不是 Seedance 2.5。"
+    }
+  }
+}

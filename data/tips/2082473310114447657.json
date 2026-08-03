@@ -1,0 +1,42 @@
+{
+  "id": "2082473310114447657",
+  "title": "自分で踊ったダンス動画を参照（リファレンス）としてSeedanceに渡して、特定パートのダンス動作を再現させる",
+  "content": "自分で踊ったダンス動画を参照（リファレンス）としてSeedanceに渡して、特定パートのダンス動作を再現させる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2082473263972900864/img/NSrJy2HiHRugjPG1.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2082473310114447657.mp4",
+  "sourceLink": "https://x.com/ZetoGroovin/status/2082473310114447657",
+  "sourcePublishedAt": "2026-07-29",
+  "author": {
+    "name": "Zeto",
+    "link": "https://x.com/ZetoGroovin"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "自分で踊ったダンス動画を参照（リファレンス）としてSeedanceに渡して、特定パートのダンス動作を再現させる",
+  "translations": {
+    "en": {
+      "content": "Pass a dance video you performed yourself to Seedance as a reference, and have it reproduce the dance movements from a specific part."
+    },
+    "es": {
+      "content": "Pasa a Seedance un video de baile que hayas bailado tú mismo como referencia, para reproducir los movimientos de baile de una parte específica."
+    },
+    "fr": {
+      "content": "Transmettre à Seedance une vidéo de danse que vous avez vous-même réalisée comme référence, afin de reproduire les mouvements de danse d’une partie spécifique."
+    },
+    "ko": {
+      "content": "자신이 춤춘 댄스 영상을 레퍼런스(reference)로 Seedance에 전달해, 특정 파트의 댄스 동작을 재현하게 한다"
+    },
+    "pt": {
+      "content": "Passe um vídeo de dança que você mesmo gravou como referência para o Seedance e faça com que ele reproduza os movimentos de dança de uma parte específica."
+    },
+    "zh": {
+      "content": "将自己跳的舞蹈视频作为参考（reference）传给 Seedance，让它复现特定部分的舞蹈动作"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2083142018587586732",
+  "title": "Use Seedance 2.5’s multi-reference workflow by uploading multiple reference…",
+  "content": "Use Seedance 2.5’s multi-reference workflow by uploading multiple reference images (e.g., 14 images) plus 1 audio track to generate a 30-second 720p video and test character consistency across scenes.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083141610225926144/img/HiR41pBk3lOXafZd.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083142018587586732.mp4",
+  "sourceLink": "https://x.com/itsSSS1510/status/2083142018587586732",
+  "sourcePublishedAt": "2026-07-31",
+  "author": {
+    "name": "Sheetal Shinde",
+    "link": "https://x.com/itsSSS1510"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5’s multi-reference workflow by uploading multiple reference images (e.g., 14 images) plus 1 audio track to generate a 30-second 720p video and test character consistency across scenes.",
+  "translations": {
+    "es": {
+      "content": "Usa el flujo de trabajo de múltiples referencias de Seedance 2.5 subiendo varias imágenes de referencia (por ejemplo, 14 imágenes) junto con 1 pista de audio para generar un video de 30 segundos en 720p y probar la consistencia del personaje entre escenas."
+    },
+    "fr": {
+      "content": "Utilisez le workflow multi-références de Seedance 2.5 en téléversant plusieurs images de référence (par exemple, 14 images) ainsi qu’une piste audio pour générer une vidéo de 30 secondes en 720p et tester la cohérence du personnage d’une scène à l’autre."
+    },
+    "ja": {
+      "content": "Seedance 2.5のマルチリファレンスワークフローを使い、複数の参照画像（例：14枚）と1本の音声トラックをアップロードして、30秒の720p動画を生成し、シーンをまたいだキャラクターの一貫性をテストします。"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 멀티 레퍼런스 워크플로를 사용해 여러 장의 참고 이미지(예: 14장)와 1개의 오디오 트랙을 업로드하여 30초 분량의 720p 비디오를 생성하고, 장면 전반에서 캐릭터 일관성을 테스트하세요."
+    },
+    "pt": {
+      "content": "Use o fluxo de trabalho multi-referência do Seedance 2.5 enviando várias imagens de referência (por exemplo, 14 imagens) mais 1 faixa de áudio para gerar um vídeo de 30 segundos em 720p e testar a consistência do personagem entre as cenas."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 的多参考工作流，上传多张参考图像（例如 14 张）以及 1 条音频轨道，即可生成一段 30 秒的 720p 视频，并测试角色在不同场景中的一致性。"
+    }
+  }
+}

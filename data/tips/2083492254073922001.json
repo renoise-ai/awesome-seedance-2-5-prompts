@@ -1,0 +1,42 @@
+{
+  "id": "2083492254073922001",
+  "title": "CapCutのSeedance2.5でアクションシーンを作るときは、動き（アクション）を細かく具体的に指定して生成する",
+  "content": "CapCutのSeedance2.5でアクションシーンを作るときは、動き（アクション）を細かく具体的に指定して生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083492220716621824/img/2AJcffWWyxmADQ88.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083492254073922001.mp4",
+  "sourceLink": "https://x.com/ChiakiAkagi/status/2083492254073922001",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "ChiakiAkagi 還暦のAIイリュージョニスト",
+    "link": "https://x.com/ChiakiAkagi"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "CapCutのSeedance2.5でアクションシーンを作るときは、動き（アクション）を細かく具体的に指定して生成する",
+  "translations": {
+    "en": {
+      "content": "When creating action scenes with CapCut’s Seedance 2.5, specify the movements (actions) in detail and generate accordingly."
+    },
+    "es": {
+      "content": "Cuando crees escenas de acción con Seedance 2.5 de CapCut, especifica el movimiento (acción) de forma detallada y concreta al generar."
+    },
+    "fr": {
+      "content": "Lorsque vous créez une scène d’action avec Seedance 2.5 de CapCut, spécifiez le mouvement (action) de manière détaillée et précise lors de la génération."
+    },
+    "ko": {
+      "content": "CapCut의 Seedance2.5로 액션 장면을 만들 때는, 움직임(액션)을 세부적이고 구체적으로 지정해서 생성한다"
+    },
+    "pt": {
+      "content": "Ao criar cenas de ação com o Seedance2.5 do CapCut, especifique e gere os movimentos (ações) de forma detalhada e específica."
+    },
+    "zh": {
+      "content": "在使用 CapCut 的 Seedance2.5 制作动作场景时，要将动作（action）细致而具体地指定后再生成。"
+    }
+  }
+}

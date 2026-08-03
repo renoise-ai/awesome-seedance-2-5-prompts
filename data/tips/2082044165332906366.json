@@ -1,0 +1,41 @@
+{
+  "id": "2082044165332906366",
+  "title": "Before generating in Seedance, build an identity sheet per character with a…",
+  "content": "Before generating in Seedance, build an identity sheet per character with a locked set of reference images (face from multiple angles) and reuse that same set for every shot to prevent face drift.  \nCreate a wardrobe sheet by generating/saving stills of each outfit and use the exact outfit image as a reference input in later shots instead of re-describing the clothing in text.  \nCreate a scene sheet by saving reference frames for each location/prop/lighting mood and feed those frames as references so Seedance reuses the same environment rather than reinventing it each generation.  \nIn Seedance 2.5, load your identity + wardrobe + scene sheets together using the expanded 50-reference-input limit to maximize cross-shot consistency.  \nWhen a client requests changes (e.g., outfit), swap the specific reference image in your inputs rather than rewriting prompts to reduce revision rounds and randomness.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/jaynwabueze/status/2082044165332906366",
+  "sourcePublishedAt": "2026-07-28",
+  "author": {
+    "name": "Jay Nwabueze",
+    "link": "https://x.com/jaynwabueze"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Before generating in Seedance, build an identity sheet per character with a locked set of reference images (face from multiple angles) and reuse that same set for every shot to prevent face drift.  \nCreate a wardrobe sheet by generating/saving stills of each outfit and use the exact outfit image as a reference input in later shots instead of re-describing the clothing in text.  \nCreate a scene sheet by saving reference frames for each location/prop/lighting mood and feed those frames as references so Seedance reuses the same environment rather than reinventing it each generation.  \nIn Seedance 2.5, load your identity + wardrobe + scene sheets together using the expanded 50-reference-input limit to maximize cross-shot consistency.  \nWhen a client requests changes (e.g., outfit), swap the specific reference image in your inputs rather than rewriting prompts to reduce revision rounds and randomness.",
+  "translations": {
+    "es": {
+      "content": "Antes de generar en Seedance, crea una ficha de identidad por personaje con un conjunto bloqueado de imágenes de referencia (rostro desde múltiples ángulos) y reutiliza exactamente ese mismo conjunto en cada toma para evitar la deriva facial.  \nCrea una ficha de vestuario generando/guardando imágenes fijas de cada atuendo y usa la imagen exacta del atuendo como entrada de referencia en tomas posteriores, en lugar de volver a describir la ropa en texto.  \nCrea una ficha de escena guardando fotogramas de referencia para cada ubicación/prop/estado de iluminación y alimenta esos fotogramas como referencias para que Seedance reutilice el mismo entorno en lugar de reinventarlo en cada generación.  \nEn Seedance 2.5, carga juntas tus fichas de identidad + vestuario + escena usando el límite ampliado de 50 entradas de referencia para maximizar la consistencia entre tomas.  \nCuando un cliente solicite cambios (p. ej., el atuendo), sustituye la imagen de referencia específica en tus entradas en lugar de reescribir prompts para reducir las rondas de revisión y la aleatoriedad."
+    },
+    "fr": {
+      "content": "Avant de générer dans Seedance, créez une fiche d’identité pour chaque personnage avec un ensemble verrouillé d’images de référence (visage sous plusieurs angles) et réutilisez exactement ce même ensemble pour chaque plan afin d’éviter toute dérive du visage.  \nCréez une fiche de garde-robe en générant/enregistrant des images fixes de chaque tenue, puis utilisez l’image exacte de la tenue comme référence dans les plans suivants, au lieu de redécrire les vêtements en texte.  \nCréez une fiche de scène en enregistrant des images de référence pour chaque lieu/accessoire/ambiance lumineuse, et fournissez ces images comme références afin que Seedance réutilise le même environnement au lieu de le réinventer à chaque génération.  \nDans Seedance 2.5, chargez ensemble vos fiches d’identité + garde-robe + scène en utilisant la limite étendue de 50 entrées de référence afin de maximiser la cohérence entre les plans.  \nLorsqu’un client demande des modifications (par ex. une tenue), remplacez l’image de référence spécifique dans vos entrées plutôt que de réécrire les prompts, afin de réduire les allers-retours de révision et l’aléatoire."
+    },
+    "ja": {
+      "content": "Seedanceで生成する前に、各キャラクターごとに、固定された参照画像セット（複数角度からの顔）を含むアイデンティティシートを作成し、すべてのショットで同じセットを再利用して、顔のブレを防ぎます。  \n各衣装の静止画を生成・保存してワードローブシートを作成し、後のショットでは服装をテキストで再説明する代わりに、まったく同じ衣装画像を参照入力として使用します。  \n各ロケーション・小道具・ライティングの雰囲気ごとに参照フレームを保存してシーンシートを作成し、それらのフレームを参照として入力することで、Seedanceが毎回新しく作り直すのではなく、同じ環境を再利用するようにします。  \nSeedance 2.5では、拡張された50件の参照入力上限を使って、アイデンティティシート＋ワードローブシート＋シーンシートをまとめて読み込み、ショット間の一貫性を最大化します。  \nクライアントから変更依頼（例：衣装変更）があった場合は、プロンプトを書き直すのではなく、入力内の該当する参照画像を差し替えて、修正回数とランダム性を減らします。"
+    },
+    "ko": {
+      "content": "Seedance에서 생성하기 전에, 각 캐릭터별로 여러 각도의 얼굴이 포함된 고정된 레퍼런스 이미지 세트로 아이덴티티 시트를 만들고, 모든 샷에 동일한 세트를 재사용해 face drift를 방지하세요.  \n각 의상을 스틸 이미지로 생성·저장해 워드로브 시트를 만들고, 이후 샷에서는 옷을 텍스트로 다시 설명하는 대신 정확히 그 의상 이미지를 레퍼런스 입력으로 사용하세요.  \n각 로케이션/소품/조명 무드에 대한 레퍼런스 프레임을 저장해 씬 시트를 만들고, 그 프레임들을 레퍼런스로 입력해 Seedance가 매번 환경을 새로 만들어내는 대신 동일한 환경을 재사용하도록 하세요.  \nSeedance 2.5에서는 확장된 50개 레퍼런스 입력 한도를 활용해 아이덴티티 + 워드로브 + 씬 시트를 함께 불러와 샷 간 일관성을 극대화하세요.  \n클라이언트가 의상 같은 변경을 요청하면, 프롬프트를 다시 쓰는 대신 입력된 특정 레퍼런스 이미지만 교체해 수정 라운드와 랜덤성을 줄이세요."
+    },
+    "pt": {
+      "content": "Antes de gerar no Seedance, crie uma ficha de identidade para cada personagem com um conjunto fixo de imagens de referência (rosto de vários ângulos) e reutilize exatamente o mesmo conjunto em cada tomada para evitar deriva facial.  \nCrie uma ficha de figurino gerando/salvando stills de cada roupa e use a imagem exata do look como entrada de referência nas tomadas seguintes, em vez de re-descrever as roupas em texto.  \nCrie uma ficha de cena salvando frames de referência para cada local/objeto-chave/clima de iluminação e forneça esses frames como referências para que o Seedance reutilize o mesmo ambiente em vez de reinventá-lo a cada geração.  \nNo Seedance 2.5, carregue suas fichas de identidade + figurino + cena juntas usando o limite ampliado de 50 entradas de referência para maximizar a consistência entre tomadas.  \nQuando um cliente solicitar mudanças (por exemplo, no figurino), substitua a imagem de referência específica nas suas entradas em vez de reescrever prompts, para reduzir rodadas de revisão e aleatoriedade."
+    },
+    "zh": {
+      "content": "在使用 Seedance 生成之前，为每个角色建立一份身份表，配备一组锁定的参考图像（从多个角度拍摄的脸部），并在每个镜头中重复使用同一组图像，以防止脸部漂移。  \n创建一份服装表：为每套服装生成并保存静帧，并在后续镜头中将该服装的原始图片作为参考输入，而不是用文字重新描述服装。  \n创建一份场景表：为每个地点、道具和光线氛围保存参考帧，并将这些帧作为参考输入，这样 Seedance 就会复用同一个环境，而不是在每次生成时重新构建。  \n在 Seedance 2.5 中，利用扩展后的 50 个参考输入限制，将身份表 + 服装表 + 场景表一起加载，以最大化跨镜头一致性。  \n当客户提出修改需求时（例如更换服装），直接替换输入中的特定参考图像，而不是重写 prompt，以减少修改轮次和随机性。"
+    }
+  }
+}

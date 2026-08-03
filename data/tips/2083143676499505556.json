@@ -1,0 +1,44 @@
+{
+  "id": "2083143676499505556",
+  "title": "2.0で使っていた同一ダンスプロンプトを2.5でもそのまま流用して生成し、15s/15s/15sなど同条件で並べて比較検証する",
+  "content": "2.0で使っていた同一ダンスプロンプトを2.5でもそのまま流用して生成し、15s/15s/15sなど同条件で並べて比較検証する  \nSeedance 2.5では動きの滑らかさやVFX演出は良い一方で顔の再現がズレやすいので、顔一致が重要な案件では注意してチェックする  \n30秒のノーカット生成にすると、カメラワークや被写体同士（2人）の関係性まで含めて設計・検証しやすい",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083143128224346112/img/54LTPQQrH2xTvVJa.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083143676499505556.mp4",
+  "sourceLink": "https://x.com/sailorv321/status/2083143676499505556",
+  "sourcePublishedAt": "2026-07-31",
+  "author": {
+    "name": "C’est La Vie | AI Director",
+    "link": "https://x.com/sailorv321"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Model Showcase",
+    "VFX"
+  ],
+  "tips": "2.0で使っていた同一ダンスプロンプトを2.5でもそのまま流用して生成し、15s/15s/15sなど同条件で並べて比較検証する  \nSeedance 2.5では動きの滑らかさやVFX演出は良い一方で顔の再現がズレやすいので、顔一致が重要な案件では注意してチェックする  \n30秒のノーカット生成にすると、カメラワークや被写体同士（2人）の関係性まで含めて設計・検証しやすい",
+  "translations": {
+    "en": {
+      "content": "Generate the same dance prompt used in 2.0 in Seedance 2.5 as-is, and compare and verify the results under the same conditions, such as 15s/15s/15s.  \nIn Seedance 2.5, motion smoothness and VFX direction are strong, but facial fidelity can drift more easily, so be sure to check carefully on projects where face consistency is important.  \nIf you generate a full 30-second uncut take, it becomes easier to design and verify not only the camera work but also the relationship between the two subjects.\n\n--- QUOTED TWEET ---\nSeedance 2.5, launch.\nLive-Action Boys’ Dance Practice #2 🕺🔥\n\nThis time, we generated a 30-second uncut dance video with two live-action men.\n\n🕺Prompt in the comments below⬇️\n\nWe packed in everything from subtle steps to upper-body groove, half-beat shifts, and even partner dance sections where the two cross paths, all without losing tempo.\n\nEven with fast choreography, the body movement and the sway of the clothing feel natural, and the live-action expression is very smooth.\n\nWith 30 seconds, you can really play around with the camera work and the relationship between the two people☺️\n\nMade with Seedance 2.5 on CapCut\n@capcutapp_jp\n#CapCutSeedance25 #CapCutCPP\n---"
+    },
+    "es": {
+      "content": "En 2.5, reutilicé tal cual el mismo prompt de baile que usaba en 2.0 para generar y comparar en las mismas condiciones, como 15s/15s/15s.  \nEn Seedance 2.5, aunque la suavidad del movimiento y la puesta en escena de VFX son buenas, la reproducción del rostro tiende a desviarse con facilidad, así que conviene revisar con atención los proyectos en los que la coincidencia facial sea importante.  \nSi se genera un clip continuo de 30 segundos sin cortes, resulta más fácil diseñar y verificar no solo el camera work, sino también la relación entre los sujetos (dos personas).\n\n--- QUOTED TWEET ---\nSeedance 2.5, arranca.\nLive-Action Boys’ Dance Practice #2 🕺🔥\n\nEsta vez, con dos hombres en imagen real,\ngeneré un baile continuo de 30 segundos sin cortes.\n\n🕺El prompt está en los comentarios ⬇️\n\nDesde pasos pequeños hasta el groove de la parte superior del cuerpo, movimientos ligeramente desfasados y hasta la parte de partner dance en la que los dos se cruzan, lo cargué todo sin bajar el ritmo.\n\nIncluso en una coreografía rápida, el movimiento del cuerpo y el vaivén de la ropa se ven naturales, y la expresión en live-action es bastante fluida.\n\nCon 30 segundos, también se puede jugar bien con el camera work y con la relación entre los dos ☺️\n\nHecho con Seedance 2.5 en CapCut\n@capcutapp_jp\n#CapCutSeedance25 #CapCutCPP\n---"
+    },
+    "fr": {
+      "content": "2.0で使っていた同一ダンスプロンプトを2.5でもそのまま流用して生成し、15s/15s/15sなど同条件で並べて比較検証する  \nSeedance 2.5では動きの滑らかさやVFX演出は良い一方で顔の再現がズレやすいので、顔一致が重要な案件では注意してチェックする  \n30秒のノーカット生成にすると、camera workや被写体同士（2人）の関係性まで含めて設計・検証しやすい\n\n--- TWEET CITÉ ---\nSeedance 2.5, c’est parti.\nLive-Action Boys’ Dance Practice #2 🕺🔥\n\nCette fois, avec deux hommes en prise de vue réelle,\non a généré une danse continue de 30 secondes, sans coupe.\n\n🕺 Le prompt est dans les commentaires ⬇️\n\nDes petits pas aux grooves du haut du corps, en passant par des mouvements décalés d’une demi-temps et jusqu’à une danse en duo où les deux se croisent, tout a été intégré sans casser le rythme.\n\nMême sur une chorégraphie rapide, les mouvements du corps et le flottement des vêtements restent naturels, et le rendu live-action est vraiment fluide.\n\nAvec 30 secondes, on peut aussi s’amuser sérieusement avec le camera work et la relation entre les deux personnes ☺️\n\nRéalisé avec Seedance 2.5 sur CapCut\n@capcutapp_jp\n#CapCutSeedance25 #CapCutCPP"
+    },
+    "ko": {
+      "content": "2.0에서 사용하던 동일한 댄스 prompt를 2.5에서도 그대로 재사용해 생성하고, 15s/15s/15s처럼 같은 조건으로 나란히 비교 검증한다  \nSeedance 2.5는 움직임의 부드러움과 VFX 연출은 좋은 반면 얼굴 재현이 어긋나기 쉬우므로, 얼굴 일치가 중요한 작업에서는 주의해서 확인해야 한다  \n30초의 노컷 생성으로 하면 camera work나 피사체 간(2명)의 관계성까지 포함해 설계·검증하기가 더 쉽다\n\n--- QUOTED TWEET ---\nSeedance 2.5, 시작.\nLive-Action Boys’ Dance Practice #2 🕺🔥\n\n이번에는 실사 남성 2명으로,\n30초 노컷 댄스를 생성.\n\n🕺prompt는 댓글란에⬇️\n\n세밀한 스텝부터 상체의 그루브, 반 박자 늦춘 움직임, 두 사람이 교차하는 파트너 댄스까지, 템포를 떨어뜨리지 않고 꽉 채워 넣었습니다.\n\n빠른 안무에서도 몸의 움직임과 의상의 흔들림이 자연스럽고, 실사 표현도 상당히 매끄럽습니다.\n\n30초가 있으면 camera work나 두 사람의 관계성까지 제대로 살릴 수 있네요☺️\n\nMade with Seedance 2.5 on CapCut\n@capcutapp_jp\n#CapCutSeedance25 #CapCutCPP\n---"
+    },
+    "pt": {
+      "content": "2.0で使っていた同一のダンス prompt を2.5でもそのまま流用して生成し、15s/15s/15sなど同条件で並べて比較検証する  \nSeedance 2.5では動きの滑らかさやVFX演出は良い一方で、顔の再現がズレやすいので、顔一致が重要な案件では注意してチェックする  \n30秒のノーカット生成にすると、camera work や被写体同士（2人）の関係性まで含めて設計・検証しやすい\n\n--- TWEET CITADO ---\nSeedance 2.5, em ação.  \nLive-Action Boys’ Dance Practice #2 🕺🔥\n\nDesta vez, com dois homens em live-action,  \ngeramos uma dança contínua de 30 segundos.\n\n🕺 O prompt está nos comentários ⬇️\n\nDesde passos detalhados até o groove da parte superior do corpo, movimentos em contratempos e até a dança em dupla com os dois se cruzando, tudo foi incluído sem perder o ritmo.\n\nMesmo em uma coreografia rápida, os movimentos do corpo e o balanço das roupas ficam naturais, e a expressão em live-action também é bem fluida.\n\nCom 30 segundos, dá para brincar bastante com o camera work e até com a relação entre os dois ☺️\n\nFeito com Seedance 2.5 no CapCut  \n@capcutapp_jp  \n#CapCutSeedance25 #CapCutCPP"
+    },
+    "zh": {
+      "content": "在 2.5 中沿用 2.0 时使用的同一 dance prompt 直接生成，并在 15s/15s/15s 等相同条件下并排对比验证  \nSeedance 2.5 在动作流畅度和 VFX 演出方面表现不错，但脸部还原容易出现偏差，因此在脸部一致性很重要的项目中需要特别注意检查  \n如果做成 30 秒的无剪辑生成，更容易连同 camera work 和主体之间（两人）的关系一起进行设计与验证\n\n--- QUOTED TWEET ---\nSeedance 2.5，启动。\nLive-Action Boys’ Dance Practice #2 🕺🔥\n\n这次用两位真人男性，\n生成了 30 秒的无剪辑 dance。\n\n🕺 prompt 在评论区⬇️\n\n从细小的步伐，到上半身的 groove、错半拍的动作，再到两人交错的 partner dance，都在不降低节奏的前提下塞进去了。\n\n即使是高速编舞，身体动作和服装摆动也很自然，实拍表现相当流畅。\n\n有了 30 秒，就能把 camera work 和两人的关系性也充分玩起来呢☺️\n\nMade with Seedance 2.5 on CapCut\n@capcutapp_jp\n#CapCutSeedance25 #CapCutCPP\n---"
+    }
+  }
+}

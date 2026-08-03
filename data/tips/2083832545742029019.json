@@ -1,0 +1,41 @@
+{
+  "id": "2083832545742029019",
+  "title": "音源をアップロードして、プロンプトにダークポップなMV作ってと指定してMV生成する",
+  "content": "音源をアップロードして、プロンプトにダークポップなMV作ってと指定してMV生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083831586261553152/img/VlP-4mOILvKfz1mS.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083832545742029019.mp4",
+  "sourceLink": "https://x.com/azukichan_ai_/status/2083832545742029019",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "あずき@AIで遊ぶ",
+    "link": "https://x.com/azukichan_ai_"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "tips": "音源をアップロードして、プロンプトにダークポップなMV作ってと指定してMV生成する",
+  "translations": {
+    "en": {
+      "content": "Upload the audio source and specify in the prompt to create a dark pop music video, then generate the MV."
+    },
+    "es": {
+      "content": "Sube la fuente de audio y especifica en el prompt que quieres crear un MV de dark pop para generar el MV."
+    },
+    "fr": {
+      "content": "Téléchargez la source audio et indiquez dans le prompt de créer un MV dark pop pour générer la vidéo."
+    },
+    "ko": {
+      "content": "오디오 소스를 업로드하고, prompt에 다크 팝 느낌의 MV를 만들어 달라고 지정해 MV를 생성한다"
+    },
+    "pt": {
+      "content": "Faça upload da fonte de áudio e, no prompt, especifique para criar um MV dark pop para gerar o MV."
+    },
+    "zh": {
+      "content": "上传音源，并在 prompt 中指定制作一支 dark pop 风格的 MV，即可生成 MV。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2083992180729786805",
+  "title": "Use a single Seedance 2.5 text prompt with explicit specs (16:9, 8K wildlife…",
+  "content": "Use a single Seedance 2.5 text prompt with explicit specs (16:9, 8K wildlife cinematography, morning sunbeams over a Pacific kelp cove, a mother sea otter wrapped in bull-kelp with her pup) to generate a full 30-second nature-documentary sequence.\n\nRely on Seedance 2.5’s built-in narration generation by prompting for documentary-style narration so the model writes and speaks the script in the same generation (no separate TTS/audio pipeline).\n\nAfter generating in Seedance, add soft background music and subtitles in CapCut for a quick (~5 minute) polish pass.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2083992146378436609/pu/img/5zIbheWwW4Gbw4hi.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083992180729786805.mp4",
+  "sourceLink": "https://x.com/Genflickmovies/status/2083992180729786805",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "GenFlick | Making Movies with AI | Join Us",
+    "link": "https://x.com/Genflickmovies"
+  },
+  "tags": [
+    "Animals",
+    "Wildlife",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a single Seedance 2.5 text prompt with explicit specs (16:9, 8K wildlife cinematography, morning sunbeams over a Pacific kelp cove, a mother sea otter wrapped in bull-kelp with her pup) to generate a full 30-second nature-documentary sequence.\n\nRely on Seedance 2.5’s built-in narration generation by prompting for documentary-style narration so the model writes and speaks the script in the same generation (no separate TTS/audio pipeline).\n\nAfter generating in Seedance, add soft background music and subtitles in CapCut for a quick (~5 minute) polish pass.",
+  "translations": {
+    "es": {
+      "content": "Usa un único prompt de texto de Seedance 2.5 con especificaciones explícitas (16:9, cinematografía de fauna salvaje en 8K, rayos de sol matutinos sobre una cala de kelp del Pacífico, una madre nutria marina envuelta en bull-kelp con su cría) para generar una secuencia completa de 30 segundos de estilo documental de naturaleza.\n\nAprovecha la generación de narración integrada de Seedance 2.5 pidiendo una narración con estilo documental, de modo que el modelo escriba y pronuncie el guion en la misma generación (sin un pipeline separado de TTS/audio).\n\nDespués de generar en Seedance, añade música de fondo suave y subtítulos en CapCut para un rápido pulido final (~5 minutos)."
+    },
+    "fr": {
+      "content": "Utilisez un seul prompt texte Seedance 2.5 avec des spécifications explicites (16:9, cinématographie wildlife en 8K, rayons du soleil du matin sur une crique de varech du Pacifique, une mère loutre de mer enveloppée dans du bull-kelp avec son petit) pour générer une séquence complète de 30 secondes de type documentaire nature.\n\nAppuyez-vous sur la génération de narration intégrée de Seedance 2.5 en demandant une narration au style documentaire, afin que le modèle rédige et prononce le script dans la même génération (sans pipeline TTS/audio séparé).\n\nAprès la génération dans Seedance, ajoutez une musique de fond douce et des sous-titres dans CapCut pour une rapide passe de finition (~5 minutes)."
+    },
+    "ja": {
+      "content": "16:9、8Kの野生動物シネマティクス、太平洋のケルプの入り江に差し込む朝の光、ブルーケルプに包まれた母ラッコとその子ども、といった明確な仕様を含む単一の Seedance 2.5 テキストプロンプトを使って、30秒の自然ドキュメンタリーシーケンス全体を生成します。\n\nSeedance 2.5 の内蔵ナレーション生成を活用し、ドキュメンタリー調の narration を指示することで、モデルが同じ生成内でスクリプトを作成し、そのまま読み上げます（別途 TTS/audio パイプラインは不要）。\n\nSeedance で生成した後は、CapCut でソフトなBGMと字幕を追加し、短時間（約5分）の仕上げを行います。"
+    },
+    "ko": {
+      "content": "16:9, 8K wildlife cinematography, morning sunbeams over a Pacific kelp cove, a mother sea otter wrapped in bull-kelp with her pup와 같은 명시적 사양이 포함된 단일 Seedance 2.5 텍스트 prompt를 사용해, 30초 분량의 완전한 자연 다큐멘터리 시퀀스를 생성합니다.\n\nSeedance 2.5의 내장 narration generation을 활용하려면 documentary-style narration을 요청하는 prompt를 사용해, 모델이 같은 생성 과정에서 스크립트를 작성하고 음성으로 읽도록 합니다(별도의 TTS/audio pipeline은 사용하지 않음).\n\nSeedance에서 생성한 뒤에는 CapCut에서 부드러운 배경 음악과 subtitles를 추가해, 빠른 약 5분 정도의 polish pass를 진행합니다."
+    },
+    "pt": {
+      "content": "Use um único prompt de texto do Seedance 2.5 com especificações explícitas (16:9, cinematografia de vida selvagem em 8K, raios de sol da manhã sobre uma enseada de kelp do Pacífico, uma mãe lontra-marinha envolta em bull-kelp com seu filhote) para gerar uma sequência completa de 30 segundos em estilo de documentário de natureza.\n\nAproveite a geração de narração integrada do Seedance 2.5, solicitando uma narração em estilo documental para que o modelo escreva e fale o roteiro na mesma geração (sem pipeline separado de TTS/áudio).\n\nDepois de gerar no Seedance, adicione música de fundo suave e legendas no CapCut para um rápido acabamento (~5 minutos)."
+    },
+    "zh": {
+      "content": "使用一个单一的 Seedance 2.5 文本 prompt，并包含明确规格（16:9、8K wildlife cinematography、清晨阳光穿透太平洋海藻海湾，一只海獭妈妈裹在巨藻中，身边带着幼崽），生成一段完整的 30 秒自然纪录片序列。\n\n通过在 prompt 中要求 documentary-style narration，利用 Seedance 2.5 内置的旁白生成功能，让模型在同一次生成中同时撰写并朗读脚本（无需单独的 TTS/audio pipeline）。\n\n在 Seedance 中生成后，再在 CapCut 中添加柔和的背景音乐和字幕，进行一次快速的（约 5 分钟）润色。"
+    }
+  }
+}

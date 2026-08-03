@@ -1,0 +1,42 @@
+{
+  "id": "2083922097395605803",
+  "title": "ストーリーボード代わりにキャラクターのグリッド画像を参照画像としてSeedance 2.5に読み込ませて構図・カット割りの指示に使う",
+  "content": "ストーリーボード代わりにキャラクターのグリッド画像を参照画像としてSeedance 2.5に読み込ませて構図・カット割りの指示に使う  \n30秒の全体構成を先に組み立ててから、その内容を1つのプロンプトにまとめて生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083921937852743680/img/q6c2dsy_TUvjfhD9.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083922097395605803.mp4",
+  "sourceLink": "https://x.com/nonbiri_AI/status/2083922097395605803",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "のんびり🥨🐑AIアーティスト",
+    "link": "https://x.com/nonbiri_AI"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "ストーリーボード代わりにキャラクターのグリッド画像を参照画像としてSeedance 2.5に読み込ませて構図・カット割りの指示に使う  \n30秒の全体構成を先に組み立ててから、その内容を1つのプロンプトにまとめて生成する",
+  "translations": {
+    "en": {
+      "content": "Use a character grid image as a reference image in Seedance 2.5 instead of a storyboard, and use it to instruct composition and shot breakdowns.  \nFirst, build the overall 30-second structure, then combine that content into a single prompt and generate it."
+    },
+    "es": {
+      "content": "En lugar de un storyboard, cargar una imagen en cuadrícula de los personajes como imagen de referencia en Seedance 2.5 y usarla para dar instrucciones de composición y división de planos.  \nPrimero estructurar la composición general de 30 segundos y, después, reunir ese contenido en un solo prompt para generarlo."
+    },
+    "fr": {
+      "content": "Utiliser une image en grille des personnages comme image de référence dans Seedance 2.5, à la place d’un storyboard, pour guider la composition et le découpage des plans.  \nCommencer par structurer l’ensemble des 30 secondes, puis regrouper ce contenu dans un seul prompt pour la génération."
+    },
+    "ko": {
+      "content": "스토리보드 대신 캐릭터의 그리드 이미지를 참조 이미지로 Seedance 2.5에 불러와 구도와 컷 분할 지시에 활용한다  \n30초 전체 구성을 먼저 짠 다음, 그 내용을 하나의 prompt로 정리해 생성한다"
+    },
+    "pt": {
+      "content": "Carregar uma imagem em grade dos personagens como imagem de referência no Seedance 2.5, em vez de um storyboard, para usá-la como instrução de composição e divisão de cortes  \nPrimeiro, montar a estrutura geral de 30 segundos e, depois, reunir esse conteúdo em um único prompt para gerar o resultado"
+    },
+    "zh": {
+      "content": "将角色的网格图像作为参考图像导入 Seedance 2.5，代替 storyboard，用于构图和镜头切分的指示  \n先把 30 秒的整体结构搭建好，再将其内容整理成一个 prompt 统一生成"
+    }
+  }
+}

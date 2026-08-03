@@ -1,0 +1,43 @@
+{
+  "id": "2083550051767623966",
+  "title": "Dreaminaのプロンプト9000字制限に当たる場合は、2秒ごとの細かい区切りを減らすかプロンプトを軽量化して尺（例：30秒）に収まるよう調整する",
+  "content": "Dreaminaのプロンプト9000字制限に当たる場合は、2秒ごとの細かい区切りを減らすかプロンプトを軽量化して尺（例：30秒）に収まるよう調整する  \nGPT（例：GPT5.6）に15〜16枚のストーリーボードを作らせてからSeedanceに流し込み、長尺生成の再現度を上げる  \nストーリーボード（例：15パネル）に加えてキャラシートを2枚用意し、キャラクターの一貫性を強化して破綻を減らす  \n物足りない場合は1秒×15パネルのストーリーボードを2枚（合計30秒相当）に増やして、より細かく指示して生成を詰める",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083535065607557120/img/69gMY4ZO0tYhkGlx.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083550051767623966.mp4",
+  "sourceLink": "https://x.com/nexustide400/status/2083550051767623966",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "nexustide400",
+    "link": "https://x.com/nexustide400"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Dreaminaのプロンプト9000字制限に当たる場合は、2秒ごとの細かい区切りを減らすかプロンプトを軽量化して尺（例：30秒）に収まるよう調整する  \nGPT（例：GPT5.6）に15〜16枚のストーリーボードを作らせてからSeedanceに流し込み、長尺生成の再現度を上げる  \nストーリーボード（例：15パネル）に加えてキャラシートを2枚用意し、キャラクターの一貫性を強化して破綻を減らす  \n物足りない場合は1秒×15パネルのストーリーボードを2枚（合計30秒相当）に増やして、より細かく指示して生成を詰める",
+  "translations": {
+    "en": {
+      "content": "If you hit Dreamina’s 9,000-character prompt limit, reduce the number of fine-grained 2-second segments or lighten the prompt so it fits the intended duration (e.g., 30 seconds).\n\nHave GPT (e.g., GPT-5.6) generate 15–16 storyboard panels first, then feed them into Seedance to improve the fidelity of long-form generation.\n\nIn addition to the storyboard (e.g., 15 panels), prepare two character sheets to strengthen character consistency and reduce glitches.\n\nIf it still feels insufficient, increase it to two 1-second × 15-panel storyboards (30 seconds total) and give more detailed instructions to refine the generation.\n\n--- QUOTED TWEET ---\nI’ll say this up front: it’s a failed attempt 😭 But it really did produce 30 seconds. Amazing. Dreamina seems to have a 9,000-character prompt limit, so with 2-second intervals, it wasn’t nearly enough for 30 seconds’ worth. I had no choice but to lighten the prompt 🥺\nI want to use GPT-5.6’s incredible capabilities to create a 15-panel storyboard and try again for revenge 😊\n#AIart #Seedance https://t.co/kiC9x8fs2E\n\n--- THREAD CONTINUATION ---\n[Thread 1] This is the storyboard created by GPT in 16 panels.\nSeparately from this, I also made two character sheets. https://t.co/NjQf4V2TJb"
+    },
+    "es": {
+      "content": "Si alcanzas el límite de 9000 caracteres del prompt de Dreamina, reduce los cortes detallados de cada 2 segundos o aligera el prompt para ajustarlo a la duración total (por ejemplo, 30 segundos).\n\nHaz que GPT (por ejemplo, GPT5.6) cree 15–16 paneles de storyboard y luego pásalos a Seedance para mejorar la fidelidad en la generación de larga duración.\n\nAdemás del storyboard (por ejemplo, 15 paneles), prepara 2 hojas de personaje para reforzar la consistencia de los personajes y reducir errores de continuidad.\n\nSi se queda corto, aumenta el storyboard a 2 hojas de 15 paneles de 1 segundo cada una (equivalente a 30 segundos en total) y da instrucciones más detalladas para afinar la generación.\n\n--- TWEET CITADO ---\nLo escribo de antemano: es un fracaso😭 Pero de verdad salió un video de 30 segundos. Increíble. Parece que Dreamina tiene un límite de 9000 caracteres en el prompt, así que con cortes de 2 segundos no alcanza ni de lejos para 30 segundos. No me quedó otra que aligerarlo🥺\nQuiero que GPT5.6, con su rendimiento brutal, me haga un storyboard de 15 paneles para intentarlo de nuevo😊\n#AIart #Seedance https://t.co/kiC9x8fs2E\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Este es el storyboard creado por GPT en 16 paneles.\nAdemás de esto, también he preparado 2 hojas de personaje. https://t.co/NjQf4V2TJb"
+    },
+    "fr": {
+      "content": "Si vous atteignez la limite de 9000 caractères du prompt de Dreamina, réduisez les découpages fins toutes les 2 secondes ou allégez le prompt afin qu’il tienne dans la durée visée (par exemple 30 secondes).  \nFaites d’abord générer par GPT (par exemple GPT5.6) un storyboard de 15 à 16 images, puis injectez-le dans Seedance pour améliorer la fidélité de la génération longue durée.  \nEn plus du storyboard (par exemple 15 panneaux), préparez 2 character sheets afin de renforcer la cohérence des personnages et de réduire les incohérences.  \nSi le résultat reste insuffisant, augmentez le storyboard à 2 séries de 15 panneaux à raison de 1 seconde par panneau (soit l’équivalent de 30 secondes au total) pour donner des instructions plus détaillées et affiner la génération.\n\n--- QUOTED TWEET ---\nJe le dis tout de suite. C’est un échec😭 mais il est vraiment sorti en 30 secondes. Incroyable. Dreamina semble avoir une limite de 9000 caractères pour le prompt, donc avec des découpages de 2 secondes, on est loin d’avoir assez pour 30 secondes. J’ai donc dû alléger le prompt🥺  \nAvec les performances ultra-puissantes de GPT5.6, je vais faire créer un storyboard de 15 panneaux et tenter ma revanche😊  \n#AIart #Seedance https://t.co/kiC9x8fs2E\n\n--- THREAD CONTINUATION ---\n[Thread 1] Voici le storyboard créé par GPT en 16 images.  \nÀ part cela, j’ai aussi préparé 2 character sheets. https://t.co/NjQf4V2TJb\n---"
+    },
+    "ko": {
+      "content": "Dreamina의 prompt 9000자 제한에 걸릴 경우에는 2초 단위의 세밀한 구분을 줄이거나 prompt를 경량화해서 러닝타임(예: 30초)에 맞도록 조정한다  \nGPT(예: GPT5.6)에게 15~16장의 storyboard를 먼저 만들게 한 뒤 Seedance에 넣어, 장편 생성의 재현도를 높인다  \nstoryboard(예: 15패널) 외에 character sheet 2장을 추가로 준비해 캐릭터의 일관성을 강화하고 깨짐을 줄인다  \n아쉬우면 1초×15패널의 storyboard를 2장(총 30초 분량)으로 늘려, 더 세밀하게 지시해 생성을 다듬는다\n\n--- QUOTED TWEET ---\n먼저 말씀드립니다. 실패작입니다😭 그래도 정말 30초가 나왔어요. 대단합니다. Dreamina는 prompt 9000자 제한 같은 게 있는 듯해서, 2초 단위로 나누면 30초 분량은 전혀 부족하더라고요. 어쩔 수 없이 경량화했더니🥺\nGPT5.6의 초고성능으로 15패널 storyboard를 만들어서 리벤지하고 싶습니다😊\n#AIart #Seedance https://t.co/kiC9x8fs2E\n\n--- THREAD CONTINUATION ---\n[Thread 1] GPT가 16장으로 작성한 storyboard입니다.\n이와 별도로 character sheet도 2장 만들었습니다. https://t.co/NjQf4V2TJb\n---"
+    },
+    "pt": {
+      "content": "Se você estiver atingindo o limite de 9.000 caracteres do prompt do Dreamina, reduza os cortes detalhados a cada 2 segundos ou simplifique o prompt para que ele caiba na duração desejada (por exemplo, 30 segundos).\n\nPeça ao GPT (por exemplo, GPT5.6) para criar 15 a 16 quadros de storyboard e depois envie isso para o Seedance, aumentando a fidelidade na geração de longas durações.\n\nAlém do storyboard (por exemplo, 15 painéis), prepare também 2 character sheets para reforçar a consistência dos personagens e reduzir falhas.\n\nSe ainda ficar insatisfatório, aumente para 2 storyboards de 15 painéis com 1 segundo cada (equivalente a 30 segundos no total) e refine a geração com instruções mais detalhadas.\n\n--- TWEET CITADO ---\nVou deixar escrito antes: é um trabalho fracassado😭 Mas realmente saiu um vídeo de 30 segundos. Incrível. Parece que o Dreamina tem um limite de 9.000 caracteres no prompt, então, com cortes de 2 segundos, não dava nem de longe para 30 segundos. Não teve jeito, então tive que simplificar🥺\nQuero me vingar pedindo ao GPT5.6, com seu desempenho absurdo, para criar um storyboard de 15 painéis😊\n#AIart #Seedance https://t.co/kiC9x8fs2E\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Este é o storyboard criado pelo GPT em 16 quadros.\nAlém disso, também fiz 2 character sheets separadas. https://t.co/NjQf4V2TJb"
+    },
+    "zh": {
+      "content": "如果遇到 Dreamina 的 prompt 9000 字限制，就减少每 2 秒的细分，或者把 prompt 轻量化，调整到能容纳目标时长（例如 30 秒）  \n先让 GPT（例如 GPT5.6）生成 15～16 张 storyboard，再导入 Seedance，以提高长镜头生成的还原度  \n除了 storyboard（例如 15 个 panel）之外，再准备 2 张 character sheet，强化角色一致性，减少崩坏  \n如果还不够，可以把 1 秒 × 15 panel 的 storyboard 增加到 2 张（合计相当于 30 秒），通过更细致的指示来进一步打磨生成效果\n\n--- QUOTED TWEET ---\n先写在前面：这是个失败作😭不过真的生成出了 30 秒。太厉害了。Dreamina 好像有 prompt 9000 字限制，按 2 秒一段来写的话，30 秒的内容完全不够。没办法，只好把内容轻量化了🥺  \n我想用 GPT5.6 的超强性能做出 15 个 panel 的 storyboard，再来一次复仇😊  \n#AIart #Seedance https://t.co/kiC9x8fs2E\n\n--- THREAD CONTINUATION ---\n[Thread 1] 这是 GPT 生成的 16 张 storyboard。  \n另外还单独制作了 2 张 character sheet。 https://t.co/NjQf4V2TJb"
+    }
+  }
+}

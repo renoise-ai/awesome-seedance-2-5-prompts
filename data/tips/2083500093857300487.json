@@ -1,0 +1,42 @@
+{
+  "id": "2083500093857300487",
+  "title": "Seedance 2.5では参照音源を最大30秒挿入できるので、30秒の音源を入れて一発生成でMV動画を回す",
+  "content": "Seedance 2.5では参照音源を最大30秒挿入できるので、30秒の音源を入れて一発生成でMV動画を回す",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083497416364572672/img/3uBB2Y76LQoY2gQ4.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083500093857300487.mp4",
+  "sourceLink": "https://x.com/Ryuki_Yano/status/2083500093857300487",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "ヤノ",
+    "link": "https://x.com/Ryuki_Yano"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5では参照音源を最大30秒挿入できるので、30秒の音源を入れて一発生成でMV動画を回す",
+  "translations": {
+    "en": {
+      "content": "With Seedance 2.5, you can insert up to 30 seconds of reference audio, so you can use a 30-second track and generate an MV video in one shot."
+    },
+    "es": {
+      "content": "En Seedance 2.5, puedes insertar una fuente de audio de referencia de hasta 30 segundos, así que puedes introducir un audio de 30 segundos y generar el video musical de una sola vez."
+    },
+    "fr": {
+      "content": "Avec Seedance 2.5, vous pouvez insérer jusqu’à 30 secondes de source audio de référence, ce qui permet d’ajouter un extrait de 30 secondes et de générer un clip MV en une seule fois."
+    },
+    "ko": {
+      "content": "Seedance 2.5에서는 참조 음원을 최대 30초까지 삽입할 수 있으므로, 30초짜리 음원을 넣고 한 번에 생성해서 MV 영상을 돌린다"
+    },
+    "pt": {
+      "content": "No Seedance 2.5, é possível inserir uma fonte de áudio de referência de até 30 segundos, então basta colocar um áudio de 30 segundos e gerar o videoclipe de uma vez."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中，最多可以插入 30 秒的参考音源，因此可以放入一段 30 秒的音源，一次生成就直接跑出 MV 视频。"
+    }
+  }
+}

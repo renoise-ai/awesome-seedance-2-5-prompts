@@ -1,0 +1,42 @@
+{
+  "id": "2083198729176375524",
+  "title": "Use Seedance 2.5’s 10+ language support to generate localized versions (e.g…",
+  "content": "Use Seedance 2.5’s 10+ language support to generate localized versions (e.g., Spanish, Japanese, Korean, Arabic, Portuguese, Vietnamese, Thai) for global campaigns.  \nAlign lip-sync and subtitles to each localized version instead of only translating captions.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083198706401378304/img/DGnQhIOo2mquFiYz.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083198729176375524.mp4",
+  "sourceLink": "https://x.com/Rixhabh__/status/2083198729176375524",
+  "sourcePublishedAt": "2026-07-31",
+  "author": {
+    "name": "Rishabh",
+    "link": "https://x.com/Rixhabh__"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5’s 10+ language support to generate localized versions (e.g., Spanish, Japanese, Korean, Arabic, Portuguese, Vietnamese, Thai) for global campaigns.  \nAlign lip-sync and subtitles to each localized version instead of only translating captions.",
+  "translations": {
+    "es": {
+      "content": "Usa la compatibilidad de Seedance 2.5 con más de 10 idiomas para generar versiones localizadas (por ejemplo, español, japonés, coreano, árabe, portugués, vietnamita y tailandés) para campañas globales.  \nAlinea la sincronización labial y los subtítulos con cada versión localizada en lugar de limitarte a traducir los captions."
+    },
+    "fr": {
+      "content": "Utilisez la prise en charge de plus de 10 langues de Seedance 2.5 pour générer des versions localisées (par exemple, en espagnol, japonais, coréen, arabe, portugais, vietnamien, thaï) pour des campagnes internationales.  \nAlignez le lip-sync et les sous-titres sur chaque version localisée, au lieu de vous contenter de traduire les captions."
+    },
+    "ja": {
+      "content": "Seedance 2.5の10以上の言語対応を活用して、グローバルキャンペーン向けにローカライズ版（例：スペイン語、日本語、韓国語、アラビア語、ポルトガル語、ベトナム語、タイ語）を生成します。  \n字幕の翻訳だけでなく、各ローカライズ版に合わせてリップシンクと字幕を調整します。"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 10개 이상 언어 지원을 활용해 글로벌 캠페인을 위한 현지화 버전(예: 스페인어, 일본어, 한국어, 아랍어, 포르투갈어, 베트남어, 태국어)을 생성하세요.  \n캡션만 번역하는 대신, 각 현지화 버전에 맞춰 립싱크와 자막을 정렬하세요."
+    },
+    "pt": {
+      "content": "Use o suporte a mais de 10 idiomas do Seedance 2.5 para gerar versões localizadas (por exemplo, espanhol, japonês, coreano, árabe, português, vietnamita, tailandês) para campanhas globais.  \nAlinhe a sincronização labial e as legendas a cada versão localizada, em vez de traduzir apenas as legendas."
+    },
+    "zh": {
+      "content": "利用 Seedance 2.5 的 10+ 语言支持，为全球营销活动生成本地化版本（例如西班牙语、日语、韩语、阿拉伯语、葡萄牙语、越南语、泰语）。  \n将口型同步和字幕与每个本地化版本对齐，而不仅仅是翻译字幕。"
+    }
+  }
+}

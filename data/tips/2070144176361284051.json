@@ -1,0 +1,42 @@
+{
+  "id": "2070144176361284051",
+  "title": "先用 Seedream 5.0 Pro 生成高精度图片，再用 Seedance 2.5 将这些图片串联生成完整视频，用一条 Prompt…",
+  "content": "先用 Seedream 5.0 Pro 生成高精度图片，再用 Seedance 2.5 将这些图片串联生成完整视频，用一条 Prompt 直接产出广告片/短视频成片  \n在 Seedance 2.5 里使用 30s 单段生成，并联合输入最多 50 个全模态素材（图/视频/音频等）来提升成片完整度与可控性",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070129598927667200/img/pZ-E9ADY1qgYXfqV.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2070144176361284051.mp4",
+  "sourceLink": "https://x.com/aigclink/status/2070144176361284051",
+  "sourcePublishedAt": "2026-06-25",
+  "author": {
+    "name": "AIGCLINK",
+    "link": "https://x.com/aigclink"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "先用 Seedream 5.0 Pro 生成高精度图片，再用 Seedance 2.5 将这些图片串联生成完整视频，用一条 Prompt 直接产出广告片/短视频成片  \n在 Seedance 2.5 里使用 30s 单段生成，并联合输入最多 50 个全模态素材（图/视频/音频等）来提升成片完整度与可控性",
+  "translations": {
+    "en": {
+      "content": "First use Seedream 5.0 Pro to generate high-precision images, then use Seedance 2.5 to stitch those images together into a complete video, producing an ad or short-form video directly with a single prompt.  \nIn Seedance 2.5, use 30s single-shot generation and combine up to 50 multimodal inputs (images/videos/audio, etc.) to improve the completeness and controllability of the final output."
+    },
+    "es": {
+      "content": "Primero usa Seedream 5.0 Pro para generar imágenes de alta precisión, y luego usa Seedance 2.5 para encadenar esas imágenes y generar un video completo, produciendo directamente un anuncio o un video corto final con un solo prompt.  \nEn Seedance 2.5, utiliza generación de un solo segmento de 30 s y combina la entrada de hasta 50 materiales multimodales (imágenes, videos, audio, etc.) para mejorar la integridad y la capacidad de control del resultado final."
+    },
+    "fr": {
+      "content": "Commencez par utiliser Seedream 5.0 Pro pour générer des images haute précision, puis utilisez Seedance 2.5 pour enchaîner ces images et générer une vidéo complète, avec un seul prompt pour produire directement un spot publicitaire ou une vidéo courte finalisée.  \nDans Seedance 2.5, utilisez une génération en un seul segment de 30 s, et combinez jusqu’à 50 éléments multimodaux en entrée (images/vidéos/audio, etc.) afin d’améliorer l’exhaustivité et la contrôlabilité du rendu final."
+    },
+    "ja": {
+      "content": "まず Seedream 5.0 Pro で高精度な画像を生成し、その後 Seedance 2.5 でそれらの画像をつなぎ合わせて完全な動画を生成。1本の Prompt だけで、広告映像／ショート動画の完成版を直接出力できます。  \nSeedance 2.5 では 30 秒の単一セグメント生成に対応しており、さらに最大 50 個のマルチモーダル素材（画像／動画／音声など）を同時に入力することで、完成度と制御性を高められます。"
+    },
+    "ko": {
+      "content": "먼저 Seedream 5.0 Pro로 고정밀 이미지를 생성한 다음, Seedance 2.5로 이 이미지들을 이어 붙여 완성도 높은 영상으로 만들 수 있습니다. 하나의 Prompt만으로 광고 영상/숏폼 완성본을 바로 생성하세요.  \nSeedance 2.5에서는 30초 단일 구간 생성을 지원하며, 최대 50개의 멀티모달 소재(이미지/영상/오디오 등)를 함께 입력해 결과물의 완성도와 제어력을 높일 수 있습니다."
+    },
+    "pt": {
+      "content": "Primeiro, use o Seedream 5.0 Pro para gerar imagens de alta precisão e, depois, use o Seedance 2.5 para encadear essas imagens e gerar um vídeo completo, produzindo um comercial/vídeo curto final com um único prompt.  \nNo Seedance 2.5, use a geração em um único trecho de 30s e combine a entrada de até 50 materiais multimodais (imagens/vídeos/áudio etc.) para aumentar a completude e a controlabilidade do resultado final."
+    }
+  }
+}

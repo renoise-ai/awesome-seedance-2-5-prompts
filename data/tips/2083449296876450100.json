@@ -1,0 +1,42 @@
+{
+  "id": "2083449296876450100",
+  "title": "MiniMax H3はプロンプト文字数上限が2000文字なので、Seedance 2.5と同等の内容を入れる場合はプロンプトを2000文字以内に圧縮して設計する",
+  "content": "MiniMax H3はプロンプト文字数上限が2000文字なので、Seedance 2.5と同等の内容を入れる場合はプロンプトを2000文字以内に圧縮して設計する  \nSeedance 2.5でもMiniMax H3でもライダーキック風の飛び蹴り動作は苦手なので、別のアクション表現に置き換えるか動きを簡略化してプロンプトを組む",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083447180841603074/img/eSnw3E_h4irwbpfW.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083449296876450100.mp4",
+  "sourceLink": "https://x.com/akazomesirou/status/2083449296876450100",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "赤染　史郎",
+    "link": "https://x.com/akazomesirou"
+  },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "MiniMax H3はプロンプト文字数上限が2000文字なので、Seedance 2.5と同等の内容を入れる場合はプロンプトを2000文字以内に圧縮して設計する  \nSeedance 2.5でもMiniMax H3でもライダーキック風の飛び蹴り動作は苦手なので、別のアクション表現に置き換えるか動きを簡略化してプロンプトを組む",
+  "translations": {
+    "en": {
+      "content": "Since MiniMax H3 has a prompt character limit of 2,000, if you want to include content equivalent to Seedance 2.5, you need to compress the prompt to within 2,000 characters.\n\nBoth Seedance 2.5 and MiniMax H3 struggle with Rider Kick-style flying kick motions, so either replace them with a different action expression or simplify the movement when constructing the prompt."
+    },
+    "es": {
+      "content": "MiniMax H3 tiene un límite de 2000 caracteres para el prompt, así que, si quieres incluir un contenido equivalente al de Seedance 2.5, debes diseñar el prompt comprimiéndolo a menos de 2000 caracteres.  \nTanto en Seedance 2.5 como en MiniMax H3, los movimientos de patada voladora al estilo Rider Kick suelen funcionar mal, así que conviene sustituirlos por otra expresión de acción o simplificar el movimiento al redactar el prompt."
+    },
+    "fr": {
+      "content": "MiniMax H3 a une limite de 2000 caractères pour les prompts, donc si vous souhaitez y intégrer un contenu équivalent à celui de Seedance 2.5, il faut concevoir le prompt de manière à le compresser à moins de 2000 caractères.  \nQue ce soit avec Seedance 2.5 ou MiniMax H3, les mouvements de coup de pied sauté de type « Rider Kick » sont difficiles à générer ; il vaut donc mieux les remplacer par une autre forme d’action ou simplifier le mouvement lors de la rédaction du prompt."
+    },
+    "ko": {
+      "content": "MiniMax H3는 prompt 글자 수 상한이 2000자이므로, Seedance 2.5와 동일한 수준의 내용을 넣으려면 prompt를 2000자 이내로 압축해 설계해야 한다.  \nSeedance 2.5든 MiniMax H3든 라이더 킥풍의 날아차기 동작은 잘 구현하지 못하므로, 다른 액션 표현으로 바꾸거나 움직임을 단순화해 prompt를 구성해야 한다."
+    },
+    "pt": {
+      "content": "Como o MiniMax H3 tem um limite de 2000 caracteres para o prompt, ao inserir um conteúdo equivalente ao do Seedance 2.5, é preciso compactar e estruturar o prompt para ficar dentro de 2000 caracteres.  \nTanto no Seedance 2.5 quanto no MiniMax H3, o movimento de chute voador no estilo “Rider Kick” é difícil, então é melhor substituí-lo por outra expressão de ação ou simplificar o movimento ao montar o prompt."
+    },
+    "zh": {
+      "content": "MiniMax H3 的 prompt 字数上限是 2000 字，因此如果要输入与 Seedance 2.5 同等的内容，需要将 prompt 压缩到 2000 字以内进行设计。  \n无论是 Seedance 2.5 还是 MiniMax H3，都不擅长表现类似骑士踢风格的飞踢动作，因此应改用其他动作表现，或简化动作后再编写 prompt。"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2083212122977108109",
+  "title": "One continuous static shot, no cuts. A person looks directly at the camera and…",
+  "content": "One continuous static shot, no cuts. A person looks directly at the camera and counts from one to ten, holding up the corresponding number of fingers as they say each number.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083211880835739648/img/urzv5b4aczTdKxUB.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083212122977108109.mp4",
+  "sourceLink": "https://x.com/patrickassale/status/2083212122977108109",
+  "sourcePublishedAt": "2026-07-31",
+  "author": {
+    "name": "Patrick",
+    "link": "https://x.com/patrickassale"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "es": {
+      "content": "Un único plano fijo continuo, sin cortes. Una persona mira directamente a la cámara y cuenta del uno al diez, levantando el número correspondiente de dedos mientras dice cada número."
+    },
+    "fr": {
+      "content": "Un seul plan fixe continu, sans coupe. Une personne regarde directement la caméra et compte de un à dix, en levant le nombre de doigts correspondant à chaque chiffre prononcé."
+    },
+    "ja": {
+      "content": "---\n1本の連続した固定ショット、カットなし。人物がカメラをまっすぐ見つめ、1から10まで数えながら、各数字を言うたびに対応する本数の指を立てる。\n---"
+    },
+    "ko": {
+      "content": "하나의 연속된 고정 샷, 컷 없음. 한 사람이 카메라를 सीधे 바라보며 1부터 10까지 숫자를 세고, 각 숫자를 말할 때마다 해당하는 손가락 수를 들어 보인다."
+    },
+    "pt": {
+      "content": "Um único plano estático contínuo, sem cortes. Uma pessoa olha diretamente para a câmera e conta de um a dez, levantando a quantidade correspondente de dedos ao dizer cada número."
+    },
+    "zh": {
+      "content": "一个连续的静态镜头，没有剪切。一个人直视镜头，从一数到十，并在说出每个数字时举起相应数量的手指。"
+    }
+  }
+}

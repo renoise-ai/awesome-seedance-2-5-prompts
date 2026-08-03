@@ -1,0 +1,42 @@
+{
+  "id": "2083686139857453406",
+  "title": "簡単な絵コンテ（ストーリーボード）をSeedance2.5に読み込ませて、動画の展開や構図をコントロールする",
+  "content": "簡単な絵コンテ（ストーリーボード）をSeedance2.5に読み込ませて、動画の展開や構図をコントロールする  \nCapCutのSeedance2.5はブラウザ版よりデスクトップアプリ版のほうが生成が安定しやすいので、安定性重視ならデスクトップ版を使う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083684684089999360/img/J_335JKXviOpAdtW.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083686139857453406.mp4",
+  "sourceLink": "https://x.com/PDyv9gdatT4132/status/2083686139857453406",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "前田こう｜AI動画×地方会社員の副業",
+    "link": "https://x.com/PDyv9gdatT4132"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "簡単な絵コンテ（ストーリーボード）をSeedance2.5に読み込ませて、動画の展開や構図をコントロールする  \nCapCutのSeedance2.5はブラウザ版よりデスクトップアプリ版のほうが生成が安定しやすいので、安定性重視ならデスクトップ版を使う",
+  "translations": {
+    "en": {
+      "content": "Load a simple storyboard into Seedance 2.5 to control the video’s progression and composition.  \nCapCut’s Seedance 2.5 tends to generate more stably in the desktop app than in the browser version, so if stability is your priority, use the desktop app."
+    },
+    "es": {
+      "content": "Carga un storyboard sencillo en Seedance2.5 para controlar el desarrollo del video y la composición  \nLa versión de escritorio de Seedance2.5 en CapCut tiende a generar de forma más estable que la versión web, así que si priorizas la estabilidad, usa la versión de escritorio"
+    },
+    "fr": {
+      "content": "Faire lire un storyboard simple à Seedance2.5 pour contrôler le déroulement de la vidéo et la composition  \nLa version desktop de Seedance2.5 dans CapCut a tendance à générer de manière plus stable que la version navigateur ; si vous privilégiez la stabilité, utilisez la version desktop"
+    },
+    "ko": {
+      "content": "간단한 그림 콘티(스토리보드)를 Seedance2.5에 불러와서 영상의 전개와 구도를 제어한다  \nCapCut의 Seedance2.5는 브라우저 버전보다 데스크톱 앱 버전이 생성이 더 안정적인 편이므로, 안정성을 중시한다면 데스크톱 버전을 사용한다"
+    },
+    "pt": {
+      "content": "Carregue um storyboard simples no Seedance2.5 para controlar o desenvolvimento do vídeo e a composição.  \nO Seedance2.5 do CapCut tende a gerar resultados mais estáveis na versão para desktop do que na versão para navegador; portanto, se a prioridade for estabilidade, use a versão desktop."
+    },
+    "zh": {
+      "content": "将简单的分镜脚本（storyboard）导入 Seedance2.5，以控制视频的展开和构图  \nCapCut 的 Seedance2.5 相比浏览器版，桌面应用版的生成更稳定；如果更重视稳定性，建议使用桌面版"
+    }
+  }
+}

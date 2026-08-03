@@ -1,0 +1,42 @@
+{
+  "id": "2083559816203747704",
+  "title": "Seedance2.5ではダンス動画から抽出したdepthを参照に使おうとするとdepth参照がNGになる場合があるため、depth参照の可否を事前にテストする",
+  "content": "Seedance2.5ではダンス動画から抽出したdepthを参照に使おうとするとdepth参照がNGになる場合があるため、depth参照の可否を事前にテストする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/media/HOpK3m3bMAABs7M.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083559816203747704.mp4",
+  "sourceLink": "https://x.com/kan_mi_no9/status/2083559816203747704",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "kan:mi｜AI Film & Music",
+    "link": "https://x.com/kan_mi_no9"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.5ではダンス動画から抽出したdepthを参照に使おうとするとdepth参照がNGになる場合があるため、depth参照の可否を事前にテストする",
+  "translations": {
+    "en": {
+      "content": "In Seedance 2.5, when trying to use depth extracted from a dance video as a reference, depth reference may sometimes be rejected, so test in advance whether depth reference is supported."
+    },
+    "es": {
+      "content": "En Seedance2.5, al intentar usar como referencia el depth extraído de un video de baile, puede ocurrir que la referencia de depth no sea aceptada; por eso, conviene probar de antemano si la referencia de depth es compatible."
+    },
+    "fr": {
+      "content": "Dans Seedance2.5, lorsque l’on tente d’utiliser comme référence le depth extrait d’une vidéo de danse, la référence depth peut parfois être refusée ; il faut donc tester à l’avance si la référence depth est autorisée."
+    },
+    "ko": {
+      "content": "Seedance 2.5에서는 댄스 영상에서 추출한 depth를 참조로 사용하려고 하면 depth 참조가 NG가 되는 경우가 있을 수 있으므로, depth 참조 가능 여부를 사전에 테스트한다"
+    },
+    "pt": {
+      "content": "No Seedance2.5, ao tentar usar como referência o depth extraído de um vídeo de dança, a referência de depth pode ser rejeitada; por isso, teste previamente se a referência de depth é permitida."
+    },
+    "zh": {
+      "content": "在 Seedance2.5 中，如果尝试将从舞蹈视频中提取的 depth 作为参考使用，depth 参考有时会被判定为不支持，因此需要事先测试 depth 参考是否可用。"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2083170882479087618",
+  "title": "Start your Seedance 2.5 workflow by importing a 3D white-model to provide…",
+  "content": "Start your Seedance 2.5 workflow by importing a 3D white-model to provide spatial structure, camera position, scene composition, and character blocking before prompting for the final visual style.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083170871506833408/img/CLCKWp2jmn5oALUt.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083170882479087618.mp4",
+  "sourceLink": "https://x.com/shedntcare_/status/2083170882479087618",
+  "sourcePublishedAt": "2026-07-31",
+  "author": {
+    "name": "Tulsi Soni",
+    "link": "https://x.com/shedntcare_"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "Model Showcase"
+  ],
+  "tips": "Start your Seedance 2.5 workflow by importing a 3D white-model to provide spatial structure, camera position, scene composition, and character blocking before prompting for the final visual style.",
+  "translations": {
+    "es": {
+      "content": "Comienza tu flujo de trabajo de Seedance 2.5 importando un modelo blanco 3D para proporcionar estructura espacial, posición de cámara, composición de la escena y blocking de personajes antes de introducir el prompt para el estilo visual final."
+    },
+    "fr": {
+      "content": "Commencez votre workflow Seedance 2.5 en important un modèle blanc 3D afin de fournir la structure spatiale, la position de la caméra, la composition de la scène et le blocking des personnages avant de formuler le prompt pour le style visuel final."
+    },
+    "ja": {
+      "content": "最終的なビジュアルスタイルをプロンプトする前に、空間構造、カメラ位置、シーン構成、キャラクターのブロッキングを把握するために、3DホワイトモデルをインポートしてSeedance 2.5のワークフローを開始します。"
+    },
+    "ko": {
+      "content": "최종 비주얼 스타일을 프롬프트하기 전에, 공간 구조, 카메라 위치, 장면 구도, 캐릭터 블로킹을 제공하기 위해 3D 화이트 모델을 가져오는 것으로 Seedance 2.5 워크플로를 시작하세요."
+    },
+    "pt": {
+      "content": "Comece seu fluxo de trabalho no Seedance 2.5 importando um modelo 3D branco para fornecer estrutura espacial, posição da câmera, composição da cena e blocking dos personagens antes de inserir o prompt para o estilo visual final."
+    },
+    "zh": {
+      "content": "在开始你的 Seedance 2.5 工作流时，先导入一个 3D 白模，以提供空间结构、相机位置、场景构图和角色站位，然后再输入提示词来确定最终的视觉风格。"
+    }
+  }
+}

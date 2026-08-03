@@ -1,0 +1,42 @@
+{
+  "id": "2083526476389838964",
+  "title": "Provide Seedance 2.5 with just two reference images (e.g., the product box and…",
+  "content": "Provide Seedance 2.5 with just two reference images (e.g., the product box and the shoes) and use an extremely simple prompt to generate an unboxing-style test video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083526202979979265/img/qVudIJmdjMvW5Msu.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083526476389838964.mp4",
+  "sourceLink": "https://x.com/OriSilver/status/2083526476389838964",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "Ori Silver",
+    "link": "https://x.com/OriSilver"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Provide Seedance 2.5 with just two reference images (e.g., the product box and the shoes) and use an extremely simple prompt to generate an unboxing-style test video.",
+  "translations": {
+    "es": {
+      "content": "Proporciona a Seedance 2.5 solo dos imágenes de referencia (por ejemplo, la caja del producto y los zapatos) y usa un prompt extremadamente simple para generar un video de prueba estilo unboxing."
+    },
+    "fr": {
+      "content": "Fournissez à Seedance 2.5 seulement deux images de référence (par exemple, la boîte du produit et les chaussures) et utilisez un prompt extrêmement simple pour générer une vidéo de test de type unboxing."
+    },
+    "ja": {
+      "content": "Seedance 2.5 には、たった2枚の参照画像（例：商品ボックスと靴）を与え、極めてシンプルな prompt を使って、開封動画風のテスト動画を生成してください。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에 제품 박스와 신발처럼 단 두 장의 reference image만 제공하고, 매우 간단한 prompt를 사용해 언박싱 스타일의 테스트 영상을 생성하세요."
+    },
+    "pt": {
+      "content": "Forneça ao Seedance 2.5 apenas duas imagens de referência (por exemplo, a caixa do produto e os sapatos) e use um prompt extremamente simples para gerar um vídeo de teste no estilo unboxing."
+    },
+    "zh": {
+      "content": "只需向 Seedance 2.5 提供两张参考图像（例如产品盒和鞋子），并使用一个极其简单的 prompt，即可生成一段开箱风格的测试视频。"
+    }
+  }
+}

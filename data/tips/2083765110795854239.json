@@ -1,0 +1,42 @@
+{
+  "id": "2083765110795854239",
+  "title": "狭い空間のシーンはBlenderでプレビズ（プリビジュアライゼーション）を作ってからSeedance2.5に使うと、キャラや物の位置関係の一貫性を保ちやすい",
+  "content": "狭い空間のシーンはBlenderでプレビズ（プリビジュアライゼーション）を作ってからSeedance2.5に使うと、キャラや物の位置関係の一貫性を保ちやすい  \n身長差があるキャラ同士のシーンは先にプレビズを用意して構図に身長差を反映させてから生成すると、微妙な差も崩れにくい  \nBlenderプレビズはOpus5で作成してSeedance2.5の生成前工程に組み込む",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083764962636226561/img/w7rzVAdl8iSHnlJ0.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083765110795854239.mp4",
+  "sourceLink": "https://x.com/yachimat_manga/status/2083765110795854239",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "yachimat - AI Short Anime",
+    "link": "https://x.com/yachimat_manga"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "狭い空間のシーンはBlenderでプレビズ（プリビジュアライゼーション）を作ってからSeedance2.5に使うと、キャラや物の位置関係の一貫性を保ちやすい  \n身長差があるキャラ同士のシーンは先にプレビズを用意して構図に身長差を反映させてから生成すると、微妙な差も崩れにくい  \nBlenderプレビズはOpus5で作成してSeedance2.5の生成前工程に組み込む",
+  "translations": {
+    "en": {
+      "content": "For scenes in tight spaces, creating a previs (previsualization) in Blender and then using it with Seedance 2.5 makes it easier to maintain consistent spatial relationships between characters and objects.  \nFor scenes with characters of different heights, preparing a previs first and reflecting the height difference in the composition before generation helps prevent even subtle differences from breaking down.  \nCreate the Blender previs in Opus5 and incorporate it into the pre-generation workflow for Seedance 2.5."
+    },
+    "es": {
+      "content": "Las escenas en espacios reducidos son más fáciles de mantener consistentes en la relación de posiciones entre personajes y objetos si primero haces un previz (previsualización) en Blender y luego lo usas en Seedance2.5.  \nEn escenas con personajes de distinta estatura, si preparas primero el previz y reflejas esa diferencia de altura en la composición antes de generar, incluso las variaciones sutiles tienden a mantenerse mejor.  \nEl previz en Blender se crea con Opus5 e ինտégralo en la etapa previa a la generación de Seedance2.5"
+    },
+    "fr": {
+      "content": "Les scènes dans des espaces étroits sont plus faciles à rendre cohérentes en créant d’abord un préviz (prévisualisation) dans Blender, puis en l’utilisant avec Seedance2.5, afin de préserver la cohérence des positions relatives des personnages et des objets.  \nPour les scènes impliquant des personnages de tailles différentes, préparer d’abord un préviz et refléter cette différence de taille dans la composition avant la génération permet d’éviter que même les écarts subtils ne se déforment.  \nCréer le préviz Blender avec Opus5 et l’intégrer au workflow de préproduction avant la génération dans Seedance2.5."
+    },
+    "ko": {
+      "content": "좁은 공간의 장면은 Blender로 프리비즈(previsualization)를 만든 뒤 Seedance2.5에 활용하면 캐릭터와 사물의 위치 관계 일관성을 유지하기 쉽다  \n키 차이가 있는 캐릭터들이 함께 나오는 장면은 먼저 프리비즈를 준비해 구도에 키 차이를 반영한 다음 생성하면, 미묘한 차이도 무너지기 어렵다  \nBlender 프리비즈는 Opus5로 제작해 Seedance2.5의 생성 전 단계에 포함한다"
+    },
+    "pt": {
+      "content": "Cenas em espaços estreitos ficam mais fáceis de manter consistentes em relação à posição dos personagens e objetos se você criar um previs (pré-visualização) no Blender antes de usar o Seedance2.5  \nEm cenas com personagens de alturas diferentes, se você preparar primeiro o previs e refletir essa diferença de altura na composição antes de gerar, até diferenças sutis tendem a se manter sem se desfazer  \nCrie o previs no Blender com o Opus5 e incorpore-o ao processo anterior à geração no Seedance2.5"
+    },
+    "zh": {
+      "content": "对于狭小空间的场景，先在 Blender 里制作预可视化（previs），再用于 Seedance2.5，可以更容易保持角色和物体位置关系的一致性。  \n对于身高差明显的角色同框场景，先准备好 previs，并在构图中体现身高差后再生成，细微的差异也不容易被打乱。  \nBlender previs 由 Opus5 制作，并整合到 Seedance2.5 的生成前流程中。"
+    }
+  }
+}

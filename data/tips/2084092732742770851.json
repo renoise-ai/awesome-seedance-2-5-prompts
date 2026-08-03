@@ -1,0 +1,43 @@
+{
+  "id": "2084092732742770851",
+  "title": "変形前の機体の三面図（参考画像）と、変形時の大まかな動きを用意してSeedanceに渡す",
+  "content": "変形前の機体の三面図（参考画像）と、変形時の大まかな動きを用意してSeedanceに渡す  \nプロンプトに「画像1の戦闘機形態からロボット形態に変形を行う」を入れて変形内容を明示する  \nプロンプトに「各変形個所のアップをカットとして入れる（火花などのエフェクトも入れる）」を追加してカット割り＋エフェクトを指示する  \nカット割りさせたい場合は上記の「アップをカットとして入れる」文言を必ず入れる（入れないとワンシーンで変形だけになる）",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084092263026827264/img/S_kgRU7692Liee59.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084092732742770851.mp4",
+  "sourceLink": "https://x.com/TechTalkNAVI/status/2084092732742770851",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "テックトークナビゲーター@AIコンテンツクリエイター",
+    "link": "https://x.com/TechTalkNAVI"
+  },
+  "tags": [
+    "Action",
+    "Superpower",
+    "Photoreal",
+    "Sci-Fi",
+    "Transformation",
+    "Tutorial"
+  ],
+  "tips": "変形前の機体の三面図（参考画像）と、変形時の大まかな動きを用意してSeedanceに渡す  \nプロンプトに「画像1の戦闘機形態からロボット形態に変形を行う」を入れて変形内容を明示する  \nプロンプトに「各変形個所のアップをカットとして入れる（火花などのエフェクトも入れる）」を追加してカット割り＋エフェクトを指示する  \nカット割りさせたい場合は上記の「アップをカットとして入れる」文言を必ず入れる（入れないとワンシーンで変形だけになる）",
+  "translations": {
+    "en": {
+      "content": "Prepare a three-view drawing of the pre-transformation aircraft form (reference image) and a rough outline of the movement during the transformation, then pass them to Seedance.\n\nIn the prompt, include “transform from the fighter jet form in Image 1 into a robot form” to clearly specify the transformation.\n\nAdd “include close-up cuts of each transformation point (also add effects such as sparks)” to the prompt to instruct shot division and effects.\n\nIf you want shot division, be sure to include the above phrase “include close-up cuts” — if you leave it out, it will only show the transformation in a single scene.\n\n--- THREAD CONTINUATION ---\n[Thread 1] @capcutapp_jp From a production standpoint, it’s pretty simple 🐈\n\n・Three-view drawing of the aircraft before transformation\n・Rough movement during transformation\n\nIn addition to these, add:\n“Transform from the fighter jet form in Image 1 into a robot form”\n“Also, at that time, include close-up cuts of each transformation point (and add effects such as sparks)” https://t.co/UBnu4MTB1t\n\n[Thread 2] @capcutapp_jp If you don’t include the second line, it will just transform in a single scene without shot division, so it might be a good idea to include it 🐈"
+    },
+    "es": {
+      "content": "Preparar y entregar a Seedance una vista ortográfica de tres lados del vehículo antes de la transformación (imagen de referencia) y el movimiento general durante la transformación  \nIncluir en el prompt «realizar la transformación desde la forma de caza de la imagen 1 a la forma de robot» para dejar explícito el contenido de la transformación  \nAñadir al prompt «incluir primeros planos de cada parte de la transformación como cortes (también incluir efectos como chispas)» para indicar el corte de escenas y los efectos  \nSi quieres que haya cortes, asegúrate de incluir la frase anterior «incluir primeros planos como cortes» (si no la incluyes, solo se hará la transformación en una sola escena)\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] @capcutapp_jp En cuanto a la producción, es bastante simple 🐈\n\n・Vista ortográfica de tres lados del vehículo antes de la transformación  \n・Movimiento general durante la transformación\n\nAdemás de esto:\n「realizar la transformación desde la forma de caza de la imagen 1 a la forma de robot」\n「además, en ese momento, incluir primeros planos de cada parte de la transformación como cortes (también incluir efectos como chispas)」 https://t.co/UBnu4MTB1t\n\n[Hilo 2] @capcutapp_jp Si no incluyes la segunda frase, solo se hará la transformación en una sola escena sin cortes, así que quizá convenga añadirla 🐈"
+    },
+    "fr": {
+      "content": "Préparez une vue en trois angles de l’appareil avant la transformation (image de référence) ainsi que le mouvement global pendant la transformation, puis transmettez-les à Seedance.  \nAjoutez dans le prompt : « effectuer la transformation de la forme avion de chasse de l’image 1 vers une forme robot » afin de préciser le contenu de la transformation.  \nAjoutez également dans le prompt : « insérer des gros plans de chaque partie en cours de transformation comme des cuts (avec des effets comme des étincelles, etc.) » pour indiquer le découpage des plans et les effets.  \nSi vous souhaitez un découpage en plusieurs plans, veillez à inclure impérativement la formulation ci-dessus « insérer des gros plans comme des cuts » ; sinon, la transformation se fera en une seule scène.\n\n--- SUITE DU THREAD ---\n[Thread 1] @capcutapp_jp Côté production, c’est simple 🐈\n\n・Vue en trois angles de l’appareil avant la transformation  \n・Mouvement global pendant la transformation\n\nEn plus de cela :  \n« effectuer la transformation de la forme avion de chasse de l’image 1 vers une forme robot »  \n« et, à ce moment-là, insérer des gros plans de chaque partie en cours de transformation comme des cuts (avec des effets comme des étincelles, etc.) » https://t.co/UBnu4MTB1t\n\n[Thread 2] @capcutapp_jp Si vous n’ajoutez pas la deuxième formulation, la transformation se fera en une seule scène sans découpage en plans, donc mieux vaut l’inclure 🐈"
+    },
+    "ko": {
+      "content": "변형 전 기체의 삼면도(참고 이미지)와 변형 시의 대략적인 움직임을 준비해 Seedance에 전달한다  \n프롬프트에 「이미지 1의 전투기 형태에서 로봇 형태로 변형을 수행한다」를 넣어 변형 내용을 명시한다  \n프롬프트에 「각 변형 부위의 클로즈업을 컷으로 넣는다(불꽃 등의 이펙트도 넣는다)」를 추가해 컷 분할과 이펙트를 지시한다  \n컷 분할을 시키고 싶다면 위의 「클로즈업을 컷으로 넣는다」라는 문구를 반드시 넣는다(넣지 않으면 원씬에서 변형만 진행된다)\n\n--- THREAD CONTINUATION ---\n[Thread 1] @capcutapp_jp 제작 측면에서는 심플합니다🐈\n\n・변형 전 기체의 삼면도\n・변형 시의 대략적인 움직임\n\n이와 더불어\n「이미지 1의 전투기 형태에서 로봇 형태로 변형을 수행한다」\n「또한 그때 각 변형 부위의 클로즈업을 컷으로 넣는다(불꽃 등의 이펙트도 넣는다)」 https://t.co/UBnu4MTB1t\n\n[Thread 2] @capcutapp_jp 두 번째 문구를 넣지 않으면 원씬으로 컷 분할 없이 변형만 되므로, 넣어두는 게 좋을지도 모릅니다🐈"
+    },
+    "pt": {
+      "content": "Prepare a three-view drawing of the vehicle before transformation (reference image) and a rough outline of the movement during the transformation, then provide them to Seedance.\n\nAdd “transform from the fighter jet form in image 1 to robot form” to the prompt to clearly specify the transformation content.\n\nAdd “include close-up cuts of each transformation point (also include effects such as sparks)” to the prompt to instruct shot division and effects.\n\nIf you want shot division, be sure to include the above wording “include close-up cuts” (if you don’t, it will only transform in a single scene).\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] @capcutapp_jp Do ponto de vista da produção, é simples 🐈\n\n・三面図 da aeronave antes da transformação\n・Movimento geral durante a transformação\n\nAlém disso, inclua:\n“transform from the fighter jet form in image 1 to robot form”\n“also, at that time, include close-up cuts of each transformation point (also include effects such as sparks)” https://t.co/UBnu4MTB1t\n\n[Thread 2] @capcutapp_jp Se você não incluir a segunda frase, ele só fará a transformação em uma única cena, sem cortes; então talvez seja bom deixar isso no prompt 🐈"
+    },
+    "zh": {
+      "content": "准备好变形前机体的三视图（参考图）和变形时的大致动作，再交给 Seedance  \n在 prompt 里加入「从图1的战斗机形态变形为机器人形态」，明确变形内容  \n在 prompt 里追加「将各个变形部位的特写作为镜头切入（也加入火花等特效）」，以指示分镜切换＋特效  \n如果想要分镜切换，务必加入上面的「将特写作为镜头切入」这句话（不加的话就只会在一个场景里进行变形）\n\n--- THREAD CONTINUATION ---\n[Thread 1] @capcutapp_jp 制作起来其实很简单🐈\n\n・变形前机体的三视图\n・变形时的大致动作\n\n此外再加上\n「从图1的战斗机形态变形为机器人形态」\n「并且在此过程中，将各个变形部位的特写作为镜头切入（也加入火花等特效）」 https://t.co/UBnu4MTB1t\n\n[Thread 2] @capcutapp_jp 如果不加入第二句，就只会在一个场景里进行变形，不会切分镜，所以最好加上🐈"
+    }
+  }
+}

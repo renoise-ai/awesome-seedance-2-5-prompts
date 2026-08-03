@@ -1,0 +1,40 @@
+{
+  "id": "2083629620302164172",
+  "title": "[all char refs], a big family dinner.",
+  "content": "[all char refs], a big family dinner.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2083629593135558656/pu/img/9H1IY_cp_GXhYa4i.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083629620302164172.mp4",
+  "sourceLink": "https://x.com/Genflickmovies/status/2083629620302164172",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "GenFlick | Making Movies with AI | Join Us",
+    "link": "https://x.com/Genflickmovies"
+  },
+  "tags": [
+    "Story",
+    "Heartwarming",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "es": {
+      "content": "[all char refs], una gran cena familiar."
+    },
+    "fr": {
+      "content": "---\n[toutes les références de personnages], un grand dîner de famille.\n---"
+    },
+    "ja": {
+      "content": "[all char refs]、大家族の夕食。"
+    },
+    "ko": {
+      "content": "[all char refs], 대가족 저녁 식사."
+    },
+    "pt": {
+      "content": "[all char refs], um grande jantar em família."
+    },
+    "zh": {
+      "content": "[all char refs]，一场盛大的家庭晚餐。"
+    }
+  }
+}

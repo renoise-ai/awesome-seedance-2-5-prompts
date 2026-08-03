@@ -1,0 +1,42 @@
+{
+  "id": "2084095261820027128",
+  "title": "SeedanceをSeedance2.5に更新してキャラクターシート（キャラ設定シート）を追加し、漫才シーンで話者が入れ替わる問題を防ぐ",
+  "content": "SeedanceをSeedance2.5に更新してキャラクターシート（キャラ設定シート）を追加し、漫才シーンで話者が入れ替わる問題を防ぐ",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084095137643413504/img/q5wR6Qg_JaEZI3xz.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084095261820027128.mp4",
+  "sourceLink": "https://x.com/sobaya15/status/2084095261820027128",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "そば屋@二日酔い系窓際また社内ニート",
+    "link": "https://x.com/sobaya15"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "SeedanceをSeedance2.5に更新してキャラクターシート（キャラ設定シート）を追加し、漫才シーンで話者が入れ替わる問題を防ぐ",
+  "translations": {
+    "en": {
+      "content": "Update Seedance to Seedance 2.5 and add a character sheet (character setup sheet) to prevent the speaker from switching roles in manzai scenes."
+    },
+    "es": {
+      "content": "Actualizar Seedance a Seedance2.5 y añadir una hoja de personaje (character sheet) para evitar el problema de que los hablantes se intercambien en escenas de comedia."
+    },
+    "fr": {
+      "content": "Mettre à jour Seedance vers Seedance2.5 et ajouter une character sheet (fiche de personnage) afin d’éviter le problème d’inversion des locuteurs dans les scènes de manzai."
+    },
+    "ko": {
+      "content": "Seedance를 Seedance2.5로 업데이트하고 캐릭터 시트(캐릭터 설정 시트)를 추가해, 만담 장면에서 화자가 바뀌는 문제를 방지하기"
+    },
+    "pt": {
+      "content": "Atualize o Seedance para o Seedance2.5 e adicione uma character sheet (folha de configuração do personagem) para evitar o problema de os falantes se trocarem na cena de comédia."
+    },
+    "zh": {
+      "content": "将 Seedance 更新为 Seedance2.5，并添加角色设定表（character sheet），以防止在漫才场景中说话者互换的问题"
+    }
+  }
+}

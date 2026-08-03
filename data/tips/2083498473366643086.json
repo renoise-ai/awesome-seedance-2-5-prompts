@@ -1,0 +1,42 @@
+{
+  "id": "2083498473366643086",
+  "title": "Seedance2.5のリップシンクテストは480pで生成しても十分綺麗に出るので、まずは480pで試して生成速度・コストを抑える",
+  "content": "Seedance2.5のリップシンクテストは480pで生成しても十分綺麗に出るので、まずは480pで試して生成速度・コストを抑える  \n複数（例：3個）の生成動画を作って編集でつなぎ、参照音声で音声トラックを上書きして仕上げる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/media/HOoqy_RaAAAINdq.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083498473366643086.mp4",
+  "sourceLink": "https://x.com/JPAI_HEAVEN/status/2083498473366643086",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "AIギャル物語 / HALS",
+    "link": "https://x.com/JPAI_HEAVEN"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.5のリップシンクテストは480pで生成しても十分綺麗に出るので、まずは480pで試して生成速度・コストを抑える  \n複数（例：3個）の生成動画を作って編集でつなぎ、参照音声で音声トラックを上書きして仕上げる",
+  "translations": {
+    "en": {
+      "content": "Seedance 2.5 lip-sync tests come out clean enough even when generated at 480p, so it’s best to start with 480p to keep generation speed and costs down.  \nCreate multiple generated videos (for example, three), stitch them together in editing, and finish by overwriting the audio track with the reference audio."
+    },
+    "es": {
+      "content": "Las pruebas de lip sync de Seedance2.5 se ven lo suficientemente bien incluso generadas en 480p, así que primero conviene probar en 480p para reducir la velocidad de generación y los costos.  \nCrea varios videos generados (por ejemplo, 3) y únelos en la edición; luego sobrescribe la pista de audio con el audio de referencia para terminar el montaje."
+    },
+    "fr": {
+      "content": "Le test de lip sync de Seedance2.5 donne déjà un rendu suffisamment propre même en 480p, donc commencez par tester en 480p afin de réduire le temps de génération et les coûts.  \nCréez plusieurs vidéos générées (par exemple 3), assemblez-les au montage, puis finalisez en remplaçant la piste audio par l’audio de référence."
+    },
+    "ko": {
+      "content": "Seedance2.5의 립싱크 테스트는 480p로 생성해도 충분히 깔끔하게 나오므로, 우선 480p로 시도해 생성 속도와 비용을 줄인다  \n여러 개(예: 3개)의 생성 영상을 만들어 편집으로 이어 붙이고, 참조 음성으로 오디오 트랙을 덮어씌워 마무리한다"
+    },
+    "pt": {
+      "content": "O teste de lip sync do Seedance2.5 fica bonito o suficiente mesmo gerando em 480p, então vale começar por 480p para reduzir a velocidade de geração e o custo.  \nCrie vários vídeos gerados (por exemplo, 3) e una-os na edição; depois, substitua a faixa de áudio pela voz de referência para finalizar."
+    },
+    "zh": {
+      "content": "Seedance2.5 的口型同步测试即使以 480p 生成也足够清晰，所以建议先用 480p 进行测试，以降低生成速度和成本。  \n先生成多个视频（例如 3 个），再通过剪辑拼接起来，最后用参考音频覆盖音轨完成成片。"
+    }
+  }
+}

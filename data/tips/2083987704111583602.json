@@ -1,0 +1,44 @@
+{
+  "id": "2083987704111583602",
+  "title": "Upload a product photo to Seedance 2.5 and prompt it to generate an…",
+  "content": "Upload a product photo to Seedance 2.5 and prompt it to generate an influencer-style video using the product to maintain product consistency and show realistic application.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083987678643855360/img/ZN9ZjwVjJEruElTV.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083987704111583602.mp4",
+  "sourceLink": "https://x.com/venturetwins/status/2083987704111583602",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "Justine Moore",
+    "link": "https://x.com/venturetwins"
+  },
+  "tags": [
+    "Product Ad",
+    "Beauty",
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Upload a product photo to Seedance 2.5 and prompt it to generate an influencer-style video using the product to maintain product consistency and show realistic application.",
+  "translations": {
+    "es": {
+      "content": "Sube una foto del producto a Seedance 2.5 y pídele que genere un video al estilo influencer usando el producto para mantener la coherencia del producto y mostrar una aplicación realista."
+    },
+    "fr": {
+      "content": "Téléchargez une photo du produit sur Seedance 2.5 et demandez-lui de générer une vidéo au style influenceur utilisant le produit afin de maintenir la cohérence du produit et de montrer une utilisation réaliste."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.5 に商品写真をアップロードし、商品の一貫性を保ちながら、実際の使用シーンをリアルに見せるインフルエンサー風の動画を生成するよう prompt してください。\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5에 제품 사진을 업로드한 뒤, 제품 일관성을 유지하고 실제 사용 모습을 보여줄 수 있도록 해당 제품을 활용한 인플루언서 스타일의 비디오를 생성하도록 prompt하세요."
+    },
+    "pt": {
+      "content": "Envie uma foto do produto para o Seedance 2.5 e peça para ele gerar um vídeo no estilo de influenciador usando o produto, a fim de manter a consistência do produto e mostrar uma aplicação realista."
+    },
+    "zh": {
+      "content": "将产品照片上传到 Seedance 2.5，并提示它生成一段网红风格的视频，使用该产品以保持产品一致性并展示真实的使用场景。"
+    }
+  }
+}

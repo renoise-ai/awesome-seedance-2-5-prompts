@@ -1,0 +1,43 @@
+{
+  "id": "2083403884467548280",
+  "title": "以前破綻が多くて生成が難しかったシーンを、同じプロンプトのままSeeDance 2.5で再生成して品質差（色味・打撃音・アクションの重厚感）を比較テストする",
+  "content": "以前破綻が多くて生成が難しかったシーンを、同じプロンプトのままSeeDance 2.5で再生成して品質差（色味・打撃音・アクションの重厚感）を比較テストする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083403290780577792/img/WF1eHAy6bepfb3x-.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083403884467548280.mp4",
+  "sourceLink": "https://x.com/CreepyTheater_K/status/2083403884467548280",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "【AI映画】STUDIO異次元【長尺専門】",
+    "link": "https://x.com/CreepyTheater_K"
+  },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "Photoreal",
+    "Realistic World",
+    "Model Showcase",
+    "Tutorial"
+  ],
+  "tips": "以前破綻が多くて生成が難しかったシーンを、同じプロンプトのままSeeDance 2.5で再生成して品質差（色味・打撃音・アクションの重厚感）を比較テストする",
+  "translations": {
+    "en": {
+      "content": "Re-generate scenes that previously had many artifacts and were difficult to produce using the same prompt in SeeDance 2.5, and compare the quality differences (color tone, impact sound, and the weightiness of the action) in a side-by-side test."
+    },
+    "es": {
+      "content": "Volver a generar con el mismo prompt, en SeeDance 2.5, escenas que antes eran difíciles de generar por tener muchos fallos, y comparar la diferencia de calidad (tono de color, sonido de impacto, sensación de peso de la acción)."
+    },
+    "fr": {
+      "content": "Re-générer avec SeeDance 2.5, en conservant le même prompt, des scènes qui étaient auparavant difficiles à générer et présentaient de nombreuses incohérences, afin de comparer les différences de qualité (tonalité des couleurs, son des impacts, poids et intensité de l’action)."
+    },
+    "ko": {
+      "content": "이전에는 붕괴가 많아 생성이 어려웠던 장면을, 동일한 prompt로 SeeDance 2.5에서 다시 생성해 품질 차이(색감, 타격음, 액션의 중량감)를 비교 테스트한다."
+    },
+    "pt": {
+      "content": "Regerar com o mesmo prompt, no SeeDance 2.5, cenas que antes apresentavam muitos problemas e eram difíceis de gerar, para comparar em um teste de qualidade as diferenças em cor, som de impacto e a sensação de peso da ação."
+    },
+    "zh": {
+      "content": "使用相同的 prompt，在 SeeDance 2.5 中重新生成过去因破绽较多而难以生成的场景，并对比测试质量差异（色调、打击音、动作的厚重感）。"
+    }
+  }
+}

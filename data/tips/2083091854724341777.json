@@ -1,0 +1,42 @@
+{
+  "id": "2083091854724341777",
+  "title": "15秒の生成で動画参照を使う（現状コストは960クレジット）。",
+  "content": "15秒の生成で動画参照を使う（現状コストは960クレジット）。  \n自分のダンス動画を参照に入れて、ダンスモーションを変えずに表現させる。  \n曲（音源）を参照に入れて、曲を変えずに生成させる。  \n参照素材としてキャラクターシート・背景画像・ダンスモーション・該当の曲をまとめて指定する。  \nカメラが動くシーンでも人物がダブらないようにするために動画参照を使う。",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083089871795814400/img/sHoQoWiRxV0IYuIC.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083091854724341777.mp4",
+  "sourceLink": "https://x.com/ZetoGroovin/status/2083091854724341777",
+  "sourcePublishedAt": "2026-07-31",
+  "author": {
+    "name": "Zeto",
+    "link": "https://x.com/ZetoGroovin"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "15秒の生成で動画参照を使う（現状コストは960クレジット）。  \n自分のダンス動画を参照に入れて、ダンスモーションを変えずに表現させる。  \n曲（音源）を参照に入れて、曲を変えずに生成させる。  \n参照素材としてキャラクターシート・背景画像・ダンスモーション・該当の曲をまとめて指定する。  \nカメラが動くシーンでも人物がダブらないようにするために動画参照を使う。",
+  "translations": {
+    "en": {
+      "content": "Use video references for 15-second generation (current cost: 960 credits).  \nAdd your own dance video as a reference to preserve the dance motion while changing the expression.  \nAdd the song (audio source) as a reference to generate without changing the song.  \nSpecify the character sheet, background image, dance motion, and the relevant song together as reference materials.  \nUse video references to prevent the person from appearing duplicated even in scenes where the camera moves.\n\n--- THREAD CONTINUATION ---\n[Thread 1] The references are the character sheet, background image, dance motion, and the relevant song. https://t.co/D4yFrIgJ9v\n---"
+    },
+    "es": {
+      "content": "Usar referencias de video en una generación de 15 segundos (el costo actual es de 960 créditos).  \nIncluir tu propio video de baile como referencia para que se mantenga la misma coreografía sin cambiar el movimiento de baile.  \nIncluir la canción (audio) como referencia para que la generación conserve la misma canción sin modificarla.  \nEspecificar en conjunto, como materiales de referencia, la character sheet, la imagen de fondo, la danza/motion y la canción correspondiente.  \nUsar referencias de video para evitar que la persona se duplique incluso en escenas con movimiento de cámara.\n\n--- CONTINUACIÓN DEL THREAD ---\n[Thread 1] Las referencias son la character sheet, la imagen de fondo, la danza/motion y la canción correspondiente. https://t.co/D4yFrIgJ9v\n---"
+    },
+    "fr": {
+      "content": "Utiliser des références vidéo pour une génération de 15 secondes (le coût actuel est de 960 crédits).  \nAjouter sa propre vidéo de danse comme référence pour conserver le mouvement de danse sans le modifier.  \nAjouter la musique (la source audio) comme référence pour générer sans changer le morceau.  \nSpécifier ensemble, comme matériaux de référence, la character sheet, l’image de fond, la danse motion et le morceau correspondant.  \nUtiliser des références vidéo pour éviter que les personnages se dédoublent, même dans les scènes où la caméra bouge.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Les références sont la character sheet, l’image de fond, la danse motion et le morceau correspondant. https://t.co/D4yFrIgJ9v\n---"
+    },
+    "ko": {
+      "content": "15초 생성에서 비디오 참조를 사용하기(현재 비용은 960 크레딧).  \n자신의 댄스 영상을 참조로 넣어, 댄스 모션은 바꾸지 않은 채 표현하게 한다.  \n곡(오디오 소스)을 참조로 넣어, 곡은 바꾸지 않은 채 생성하게 한다.  \n참조 소재로 캐릭터 시트, 배경 이미지, 댄스 모션, 해당 곡을 함께 지정한다.  \n카메라가 움직이는 장면에서도 인물이 겹쳐 보이지 않도록 하기 위해 비디오 참조를 사용한다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 참조는 캐릭터 시트, 배경 이미지, 댄스 모션, 해당 곡입니다. https://t.co/D4yFrIgJ9v\n---"
+    },
+    "pt": {
+      "content": "Usar referências de vídeo na geração de 15 segundos (o custo atual é de 960 créditos).  \nAdicionar seu próprio vídeo de dança como referência para manter a mesma motion de dança sem alterá-la.  \nAdicionar a música (áudio) como referência para gerar sem alterar a faixa.  \nEspecificar em conjunto, como materiais de referência, a character sheet, a imagem de fundo, a dance motion e a música correspondente.  \nUsar referência de vídeo para evitar que a pessoa fique duplicada, mesmo em cenas com movimento de câmera.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] As referências são a character sheet, a imagem de fundo, a dance motion e a música correspondente. https://t.co/D4yFrIgJ9v\n---"
+    },
+    "zh": {
+      "content": "在 15 秒生成中使用视频参考（当前成本为 960 credits）。  \n将自己的舞蹈视频作为参考输入，在不改变舞蹈动作的情况下进行表现。  \n将歌曲（音源）作为参考输入，在不改变歌曲的情况下进行生成。  \n将角色设定图、背景图、舞蹈动作和对应歌曲一起指定为参考素材。  \n为了在镜头移动的场景中避免人物重影，使用视频参考。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 参考素材包括角色设定图、背景图、舞蹈动作和对应的歌曲。 https://t.co/D4yFrIgJ9v\n---"
+    }
+  }
+}

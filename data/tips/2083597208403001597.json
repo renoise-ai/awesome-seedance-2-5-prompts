@@ -1,0 +1,42 @@
+{
+  "id": "2083597208403001597",
+  "title": "Sunoで作った曲を15秒ごとに分割し、各セグメントをBGMリファレンスとしてSeedanceに渡して曲に合わせた動きを狙う",
+  "content": "Sunoで作った曲を15秒ごとに分割し、各セグメントをBGMリファレンスとしてSeedanceに渡して曲に合わせた動きを狙う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083595313936527360/img/RssM5OqYAzXHGLpm.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083597208403001597.mp4",
+  "sourceLink": "https://x.com/studio_oneroom/status/2083597208403001597",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "AIスタジオワンルーム（AIアニメ、動画、漫画）",
+    "link": "https://x.com/studio_oneroom"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Sunoで作った曲を15秒ごとに分割し、各セグメントをBGMリファレンスとしてSeedanceに渡して曲に合わせた動きを狙う",
+  "translations": {
+    "en": {
+      "content": "Split the song made with Suno into 15-second segments, and pass each segment to Seedance as a BGM reference to aim for movements that match the music.\n\n--- QUOTED TWEET ---\nThe problem of Seedance 2.0 making up its own song\n\nIf I split a song made with Suno into 15-second chunks and use those as BGM references to make a video, wouldn’t it move in a way that matches the song?\n\nAlright, let’s try it!\n\nThe vibe of the song is the same, but it’s turned into a different song,\nand it’s even singing on its own 😆\n\nLooks like this method doesn’t work.\nDoes anyone know a better way?\n---"
+    },
+    "es": {
+      "content": "Dividir la canción creada con Suno en segmentos de 15 segundos y pasar cada segmento a Seedance como referencia de BGM para buscar movimientos que encajen con la música\n\n--- TWEET CITADO ---\nEl problema de que Seedance 2.0 se ponga a crear música por su cuenta\n\nSi dividimos la canción creada con Suno en bloques de 15 segundos y la usamos como referencia de BGM para crear el video, ¿no haría movimientos acordes a la canción?\n\n¡Bueno, probemos!\n\nAunque mantiene una sensación parecida, termina siendo otra canción\ny encima ¡se pone a cantar por su cuenta! 😆\n\nParece que este método no funciona.\n¿Alguien conoce una mejor manera?"
+    },
+    "fr": {
+      "content": "Découper la chanson créée avec Suno toutes les 15 secondes, puis transmettre chaque segment à Seedance comme référence BGM afin de viser des mouvements synchronisés avec la musique\n\n--- TWEET CITÉ ---\nLe problème avec Seedance2.0, c’est qu’il se met à composer de la musique tout seul\n\nSi on découpe une chanson créée avec Suno toutes les 15 secondes et qu’on l’utilise comme référence BGM pour créer une vidéo, est-ce qu’il ne ferait pas des mouvements adaptés à la musique ?\n\nAllez, essayons !\n\nL’ambiance de la chanson est la même, mais c’est une autre chanson,\net en plus, il se met à chanter tout seul 😆\n\nCette méthode ne semble pas fonctionner.\nQuelqu’un connaît une meilleure façon de faire ?"
+    },
+    "ko": {
+      "content": "Suno로 만든 곡을 15초마다 분할하고, 각 세그먼트를 BGM 레퍼런스로 Seedance에 전달해 곡에 맞는 움직임을 노린다\n\n--- 인용 트윗 ---\nSeedance2.0이 멋대로 곡을 만들어버리는 문제\n\nSuno로 만든 곡을 15초마다 분할해서, 그걸 BGM 레퍼런스로 삼아 영상을 만들면 곡에 맞는 움직임을 해주지 않을까?\n\n좋아, 해보자!\n\n곡의 느낌은 비슷한데, 다른 곡이 되어버렸고\n게다가 멋대로 노래까지 부르고 있네😆\n\n이 방법은 안 되는 것 같습니다.\n누가 좋은 방법 아시는 분 있나요~?"
+    },
+    "pt": {
+      "content": "Divida a música feita no Suno em segmentos de 15 segundos e passe cada segmento para o Seedance como referência de BGM para tentar obter movimentos sincronizados com a música\n\n--- TWEET CITADO ---\nO problema do Seedance 2.0 acabar criando música por conta própria\n\nSe eu dividir a música feita no Suno em partes de 15 segundos e usar isso como referência de BGM para criar o vídeo, será que ele não faria movimentos que combinam com a música?\n\nBeleza, vamos testar!\n\nO clima da música é o mesmo, mas virou outra música\ne ainda por cima está cantando sozinho 😆\n\nParece que esse método não funciona.\nAlguém conhece uma forma melhor?"
+    },
+    "zh": {
+      "content": "将用 Suno 制作的歌曲按每 15 秒切分，并将各个片段作为 BGM 参考传给 Seedance，以此来让画面动作尽量贴合音乐\n\n--- QUOTED TWEET ---\nSeedance2.0 擅自把歌做出来的问题\n\n如果把用 Suno 做的歌曲每 15 秒切分，然后把它作为 BGM 参考来制作视频，应该就能做出符合歌曲的动作吧？\n\n好，试试看！\n\n虽然整体感觉差不多，但已经变成了另一首歌，\n而且还自己唱起来了😆\n\n看来这种方法不太行。\n有人知道更好的做法吗～？"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2083369298249359540",
+  "title": "Use a reference video up to 30 seconds long in Seedance 2.5 to keep motion and…",
+  "content": "Use a reference video up to 30 seconds long in Seedance 2.5 to keep motion and character consistency stable across long photoreal re-renders.\nCreate a simple 30-second “white model” animation in Blender (via Blender MCP), then use that clip as the Seedance 2.5 reference video and apply natural-language prompts to perform a secondary photoreal render.",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083367429431013376/img/j1Dq2zvcmKxISo4A.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083369298249359540.mp4",
+  "sourceLink": "https://x.com/KanaWorks_AI/status/2083369298249359540",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "KANA｜東京AI映像",
+    "link": "https://x.com/KanaWorks_AI"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a reference video up to 30 seconds long in Seedance 2.5 to keep motion and character consistency stable across long photoreal re-renders.\nCreate a simple 30-second “white model” animation in Blender (via Blender MCP), then use that clip as the Seedance 2.5 reference video and apply natural-language prompts to perform a secondary photoreal render.",
+  "translations": {
+    "en": {
+      "content": "Use a reference video up to 30 seconds long in Seedance 2.5 to keep motion and character consistency stable across long photoreal re-renders.  \nCreate a simple 30-second “white model” animation in Blender (via Blender MCP), then use that clip as the Seedance 2.5 reference video and apply natural-language prompts to perform a secondary photoreal render.\n\n--- QUOTED TWEET ---\nIs it really true that Seedance 2.5 can use a 30-second long video directly as a reference...!?\nThat was honestly shocking.\n\nThis time, I used Blender MCP to create a 30-second white-model animation of a “sleepwalking puppy,” then used that footage as a reference and performed a secondary render using only natural language.\nThe first thing I thought when I saw the result was how incredibly stable it was.\nEven over such a long 30-second duration, the motion consistency and character preservation were both extremely natural, and I didn’t feel any breakdown all the way to the end.\n\nIf game studios or animation production companies could use high-quality animations they created in-house as references in 30-second units...\nI feel like that could lead to an enormous boost in productivity.\nvideo: Seedance 2.0 on @capcutapp_jp \nPR capcutseedance25 capcutcpp"
+    },
+    "es": {
+      "content": "Use un video de referencia de hasta 30 segundos en Seedance 2.5 para mantener estable la consistencia del movimiento y de los personajes en re-renders fotorrealistas de larga duración.\nCrea una animación simple de “white model” de 30 segundos en Blender (a través de Blender MCP) y luego usa ese clip como video de referencia en Seedance 2.5, aplicando prompts en lenguaje natural para realizar un render secundario fotorrealista.\n\n--- TWEET CITADO ---\n¿Es verdad que Seedance 2.5 puede usar directamente como referencia un video largo de 30 segundos...!?\nSinceramente, esto me impactó muchísimo.\n\nEsta vez, con Blender MCP creé un white model de 30 segundos de “un cachorro sonámbulo” caminando y, usando ese video como referencia, hice un segundo render solo con lenguaje natural.\nLo primero que pensé al ver el resultado fue que, sobre todo, la estabilidad es increíble.\nA pesar de tratarse de un clip largo de 30 segundos, la coherencia del movimiento y la conservación del personaje fueron muy naturales, y no sentí ninguna ruptura en ningún momento hasta el final.\n\nSi una empresa de videojuegos o un estudio de animación pudiera aprovechar animaciones de alta calidad producidas internamente como referencia en bloques de 30 segundos...\nSiento que esto podría traducirse en una mejora brutal de la productividad.\nvideo: Seedance 2.0 en @capcutapp_jp \nPR capcutseedance25 capcutcpp"
+    },
+    "fr": {
+      "content": "Utilisez une vidéo de référence d’une durée maximale de 30 secondes dans Seedance 2.5 pour maintenir une motion et une cohérence des personnages stables lors de re-renders photoréalistes longs.\nCréez une animation simple de 30 secondes en « white model » dans Blender (via Blender MCP), puis utilisez ce clip comme vidéo de référence pour Seedance 2.5 et appliquez des prompts en langage naturel afin d’effectuer un second rendu photoréaliste.\n\n--- TWEET CITÉ ---\nEst-il vrai que Seedance 2.5 peut utiliser directement une vidéo longue de 30 secondes comme référence…… !?\nFranchement, ça m’a vraiment surpris.\n\nCette fois, avec Blender MCP, j’ai créé un white model de 30 secondes d’un « chiot somnambule » en train de marcher, puis j’ai utilisé cette vidéo comme référence pour faire un second rendu en utilisant uniquement du langage naturel.\nLa première chose que je me suis dite en voyant le résultat, c’est à quel point c’était stable.\nMalgré une durée de 30 secondes, la cohérence du mouvement comme la préservation du personnage étaient extrêmement naturelles, et je n’ai ressenti aucune rupture jusqu’à la fin.\n\nSi les studios de jeux vidéo ou les sociétés de production d’animation pouvaient utiliser leurs animations de haute qualité produites en interne comme références, par tranches de 30 secondes……\nJ’ai l’impression que cela pourrait entraîner une énorme amélioration de la productivité.\nvideo: Seedance 2.0 on @capcutapp_jp \nPR capcutseedance25 capcutcpp"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 최대 30초 길이의 reference video를 사용해, 장시간의 photoreal re-render에서도 motion과 character consistency를 안정적으로 유지할 수 있습니다.  \nBlender MCP를 통해 간단한 30초짜리 “white model” 애니메이션을 만든 뒤, 그 클립을 Seedance 2.5의 reference video로 사용하고 natural-language prompts를 적용해 secondary photoreal render를 수행합니다.\n\n--- QUOTED TWEET ---\nSeedance 2.5, 30초짜리 롱 영상을 그대로 리퍼런스로 쓸 수 있다는 게 정말인가요……!?\n이건 정말 충격적이었습니다.\n\n이번에는 Blender MCP로 “몽유병에 걸린 강아지”가 걷는 30초짜리 화이트 모델을 만들고, 그 영상을 리퍼런스로 삼아 자연어만으로 secondary rendering을 진행했습니다.\n완성본을 보고 가장 먼저 든 생각은, 무엇보다 안정감이 정말 뛰어나다는 것이었습니다.\n30초라는 긴 길이에도 불구하고 움직임의 일관성도, 캐릭터 유지도 매우 자연스러워서 끝까지 전혀 무너지는 느낌이 없었습니다.\n\n만약 게임 회사나 애니메이션 제작사가 자사에서 제작한 고품질 애니메이션을 30초 단위로 리퍼런스로 활용할 수 있게 된다면……\n이는 엄청난 생산성 향상으로 이어질 것 같습니다.\nvideo: Seedance 2.0 on @capcutapp_jp \nPR capcutseedance25 capcutcpp\n---"
+    },
+    "pt": {
+      "content": "Use um vídeo de referência de até 30 segundos no Seedance 2.5 para manter a estabilidade do movimento e da consistência do personagem em re-renders fotorrealistas de longa duração.\nCrie uma animação simples de 30 segundos de “white model” no Blender (via Blender MCP) e, em seguida, use esse clipe como vídeo de referência no Seedance 2.5, aplicando prompts em linguagem natural para realizar um segundo render fotorrealista.\n\n--- TWEET CITADO ---\nÉ verdade mesmo que o Seedance 2.5 consegue usar um vídeo longo de 30 segundos diretamente como referência……!?\nIsso foi, sem exagero, chocante.\n\nDesta vez, com o Blender MCP, criei um white model de 30 segundos de um “cachorrinho sonâmbulo” andando e, usando esse vídeo como referência, fiz o segundo render apenas com linguagem natural.\nA primeira coisa que pensei ao ver o resultado foi: a estabilidade é simplesmente impressionante.\nApesar da duração longa de 30 segundos, a consistência do movimento e a manutenção do personagem foram extremamente naturais, e não senti nenhuma quebra até o final.\n\nSe empresas de games ou estúdios de animação puderem passar a usar animações de alta qualidade produzidas internamente como referência em blocos de 30 segundos……\nAcho que isso pode levar a um aumento absurdo de produtividade.\nvideo: Seedance 2.0 on @capcutapp_jp \nPR capcutseedance25 capcutcpp"
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中使用最长 30 秒的参考视频，可以在长篇写实重渲染中保持运动和角色一致性稳定。  \n先在 Blender 中（通过 Blender MCP）创建一个简单的 30 秒“白模”动画，然后将该片段作为 Seedance 2.5 的参考视频，并通过自然语言 prompt 进行二次写实渲染。\n\n--- 引用推文 ---\nSeedance 2.5 真的可以直接把 30 秒的长视频当作参考来用吗……！？  \n这真的太震撼了。\n\n这次我通过 Blender MCP 制作了一个“梦游的小狗”行走的 30 秒白模动画，并将这段视频作为参考，仅用自然语言进行了二次渲染。  \n看完成品后，我最先想到的就是：稳定性实在太强了。  \n尽管时长长达 30 秒，动作的一致性和角色的保持都非常自然，直到最后都没有出现任何崩坏感。\n\n如果游戏公司或动画制作公司，未来能够把自家制作的高质量动画按 30 秒为单位作为参考来使用……  \n我觉得这将带来极其惊人的生产力提升。  \nvideo: Seedance 2.0 on @capcutapp_jp  \nPR capcutseedance25 capcutcpp"
+    }
+  }
+}

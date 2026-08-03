@@ -1,0 +1,43 @@
+{
+  "id": "2083418181197262869",
+  "title": "10個のキャラクターシートを参照として読み込ませてPOV風アニメーションを生成する",
+  "content": "10個のキャラクターシートを参照として読み込ませてPOV風アニメーションを生成する  \n30秒動画を2本生成し、後半30秒は前半30秒の生成動画を丸ごと参照（リファレンス）にして続きとして生成する  \nコスト節約のためSeedance2.5は480pで生成し、仕上げはCapCutのウルトラHD出力でアップスケールする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083416016655437824/img/8jj2kfwMPbM4sk0x.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083418181197262869.mp4",
+  "sourceLink": "https://x.com/neco1751662/status/2083418181197262869",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "neco - AI Anime",
+    "link": "https://x.com/neco1751662"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Anime 2D",
+    "Realistic World",
+    "POV",
+    "Tutorial"
+  ],
+  "tips": "10個のキャラクターシートを参照として読み込ませてPOV風アニメーションを生成する  \n30秒動画を2本生成し、後半30秒は前半30秒の生成動画を丸ごと参照（リファレンス）にして続きとして生成する  \nコスト節約のためSeedance2.5は480pで生成し、仕上げはCapCutのウルトラHD出力でアップスケールする",
+  "translations": {
+    "en": {
+      "content": "Load 10 character sheets as references to generate a POV-style animation.  \nGenerate two 30-second videos, and use the first 30 seconds of generated footage as a full reference for the second 30 seconds, continuing the sequence.  \nTo save costs, generate in 480p with Seedance 2.5, then upscale in CapCut using Ultra HD export for the final output."
+    },
+    "es": {
+      "content": "Cargar 10 character sheets como referencia para generar una animación en estilo POV.  \nGenerar dos videos de 30 segundos y, en los últimos 30 segundos, usar el video generado de los primeros 30 segundos como referencia completa para continuar la secuencia.  \nPara ahorrar costos, generar en Seedance2.5 a 480p y, para el acabado final, hacer upscale con la exportación Ultra HD de CapCut."
+    },
+    "fr": {
+      "content": "Charger 10 character sheets comme références pour générer une animation en vue subjective (POV).  \nGénérer deux vidéos de 30 secondes, puis utiliser la vidéo générée des 30 premières secondes comme référence complète pour générer la suite des 30 secondes suivantes.  \nPour réduire les coûts, générer avec Seedance2.5 en 480p, puis effectuer la finition en upscaling avec l’export Ultra HD de CapCut."
+    },
+    "ko": {
+      "content": "10개의 캐릭터 시트를 참조로 불러와 POV 스타일 애니메이션을 생성한다  \n30초 영상 2개를 생성하고, 후반 30초는 전반 30초의 생성 영상을 통째로 참조(레퍼런스)로 사용해 이어지는 장면으로 생성한다  \n비용 절감을 위해 Seedance2.5는 480p로 생성하고, 최종 마무리는 CapCut의 Ultra HD 출력으로 업스케일한다"
+    },
+    "pt": {
+      "content": "Carregar 10 character sheets como referência para gerar uma animação em estilo POV  \nGerar dois vídeos de 30 segundos e, nos 30 segundos finais, usar o vídeo gerado nos primeiros 30 segundos como referência completa (reference) para continuar a geração  \nPara economizar custos, gerar no Seedance 2.5 em 480p e finalizar com upscale usando a exportação Ultra HD do CapCut"
+    },
+    "zh": {
+      "content": "将10张角色设定图作为参考输入，生成 POV 风格动画  \n生成两段 30 秒视频，后半 30 秒将前半 30 秒生成的视频整体作为参考（reference），接着生成后续内容  \n为节省成本，Seedance2.5 以 480p 生成，最终通过 CapCut 的 Ultra HD 输出进行放大（upscale）"
+    }
+  }
+}

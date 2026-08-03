@@ -1,0 +1,41 @@
+{
+  "id": "2075206446879265049",
+  "title": "A cinematic, dark and mysterious trailer for a movie about aliens arriving on…",
+  "content": "A cinematic, dark and mysterious trailer for a movie about aliens arriving on earth",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2075206120461709312/img/1JPNvld2-yhKpR-8.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2075206446879265049.mp4",
+  "sourceLink": "https://x.com/synthwavedd/status/2075206446879265049",
+  "sourcePublishedAt": "2026-07-09",
+  "author": {
+    "name": "leo 🐾",
+    "link": "https://x.com/synthwavedd"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Sci-Fi",
+    "VFX"
+  ],
+  "translations": {
+    "es": {
+      "content": "Un tráiler cinematográfico, oscuro y misterioso para una película sobre alienígenas llegando a la Tierra."
+    },
+    "fr": {
+      "content": "Une bande-annonce cinématographique, sombre et mystérieuse pour un film sur l'arrivée des extraterrestres sur Terre."
+    },
+    "ja": {
+      "content": "エイリアンが地球に到着する映画のための、シネマティックで暗く神秘的なトレーラー"
+    },
+    "ko": {
+      "content": "외계인이 지구에 도착하는 영화의 시네마틱하고 어둡고 신비로운 예고편"
+    },
+    "pt": {
+      "content": "Um trailer cinematográfico, sombrio e misterioso para um filme sobre alienígenas chegando à Terra"
+    },
+    "zh": {
+      "content": "一部关于外星人降临地球的电影预告片，具有电影感、黑暗和神秘的氛围。"
+    }
+  }
+}

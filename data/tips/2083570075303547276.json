@@ -1,0 +1,42 @@
+{
+  "id": "2083570075303547276",
+  "title": "13秒程度のプレビズなら欲張って20秒で生成せず、近い尺で生成して破綻（分裂・崩れ）を避ける",
+  "content": "13秒程度のプレビズなら欲張って20秒で生成せず、近い尺で生成して破綻（分裂・崩れ）を避ける  \nSeedance2.5では以前作ったPrevis動画を入力参照として読ませると、位置関係や構図の再現性が上がる  \n背景だけ別の参照素材を与えて、背景表現（自然光・反射）を改善する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083569543751045120/img/tXi0ru7pElBlfrfa.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083570075303547276.mp4",
+  "sourceLink": "https://x.com/applete77191758/status/2083570075303547276",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "appletea 🍎アップルティ☕丨AI動画制作",
+    "link": "https://x.com/applete77191758"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "13秒程度のプレビズなら欲張って20秒で生成せず、近い尺で生成して破綻（分裂・崩れ）を避ける  \nSeedance2.5では以前作ったPrevis動画を入力参照として読ませると、位置関係や構図の再現性が上がる  \n背景だけ別の参照素材を与えて、背景表現（自然光・反射）を改善する",
+  "translations": {
+    "en": {
+      "content": "For previs of around 13 seconds, don’t try to stretch it to 20 seconds; generate it at a similar duration to avoid breakdowns (splitting, distortion).  \nIn Seedance 2.5, if you feed in a previously made previs video as an input reference, the reproducibility of spatial relationships and composition improves.  \nYou can also provide a separate reference source for just the background to improve background rendering (natural light, reflections).\n\n--- QUOTED TWEET ---\nI heard Seedance 2.5 has been released on Cupcut, so I tried it right away!  \nI also fed in a previs-like piece I had previously made in Blender into Seedance 2.5.  \nSince I used a different reference only for the background, it’s a bit hard to compare, but the depiction of natural light and reflections has become much cleaner!\n\nAlso, the reproducibility of the previs has improved, and it feels more faithful to the spatial relationships and composition of the input video than 2.0!\n\nThe audio is great too~~\n\n#capcutgenerativeai\n@capcutapp_jp"
+    },
+    "es": {
+      "content": "13 segundos de previs: en lugar de forzar una generación de 20 segundos, conviene generar una duración cercana para evitar fallos de coherencia (fragmentación, deformaciones).  \nEn Seedance 2.5, si cargas un video de previs creado anteriormente como referencia de entrada, mejora la reproducibilidad de las relaciones espaciales y la composición.  \nSi proporcionas por separado material de referencia solo para el fondo, puedes mejorar la representación del fondo (luz natural, reflejos).\n\n--- TUIT CITADO ---\n¡Parece que Seedance 2.5 se ha publicado en Cupcut, así que lo probé enseguida!\nTambién intenté hacer que Seedance 2.5 leyera algo parecido a un previs que había creado antes en Blender.\nComo solo hice que se referenciara otro material para el fondo, es un poco difícil de comparar, ¡pero la representación de la luz natural y los reflejos ha mejorado muchísimo!\n\nAdemás, la reproducibilidad del previs también ha mejorado, y siento que es más fiel a las relaciones espaciales y a la composición del video de entrada que la versión 2.0.\n\nEl sonido también está muy bien～～\n\n#capcut生成ai\n@capcutapp_jp"
+    },
+    "fr": {
+      "content": "Pour un previs d’environ 13 secondes, mieux vaut ne pas chercher à générer 20 secondes : générez une durée proche pour éviter les artefacts (dédoublements, déformations).  \nAvec Seedance2.5, si vous lui faites lire une vidéo de previs créée auparavant comme référence d’entrée, la fidélité de la reproduction des relations spatiales et de la composition s’améliore.  \nEn fournissant à part une autre ressource de référence uniquement pour l’arrière-plan, on peut améliorer le rendu du fond (lumière naturelle, reflets).\n\n--- QUOTED TWEET ---\nJ’ai vu que Seedance2.5 avait été publié sur Cupcut, alors je l’ai essayé tout de suite !  \nJ’ai aussi fait lire à Seedance2.5 une sorte de previs que j’avais créée auparavant dans Blender.  \nComme j’ai fait référence à un autre élément uniquement pour l’arrière-plan, la comparaison n’est pas très simple, mais le rendu de la lumière naturelle et des reflets est devenu nettement plus beau !\n\nDe plus, la fidélité de reproduction du previs s’est améliorée, et j’ai eu l’impression qu’il est plus fidèle que la 2.0 aux relations spatiales et à la composition de la vidéo d’entrée !\n\nLe son est bon aussi～～\n\n#capcut生成ai  \n@capcutapp_jp"
+    },
+    "ko": {
+      "content": "13초 정도의 프리비즈라면 욕심내서 20초로 생성하지 말고, 비슷한 길이로 생성해 파탄(분열·붕괴)을 피한다  \nSeedance2.5에서는 이전에 만든 Previs 영상을 입력 참조로 읽히면 위치 관계와 구도의 재현성이 높아진다  \n배경만 다른 참조 소재를 주어 배경 표현(자연광·반사)을 개선한다\n\n--- QUOTED TWEET ---\nCupcut에 Seedance2.5가 공개되었다고 해서, 바로 시험해 봤습니다!\n이전에 Blender로 만든 Previs 같은 것을 Seedance2.5에도 읽혀 보았습니다.\n배경만 다른 것을 참조하게 했기 때문에 비교하기는 어렵지만, 자연광 묘사와 반사가 꽤나 깔끔해졌습니다!\n\n또한 Previs의 재현성도 향상되어, 2.0보다 입력한 영상의 위치 관계나 구도에 더 충실해졌다고 느꼈습니다!\n\n소리도 좋네요~~\n\n#capcut生成ai\n@capcutapp_jp\n---"
+    },
+    "pt": {
+      "content": "Se for um previs de cerca de 13 segundos, não vale a pena tentar gerar 20 segundos; gere em uma duração próxima para evitar que a imagem se quebre (divida/desmorone).  \nNo Seedance2.5, ao usar um vídeo de previs criado anteriormente como referência de entrada, a reprodutibilidade das relações espaciais e da composição melhora.  \nAo fornecer apenas o fundo como outro material de referência, é possível aprimorar a representação do background (luz natural e reflexos).\n\n--- TWEET CITADO ---\nOuvi dizer que o Seedance2.5 foi lançado no Cupcut, então fui testar na hora!\nTambém experimentei fazer o Seedance2.5 ler algo parecido com um previs que criei antes no Blender.\nComo só usei outro material como referência para o fundo, fica difícil comparar, mas a representação da luz natural e dos reflexos ficou bem mais bonita!\n\nAlém disso, a reprodutibilidade do previs também melhorou, e senti que ele está mais fiel às relações espaciais e à composição do vídeo de entrada do que o 2.0!\n\nO som também é bom～～\n\n#capcut生成ai\n@capcutapp_jp"
+    },
+    "zh": {
+      "content": "13秒左右的预演视频，别贪心直接生成20秒，而是尽量按接近的时长生成，以避免崩坏（分裂、失真）  \n在 Seedance2.5 中，如果把之前做好的 Previs 视频作为输入参考来读取，位置关系和构图的复现度会更高  \n只给背景提供另一份参考素材，可以改善背景表现（自然光、反射）\n\n--- QUOTED TWEET ---\n听说 Cupcut 上公开了 Seedance2.5，就立刻试了一下！\n我也把之前用 Blender 做的类似 Previs 的内容让 Seedance2.5 读取了。\n因为只让它参考了另一份背景素材，所以不太好比较，不过自然光的表现和反射确实变得精致了很多！\n\n另外，Previs 的复现性也有所提升，感觉比 2.0 更忠实于输入视频的位置关系和构图！\n\n声音也很好～～\n\n#capcut生成ai\n@capcutapp_jp\n---"
+    }
+  }
+}

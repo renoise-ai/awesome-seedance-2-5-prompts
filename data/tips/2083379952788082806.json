@@ -1,0 +1,42 @@
+{
+  "id": "2083379952788082806",
+  "title": "Seedance 2.5で長文プロンプト（約3万文字）をPNG画像にして挿入し、3分の一発生成を試す",
+  "content": "Seedance 2.5で長文プロンプト（約3万文字）をPNG画像にして挿入し、3分の一発生成を試す",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083379043962089472/img/0Hw4n9peXgBgbL0q.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083379952788082806.mp4",
+  "sourceLink": "https://x.com/Ryuki_Yano/status/2083379952788082806",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "ヤノ",
+    "link": "https://x.com/Ryuki_Yano"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5で長文プロンプト（約3万文字）をPNG画像にして挿入し、3分の一発生成を試す",
+  "translations": {
+    "en": {
+      "content": "Try a 3-minute one-shot generation with a long prompt (about 30,000 characters) inserted as a PNG image in Seedance 2.5"
+    },
+    "es": {
+      "content": "Probar una generación única de 3 minutos insertando un prompt largo (aprox. 30.000 caracteres) en Seedance 2.5 como imagen PNG."
+    },
+    "fr": {
+      "content": "Essayer une génération unique de 3 minutes avec Seedance 2.5 en insérant un long prompt (environ 30 000 caractères) sous forme d’image PNG."
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 장문 프롬프트(약 3만 자)를 PNG 이미지로 만들어 삽입하고, 3분짜리 원샷 생성을 시도하기"
+    },
+    "pt": {
+      "content": "Testando uma geração única de 3 minutos com um prompt longo no Seedance 2.5 (cerca de 30 mil caracteres), inserido como imagem PNG"
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中将长文本 prompt（约 3 万字）制作为 PNG 图片并插入，尝试一次生成 3 分钟内容"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2083378242409709725",
+  "title": "Seedance2.5をCapCutで使う場合、30秒を一度に生成できるので長尺はまとめて生成してみる",
+  "content": "Seedance2.5をCapCutで使う場合、30秒を一度に生成できるので長尺はまとめて生成してみる  \n30秒生成のクレジット目安は720pが1380、480pが660なので、コストを抑えたいときは480pを選ぶ  \nエラーで意図と違う結果になった場合は、プロンプトを調整して再生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083378133429043200/img/eazjGPs2_JyVtDnJ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083378242409709725.mp4",
+  "sourceLink": "https://x.com/by2lGwfvhOkrAV2/status/2083378242409709725",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "Tkool",
+    "link": "https://x.com/by2lGwfvhOkrAV2"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.5をCapCutで使う場合、30秒を一度に生成できるので長尺はまとめて生成してみる  \n30秒生成のクレジット目安は720pが1380、480pが660なので、コストを抑えたいときは480pを選ぶ  \nエラーで意図と違う結果になった場合は、プロンプトを調整して再生成する",
+  "translations": {
+    "en": {
+      "content": "When using Seedance 2.5 in CapCut, you can generate up to 30 seconds at once, so for longer videos, try generating them in one batch.  \nThe estimated credit cost for generating 30 seconds is 1,380 for 720p and 660 for 480p, so choose 480p when you want to keep costs down.  \nIf an error causes the result to differ from your intent, adjust the prompt and generate again."
+    },
+    "es": {
+      "content": "Si usas Seedance2.5 en CapCut, puedes generar 30 segundos de una sola vez, así que para piezas largas conviene generarlas en bloque.  \nComo referencia, el coste en créditos para generar 30 segundos es de 1380 en 720p y de 660 en 480p, así que si quieres reducir costes, elige 480p.  \nSi por un error el resultado no coincide con lo que pretendías, ajusta el prompt y vuelve a generarlo."
+    },
+    "fr": {
+      "content": "Lorsque vous utilisez Seedance2.5 dans CapCut, vous pouvez générer 30 secondes en une seule fois, donc pour les formats plus longs, essayez de tout générer d’un coup.  \nPour une génération de 30 secondes, le coût en crédits est d’environ 1380 en 720p et 660 en 480p ; si vous voulez réduire les coûts, choisissez donc le 480p.  \nSi une erreur entraîne un résultat différent de celui souhaité, ajustez le prompt et régénérez."
+    },
+    "ko": {
+      "content": "CapCut에서 Seedance2.5를 사용할 경우, 30초를 한 번에 생성할 수 있으므로 긴 영상은 한 번에 생성해 보는 것이 좋다.  \n30초 생성 시 크레딧 기준은 720p가 1380, 480p가 660이므로, 비용을 줄이고 싶을 때는 480p를 선택한다.  \n에러로 인해 의도와 다른 결과가 나왔다면, prompt를 조정해 다시 생성한다."
+    },
+    "pt": {
+      "content": "Ao usar o Seedance2.5 no CapCut, como é possível gerar 30 segundos de uma vez, vale a pena tentar gerar trechos mais longos em uma única vez.  \nA referência de créditos para gerar 30 segundos é 1380 em 720p e 660 em 480p; então, se quiser reduzir custos, escolha 480p.  \nSe, por causa de um erro, o resultado sair diferente do esperado, ajuste o prompt e gere novamente."
+    },
+    "zh": {
+      "content": "在 CapCut 中使用 Seedance2.5 时，可以一次生成 30 秒内容，因此长镜头建议尽量一次性生成。  \n30 秒生成的 credits 参考值为：720p 需要 1380，480p 需要 660；如果想控制成本，建议选择 480p。  \n如果因错误导致结果与预期不符，可以调整 prompt 后重新生成。"
+    }
+  }
+}

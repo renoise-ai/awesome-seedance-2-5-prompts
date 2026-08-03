@@ -1,0 +1,41 @@
+{
+  "id": "2083602399491465499",
+  "title": "Generate audio with Suno, then use a single reference image plus a prompt…",
+  "content": "Generate audio with Suno, then use a single reference image plus a prompt specifying a Cowboy Bebop–style intro to drive the video style in Seedance 2.5.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/albustime/status/2083602399491465499",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "Akshobya",
+    "link": "https://x.com/albustime"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Anime 2D",
+    "Sci-Fi",
+    "Tutorial"
+  ],
+  "tips": "Generate audio with Suno, then use a single reference image plus a prompt specifying a Cowboy Bebop–style intro to drive the video style in Seedance 2.5.",
+  "translations": {
+    "es": {
+      "content": "Genera audio con Suno y luego usa una sola imagen de referencia, junto con un prompt que especifique una intro al estilo de Cowboy Bebop, para guiar el estilo del video en Seedance 2.5.\n\n--- TWEET CITADO ---\nMINIMAX H3\n\naudio generado con Suno + una sola imagen de referencia con un prompt para una intro al estilo Cowboy Bebop 🎺 https://t.co/QB3QaNoIRV\n---"
+    },
+    "fr": {
+      "content": "Générez l’audio avec Suno, puis utilisez une seule image de référence ainsi qu’un prompt spécifiant une intro dans le style de Cowboy Bebop pour guider le style de la vidéo dans Seedance 2.5.\n\n--- TWEET CITÉ ---\nMINIMAX H3 \n\naudio généré avec Suno + une seule image de référence avec un prompt pour une intro dans le style de Cowboy Bebop 🎺 https://t.co/QB3QaNoIRV\n---"
+    },
+    "ja": {
+      "content": "Sunoで音声を生成し、その後、1枚の参照画像と「Cowboy Bebop風のイントロ」を指定するpromptを使って、Seedance 2.5で動画スタイルを生成します。\n\n--- 引用ツイート ---\nMINIMAX H3 \n\nSunoで生成した音声 + 1枚の参照画像に、Cowboy Bebop風のイントロ用promptを組み合わせました 🎺 https://t.co/QB3QaNoIRV\n---"
+    },
+    "ko": {
+      "content": "Suno로 오디오를 생성한 다음, 단일 레퍼런스 이미지와 Cowboy Bebop 스타일의 인트로를 지정하는 prompt를 함께 사용해 Seedance 2.5에서 영상 스타일을 구현하세요.\n\n--- 인용된 트윗 ---\nMINIMAX H3\n\nSuno에서 생성한 오디오 + 단일 ref image에 Cowboy Bepop 스타일 인트로를 위한 prompt를 적용 🎺 https://t.co/QB3QaNoIRV\n---"
+    },
+    "pt": {
+      "content": "Gere áudio com o Suno e, em seguida, use uma única imagem de referência, além de um prompt especificando uma intro no estilo de Cowboy Bebop, para orientar o estilo do vídeo no Seedance 2.5.\n\n--- TWEET CITADO ---\nMINIMAX H3 \n\náudio gerado pelo Suno + uma única imagem de referência com um prompt para uma intro no estilo de Cowboy Bebop 🎺 https://t.co/QB3QaNoIRV\n---"
+    },
+    "zh": {
+      "content": "使用 Suno 生成音频，然后结合一张参考图像和一个指定《Cowboy Bebop》风格片头的 prompt，在 Seedance 2.5 中驱动视频风格。\n\n--- 引用推文 ---\nMINIMAX H3 \n\n由 Suno 生成的音频 + 一张参考图像，并配合一个用于《Cowboy Bebop》风格片头的 prompt 🎺 https://t.co/QB3QaNoIRV\n---"
+    }
+  }
+}

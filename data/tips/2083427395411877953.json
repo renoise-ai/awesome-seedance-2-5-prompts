@@ -1,0 +1,42 @@
+{
+  "id": "2083427395411877953",
+  "title": "把 Seedance 2.5 的视频提示词从“描述画面”改为“讲故事”的叙事式写法来适配长视频生成",
+  "content": "把 Seedance 2.5 的视频提示词从“描述画面”改为“讲故事”的叙事式写法来适配长视频生成  \n用时间戳把 30 秒长视频按段落精确拆分，在提示词中逐段描述每个时间段发生的内容  \n生成 30 秒长视频时同时提供最多 30 张参考图作为多参考输入来稳定角色/风格/场景一致性",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083424896911331328/img/JuaRJH5h6cEAPxDp.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083427395411877953.mp4",
+  "sourceLink": "https://x.com/zhouluobo/status/2083427395411877953",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "zhouluobo",
+    "link": "https://x.com/zhouluobo"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "把 Seedance 2.5 的视频提示词从“描述画面”改为“讲故事”的叙事式写法来适配长视频生成  \n用时间戳把 30 秒长视频按段落精确拆分，在提示词中逐段描述每个时间段发生的内容  \n生成 30 秒长视频时同时提供最多 30 张参考图作为多参考输入来稳定角色/风格/场景一致性",
+  "translations": {
+    "en": {
+      "content": "Adapt Seedance 2.5 video prompts from “describing the scene” to a narrative, storytelling style to better suit long-form video generation  \nUse timestamps to precisely break a 30-second video into segments, and describe what happens in each time period step by step in the prompt  \nWhen generating a 30-second long video, provide up to 30 reference images at the same time as multi-reference input to stabilize consistency in character, style, and scene\n\n--- THREAD CONTINUATION ---\n[Thread 1] Prompt collection: https://t.co/lM9NHLIy7d\n---"
+    },
+    "es": {
+      "content": "Cambiar los prompts de video de Seedance 2.5 de “describir la imagen” a una redacción narrativa de “contar una historia” para adaptarlos a la generación de videos largos  \nUsar marcas de tiempo para dividir con precisión un video largo de 30 segundos en segmentos, y describir en el prompt, tramo por tramo, lo que ocurre en cada intervalo de tiempo  \nAl generar videos largos de 30 segundos, proporcionar al mismo tiempo hasta 30 imágenes de referencia como entrada multireferencia para estabilizar la coherencia de personaje/estilo/escena\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Colección completa de prompts: https://t.co/lM9NHLIy7d\n---"
+    },
+    "fr": {
+      "content": "Adapter les prompts vidéo de Seedance 2.5 d’une écriture qui « décrit l’image » à une narration qui « raconte une histoire », afin de les adapter à la génération de longues vidéos  \nDécouper précisément une vidéo de 30 secondes en paragraphes à l’aide de timestamps, puis décrire dans le prompt, segment par segment, ce qui se passe à chaque intervalle de temps  \nLors de la génération d’une vidéo de 30 secondes, fournir simultanément jusqu’à 30 images de référence comme entrées multi-références afin de stabiliser la cohérence du personnage, du style et du décor\n\n--- SUITE DU THREAD ---\n[Thread 1] Recueil complet de prompts : https://t.co/lM9NHLIy7d\n---"
+    },
+    "ja": {
+      "content": "Seedance 2.5 の動画プロンプトを、「画面を描写する」スタイルから「物語を語る」ナラティブな書き方へ変えて、長尺動画生成に適応させる  \nタイムスタンプを使って、30秒の長尺動画を段落ごとに正確に分割し、プロンプト内で各時間帯に起こる内容を順番に記述する  \n30秒の長尺動画を生成する際は、最大30枚の参考画像をマルチリファレンス入力として同時に提供し、キャラクター／スタイル／シーンの一貫性を安定させる\n\n--- THREAD CONTINUATION ---\n[Thread 1] プロンプト大全：https://t.co/lM9NHLIy7d\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 비디오 prompt를 “화면을 묘사하는 방식”에서 “이야기를 들려주는” 서사형 문체로 바꿔 장편 영상 생성에 맞게 적용  \n타임스탬프를 사용해 30초짜리 장편 영상을 문단별로 정확히 분할하고, prompt에서 각 시간대에 발생하는 내용을 구간별로 설명  \n30초 장편 영상을 생성할 때는 최대 30장의 참고 이미지를 함께 제공해 multi-reference 입력으로 캐릭터/스타일/장면의 일관성을 안정적으로 유지\n\n--- THREAD CONTINUATION ---\n[Thread 1] prompt 모음: https://t.co/lM9NHLIy7d\n---"
+    },
+    "pt": {
+      "content": "Transforme os prompts de vídeo do Seedance 2.5 de “descrever a cena” para uma escrita narrativa de “contar uma história”, para se adaptar à geração de vídeos longos  \nUse timestamps para dividir com precisão um vídeo de 30 segundos em blocos, descrevendo no prompt, trecho por trecho, o que acontece em cada intervalo de tempo  \nAo gerar um vídeo de 30 segundos, forneça simultaneamente até 30 imagens de referência como entrada multi-referência para estabilizar a consistência de personagem/estilo/cenário\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Coleção completa de prompts: https://t.co/lM9NHLIy7d\n---"
+    }
+  }
+}

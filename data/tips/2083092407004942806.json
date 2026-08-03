@@ -1,0 +1,42 @@
+{
+  "id": "2083092407004942806",
+  "title": "Use one prompt plus a single reference image of the character to maintain…",
+  "content": "Use one prompt plus a single reference image of the character to maintain character consistency across a 30-second Seedance 2.5 video  \nGenerate at 720p for this workflow  \nCreate the character reference image first with Image 5.0 Pro, then use it as the reference image in Seedance 2.5",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083090647142084608/img/2pxjUMcJVTEg_8es.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083092407004942806.mp4",
+  "sourceLink": "https://x.com/bigwonbots/status/2083092407004942806",
+  "sourcePublishedAt": "2026-07-31",
+  "author": {
+    "name": "George Won",
+    "link": "https://x.com/bigwonbots"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use one prompt plus a single reference image of the character to maintain character consistency across a 30-second Seedance 2.5 video  \nGenerate at 720p for this workflow  \nCreate the character reference image first with Image 5.0 Pro, then use it as the reference image in Seedance 2.5",
+  "translations": {
+    "es": {
+      "content": "Usa un solo prompt más una única imagen de referencia del personaje para mantener la consistencia del personaje en un video de Seedance 2.5 de 30 segundos  \nGenera en 720p para este flujo de trabajo  \nCrea primero la imagen de referencia del personaje con Image 5.0 Pro y luego úsala como imagen de referencia en Seedance 2.5\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] @dreamina_ai Imagen de referencia del personaje creada con Image 5.0 Pro https://t.co/KT7tp9rd73\n---"
+    },
+    "fr": {
+      "content": "Utilisez un seul prompt et une seule image de référence du personnage afin de maintenir la cohérence du personnage sur une vidéo Seedance 2.5 de 30 secondes  \nGénérez en 720p pour ce workflow  \nCréez d’abord l’image de référence du personnage avec Image 5.0 Pro, puis utilisez-la comme image de référence dans Seedance 2.5\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Thread 1] @dreamina_ai Image de référence du personnage réalisée avec Image 5.0 Pro https://t.co/KT7tp9rd73\n---"
+    },
+    "ja": {
+      "content": "30秒のSeedance 2.5動画全体でキャラクターの一貫性を保つには、1つのpromptとキャラクターの単一の参照画像を使用してください  \nこのワークフローでは720pで生成してください  \nまず Image 5.0 Pro でキャラクターの参照画像を作成し、その後それを Seedance 2.5 の参照画像として使用します\n\n--- THREAD CONTINUATION ---\n[Thread 1] @dreamina_ai Image 5.0 Pro で作成したキャラクター参照画像 https://t.co/KT7tp9rd73\n---"
+    },
+    "ko": {
+      "content": "30초 길이의 Seedance 2.5 비디오 전반에서 캐릭터 일관성을 유지하려면 하나의 prompt와 캐릭터의 단일 reference image를 사용하세요  \n이 워크플로우에서는 720p로 생성하세요  \n먼저 Image 5.0 Pro로 캐릭터 reference image를 만든 다음, 이를 Seedance 2.5에서 reference image로 사용하세요\n\n--- THREAD CONTINUATION ---\n[Thread 1] @dreamina_ai Character reference made with Image 5.0 Pro https://t.co/KT7tp9rd73\n---"
+    },
+    "pt": {
+      "content": "Use um prompt e uma única imagem de referência do personagem para manter a consistência do personagem ao longo de um vídeo de 30 segundos no Seedance 2.5  \nGere em 720p para este fluxo de trabalho  \nCrie primeiro a imagem de referência do personagem com o Image 5.0 Pro e, depois, use-a como imagem de referência no Seedance 2.5\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] @dreamina_ai Character reference made with Image 5.0 Pro https://t.co/KT7tp9rd73\n---"
+    },
+    "zh": {
+      "content": "使用一个 prompt，再加上一张角色参考图，以在 30 秒的 Seedance 2.5 视频中保持角色一致性  \n此工作流请以 720p 生成  \n先使用 Image 5.0 Pro 创建角色参考图，然后将其作为 Seedance 2.5 中的参考图使用\n\n--- 线程续接 ---\n[Thread 1] @dreamina_ai 使用 Image 5.0 Pro 制作的角色参考图 https://t.co/KT7tp9rd73\n---"
+    }
+  }
+}

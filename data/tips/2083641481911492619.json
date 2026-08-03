@@ -1,0 +1,43 @@
+{
+  "id": "2083641481911492619",
+  "title": "Use Seedance 2.5 with a photo of yourself, a short clip of you talking, and a…",
+  "content": "Use Seedance 2.5 with a photo of yourself, a short clip of you talking, and a few location reference photos to clone your voice and likeness and generate a walkthrough video in a single prompt.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083640941961977856/img/Hb64ALUQ4xYblOkd.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083641481911492619.mp4",
+  "sourceLink": "https://x.com/venturetwins/status/2083641481911492619",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "Justine Moore",
+    "link": "https://x.com/venturetwins"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Use Seedance 2.5 with a photo of yourself, a short clip of you talking, and a few location reference photos to clone your voice and likeness and generate a walkthrough video in a single prompt.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 con una foto tuya, un breve clip en el que hables y algunas fotos de referencia del lugar para clonar tu voz y tu apariencia y generar un video tipo walkthrough en un solo prompt."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 avec une photo de vous-même, un court clip de vous en train de parler et quelques photos de référence du lieu pour cloner votre voix et votre apparence, et générer une vidéo de visite guidée en un seul prompt."
+    },
+    "ja": {
+      "content": "Seedance 2.5を使って、自分の写真、話している短いクリップ、そしていくつかのロケーション参考写真を用意すれば、あなたの声と容姿を再現し、1つのプロンプトでウォークスルー動画を生成できます。"
+    },
+    "ko": {
+      "content": "자신의 사진, 말하는 짧은 클립, 그리고 몇 장의 장소 참고 사진을 사용해 Seedance 2.5로 당신의 목소리와 외모를 복제하고, 하나의 prompt만으로 walkthrough 영상을 생성하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 com uma foto sua, um clipe curto de você falando e algumas fotos de referência do local para clonar sua voz e sua aparência e gerar um vídeo de walkthrough em um único prompt."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5，结合你自己的照片、一段你说话的短视频，以及几张地点参考照片，即可克隆你的声音和形象，并通过一个提示词生成一段 walkthrough 视频。"
+    }
+  }
+}

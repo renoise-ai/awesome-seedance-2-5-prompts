@@ -1,0 +1,42 @@
+{
+  "id": "2083834657863537011",
+  "title": "Use Blender＋Unityでプリビズ（事前ビジュアライズ）を作ってからSeedance2.5に使うと、遮蔽物（前景オブジェクト）があるシーンの構図・動き…",
+  "content": "Use Blender＋Unityでプリビズ（事前ビジュアライズ）を作ってからSeedance2.5に使うと、遮蔽物（前景オブジェクト）があるシーンの構図・動きが安定しやすい  \n80年代アニメ風の仕上げは、生成後にCapCutで編集し、Premiereでレトロ加工とロゴ入れを行う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083834335451611136/img/AMIqJwJwYA_lN2we.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083834657863537011.mp4",
+  "sourceLink": "https://x.com/yukimino_doga/status/2083834657863537011",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "ゆきしたミノル@動画",
+    "link": "https://x.com/yukimino_doga"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Blender＋Unityでプリビズ（事前ビジュアライズ）を作ってからSeedance2.5に使うと、遮蔽物（前景オブジェクト）があるシーンの構図・動きが安定しやすい  \n80年代アニメ風の仕上げは、生成後にCapCutで編集し、Premiereでレトロ加工とロゴ入れを行う",
+  "translations": {
+    "en": {
+      "content": "If you create a previs (pre-visualization) in Blender + Unity and then use it with Seedance 2.5, the composition and motion of scenes with occluders (foreground objects) tend to stay more stable.  \nFor an ’80s anime-style finish, edit the generated footage in CapCut, then use Premiere to apply a retro treatment and add the logo."
+    },
+    "es": {
+      "content": "Usar Blender＋Unity para crear un previz (previsualización) antes de emplearlo en Seedance2.5 ayuda a que la composición y el movimiento se mantengan más estables en escenas con elementos que obstruyen la vista (objetos en primer plano).  \nEl acabado estilo anime de los 80 se edita después de la generación en CapCut, y en Premiere se aplican el tratamiento retro y la inserción del logo."
+    },
+    "fr": {
+      "content": "Utiliser Blender＋Unity pour créer un préviz (prévisualisation) avant de l’exploiter dans Seedance2.5 permet de stabiliser plus facilement la composition et les mouvements dans les scènes comportant des obstacles (objets au premier plan).  \nPour une finition style anime des années 80, effectuer le montage dans CapCut après la génération, puis appliquer un traitement rétro et ajouter le logo dans Premiere."
+    },
+    "ko": {
+      "content": "Blender＋Unity로 프리비즈(사전 비주얼라이제이션)를 먼저 만든 뒤 Seedance2.5에 활용하면, 장애물(전경 오브젝트)이 있는 장면의 구도와 움직임이 더 안정적으로 잡히기 쉽다  \n80년대 애니메이션풍의 마무리는 생성 후 CapCut에서 편집하고, Premiere에서 레트로 효과와 로고 삽입을 진행한다"
+    },
+    "pt": {
+      "content": "Use Blender＋Unity para criar o previs（pré-visualização） antes de usar no Seedance2.5, e assim a composição e o movimento em cenas com objetos de obstrução (objetos em primeiro plano) tendem a ficar mais estáveis.  \nO acabamento em estilo de anime dos anos 80 é feito editando no CapCut após a geração e aplicando o tratamento retrô e a inserção do logo no Premiere."
+    },
+    "zh": {
+      "content": "先用 Blender＋Unity 制作 pre-vis（事前可视化），再用于 Seedance2.5，带有遮挡物（前景物体）的场景在构图和运动上会更稳定。  \n80 年代动画风格的最终效果，则在生成后用 CapCut 进行编辑，并在 Premiere 中完成复古处理和加上 logo。"
+    }
+  }
+}

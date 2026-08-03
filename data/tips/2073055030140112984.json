@@ -1,0 +1,42 @@
+{
+  "id": "2073055030140112984",
+  "title": "Use Seedance 2.5’s reference asset slots (up to 50) to supply…",
+  "content": "Use Seedance 2.5’s reference asset slots (up to 50) to supply storyboard/reference assets instead of relying on a vague text-only prompt for more accurate results.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2073054931108397056/img/G4iCmvuUm7y8Tdbd.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2073055030140112984.mp4",
+  "sourceLink": "https://x.com/alexaiworks/status/2073055030140112984",
+  "sourcePublishedAt": "2026-07-03",
+  "author": {
+    "name": "Alex Carter AI",
+    "link": "https://x.com/alexaiworks"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5’s reference asset slots (up to 50) to supply storyboard/reference assets instead of relying on a vague text-only prompt for more accurate results.",
+  "translations": {
+    "es": {
+      "content": "Utiliza las ranuras de activos de referencia de Seedance 2.5 (hasta 50) para proporcionar activos de storyboard/referencia en lugar de depender de un prompt vago solo de texto para obtener resultados más precisos."
+    },
+    "fr": {
+      "content": "Utilisez les emplacements d'actifs de référence de Seedance 2.5 (jusqu'à 50) pour fournir des storyboards/actifs de référence au lieu de vous fier à un prompt textuel vague pour obtenir des résultats plus précis."
+    },
+    "ja": {
+      "content": "Seedance 2.5のリファレンスアセットスロット（最大50）を使用して、曖昧なテキストのみのプロンプトに頼るのではなく、より正確な結果を得るためにストーリーボード/リファレンスアセットを提供してください。"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 참조 자산 슬롯(최대 50개)을 사용하여 모호한 텍스트 전용 프롬프트에 의존하는 대신 스토리보드/참조 자산을 제공하여 더 정확한 결과를 얻으세요."
+    },
+    "pt": {
+      "content": "Use os slots de ativos de referência do Seedance 2.5 (até 50) para fornecer storyboards/ativos de referência em vez de depender de um prompt vago apenas em texto para obter resultados mais precisos."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 的参考资产槽位（最多50个）来提供分镜/参考资产，而不是仅依赖模糊的文字提示，以获得更准确的结果。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2083478450762084776",
+  "title": "Add a reference character image to your Seedance 2.5 prompt to make fashion…",
+  "content": "Add a reference character image to your Seedance 2.5 prompt to make fashion videos look more cinematic and keep the character’s appearance consistent.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2083478390997471232/pu/img/obRzwn6vcyD3USTC.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083478450762084776.mp4",
+  "sourceLink": "https://x.com/kicknost/status/2083478450762084776",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "Kick Nost",
+    "link": "https://x.com/kicknost"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Fashion",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Add a reference character image to your Seedance 2.5 prompt to make fashion videos look more cinematic and keep the character’s appearance consistent.",
+  "translations": {
+    "es": {
+      "content": "Añade una imagen de referencia del personaje a tu prompt de Seedance 2.5 para que los videos de moda se vean más cinematográficos y para mantener la apariencia del personaje consistente."
+    },
+    "fr": {
+      "content": "Ajoutez une image de référence du personnage à votre prompt Seedance 2.5 pour rendre les vidéos de mode plus cinématographiques et conserver une apparence cohérente du personnage."
+    },
+    "ja": {
+      "content": "Seedance 2.5 の prompt に参考キャラクター画像を追加すると、ファッション動画をより cinematic に見せつつ、キャラクターの外見を一貫して保てます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5 prompt에 레퍼런스 캐릭터 이미지를 추가하면 패션 영상이 더 시네마틱하게 보이고 캐릭터의 외형도 일관되게 유지할 수 있습니다."
+    },
+    "pt": {
+      "content": "Adicione uma imagem de referência do personagem ao seu prompt do Seedance 2.5 para deixar os vídeos de moda com uma aparência mais cinematográfica e manter a aparência do personagem consistente."
+    },
+    "zh": {
+      "content": "在你的 Seedance 2.5 prompt 中添加一张参考角色图像，让时尚视频更具 cinematic 感，并保持角色外观的一致性。"
+    }
+  }
+}

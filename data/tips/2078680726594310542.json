@@ -1,0 +1,42 @@
+{
+  "id": "2078680726594310542",
+  "title": "Use the exact uploaded image as the start frame to preserve the same…",
+  "content": "Use the exact uploaded image as the start frame to preserve the same composition throughout the video  \nPrompt for one continuous 18-second shot only with no cuts, no scene switching, no multi-shot coverage, and no angle changes  \nKeep the camera steady in a locked (or nearly imperceptibly drifting) medium close-up to avoid unwanted camera movement  \nSpecify an authentic 1980s live-action sci-fi look with practical creature effects, real costumes, warm cinematic lighting, subtle 35mm film grain, and analog texture to steer the visual style  \nDirect restrained, nuanced performances by prompting minimal blocking (slight lean, jaw tighten, subtle shoulder shift, controlled breathing) and controlled emotional tone  \nAdd explicit sound design instructions (low 1980s synth tension score, faint room ambience, practical creature sounds, costume creaks, quiet breaths, restrained crying) to guide audio generation",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2078680272258879488/img/unmQ6LHeLaB_7ozq.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2078680726594310542.mp4",
+  "sourceLink": "https://x.com/BrentLynch/status/2078680726594310542",
+  "sourcePublishedAt": "2026-07-19",
+  "author": {
+    "name": "Brent Lynch",
+    "link": "https://x.com/BrentLynch"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Retro Film",
+    "Sci-Fi",
+    "Tutorial"
+  ],
+  "tips": "Use the exact uploaded image as the start frame to preserve the same composition throughout the video  \nPrompt for one continuous 18-second shot only with no cuts, no scene switching, no multi-shot coverage, and no angle changes  \nKeep the camera steady in a locked (or nearly imperceptibly drifting) medium close-up to avoid unwanted camera movement  \nSpecify an authentic 1980s live-action sci-fi look with practical creature effects, real costumes, warm cinematic lighting, subtle 35mm film grain, and analog texture to steer the visual style  \nDirect restrained, nuanced performances by prompting minimal blocking (slight lean, jaw tighten, subtle shoulder shift, controlled breathing) and controlled emotional tone  \nAdd explicit sound design instructions (low 1980s synth tension score, faint room ambience, practical creature sounds, costume creaks, quiet breaths, restrained crying) to guide audio generation",
+  "translations": {
+    "es": {
+      "content": "Usa la imagen cargada exacta como fotograma inicial para preservar la misma composición durante todo el video  \nPrompt para una sola toma continua de 18 segundos, sin cortes, sin cambios de escena, sin cobertura de múltiples tomas y sin cambios de ángulo  \nMantén la cámara estable en un plano medio corto bloqueado (o con un desplazamiento casi imperceptible) para evitar movimientos de cámara no deseados  \nEspecifica un look auténtico de ciencia ficción en live-action de los años 80, con efectos prácticos de criatura, vestuario real, iluminación cinematográfica cálida, sutil grano de película de 35 mm y textura analógica para orientar el estilo visual  \nDirige interpretaciones contenidas y matizadas mediante una puesta en escena mínima (ligera inclinación del cuerpo, tensión en la mandíbula, sutil cambio de hombros, respiración controlada) y un tono emocional contenido  \nAñade instrucciones explícitas de diseño sonoro (banda sonora tensa de sintetizador de los 80, ambiente tenue de la habitación, sonidos prácticos de la criatura, crujidos del vestuario, respiraciones suaves, llanto contenido) para guiar la generación de audio"
+    },
+    "fr": {
+      "content": "Utilisez l’image téléchargée exacte comme image de départ afin de préserver la même composition tout au long de la vidéo  \nPrompt pour un seul plan continu de 18 secondes, sans coupe, sans changement de scène, sans couverture multi-plan et sans changement d’angle  \nGardez la caméra stable dans un plan moyen rapproché verrouillé (ou avec une dérive à peine perceptible) afin d’éviter tout mouvement de caméra indésirable  \nPrécisez un rendu authentique de science-fiction en live-action des années 1980, avec des effets de créature pratiques, de vrais costumes, un éclairage cinématographique chaleureux, un grain subtil de film 35 mm et une texture analogique pour orienter le style visuel  \nDirigez des performances retenues et nuancées en demandant un blocking minimal (léger penchement, mâchoire qui se crispe, subtil déplacement des épaules, respiration contrôlée) et un ton émotionnel maîtrisé  \nAjoutez des instructions explicites de sound design (score de tension synthé des années 1980, légère ambiance de pièce, sons pratiques de créature, grincements de costume, respirations discrètes, pleurs retenus) pour guider la génération audio"
+    },
+    "ja": {
+      "content": "動画全体を通して同じ構図を維持するため、アップロードした画像をそのまま開始フレームとして使用してください  \nカットなし、シーン切り替えなし、マルチショット構成なし、アングル変更なしの、1本の連続した18秒ショットのみを指定してください  \n不要なカメラの動きを避けるため、カメラは固定された（またはほとんど知覚できない程度にわずかにドリフトする）ミディアムクローズアップで安定させてください  \n実写の1980年代SFらしいルックを明確に指定し、実用的なクリーチャーエフェクト、実際の衣装、温かみのあるシネマティックなライティング、控えめな35mmフィルムグレイン、アナログ感のある質感によってビジュアルスタイルを誘導してください  \n最小限のブロッキング（わずかな前傾、あごを引き締める、さりげない肩の動き、コントロールされた呼吸）と抑制された感情トーンを指定し、控えめでニュアンスのある演技を指示してください  \n音声生成を誘導するため、明確なサウンドデザイン指示（低めの1980年代シンセの緊張感あるスコア、かすかな室内アンビエンス、実用的なクリーチャーの音、衣装のきしみ、静かな呼吸、抑えた泣き声）を追加してください"
+    },
+    "ko": {
+      "content": "비디오 전체에서 동일한 구도를 유지할 수 있도록 업로드한 이미지를 정확히 시작 프레임으로 사용하세요  \n컷 전환, 장면 전환, 멀티샷 구성, 앵글 변화 없이 하나의 연속된 18초 샷만을 위한 prompt로 작성하세요  \n원치 않는 카메라 움직임을 피하기 위해 카메라는 고정된(또는 거의 감지되지 않을 정도로만 미세하게 드리프트하는) 미디엄 클로즈업 상태로 안정적으로 유지하세요  \n시각적 스타일을 유도하기 위해 실제적인 creature effects, 실제 의상, 따뜻한 cinematic lighting, 은은한 35mm film grain, 아날로그 질감을 갖춘 진정성 있는 1980년대 라이브액션 sci-fi 룩을 명시하세요  \n최소한의 blocking(약간 몸을 기울임, 턱을 긴장시킴, 미세한 어깨 움직임, 절제된 호흡)과 통제된 감정 톤을 prompt하여 절제되고 섬세한 연기를 유도하세요  \n오디오 생성을 안내하기 위해 명시적인 sound design 지시(낮게 깔리는 1980년대 synth tension score, 희미한 실내 앰비언스, 실제적인 creature sounds, 의상 마찰음, 조용한 숨소리, 절제된 울음)를 추가하세요"
+    },
+    "pt": {
+      "content": "Use a imagem enviada exatamente como o frame inicial para preservar a mesma composição ao longo de todo o vídeo  \nPrompt para um único plano contínuo de 18 segundos, sem cortes, sem troca de cena, sem cobertura em múltiplos planos e sem mudanças de ângulo  \nMantenha a câmera estável em um medium close-up travado (ou com deriva quase imperceptível) para evitar movimentos indesejados de câmera  \nEspecifique um visual autêntico de ficção científica live-action dos anos 1980, com efeitos práticos de criaturas, figurinos reais, iluminação cinematográfica quente, granulação sutil de filme 35mm e textura analógica para orientar o estilo visual  \nDirecione performances contidas e nuançadas, com blocking mínimo (leve inclinação do corpo, tensão no maxilar, sutil deslocamento dos ombros, respiração controlada) e tom emocional controlado  \nAdicione instruções explícitas de sound design (trilha tensa de synth dos anos 1980 em baixo volume, ambiência suave de sala, sons práticos de criatura, rangidos de figurino, respirações discretas, choro contido) para orientar a geração de áudio"
+    },
+    "zh": {
+      "content": "使用上传的原始图像作为起始帧，以在整个视频中保持相同的构图  \n仅为一个连续的 18 秒镜头编写 prompt，不要切镜、不要场景切换、不要多镜头覆盖，也不要改变机位  \n将镜头保持稳定，采用锁定的（或几乎不可察觉地轻微漂移的）中景近景，以避免不必要的镜头运动  \n明确指定一种真实的 1980 年代真人科幻风格，包含实景生物特效、真实服装、温暖的电影感灯光、细微的 35mm 胶片颗粒和模拟质感，以引导视觉风格  \n通过提示最少的动作调度（轻微前倾、下颌绷紧、肩膀细微移动、受控呼吸）以及克制的情绪基调，来指导表演保持收敛而细腻  \n添加明确的 sound design 指令（低沉的 1980 年代合成器紧张配乐、微弱的室内环境音、实景生物声音、服装摩擦声、轻微呼吸声、克制的哭泣声），以引导音频生成"
+    }
+  }
+}

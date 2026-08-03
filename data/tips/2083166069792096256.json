@@ -1,0 +1,42 @@
+{
+  "id": "2083166069792096256",
+  "title": "Blender MCPで30秒のホワイトモデル（例：夢遊病の子犬が歩く）を作り、その30秒動画をSeedance…",
+  "content": "Blender MCPで30秒のホワイトモデル（例：夢遊病の子犬が歩く）を作り、その30秒動画をSeedance 2.5のリファレンスとして読み込ませて、自然言語プロンプトだけで二次レンダリングする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083165186173935616/img/Es3AYOtuNbReL_ka.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083166069792096256.mp4",
+  "sourceLink": "https://x.com/KanaWorks_AI/status/2083166069792096256",
+  "sourcePublishedAt": "2026-07-31",
+  "author": {
+    "name": "KANA｜東京AI映像",
+    "link": "https://x.com/KanaWorks_AI"
+  },
+  "tags": [
+    "Animals",
+    "Pets",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Blender MCPで30秒のホワイトモデル（例：夢遊病の子犬が歩く）を作り、その30秒動画をSeedance 2.5のリファレンスとして読み込ませて、自然言語プロンプトだけで二次レンダリングする",
+  "translations": {
+    "en": {
+      "content": "Create a 30-second white model in Blender MCP (for example, a sleepwalking puppy walking), then load that 30-second video as a reference in Seedance 2.5 and use only a natural-language prompt to perform a second render.\n\n--- QUOTED TWEET ---\nI tried making a video themed around Nishijin-ori with Seedance 2.5.\nAfter actually using it, I got the impression that it understands prompt intent much better than 2.1, and that the motion has become more natural and smoother as well. The way it handles light and the distinctive texture of Nishijin-ori is especially impressive. Even the shimmer of the gold threads and the dimensionality of the weave are beautifully rendered, resulting in a luxurious finish.\nSeedance 2.5 has been integrated into @capcutapp_jp, so if you're interested, definitely give it a try!\n#capcutseedance25 #capcutcpp PR\n---"
+    },
+    "es": {
+      "content": "Blender MCPで30秒のホワイトモデル（例：夢遊病の子犬が歩く）を作り、その30秒動画をSeedance 2.5のリファレンスとして読み込ませて、自然言語プロンプトだけで二次レンダリングする\n\n--- TWEET CITADO ---\nCon Seedance 2.5, probé a crear un video con temática de Nishijin-ori.\nAl usarlo de verdad, me dio la impresión de que capta mejor la intención del prompt que 2.1, y que los movimientos también se han vuelto más naturales y fluidos. La representación de la luz y la textura tan característica del Nishijin-ori. Incluso el brillo de los hilos dorados y la sensación tridimensional del tejido están bellamente plasmados, logrando un acabado con aspecto premium.\nComo Seedance 2.5 ya está integrado en @capcutapp_jp, si te interesa, ¡te animo a probarlo!\n#capcutseedance25  #capcutcpp PR"
+    },
+    "fr": {
+      "content": "Créer avec Blender MCP un modèle blanc de 30 secondes (par exemple, un chiot somnambule qui marche), puis importer cette vidéo de 30 secondes comme référence dans Seedance 2.5 et effectuer un second rendu uniquement à partir d’un prompt en langage naturel.\n\n--- QUOTED TWEET ---\nAvec Seedance 2.5, j’ai essayé de créer une vidéo sur le thème du Nishijin-ori.\nEn l’utilisant concrètement, j’ai eu l’impression qu’il comprend mieux l’intention du prompt que la version 2.1, et que les mouvements sont devenus plus naturels et plus fluides. L’expression de la lumière et la texture propre au Nishijin-ori. L’éclat des fils d’or et le relief du tissage sont rendus avec beauté, pour un résultat très haut de gamme.\nSeedance 2.5 a été intégré à @capcutapp_jp, alors si cela vous intéresse, n’hésitez pas à l’essayer !\n#capcutseedance25  #capcutcpp PR\n---"
+    },
+    "ko": {
+      "content": "Blender MCP로 30초짜리 화이트 모델(예: 꿈속을 걷는 강아지)을 만들고, 그 30초 영상을 Seedance 2.5의 레퍼런스로 불러와 자연어 프롬프트만으로 2차 렌더링하기\n\n--- QUOTED TWEET ---\nSeedance 2.5로 니시진오리(西陣織)를 테마로 한 영상을 만들어 보았습니다.\n직접 사용해 보니 2.1보다 프롬프트의 의도를 더 정확하게 파악해 주고, 움직임도 한층 더 자연스럽고 부드러워진 느낌이었습니다. 빛의 표현과 니시진오리 특유의 질감. 금실의 반짝임과 직조의 입체감까지 아름답게 담겨 있어, 고급스러운 완성도로 나왔습니다.\nSeedance 2.5가 @capcutapp_jp에 탑재되었으니, 관심 있으신 분들은 꼭 한번 사용해 보세요!\n#capcutseedance25  #capcutcpp PR\n---"
+    },
+    "pt": {
+      "content": "Criar um modelo branco de 30 segundos no Blender MCP (por exemplo, um filhote sonâmbulo andando), carregar esse vídeo de 30 segundos como referência no Seedance 2.5 e fazer uma segunda renderização apenas com um prompt em linguagem natural\n\n--- TWEET CITADO ---\nExperimentei criar um vídeo com tema de Nishijin-ori no Seedance 2.5.\nAo testar na prática, tive a impressão de que ele capta melhor a intenção do prompt do que o 2.1, e que os movimentos ficaram mais naturais e suaves. A expressão da luz e a textura característica do Nishijin-ori. Até o brilho dos fios dourados e a tridimensionalidade da trama foram retratados com beleza, resultando em um acabamento sofisticado.\nComo o Seedance 2.5 foi integrado ao @capcutapp_jp, quem tiver interesse, vale muito a pena experimentar!\n#capcutseedance25  #capcutcpp PR\n---"
+    },
+    "zh": {
+      "content": "用 Blender MCP 制作一个 30 秒的白模（例如：一只梦游的小狗在行走），然后将这段 30 秒视频作为 Seedance 2.5 的 reference 导入，仅通过自然语言 prompt 进行二次渲染\n\n--- QUOTED TWEET ---\n我用 Seedance 2.5 做了一个以西阵织为主题的视频。\n实际体验下来，相比 2.1，它更能准确理解 prompt 的意图，动作也给人一种更加自然、流畅的印象。无论是光影表现，还是西阵织特有的质感，金线的光泽以及织物的立体感都被精美地呈现出来，整体成片很有高级感。\nSeedance 2.5 已经搭载到 @capcutapp_jp 了，感兴趣的朋友一定要试试看！\n#capcutseedance25  #capcutcpp PR\n---"
+    }
+  }
+}

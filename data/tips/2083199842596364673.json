@@ -1,0 +1,43 @@
+{
+  "id": "2083199842596364673",
+  "title": "Test Seedance 2.5’s era-shift feature by prompting a modern urban sequence to…",
+  "content": "Test Seedance 2.5’s era-shift feature by prompting a modern urban sequence to transform into a 1970s 35mm film-grain aesthetic while maintaining character consistency.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083199743199756288/img/nOTV-GfBFjCOvaUy.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083199842596364673.mp4",
+  "sourceLink": "https://x.com/Rubab59f/status/2083199842596364673",
+  "sourcePublishedAt": "2026-07-31",
+  "author": {
+    "name": "Sam Gelish",
+    "link": "https://x.com/Rubab59f"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Retro Film",
+    "Historical",
+    "Transformation",
+    "Model Showcase"
+  ],
+  "tips": "Test Seedance 2.5’s era-shift feature by prompting a modern urban sequence to transform into a 1970s 35mm film-grain aesthetic while maintaining character consistency.",
+  "translations": {
+    "es": {
+      "content": "Prueba la función de cambio de época de Seedance 2.5 indicando una secuencia urbana moderna para que se transforme en una estética de película de 35 mm con grano de los años 70, manteniendo la consistencia del personaje."
+    },
+    "fr": {
+      "content": "Testez la fonctionnalité de changement d’époque de Seedance 2.5 en demandant à une séquence urbaine moderne de se transformer en une esthétique de film 35 mm granuleux des années 1970, tout en conservant la cohérence du personnage."
+    },
+    "ja": {
+      "content": "Seedance 2.5のera-shift機能をテストするため、現代的な都市シーケンスを、キャラクターの一貫性を保ちながら1970年代の35mmフィルムグレインの美学へと変化させるようにpromptしてください。"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 시대 전환(era-shift) 기능을 테스트하려면, 현대적인 도시 시퀀스가 캐릭터 일관성을 유지한 채 1970년대 35mm 필름 그레인 감성으로 변하도록 prompt해 보세요."
+    },
+    "pt": {
+      "content": "Teste o recurso de mudança de era do Seedance 2.5 solicitando que uma sequência urbana moderna se transforme em uma estética de filme 35 mm com granulação dos anos 1970, mantendo a consistência dos personagens."
+    },
+    "zh": {
+      "content": "通过提示一个现代都市场景序列，将其转变为 1970 年代 35mm 胶片颗粒美学，同时保持角色一致性，以测试 Seedance 2.5 的时代转换功能。"
+    }
+  }
+}

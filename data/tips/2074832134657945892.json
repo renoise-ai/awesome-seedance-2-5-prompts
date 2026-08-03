@@ -1,0 +1,42 @@
+{
+  "id": "2074832134657945892",
+  "title": "Use Story Studio Canvas to organize characters, scenes, and story flow before…",
+  "content": "Use Story Studio Canvas to organize characters, scenes, and story flow before generating to maintain visual consistency across an entire Seedance 2.5 project.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074832080920600576/img/M80L5fdSktvrGWVY.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2074832134657945892.mp4",
+  "sourceLink": "https://x.com/hey_mujeebahmed/status/2074832134657945892",
+  "sourcePublishedAt": "2026-07-08",
+  "author": {
+    "name": "Mujeeb Ahmed",
+    "link": "https://x.com/hey_mujeebahmed"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Story Studio Canvas to organize characters, scenes, and story flow before generating to maintain visual consistency across an entire Seedance 2.5 project.",
+  "translations": {
+    "es": {
+      "content": "Utiliza Story Studio Canvas para organizar personajes, escenas y el flujo de la historia antes de generar, para mantener la consistencia visual en todo un proyecto de Seedance 2.5."
+    },
+    "fr": {
+      "content": "Utilisez Story Studio Canvas pour organiser les personnages, les scènes et le déroulement de l'histoire avant de générer afin de maintenir une cohérence visuelle sur l'ensemble d'un projet Seedance 2.5."
+    },
+    "ja": {
+      "content": "Seedance 2.5プロジェクト全体で視覚的一貫性を維持するために、生成前にStory Studio Canvasを使用してキャラクター、シーン、ストーリーの流れを整理します。"
+    },
+    "ko": {
+      "content": "Seedance 2.5 프로젝트 전체에서 시각적 일관성을 유지하기 위해, 생성 전에 Story Studio Canvas를 사용하여 캐릭터, 장면 및 스토리 흐름을 조직하세요."
+    },
+    "pt": {
+      "content": "Use o Story Studio Canvas para organizar personagens, cenas e o fluxo da história antes de gerar, a fim de manter a consistência visual em todo o projeto Seedance 2.5."
+    },
+    "zh": {
+      "content": "在生成之前使用 Story Studio Canvas 来组织角色、场景和故事流程，以在整个 Seedance 2.5 项目中保持视觉一致性。"
+    }
+  }
+}

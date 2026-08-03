@@ -1,0 +1,42 @@
+{
+  "id": "2083720377046601780",
+  "title": "30人分のキャラクター三面図（正面・側面・背面）をSeedance 2.5に登録して、キャラクターの一貫性を保ったまま大人数のグループアニメーションを生成する",
+  "content": "30人分のキャラクター三面図（正面・側面・背面）をSeedance 2.5に登録して、キャラクターの一貫性を保ったまま大人数のグループアニメーションを生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083720206082535424/img/LSBFVIf25HTjZjie.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083720377046601780.mp4",
+  "sourceLink": "https://x.com/hiromi_sound/status/2083720377046601780",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "HIROMI🌸",
+    "link": "https://x.com/hiromi_sound"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "30人分のキャラクター三面図（正面・側面・背面）をSeedance 2.5に登録して、キャラクターの一貫性を保ったまま大人数のグループアニメーションを生成する",
+  "translations": {
+    "en": {
+      "content": "Register three-view character sheets (front, side, back) for 30 people in Seedance 2.5, and generate a large-group animation while maintaining character consistency."
+    },
+    "es": {
+      "content": "Registrar las vistas de tres ángulos de 30 personajes (frontal, lateral y posterior) en Seedance 2.5 para generar una animación de grupo con muchas personas, manteniendo la coherencia de los personajes."
+    },
+    "fr": {
+      "content": "Enregistrer des vues triplans de personnages pour 30 personnes (face, profil et dos) dans Seedance 2.5, afin de générer une animation de groupe avec un grand nombre de personnages tout en conservant la cohérence des personnages."
+    },
+    "ko": {
+      "content": "Register character turnaround sheets (front, side, back) for 30 people in Seedance 2.5, and generate a large-group animation while maintaining character consistency."
+    },
+    "pt": {
+      "content": "Registre os turnaround sheets de personagens de 30 pessoas (frente, lado e costas) no Seedance 2.5 e gere uma animação em grupo com muitas pessoas, mantendo a consistência dos personagens."
+    },
+    "zh": {
+      "content": "将30个人物的角色三视图（正面、侧面、背面）注册到 Seedance 2.5 中，在保持角色一致性的同时生成大规模群体动画"
+    }
+  }
+}

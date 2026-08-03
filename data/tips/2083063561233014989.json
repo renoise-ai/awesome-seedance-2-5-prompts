@@ -1,0 +1,43 @@
+{
+  "id": "2083063561233014989",
+  "title": "先把舞蹈动作的FBX文件交给Codex，用自然语言描述你想要的动作与效果，让它在Blender里生成/整理可用的动画素材后再用于Seedance参考生成",
+  "content": "先把舞蹈动作的FBX文件交给Codex，用自然语言描述你想要的动作与效果，让它在Blender里生成/整理可用的动画素材后再用于Seedance参考生成",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083063340176441344/img/9qnEunuj7fpd26Fb.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083063561233014989.mp4",
+  "sourceLink": "https://x.com/kisurity/status/2083063561233014989",
+  "sourcePublishedAt": "2026-07-31",
+  "author": {
+    "name": "RITY",
+    "link": "https://x.com/kisurity"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "先把舞蹈动作的FBX文件交给Codex，用自然语言描述你想要的动作与效果，让它在Blender里生成/整理可用的动画素材后再用于Seedance参考生成",
+  "translations": {
+    "en": {
+      "content": "First, give the FBX file of the dance moves to Codex, and describe in natural language the motion and effect you want. Let it generate/organize usable animation assets in Blender, and then use them as reference for Seedance generation."
+    },
+    "es": {
+      "content": "Primero, entrega el archivo FBX de los movimientos de baile a Codex y, con una descripción en lenguaje natural de los movimientos y efectos que quieres, haz que genere/organice en Blender material de animación utilizable para luego usarlo como referencia en Seedance para la generación."
+    },
+    "fr": {
+      "content": "Commence par confier le fichier FBX des mouvements de danse à Codex, puis décris en langage naturel les mouvements et l’effet que tu souhaites. Laisse-le générer/organiser dans Blender des assets d’animation exploitables, puis utilise-les ensuite comme référence pour la génération dans Seedance."
+    },
+    "ja": {
+      "content": "まず、ダンス動作のFBXファイルをCodexに渡し、自然言語で欲しい動きや演出を説明します。そうすれば、Blender内で使えるアニメーション素材を生成・整理してから、Seedanceの参考生成に活用できます。"
+    },
+    "ko": {
+      "content": "먼저 춤 동작의 FBX 파일을 Codex에 전달한 뒤, 원하는 동작과 효과를 자연어로 설명하세요. 그러면 Blender에서 사용할 수 있는 애니메이션 소스를 생성/정리한 다음, 이를 Seedance 참고 생성에 활용할 수 있습니다."
+    },
+    "pt": {
+      "content": "Primeiro, entregue o arquivo FBX dos movimentos de dança ao Codex e descreva em linguagem natural os movimentos e efeitos que você deseja, para que ele gere/organize no Blender os materiais de animação utilizáveis e, depois, eles possam ser usados como referência para a geração no Seedance."
+    }
+  }
+}

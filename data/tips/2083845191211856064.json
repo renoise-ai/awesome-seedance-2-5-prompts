@@ -1,0 +1,42 @@
+{
+  "id": "2083845191211856064",
+  "title": "Use Seedance Multi Asset Reference by combining people, objects, environments…",
+  "content": "Use Seedance Multi Asset Reference by combining people, objects, environments, and style references in one setup to keep the generated video consistent across all elements.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083844396932268032/img/YBtU8af15ecQTcGR.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083845191211856064.mp4",
+  "sourceLink": "https://x.com/egeberkina/status/2083845191211856064",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "Ege",
+    "link": "https://x.com/egeberkina"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance Multi Asset Reference by combining people, objects, environments, and style references in one setup to keep the generated video consistent across all elements.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance Multi Asset Reference combinando personas, objetos, entornos y referencias de estilo en una sola configuración para mantener la coherencia del video generado en todos los elementos."
+    },
+    "fr": {
+      "content": "Utilisez Seedance Multi Asset Reference en combinant des références de personnes, d’objets, d’environnements et de style dans une seule configuration afin de maintenir la cohérence de la vidéo générée sur l’ensemble des éléments."
+    },
+    "ja": {
+      "content": "Seedance Multi Asset Reference を使って、人物、オブジェクト、環境、スタイルの参照を1つのセットアップにまとめることで、生成される動画全体のすべての要素にわたって一貫性を保ちます。"
+    },
+    "ko": {
+      "content": "Seedance Multi Asset Reference를 사용하면 사람, 객체, 환경, 스타일 레퍼런스를 하나의 설정에서 결합해 생성된 영상의 모든 요소를 일관되게 유지할 수 있습니다."
+    },
+    "pt": {
+      "content": "Use o Seedance Multi Asset Reference combinando pessoas, objetos, ambientes e referências de estilo em uma única configuração para manter o vídeo gerado consistente em todos os elementos."
+    },
+    "zh": {
+      "content": "通过将人物、物体、环境和风格参考整合到一个设置中，使用 Seedance Multi Asset Reference，保持生成视频在所有元素上的一致性。"
+    }
+  }
+}

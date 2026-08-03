@@ -1,0 +1,42 @@
+{
+  "id": "2083899093898977622",
+  "title": "先に画像生成でキャラクターシートや絵コンテを作成してからSeedanceで動画生成すると、効率よく制作できる",
+  "content": "先に画像生成でキャラクターシートや絵コンテを作成してからSeedanceで動画生成すると、効率よく制作できる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083899076815503360/img/1QUXQTJfPHQQYK0P.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083899093898977622.mp4",
+  "sourceLink": "https://x.com/yamada_movie_ai/status/2083899093898977622",
+  "sourcePublishedAt": "2026-08-02",
+  "author": {
+    "name": "YAMADA",
+    "link": "https://x.com/yamada_movie_ai"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "先に画像生成でキャラクターシートや絵コンテを作成してからSeedanceで動画生成すると、効率よく制作できる",
+  "translations": {
+    "en": {
+      "content": "Creating character sheets or storyboards with image generation first, and then generating video with Seedance, can make production much more efficient.\n\n--- THREAD CONTINUATION ---\n[Thread 1] I think it’s effective to first have images generate character sheets or storyboards, and then move on to video generation!"
+    },
+    "es": {
+      "content": "Si primero generas imágenes para crear hojas de personaje o storyboards y luego produces el video con Seedance, podrás trabajar de forma más eficiente.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Creo que, si primero haces que genere imágenes para hojas de personaje o storyboards y después realizas la generación de video, podrás producir de manera más efectiva.\n---"
+    },
+    "fr": {
+      "content": "En créant d’abord des character sheets ou des storyboards avec la génération d’images, puis en générant la vidéo avec Seedance, on peut produire de manière plus efficace.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Je pense qu’il est efficace de commencer par faire générer des character sheets ou des storyboards en image, puis de lancer la génération vidéo !\n---"
+    },
+    "ko": {
+      "content": "이미지 생성으로 먼저 캐릭터 시트나 스토리보드를 만든 다음 Seedance로 영상 생성까지 진행하면, 효율적으로 제작할 수 있습니다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 먼저 이미지로 캐릭터 시트나 스토리보드를 만들게 한 뒤 영상 생성을 진행하면, 효과적으로 제작할 수 있을 것 같습니다!\n---"
+    },
+    "pt": {
+      "content": "Ao criar primeiro character sheets e storyboards com geração de imagens e depois gerar o vídeo com o Seedance, é possível produzir de forma mais eficiente\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Acho que, se você primeiro fizer com que sejam criados character sheets e storyboards em imagem e só depois realizar a geração de vídeo, a produção pode ser feita de forma mais eficaz!"
+    },
+    "zh": {
+      "content": "先用图像生成制作角色设定表或分镜脚本，再用 Seedance 进行视频生成，可以更高效地完成制作\n\n--- THREAD CONTINUATION ---\n[Thread 1] 我觉得先通过图片生成角色设定表或分镜脚本，再进行视频生成，会更有效地完成制作！\n---"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2083424254310428710",
+  "title": "Seedance2.5のBGM参照で元音源から変化してしまう場合は、プロンプトでBGMの特徴（テンポ・ジャンル・楽器・雰囲気など）を明示して補強する",
+  "content": "Seedance2.5のBGM参照で元音源から変化してしまう場合は、プロンプトでBGMの特徴（テンポ・ジャンル・楽器・雰囲気など）を明示して補強する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083423302589227008/img/6ZxsvOIiz-VOvkUX.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083424254310428710.mp4",
+  "sourceLink": "https://x.com/minmin_4410/status/2083424254310428710",
+  "sourcePublishedAt": "2026-08-01",
+  "author": {
+    "name": "minmin みんみん｜変なAI Creator",
+    "link": "https://x.com/minmin_4410"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.5のBGM参照で元音源から変化してしまう場合は、プロンプトでBGMの特徴（テンポ・ジャンル・楽器・雰囲気など）を明示して補強する",
+  "translations": {
+    "en": {
+      "content": "If the BGM changes from the original source when using Seedance 2.5’s BGM reference, reinforce it by explicitly specifying the BGM’s characteristics in the prompt, such as tempo, genre, instruments, and mood."
+    },
+    "es": {
+      "content": "Si, al usar la referencia de BGM de Seedance2.5, el audio original cambia demasiado, refuerza el prompt especificando las características del BGM (tempo, género, instrumentos, ambiente, etc.)."
+    },
+    "fr": {
+      "content": "Si, dans la référence BGM de Seedance2.5, le son d’origine est modifié, renforcez le prompt en précisant les caractéristiques du BGM (tempo, genre, instruments, ambiance, etc.)."
+    },
+    "ko": {
+      "content": "Seedance2.5의 BGM 참조에서 원본 음원과 달라져 버리는 경우에는, prompt에서 BGM의 특징(템포, 장르, 악기, 분위기 등)을 명시해 보강한다."
+    },
+    "pt": {
+      "content": "Se, ao usar a referência de BGM do Seedance2.5, o áudio original acabar sendo alterado, reforce o prompt especificando as características do BGM (como tempo, gênero, instrumentos, atmosfera etc.)."
+    },
+    "zh": {
+      "content": "如果在 Seedance2.5 的 BGM 参考中，音频会偏离原始音源，可以通过在 prompt 中明确补充 BGM 的特征（如节奏、风格、乐器、氛围等）来加强约束。"
+    }
+  }
+}

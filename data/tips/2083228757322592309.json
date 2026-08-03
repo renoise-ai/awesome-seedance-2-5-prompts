@@ -1,0 +1,42 @@
+{
+  "id": "2083228757322592309",
+  "title": "Usa Seedance 2.5 (Dreamina) para generar secuencias de hasta 30 segundos en un…",
+  "content": "Usa Seedance 2.5 (Dreamina) para generar secuencias de hasta 30 segundos en un solo plano/secuencia.  \nGenera personajes y locaciones con ChatGPT Image 2 y úsalos como assets de referencia para tu video en Seedance.  \nDescribe toda la secuencia completa en un solo prompt (con ayuda de Claude si hace falta) para obtener un plano secuencia coherente desde el primer intento.  \nSi necesitas un evento puntual (p. ej., una explosión final), haz una segunda generación solo de ese plano y luego intégralo al cierre en edición.",
+  "language": "es",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083224817499533312/img/HVvBdTmlesIG_-vh.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2083228757322592309.mp4",
+  "sourceLink": "https://x.com/postandfly/status/2083228757322592309",
+  "sourcePublishedAt": "2026-07-31",
+  "author": {
+    "name": "Tarsicio Sañudo - Postandfly",
+    "link": "https://x.com/postandfly"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Usa Seedance 2.5 (Dreamina) para generar secuencias de hasta 30 segundos en un solo plano/secuencia.  \nGenera personajes y locaciones con ChatGPT Image 2 y úsalos como assets de referencia para tu video en Seedance.  \nDescribe toda la secuencia completa en un solo prompt (con ayuda de Claude si hace falta) para obtener un plano secuencia coherente desde el primer intento.  \nSi necesitas un evento puntual (p. ej., una explosión final), haz una segunda generación solo de ese plano y luego intégralo al cierre en edición.",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2.5 (Dreamina) to generate sequences of up to 30 seconds in a single shot/sequence.  \nGenerate characters and locations with ChatGPT Image 2 and use them as reference assets for your video in Seedance.  \nDescribe the entire sequence in a single prompt (with Claude’s help if needed) to get a coherent long take on the first try.  \nIf you need a specific event (e.g., a final explosion), do a second generation of just that shot and then integrate it into the ending in editing."
+    },
+    "fr": {
+      "content": "Utilise Seedance 2.5 (Dreamina) pour générer des séquences allant jusqu’à 30 secondes en un seul plan/séquence.  \nGénère des personnages et des lieux avec ChatGPT Image 2 et utilise-les comme assets de référence pour ta vidéo dans Seedance.  \nDécris toute la séquence complète dans un seul prompt (avec l’aide de Claude si nécessaire) pour obtenir un plan-séquence cohérent dès la première tentative.  \nSi tu as besoin d’un événement ponctuel (par ex., une explosion finale), fais une deuxième génération uniquement de ce plan, puis intègre-le à la fin au montage."
+    },
+    "ja": {
+      "content": "Seedance 2.5（Dreamina）を使って、最大30秒のシーケンスをワンカット／ワンシークエンスで生成します。  \nChatGPT Image 2でキャラクターやロケーションを生成し、Seedanceでの動画制作に参照アセットとして活用します。  \nシーケンス全体を1つのpromptでまとめて記述し（必要ならClaudeの助けも借りて）、最初の試行から一貫性のある長回しのショットを得ます。  \n特定のイベント（例：最後の爆発）が必要な場合は、そのショットだけを別途2回目の生成で作成し、編集でラストに統合します。"
+    },
+    "ko": {
+      "content": "Seedance 2.5 (Dreamina)를 사용해 최대 30초 길이의 시퀀스를 단일 숏/시퀀스로 생성하세요.  \nChatGPT Image 2로 캐릭터와 로케이션을 생성하고, 이를 Seedance에서 영상용 참조 에셋으로 활용하세요.  \n전체 시퀀스를 하나의 prompt로 모두 설명하면(필요하다면 Claude의 도움을 받아) 첫 시도부터 일관된 롱테이크를 얻을 수 있습니다.  \n특정한 이벤트가 필요하다면(예: 마지막 폭발), 해당 숏만 두 번째로 생성한 뒤 편집에서 엔딩에 통합하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 (Dreamina) para gerar sequências de até 30 segundos em um único plano/sequência.  \nGere personagens e locações com o ChatGPT Image 2 e use-os como assets de referência para o seu vídeo no Seedance.  \nDescreva toda a sequência completa em um único prompt (com a ajuda do Claude, se necessário) para obter um plano-sequência coerente já na primeira tentativa.  \nSe você precisar de um evento pontual (por exemplo, uma explosão final), faça uma segunda geração apenas desse plano e depois integre-o ao encerramento na edição."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5（Dreamina）生成最长 30 秒的单镜头/单场景连续序列。  \n使用 ChatGPT Image 2 生成角色和场景，并将它们作为参考素材用于 Seedance 中的视频。  \n将整个完整序列描述在一个 prompt 里（如有需要可借助 Claude），以便从第一次尝试就获得连贯的长镜头。  \n如果你需要某个特定事件（例如最终的爆炸），可以只针对那个镜头进行第二次生成，然后在后期剪辑中将其整合到结尾。"
+    }
+  }
+}
