@@ -1,0 +1,42 @@
+{
+  "id": "2084237266676056261",
+  "title": "Seedance2.5で15秒の「タバコを吸いながらガールズヒップホップを踊る」ダンスを作るときは、プロンプトだけで動きを生成できるテンプレとして使う",
+  "content": "Seedance2.5で15秒の「タバコを吸いながらガールズヒップホップを踊る」ダンスを作るときは、プロンプトだけで動きを生成できるテンプレとして使う  \nお気に入りのキャラ画像を参照画像として指定して、同じダンステンプレでキャラクターを差し替えて踊らせる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084237201181966336/img/lMcJD7ueO0SSYg3L.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084237266676056261.mp4",
+  "sourceLink": "https://x.com/ZetoGroovin/status/2084237266676056261",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "Zeto",
+    "link": "https://x.com/ZetoGroovin"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.5で15秒の「タバコを吸いながらガールズヒップホップを踊る」ダンスを作るときは、プロンプトだけで動きを生成できるテンプレとして使う  \nお気に入りのキャラ画像を参照画像として指定して、同じダンステンプレでキャラクターを差し替えて踊らせる",
+  "translations": {
+    "en": {
+      "content": "When creating a 15-second “smoking while dancing girls’ hip-hop” dance in Seedance2.5, use it as a template that can generate the movement from the prompt alone.  \nSpecify your favorite character image as a reference image, then swap in the character and have them dance using the same dance template."
+    },
+    "es": {
+      "content": "Cuando crees con Seedance2.5 una danza de 15 segundos de “bailar girls hip hop mientras fuma”, úsalo como una plantilla para generar el movimiento solo con el prompt.  \nEspecifica la imagen de tu personaje favorito como imagen de referencia y, con la misma plantilla de baile, sustituye al personaje para hacerlo bailar."
+    },
+    "fr": {
+      "content": "Lorsque vous créez avec Seedance2.5 une danse de 15 secondes « en train de fumer une cigarette tout en dansant du girls hip-hop », utilisez-le comme un template permettant de générer les mouvements uniquement à partir du prompt.  \nSpécifiez l’image de votre personnage préféré comme image de référence, puis remplacez le personnage dans le même template de danse pour le faire danser."
+    },
+    "ko": {
+      "content": "Seedance2.5에서 15초짜리 “담배를 피우면서 걸즈 힙합을 추는” 댄스를 만들 때는, prompt만으로 움직임을 생성할 수 있는 템플릿으로 사용한다  \n마음에 드는 캐릭터 이미지를 참조 이미지로 지정하고, 같은 댄스 템플릿으로 캐릭터를 바꿔서 춤추게 한다"
+    },
+    "pt": {
+      "content": "Ao criar uma dança de 15 segundos de “dançar girls hip-hop enquanto fuma” no Seedance2.5, use isso como um template para gerar os movimentos apenas com o prompt.  \nEspecifique a imagem do personagem favorito como imagem de referência e, com o mesmo template de dança, substitua o personagem para fazê-lo dançar."
+    },
+    "zh": {
+      "content": "在使用 Seedance2.5 制作 15 秒的“边抽烟边跳 girls hip-hop”舞蹈时，可将其作为仅靠 prompt 就能生成动作的模板来使用。  \n指定你喜欢的角色图片作为参考图，然后用同一个舞蹈模板替换角色，让不同角色也能跳起来。"
+    }
+  }
+}

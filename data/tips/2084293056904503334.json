@@ -1,0 +1,43 @@
+{
+  "id": "2084293056904503334",
+  "title": "When building a model comparison grid, include tests for using up to 50…",
+  "content": "When building a model comparison grid, include tests for using up to 50 reference assets in a single clip.  \nWhen building a model comparison grid, include tests for generating a 30s video in one generation.  \nWhen building a model comparison grid, include tests for reference-driven control over characters, scenes, and pacing.  \nWhen building a model comparison grid, include tests for 3D white model support.  \nWhen building a model comparison grid, include tests for multilingual language support.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084292915174760448/img/ndiqDf170ganDzbN.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084293056904503334.mp4",
+  "sourceLink": "https://x.com/DAIEvolutionHub/status/2084293056904503334",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "Kshitij Mishra | AI & Tech",
+    "link": "https://x.com/DAIEvolutionHub"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "When building a model comparison grid, include tests for using up to 50 reference assets in a single clip.  \nWhen building a model comparison grid, include tests for generating a 30s video in one generation.  \nWhen building a model comparison grid, include tests for reference-driven control over characters, scenes, and pacing.  \nWhen building a model comparison grid, include tests for 3D white model support.  \nWhen building a model comparison grid, include tests for multilingual language support.",
+  "translations": {
+    "es": {
+      "content": "Al construir una cuadrícula de comparación de modelos, incluye pruebas para usar hasta 50 recursos de referencia en un solo clip.  \nAl construir una cuadrícula de comparación de modelos, incluye pruebas para generar un video de 30 s en una sola generación.  \nAl construir una cuadrícula de comparación de modelos, incluye pruebas para el control guiado por referencias sobre personajes, escenas y ritmo.  \nAl construir una cuadrícula de comparación de modelos, incluye pruebas para compatibilidad con modelos blancos 3D.  \nAl construir una cuadrícula de comparación de modelos, incluye pruebas para compatibilidad con varios idiomas."
+    },
+    "fr": {
+      "content": "Lors de la création d’une grille de comparaison de modèles, incluez des tests permettant d’utiliser jusqu’à 50 assets de référence dans un seul clip.  \nLors de la création d’une grille de comparaison de modèles, incluez des tests permettant de générer une vidéo de 30 s en une seule génération.  \nLors de la création d’une grille de comparaison de modèles, incluez des tests pour le contrôle piloté par des références des personnages, des scènes et du rythme.  \nLors de la création d’une grille de comparaison de modèles, incluez des tests pour la prise en charge des modèles 3D blancs.  \nLors de la création d’une grille de comparaison de modèles, incluez des tests pour la prise en charge multilingue."
+    },
+    "ja": {
+      "content": "モデル比較グリッドを作成する際は、1つのクリップで最大50個の参照アセットを使用するテストを含めてください。  \nモデル比較グリッドを作成する際は、1回の生成で30秒の動画を生成するテストを含めてください。  \nモデル比較グリッドを作成する際は、キャラクター、シーン、テンポを参照ベースで制御するテストを含めてください。  \nモデル比較グリッドを作成する際は、3Dホワイトモデル対応のテストを含めてください。  \nモデル比較グリッドを作成する際は、多言語対応のテストを含めてください。"
+    },
+    "ko": {
+      "content": "모델 비교 그리드를 구축할 때는, 하나의 클립에서 최대 50개의 reference asset을 사용하는 테스트를 포함하세요.  \n모델 비교 그리드를 구축할 때는, 한 번의 생성으로 30초짜리 비디오를 생성하는 테스트를 포함하세요.  \n모델 비교 그리드를 구축할 때는, reference-driven 방식으로 캐릭터, 장면, pacing을 제어하는 테스트를 포함하세요.  \n모델 비교 그리드를 구축할 때는, 3D white model 지원 테스트를 포함하세요.  \n모델 비교 그리드를 구축할 때는, 다국어 언어 지원 테스트를 포함하세요."
+    },
+    "pt": {
+      "content": "Ao criar uma grade de comparação de modelos, inclua testes para usar até 50 assets de referência em um único clipe.  \nAo criar uma grade de comparação de modelos, inclua testes para gerar um vídeo de 30s em uma única geração.  \nAo criar uma grade de comparação de modelos, inclua testes para controle orientado por referências sobre personagens, cenas e ritmo.  \nAo criar uma grade de comparação de modelos, inclua testes para suporte a modelo branco 3D.  \nAo criar uma grade de comparação de modelos, inclua testes para suporte a vários idiomas."
+    },
+    "zh": {
+      "content": "在构建模型对比表时，请加入以下测试：在单个片段中最多使用 50 个参考素材。  \n在构建模型对比表时，请加入以下测试：一次生成 30 秒视频。  \n在构建模型对比表时，请加入以下测试：基于参考素材对角色、场景和节奏进行控制。  \n在构建模型对比表时，请加入以下测试：支持 3D 白模。  \n在构建模型对比表时，请加入以下测试：支持多语言。"
+    }
+  }
+}

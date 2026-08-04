@@ -1,0 +1,42 @@
+{
+  "id": "2084399346410549288",
+  "title": "Use Dreamina Seedance 2.5 to generate a scene from a single clip by providing a…",
+  "content": "Use Dreamina Seedance 2.5 to generate a scene from a single clip by providing a character portrait as the reference.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084398815227080705/img/M3tRDLcxReps9k1R.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084399346410549288.mp4",
+  "sourceLink": "https://x.com/tarumainfo/status/2084399346410549288",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "taruma sakti",
+    "link": "https://x.com/tarumainfo"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Dreamina Seedance 2.5 to generate a scene from a single clip by providing a character portrait as the reference.",
+  "translations": {
+    "es": {
+      "content": "Usa Dreamina Seedance 2.5 para generar una escena a partir de un solo clip proporcionando un retrato del personaje como referencia."
+    },
+    "fr": {
+      "content": "Utilisez Dreamina Seedance 2.5 pour générer une scène à partir d’un seul clip en fournissant un portrait du personnage comme référence."
+    },
+    "ja": {
+      "content": "キャラクターのポートレートを参照として提供することで、Dreamina Seedance 2.5 を使って1本のクリップからシーンを生成します。"
+    },
+    "ko": {
+      "content": "Dreamina Seedance 2.5를 사용하여 캐릭터 초상화를 레퍼런스로 제공해 단일 클립에서 장면을 생성하세요."
+    },
+    "pt": {
+      "content": "Use o Dreamina Seedance 2.5 para gerar uma cena a partir de um único clipe, fornecendo um retrato do personagem como referência."
+    },
+    "zh": {
+      "content": "使用 Dreamina Seedance 2.5，通过提供角色肖像作为参考，从单个片段生成一个场景。"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2084266723922841979",
+  "title": "When comparing Seedance 2.0 vs 2.5 image quality, keep output resolution…",
+  "content": "When comparing Seedance 2.0 vs 2.5 image quality, keep output resolution consistent (e.g., don’t compare 2.0 at 4K against 2.5 at 720p) to avoid misleading conclusions  \nUse Seedance 2.5’s single-generation length increase (up to 30 seconds) for long scenes instead of relying on 10–15 second T2V/I2V tests  \nLeverage Seedance 2.5’s support for up to 50 multimodal references to improve control in complex, reference-heavy scenes  \nUse Seedance 2.5 R2V control to better constrain motion/camera behavior when you need more controllable results  \nUse Seedance 2.5’s region/area editing to modify a specific part of a video without regenerating the entire clip",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/ozansihay/status/2084266723922841979",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "Ozan Sihay",
+    "link": "https://x.com/ozansihay"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "When comparing Seedance 2.0 vs 2.5 image quality, keep output resolution consistent (e.g., don’t compare 2.0 at 4K against 2.5 at 720p) to avoid misleading conclusions  \nUse Seedance 2.5’s single-generation length increase (up to 30 seconds) for long scenes instead of relying on 10–15 second T2V/I2V tests  \nLeverage Seedance 2.5’s support for up to 50 multimodal references to improve control in complex, reference-heavy scenes  \nUse Seedance 2.5 R2V control to better constrain motion/camera behavior when you need more controllable results  \nUse Seedance 2.5’s region/area editing to modify a specific part of a video without regenerating the entire clip",
+  "translations": {
+    "es": {
+      "content": "Al comparar la calidad de imagen de Seedance 2.0 vs 2.5, mantén constante la resolución de salida (por ejemplo, no compares 2.0 a 4K con 2.5 a 720p) para evitar conclusiones engañosas  \nAprovecha el aumento de duración por generación única de Seedance 2.5 (hasta 30 segundos) para escenas largas, en lugar de depender de pruebas T2V/I2V de 10–15 segundos  \nAprovecha el soporte de Seedance 2.5 para hasta 50 referencias multimodales para mejorar el control en escenas complejas con muchas referencias  \nUsa el control R2V de Seedance 2.5 para restringir mejor el movimiento y el comportamiento de la cámara cuando necesites resultados más controlables  \nUsa la edición por región/área de Seedance 2.5 para modificar una parte específica de un video sin regenerar el clip completo"
+    },
+    "fr": {
+      "content": "Lorsque vous comparez la qualité d’image de Seedance 2.0 et 2.5, veillez à conserver une résolution de sortie cohérente (par exemple, ne comparez pas 2.0 en 4K à 2.5 en 720p) afin d’éviter des conclusions trompeuses  \nUtilisez l’augmentation de la durée de génération unique de Seedance 2.5 (jusqu’à 30 secondes) pour les scènes longues, plutôt que de vous appuyer sur des tests T2V/I2V de 10 à 15 secondes  \nTirez parti de la prise en charge par Seedance 2.5 jusqu’à 50 références multimodales pour améliorer le contrôle dans les scènes complexes et riches en références  \nUtilisez le contrôle R2V de Seedance 2.5 pour mieux contraindre le mouvement et le comportement de la caméra lorsque vous avez besoin de résultats plus contrôlables  \nUtilisez l’édition par région/zone de Seedance 2.5 pour modifier une partie spécifique d’une vidéo sans régénérer l’intégralité du clip"
+    },
+    "ja": {
+      "content": "Seedance 2.0 と 2.5 の画質を比較する際は、出力解像度を必ず揃えてください（例：2.0 を 4K、2.5 を 720p で比較しない）。そうしないと、誤解を招く結論につながります。  \n長尺シーンでは、Seedance 2.5 の 1 回の生成での長さ拡張（最大 30 秒）を活用し、10〜15 秒の T2V/I2V テストに頼らないようにしてください。  \n複雑で参照情報の多いシーンでは、Seedance 2.5 が最大 50 個の multimodal references に対応している点を活かし、制御性を高めてください。  \nより制御しやすい結果が必要な場合は、Seedance 2.5 の R2V control を使って motion/camera の挙動をより厳密に制約してください。  \nSeedance 2.5 の region/area editing を使えば、動画全体を再生成することなく、特定の部分だけを編集できます。"
+    },
+    "ko": {
+      "content": "Seedance 2.0과 2.5의 화질을 비교할 때는 출력 해상도를 동일하게 유지하세요(예: 2.0의 4K 결과와 2.5의 720p 결과를 비교하지 않기). 그래야 오해의 소지가 있는 결론을 피할 수 있습니다.  \n긴 장면에는 10~15초 T2V/I2V 테스트에 의존하기보다, Seedance 2.5의 단일 생성 길이 증가(최대 30초)를 활용하세요.  \n복잡하고 레퍼런스가 많이 필요한 장면에서는 Seedance 2.5가 최대 50개의 멀티모달 레퍼런스를 지원하는 기능을 활용해 제어력을 높이세요.  \n더 높은 제어성이 필요한 경우에는 Seedance 2.5 R2V control을 사용해 motion/camera 동작을 더 잘 제한하세요.  \nSeedance 2.5의 region/area editing을 사용하면 전체 클립을 다시 생성하지 않고도 비디오의 특정 부분만 수정할 수 있습니다."
+    },
+    "pt": {
+      "content": "Ao comparar a qualidade de imagem do Seedance 2.0 vs 2.5, mantenha a resolução de saída consistente (por exemplo, não compare 2.0 em 4K com 2.5 em 720p) para evitar conclusões enganosas  \nUse o aumento da duração de geração única do Seedance 2.5 (até 30 segundos) para cenas longas, em vez de depender de testes T2V/I2V de 10 a 15 segundos  \nAproveite o suporte do Seedance 2.5 para até 50 referências multimodais para melhorar o controle em cenas complexas e com muitas referências  \nUse o controle R2V do Seedance 2.5 para restringir melhor o movimento/comportamento da câmera quando precisar de resultados mais controláveis  \nUse a edição por região/área do Seedance 2.5 para modificar uma parte específica de um vídeo sem regenerar o clipe inteiro"
+    },
+    "zh": {
+      "content": "在比较 Seedance 2.0 与 2.5 的画质时，请保持输出分辨率一致（例如，不要拿 2.0 的 4K 去和 2.5 的 720p 比较），以免得出误导性的结论  \n利用 Seedance 2.5 单次生成时长提升（最长可达 30 秒）来处理长场景，而不是依赖 10–15 秒的 T2V/I2V 测试  \n充分利用 Seedance 2.5 支持最多 50 个多模态参考的能力，在复杂、参考素材较多的场景中提升控制力  \n在需要更强可控结果时，使用 Seedance 2.5 R2V control 更好地约束运动/镜头行为  \n使用 Seedance 2.5 的 region/area editing 来修改视频中的特定部分，而无需重新生成整个片段"
+    }
+  }
+}

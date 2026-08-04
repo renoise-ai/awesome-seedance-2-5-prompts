@@ -1,0 +1,45 @@
+{
+  "id": "2084200791381045625",
+  "title": "Gunakan Seedance 2.5 untuk menghasilkan video hingga 30 detik dalam satu prompt…",
+  "content": "Gunakan Seedance 2.5 untuk menghasilkan video hingga 30 detik dalam satu prompt agar satu adegan utuh tidak perlu dipecah menjadi beberapa generasi.  \nGunakan referensi audio (mis. pidato) saat membuat video reenactment agar penyampaian dialog lebih selaras dengan adegan.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084200657117171712/img/38PwLST_mFTzpiSS.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084200791381045625.mp4",
+  "sourceLink": "https://x.com/beranalogi/status/2084200791381045625",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "Paskoboy",
+    "link": "https://x.com/beranalogi"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Gunakan Seedance 2.5 untuk menghasilkan video hingga 30 detik dalam satu prompt agar satu adegan utuh tidak perlu dipecah menjadi beberapa generasi.  \nGunakan referensi audio (mis. pidato) saat membuat video reenactment agar penyampaian dialog lebih selaras dengan adegan.",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2.5 to generate videos up to 30 seconds in a single prompt, so one complete scene doesn’t need to be split into multiple generations.  \nUse audio references (e.g., speeches) when creating reenactment videos so the delivery of the dialogue aligns more closely with the scene."
+    },
+    "es": {
+      "content": "Usa Seedance 2.5 para generar videos de hasta 30 segundos en un solo prompt, de modo que una escena completa no tenga que dividirse en varias generaciones.  \nUsa una referencia de audio (p. ej., un discurso) al crear videos de reenactment para que la entrega del diálogo esté más alineada con la escena."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 pour générer des vidéos allant jusqu’à 30 secondes en un seul prompt, afin qu’une scène complète n’ait pas besoin d’être découpée en plusieurs générations.  \nUtilisez une référence audio (par ex. un discours) lors de la création de vidéos de reenactment afin que la restitution des dialogues soit plus en phase avec la scène."
+    },
+    "ja": {
+      "content": "Seedance 2.5 を使えば、1つの prompt で最大30秒の動画を生成できるため、1つのシーン全体を複数回に分けて生成する必要がありません。  \n動画の reenactment を作成する際は、音声リファレンス（例：スピーチ）を使用すると、セリフの表現をシーンにより自然に合わせられます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5를 사용하면 하나의 prompt로 최대 30초 길이의 영상을 생성할 수 있어, 하나의 완전한 장면을 여러 번에 나눠 생성할 필요가 없습니다.  \n비디오 reenactment를 만들 때는 오디오 레퍼런스(예: 연설)를 사용하면 대사 전달이 장면과 더 자연스럽게 맞아떨어집니다."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 para gerar vídeos de até 30 segundos em um único prompt, para que uma cena completa não precise ser dividida em várias gerações.  \nUse uma referência de áudio (por exemplo, um discurso) ao criar vídeos de reenactment para que a entrega dos diálogos fique mais alinhada com a cena."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5，可在一个 prompt 中生成最长 30 秒的视频，这样一个完整场景就无需拆分成多次生成。  \n在制作 reenactment 视频时使用音频参考（例如演讲），以便让台词表达与场景更加协调一致。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2084167480482918818",
+  "title": "Set the time of day to night in your Seedance 2.5 V2V prompt to change the…",
+  "content": "Set the time of day to night in your Seedance 2.5 V2V prompt to change the scene lighting.  \nModify the prompt to change the sky to one with aurora while keeping the rest of the scene consistent.  \nUse V2V settings/prompts that preserve existing camera movement and specific elements (e.g., tree types) while changing only targeted attributes (time of day, sky).",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084166312151195648/img/goI2Va25Zu5JnoHb.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084167480482918818.mp4",
+  "sourceLink": "https://x.com/daichitashiro41/status/2084167480482918818",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "田代大地 | AI Creative Director",
+    "link": "https://x.com/daichitashiro41"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Nature",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Set the time of day to night in your Seedance 2.5 V2V prompt to change the scene lighting.  \nModify the prompt to change the sky to one with aurora while keeping the rest of the scene consistent.  \nUse V2V settings/prompts that preserve existing camera movement and specific elements (e.g., tree types) while changing only targeted attributes (time of day, sky).",
+  "translations": {
+    "en": {
+      "content": "Set the time of day to night in your Seedance 2.5 V2V prompt to change the scene lighting.  \nModify the prompt to change the sky to one with aurora while keeping the rest of the scene consistent.  \nUse V2V settings/prompts that preserve existing camera movement and specific elements (e.g., tree types) while changing only targeted attributes (time of day, sky)."
+    },
+    "es": {
+      "content": "Establece la hora del día en noche en tu prompt de Seedance 2.5 V2V para cambiar la iluminación de la escena.  \nModifica el prompt para cambiar el cielo por uno con aurora, manteniendo el resto de la escena coherente.  \nUsa configuraciones/prompts de V2V que preserven el movimiento de cámara existente y elementos específicos (p. ej., tipos de árboles) mientras cambian solo los atributos objetivo (hora del día, cielo)."
+    },
+    "fr": {
+      "content": "Réglez l’heure de la journée sur la nuit dans votre prompt Seedance 2.5 V2V pour modifier l’éclairage de la scène.  \nModifiez le prompt pour remplacer le ciel par un ciel avec des aurores, tout en conservant la cohérence du reste de la scène.  \nUtilisez des paramètres/prompts V2V qui préservent le mouvement de caméra existant et les éléments spécifiques (par exemple, les types d’arbres) tout en ne modifiant que les attributs ciblés (heure de la journée, ciel)."
+    },
+    "ko": {
+      "content": "Seedance 2.5 V2V prompt에서 시간대를 밤으로 설정해 장면 조명을 바꿔 보세요.  \n프롬프트를 수정해 하늘을 오로라가 있는 하늘로 바꾸되, 나머지 장면은 일관되게 유지하세요.  \n기존 카메라 움직임과 특정 요소(예: 나무 종류)는 그대로 보존하면서, 시간대나 하늘처럼 지정한 속성만 변경하는 V2V 설정/프롬프트를 사용하세요."
+    },
+    "pt": {
+      "content": "Defina o horário do dia para noite no seu prompt do Seedance 2.5 V2V para बदलar a iluminação da cena.  \nModifique o prompt para alterar o céu para um com aurora, mantendo o restante da cena consistente.  \nUse configurações/prompts de V2V que preservem o movimento de câmera existente e elementos específicos (por exemplo, tipos de árvores), alterando apenas os atributos-alvo (horário do dia, céu)."
+    },
+    "zh": {
+      "content": "在你的 Seedance 2.5 V2V prompt 中将时间设为夜晚，以改变场景光照。  \n修改 prompt，将天空改为带有极光的天空，同时保持场景的其他部分一致。  \n使用能够保留现有 camera movement 和特定元素（例如树木类型），同时只更改目标属性（时间、天空）的 V2V settings/prompts。"
+    }
+  }
+}

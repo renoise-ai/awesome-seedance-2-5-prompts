@@ -1,0 +1,42 @@
+{
+  "id": "2084249201228071270",
+  "title": "Utilise 2 photos comme références d’identité (ex. un portrait studio + un…",
+  "content": "Utilise 2 photos comme références d’identité (ex. un portrait studio + un selfie) pour garder un visage cohérent sur toute la vidéo Seedance 2.5.  \nÉcris un prompt timestampé couvrant toute la durée (ex. 30 s) et détaille plan par plan les actions/cadrages (ex. rue sous la pluie, orbite 360°, rewind derrière la vitre, plongée dans la matrice, flatline) pour générer une séquence complète en une seule passe.  \nGénère les 30 secondes d’un seul tenant avec Seedance 2.5 (sur Dreamina) pour maintenir la cohérence du personnage du premier au dernier plan.  \nFais le montage et le mix audio avec FFmpeg après génération (sans retouche image) pour assembler la vidéo et la musique.",
+  "language": "fr",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2084249143225020416/pu/img/8SbMNbGqRzgXALAm.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084249201228071270.mp4",
+  "sourceLink": "https://x.com/nico16184/status/2084249201228071270",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "Nicolas Guyon - e/acc",
+    "link": "https://x.com/nico16184"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Utilise 2 photos comme références d’identité (ex. un portrait studio + un selfie) pour garder un visage cohérent sur toute la vidéo Seedance 2.5.  \nÉcris un prompt timestampé couvrant toute la durée (ex. 30 s) et détaille plan par plan les actions/cadrages (ex. rue sous la pluie, orbite 360°, rewind derrière la vitre, plongée dans la matrice, flatline) pour générer une séquence complète en une seule passe.  \nGénère les 30 secondes d’un seul tenant avec Seedance 2.5 (sur Dreamina) pour maintenir la cohérence du personnage du premier au dernier plan.  \nFais le montage et le mix audio avec FFmpeg après génération (sans retouche image) pour assembler la vidéo et la musique.",
+  "translations": {
+    "en": {
+      "content": "Use 2 photos as identity references (e.g., a studio portrait + a selfie) to keep a consistent face throughout the entire Seedance 2.5 video.  \nWrite a timestamped prompt covering the full duration (e.g., 30 s) and detail, shot by shot, the actions/framing (e.g., rainy street, 360° orbit, rewind behind the glass, dive into the matrix, flatline) to generate a complete sequence in a single pass.  \nGenerate the full 30 seconds in one continuous take with Seedance 2.5 (on Dreamina) to maintain character consistency from the first shot to the last.  \nDo the editing and audio mixing with FFmpeg after generation (without image retouching) to assemble the video and music."
+    },
+    "es": {
+      "content": "Utiliza 2 fotos como referencias de identidad (p. ej., un retrato de estudio + un selfie) para mantener un rostro coherente durante toda la video de Seedance 2.5.  \nEscribe un prompt con marcas de tiempo que cubra toda la duración (p. ej., 30 s) y detalla plano por plano las acciones y encuadres (p. ej., calle bajo la lluvia, órbita 360°, rewind detrás del cristal, inmersión en la matriz, flatline) para generar una secuencia completa en una sola pasada.  \nGenera los 30 segundos de una sola vez con Seedance 2.5 (en Dreamina) para mantener la coherencia del personaje del primer al último plano.  \nHaz el montaje y la mezcla de audio con FFmpeg después de la generación (sin retoque de imagen) para ensamblar el video y la música."
+    },
+    "ja": {
+      "content": "2枚の写真をアイデンティティ参照として使用し（例：スタジオポートレート＋自撮り写真）、Seedance 2.5 の動画全体を通して一貫した顔を保ちます。  \n全尺（例：30秒）をカバーする timestamp 付きの prompt を書き、各ショットごとにアクションや画角を細かく指定します（例：雨の街、360°オービット、ガラス越しのリワインド、マトリックスへのダイブ、flatline）ことで、1回のパスで完全なシーケンスを生成します。  \nSeedance 2.5（Dreamina 上）で30秒を一続きで生成し、最初のショットから最後のショットまでキャラクターの一貫性を維持します。  \n生成後は FFmpeg で編集と音声ミックスを行い（画像の再編集なし）、動画と音楽を組み合わせます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5 전체 영상에서 얼굴의 일관성을 유지할 수 있도록 신원 참조용 사진 2장을 활용하세요(예: 스튜디오 인물 사진 + 셀카).  \n전체 길이(예: 30초)를 아우르는 타임스탬프가 포함된 prompt를 작성하고, 장면별로 액션/구도(예: 비 내리는 거리, 360° 오비트, 유리창 뒤로 rewind, 매트릭스로의 plunge, flatline)를 세부적으로 지정해 한 번의 패스로 완전한 시퀀스를 생성하세요.  \nDreamina의 Seedance 2.5로 30초 전체를 한 번에 생성해 첫 장면부터 마지막 장면까지 캐릭터의 일관성을 유지하세요.  \n생성 후에는 FFmpeg로 영상과 오디오를 편집 및 믹싱하고(이미지 리터칭 없이), 영상과 음악을 하나로 합치세요."
+    },
+    "pt": {
+      "content": "Utilize 2 fotos como referências de identidade (ex.: um retrato de estúdio + uma selfie) para manter um rosto consistente ao longo de todo o vídeo Seedance 2.5.  \nEscreva um prompt com timestamps cobrindo toda a duração (ex.: 30 s) e detalhe, plano a plano, as ações e enquadramentos (ex.: rua sob a chuva, órbita 360°, rewind atrás do vidro, mergulho na matriz, flatline) para gerar uma sequência completa em uma única passada.  \nGere os 30 segundos de uma vez com Seedance 2.5 (no Dreamina) para manter a consistência do personagem do primeiro ao último plano.  \nFaça a edição e a mixagem de áudio com FFmpeg após a geração (sem retoque de imagem) para montar o vídeo e a música."
+    },
+    "zh": {
+      "content": "使用 2 张照片作为身份参考（例如：一张棚拍人像 + 一张自拍），以便在整个 Seedance 2.5 视频中保持面部一致。  \n编写一个带时间戳的 prompt，覆盖完整时长（例如 30 秒），并逐镜头详细描述动作/构图（例如：雨中的街道、360° 轨道环绕、透过玻璃的 rewind、坠入矩阵、flatline），以便一次性生成完整序列。  \n使用 Seedance 2.5（在 Dreamina 上）一口气生成 30 秒内容，从第一个镜头到最后一个镜头都保持角色一致性。  \n生成完成后，使用 FFmpeg 进行剪辑和音频混合（不做图像后期），将视频和音乐合成为最终成片。"
+    }
+  }
+}

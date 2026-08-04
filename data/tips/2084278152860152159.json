@@ -1,0 +1,42 @@
+{
+  "id": "2084278152860152159",
+  "title": "Run A/B tests between Seedance 2.0 and 2.5 using the exact same prompt, a…",
+  "content": "Run A/B tests between Seedance 2.0 and 2.5 using the exact same prompt, a single reference image, 15s duration, and 720p to compare model behavior.  \nUse Seedance 2.0 when you want more action and faster-paced editing; use Seedance 2.5 when you want a more cinematic look with depth and photographic realism.  \nIf Seedance 2.0 misses specific wardrobe details (e.g., all-black racing suit), switch to Seedance 2.5 or adjust prompting to enforce the clothing requirement.  \nExpect Seedance 2.5 to introduce extra environmental details (e.g., wet road) even for a “commercial” brief, so prompt more explicitly to prevent or control unintended additions.  \nPrompt differently for Seedance 2.5 than 2.0; don’t assume prompts transfer directly—test and iterate per model.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084276316128342016/img/GJ44A3g9n4xNLHjs.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084278152860152159.mp4",
+  "sourceLink": "https://x.com/Sygo__/status/2084278152860152159",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "💀Sygo",
+    "link": "https://x.com/Sygo__"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Run A/B tests between Seedance 2.0 and 2.5 using the exact same prompt, a single reference image, 15s duration, and 720p to compare model behavior.  \nUse Seedance 2.0 when you want more action and faster-paced editing; use Seedance 2.5 when you want a more cinematic look with depth and photographic realism.  \nIf Seedance 2.0 misses specific wardrobe details (e.g., all-black racing suit), switch to Seedance 2.5 or adjust prompting to enforce the clothing requirement.  \nExpect Seedance 2.5 to introduce extra environmental details (e.g., wet road) even for a “commercial” brief, so prompt more explicitly to prevent or control unintended additions.  \nPrompt differently for Seedance 2.5 than 2.0; don’t assume prompts transfer directly—test and iterate per model.",
+  "translations": {
+    "es": {
+      "content": "Ejecuta pruebas A/B entre Seedance 2.0 y 2.5 usando exactamente el mismo prompt, una sola imagen de referencia, una duración de 15 s y 720p para comparar el comportamiento del modelo.  \nUsa Seedance 2.0 cuando quieras más acción y una edición de ritmo más rápido; usa Seedance 2.5 cuando busques un aspecto más cinematográfico, con profundidad y realismo fotográfico.  \nSi Seedance 2.0 omite detalles específicos del vestuario (p. ej., un traje de carreras completamente negro), cambia a Seedance 2.5 o ajusta el prompting para reforzar el requisito de la ropa.  \nEspera que Seedance 2.5 introduzca detalles ambientales adicionales (p. ej., carretera mojada) incluso en un brief “commercial”, así que formula el prompt de manera más explícita para evitar o controlar añadidos no deseados.  \nHaz prompts distintos para Seedance 2.5 que para 2.0; no asumas que los prompts se transfieren directamente: prueba e itera para cada modelo."
+    },
+    "fr": {
+      "content": "Exécutez des tests A/B entre Seedance 2.0 et 2.5 en utilisant exactement le même prompt, une seule image de référence, une durée de 15 s et une résolution de 720p afin de comparer le comportement du modèle.  \nUtilisez Seedance 2.0 lorsque vous voulez plus d’action et un montage plus rythmé ; utilisez Seedance 2.5 lorsque vous recherchez un rendu plus cinématographique, avec de la profondeur et un réalisme photographique.  \nSi Seedance 2.0 ne respecte pas certains détails vestimentaires spécifiques (par ex. une combinaison de course entièrement noire), passez à Seedance 2.5 ou ajustez le prompting pour imposer l’exigence vestimentaire.  \nAttendez-vous à ce que Seedance 2.5 ajoute des détails environnementaux supplémentaires (par ex. une route mouillée), même pour un brief « commercial » ; formulez donc le prompt de manière plus explicite afin d’empêcher ou de contrôler les ajouts non souhaités.  \nFormulez les prompts différemment pour Seedance 2.5 que pour 2.0 ; ne partez pas du principe qu’ils se transfèrent directement — testez et itérez pour chaque modèle."
+    },
+    "ja": {
+      "content": "Seedance 2.0 と 2.5 の挙動を比較するには、まったく同じ prompt、1枚の reference image、15秒の duration、720p を使って A/B テストを行ってください。  \nよりアクション性が高く、テンポの速い編集を求めるなら Seedance 2.0 を使い、より cinematic で奥行きのある、写真のようなリアルさを求めるなら Seedance 2.5 を使ってください。  \nSeedance 2.0 が特定の服装ディテール（例: all-black racing suit）を取りこぼす場合は、Seedance 2.5 に切り替えるか、服装要件を強制するよう prompt を調整してください。  \nSeedance 2.5 は “commercial” な brief であっても、wet road のような余計な環境ディテールを追加することがあるため、意図しない追加を防いだり制御したりするには、より明確に prompt してください。  \nSeedance 2.5 では 2.0 とは別の prompt の仕方が必要です。prompt がそのまま移植できるとは考えず、モデルごとにテストして反復してください。"
+    },
+    "ko": {
+      "content": "Seedance 2.0과 2.5 사이에서 동일한 prompt, 단일 reference image, 15초 duration, 720p를 사용해 A/B 테스트를 진행하여 모델 동작을 비교하세요.  \n더 많은 액션과 더 빠른 편집 템포를 원할 때는 Seedance 2.0을 사용하고, 더 cinematic한 느낌과 깊이감, 사진 같은 사실감을 원할 때는 Seedance 2.5를 사용하세요.  \nSeedance 2.0이 특정 의상 디테일(예: 올블랙 레이싱 슈트)을 놓친다면 Seedance 2.5로 전환하거나, 의상 요구사항을 강하게 반영하도록 prompting을 조정하세요.  \nSeedance 2.5는 “commercial” brief에서도 젖은 도로 같은 추가적인 환경 디테일을 넣을 수 있으므로, 원치 않는 요소를 막거나 제어하려면 더 명시적으로 prompt하세요.  \nSeedance 2.5는 2.0과 다르게 prompt해야 합니다. prompt가 그대로 적용된다고 가정하지 말고, 모델별로 테스트하고 반복 개선하세요."
+    },
+    "pt": {
+      "content": "Execute testes A/B entre o Seedance 2.0 e o 2.5 usando exatamente o mesmo prompt, uma única imagem de referência, duração de 15s e 720p para comparar o comportamento do modelo.  \nUse o Seedance 2.0 quando quiser mais ação e uma edição em ritmo mais acelerado; use o Seedance 2.5 quando quiser um visual mais cinematográfico, com profundidade e realismo fotográfico.  \nSe o Seedance 2.0 não captar detalhes específicos da roupa (por exemplo, macacão de corrida todo preto), mude para o Seedance 2.5 ou ajuste o prompting para reforçar a exigência de vestuário.  \nEspere que o Seedance 2.5 introduza detalhes ambientais extras (por exemplo, estrada molhada) mesmo em um briefing “commercial”, então seja mais explícito no prompt para evitar ou controlar adições indesejadas.  \nFaça prompts de forma diferente para o Seedance 2.5 em relação ao 2.0; não presuma que os prompts serão transferidos diretamente — teste e itere para cada modelo."
+    },
+    "zh": {
+      "content": "使用完全相同的 prompt、单张参考图像、15 秒时长和 720p，在 Seedance 2.0 与 2.5 之间进行 A/B 测试，以比较模型行为。  \n当你想要更多动作感和更快节奏的剪辑时，使用 Seedance 2.0；当你想要更具 cinematic 感、带有景深和摄影级真实感的效果时，使用 Seedance 2.5。  \n如果 Seedance 2.0 漏掉了特定的服装细节（例如全黑赛车服），请切换到 Seedance 2.5，或调整 prompting 以强化服装要求。  \n预计 Seedance 2.5 即使在“commercial” brief 下也会加入额外的环境细节（例如湿路面），因此需要更明确地 prompt，以防止或控制不必要的新增内容。  \n针对 Seedance 2.5 的 prompt 方式应与 2.0 不同；不要假设 prompts 可以直接通用——应针对每个模型分别测试并迭代。"
+    }
+  }
+}

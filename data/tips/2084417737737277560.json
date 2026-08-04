@@ -1,0 +1,42 @@
+{
+  "id": "2084417737737277560",
+  "title": "Upload audio with your live performance prompt in Seedance 2.5 to get subtly…",
+  "content": "Upload audio with your live performance prompt in Seedance 2.5 to get subtly “live” sounding tweaks that make the audio feel more like a real performance.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084417487115071488/img/Tnotb5d_YH4icHZG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084417737737277560.mp4",
+  "sourceLink": "https://x.com/fAIkout/status/2084417737737277560",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "fAIkout",
+    "link": "https://x.com/fAIkout"
+  },
+  "tags": [
+    "Music & Dance",
+    "Concert",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Upload audio with your live performance prompt in Seedance 2.5 to get subtly “live” sounding tweaks that make the audio feel more like a real performance.",
+  "translations": {
+    "es": {
+      "content": "Sube audio con tu prompt de actuación en vivo en Seedance 2.5 para obtener ajustes sutiles que le den un sonido más “en vivo” y hagan que el audio se sienta más como una interpretación real."
+    },
+    "fr": {
+      "content": "Téléchargez l’audio avec votre prompt de performance live dans Seedance 2.5 pour obtenir des ajustements subtilement « live » qui donnent à l’audio une sensation plus proche d’une véritable performance."
+    },
+    "ja": {
+      "content": "Seedance 2.5 でライブパフォーマンスのプロンプトと一緒に音声をアップロードすると、微妙に「ライブ」らしい調整が加わり、音声がより実際の演奏のように感じられます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에 라이브 퍼포먼스 프롬프트와 함께 오디오를 업로드하면, 오디오가 실제 공연처럼 더 자연스럽게 들리도록 미묘한 “라이브” 느낌의 조정이 적용됩니다."
+    },
+    "pt": {
+      "content": "Envie o áudio com o seu prompt de performance ao vivo no Seedance 2.5 para obter ajustes sutilmente com sonoridade “ao vivo” que fazem o áudio parecer mais uma performance real."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中上传带有你的 live performance prompt 的音频，即可获得细微的“live”风格调整，让音频听起来更像真实的现场表演。"
+    }
+  }
+}

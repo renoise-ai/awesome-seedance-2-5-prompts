@@ -1,0 +1,43 @@
+{
+  "id": "2084259131192721675",
+  "title": "VRMアバターを起点に、GPTImage2でキャラクターシート→GeminiNotebookで漫画→GPTImage2で絵コンテ→Seedance2.5で30秒…",
+  "content": "VRMアバターを起点に、GPTImage2でキャラクターシート→GeminiNotebookで漫画→GPTImage2で絵コンテ→Seedance2.5で30秒動画生成の順でパイプライン化すると、ほぼ全自動でAIアニメ制作できる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084258736747778048/img/o_v85FH8tP0dIx-y.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084259131192721675.mp4",
+  "sourceLink": "https://x.com/DoppeDog/status/2084259131192721675",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "アチョー夫人",
+    "link": "https://x.com/DoppeDog"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "VRMアバターを起点に、GPTImage2でキャラクターシート→GeminiNotebookで漫画→GPTImage2で絵コンテ→Seedance2.5で30秒動画生成の順でパイプライン化すると、ほぼ全自動でAIアニメ制作できる",
+  "translations": {
+    "en": {
+      "content": "By building a pipeline that starts with a VRM avatar and goes through character sheets in GPTImage2, manga in GeminiNotebook, storyboards in GPTImage2, and then 30-second video generation in Seedance2.5, you can create AI animation almost fully automatically."
+    },
+    "es": {
+      "content": "Si se crea un pipeline partiendo de un avatar VRM, en el orden de hoja de personaje con GPTImage2 → manga con GeminiNotebook → storyboard con GPTImage2 → generación de un video de 30 segundos con Seedance2.5, se puede producir una animación con IA de forma casi totalmente automática."
+    },
+    "fr": {
+      "content": "En partant d’un avatar VRM, si l’on met en place un pipeline dans l’ordre suivant : character sheet avec GPTImage2 → manga avec GeminiNotebook → storyboard avec GPTImage2 → génération d’une vidéo de 30 secondes avec Seedance2.5, on peut réaliser une production d’anime IA presque entièrement automatisée."
+    },
+    "ko": {
+      "content": "VRM 아바타를 출발점으로 삼아, GPTImage2로 캐릭터 시트 → GeminiNotebook으로 만화 → GPTImage2로 스토리보드 → Seedance2.5로 30초 영상 생성 순서로 파이프라인화하면, 거의 완전 자동으로 AI 애니메이션 제작이 가능하다"
+    },
+    "pt": {
+      "content": "Ao usar um avatar VRM como ponto de partida e montar um pipeline na ordem de: character sheet no GPTImage2 → mangá no GeminiNotebook → storyboard no GPTImage2 → geração de vídeo de 30 segundos no Seedance2.5, é possível produzir animação com IA de forma quase totalmente automatizada."
+    },
+    "zh": {
+      "content": "以 VRM 头像为起点，按“GPTImage2 生成角色设定表 → GeminiNotebook 生成漫画 → GPTImage2 生成分镜 → Seedance2.5 生成 30 秒视频”的顺序进行流水线化，就能几乎全自动地完成 AI 动画制作。"
+    }
+  }
+}

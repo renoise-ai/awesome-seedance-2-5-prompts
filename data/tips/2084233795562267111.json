@@ -1,0 +1,42 @@
+{
+  "id": "2084233795562267111",
+  "title": "Use Seedance 2.5 with a prompt + an image reference to generate a 30s music…",
+  "content": "Use Seedance 2.5 with a prompt + an image reference to generate a 30s music video in a single render.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084233074792099840/img/6COwVMMljMR_hATK.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084233795562267111.mp4",
+  "sourceLink": "https://x.com/NyaiiBubu/status/2084233795562267111",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "🌸 Bubskyy 🌸",
+    "link": "https://x.com/NyaiiBubu"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 with a prompt + an image reference to generate a 30s music video in a single render.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 con un prompt + una imagen de referencia para generar un videoclip musical de 30 s en un solo render.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Moga moga segera hadir yang 1080p ga lama lagi\n---"
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 avec un prompt + une image de référence pour générer un clip vidéo musical de 30 s en un seul rendu.\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Fil 1] Moga moga segera hadir yang 1080p ga lama lagi\n---"
+    },
+    "ja": {
+      "content": "Seedance 2.5 を、prompt と image reference を使って、1回のレンダリングで30秒のミュージックビデオを生成します。\n\n--- スレッドの続き ---\n[Thread 1] 1080p版も、もうすぐすぐに登場しそう\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5를 사용해 prompt + image reference로 단일 렌더에서 30초짜리 뮤직비디오를 생성하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Moga moga segera hadir yang 1080p ga lama lagi\n---"
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 com um prompt + uma imagem de referência para gerar um videoclipe de 30s em uma única renderização.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Moga moga segera hadir yang 1080p ga lama lagi\n---"
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5，结合一个 prompt + 一张参考图，一次渲染生成一支 30 秒的音乐视频。\n\n--- 线程继续 ---\n[Thread 1] 希望 1080p 版本能尽快上线，不要等太久\n---"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2084223881259204781",
+  "title": "Use Seedance 2.5’s “draw camera path on the image” feature to control camera…",
+  "content": "Use Seedance 2.5’s “draw camera path on the image” feature to control camera movement directly instead of describing every movement in text prompts.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084220061309370368/img/YscsU8kTLzhrfg4A.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084223881259204781.mp4",
+  "sourceLink": "https://x.com/elhamteh_eth/status/2084223881259204781",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "Elham",
+    "link": "https://x.com/elhamteh_eth"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Micro",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5’s “draw camera path on the image” feature to control camera movement directly instead of describing every movement in text prompts.",
+  "translations": {
+    "es": {
+      "content": "Usa la función “draw camera path on the image” de Seedance 2.5 para controlar el movimiento de la cámara directamente, en lugar de describir cada movimiento en prompts de texto."
+    },
+    "fr": {
+      "content": "Utilisez la fonctionnalité « draw camera path on the image » de Seedance 2.5 pour contrôler directement le mouvement de la caméra, au lieu de décrire chaque mouvement dans des prompts textuels."
+    },
+    "ja": {
+      "content": "Seedance 2.5 の「draw camera path on the image」機能を使えば、テキストプロンプトで一つひとつ動きを説明する代わりに、カメラの動きを直接コントロールできます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 “draw camera path on the image” 기능을 사용하면, 텍스트 프롬프트로 모든 움직임을 일일이 설명하는 대신 카메라 움직임을 직접 제어할 수 있습니다."
+    },
+    "pt": {
+      "content": "Use o recurso “draw camera path on the image” do Seedance 2.5 para controlar o movimento da câmera diretamente, em vez de descrever cada movimento em prompts de texto."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 的“在图像上绘制相机路径”功能，直接控制镜头运动，而不是在文本 prompt 中逐一描述每个动作。"
+    }
+  }
+}

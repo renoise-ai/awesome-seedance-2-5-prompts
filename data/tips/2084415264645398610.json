@@ -1,0 +1,42 @@
+{
+  "id": "2084415264645398610",
+  "title": "最大12枚の画像リファレンス＋音源リファレンスを併用して、Seedance 2.5で実写系ショートMVの参照精度を上げる",
+  "content": "最大12枚の画像リファレンス＋音源リファレンスを併用して、Seedance 2.5で実写系ショートMVの参照精度を上げる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/media/HO1hepEaYAAy1aJ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084415264645398610.mp4",
+  "sourceLink": "https://x.com/kan_mi_no9/status/2084415264645398610",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "kan:mi｜AI Film & Music",
+    "link": "https://x.com/kan_mi_no9"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "最大12枚の画像リファレンス＋音源リファレンスを併用して、Seedance 2.5で実写系ショートMVの参照精度を上げる",
+  "translations": {
+    "en": {
+      "content": "Improve reference accuracy for live-action-style short MVs in Seedance 2.5 by using up to 12 image references plus an audio reference together."
+    },
+    "es": {
+      "content": "Mejora la precisión de referencia en Seedance 2.5 para short MVs de estilo live-action utilizando hasta 12 image references + una referencia de audio en conjunto"
+    },
+    "fr": {
+      "content": "Améliorez la précision de référence des courts MV en prise de vue réelle avec Seedance 2.5 en combinant jusqu’à 12 références d’images et une référence audio."
+    },
+    "ko": {
+      "content": "최대 12장의 이미지 레퍼런스와 음원 레퍼런스를 함께 활용해 Seedance 2.5에서 실사풍 숏 MV의 참조 정확도를 높이기"
+    },
+    "pt": {
+      "content": "Aumente a precisão de referência de short MV em estilo live-action no Seedance 2.5 usando até 12 referências de imagem + uma referência de áudio em conjunto"
+    },
+    "zh": {
+      "content": "结合最多 12 张图像参考 + 音频参考，提升 Seedance 2.5 生成写实系短 MV 的参考准确度"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2084395682845343925",
+  "title": "Generate UGC-style ad videos in Seedance 2.5 by prompting directly for…",
+  "content": "Generate UGC-style ad videos in Seedance 2.5 by prompting directly for “UGC-style” content.\n\nAdd yourself as a reference in Seedance 2.5 to steer the output toward your likeness, using up to 50 reference images.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084395637270016000/img/BRAFpAdkAFerAKIJ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084395682845343925.mp4",
+  "sourceLink": "https://x.com/magnific/status/2084395682845343925",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "Magnific",
+    "link": "https://x.com/magnific"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate UGC-style ad videos in Seedance 2.5 by prompting directly for “UGC-style” content.\n\nAdd yourself as a reference in Seedance 2.5 to steer the output toward your likeness, using up to 50 reference images.",
+  "translations": {
+    "es": {
+      "content": "Genera videos publicitarios de estilo UGC en Seedance 2.5 indicando directamente contenido “UGC-style”.\n\nAñádete como referencia en Seedance 2.5 para orientar el resultado hacia tu apariencia, usando hasta 50 imágenes de referencia."
+    },
+    "fr": {
+      "content": "Générez des vidéos publicitaires de style UGC dans Seedance 2.5 en demandant directement du contenu « UGC-style ».\n\nAjoutez-vous comme référence dans Seedance 2.5 pour orienter le résultat vers votre apparence, en utilisant jusqu’à 50 images de référence."
+    },
+    "ja": {
+      "content": "Seedance 2.5 では、「UGC-style」コンテンツを直接 prompt することで、UGC風の広告動画を生成できます。\n\nSeedance 2.5 に自分自身を reference として追加すると、最大 50 枚の reference images を使って、出力を自分の見た目に寄せることができます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 “UGC-style” 콘텐츠를 직접 prompt하여 UGC 스타일 광고 영상을 생성하세요.\n\nSeedance 2.5에 자신을 reference로 추가해, 최대 50장의 reference image를 사용하여 결과물이 자신의 모습과 더 가깝게 나오도록 유도하세요."
+    },
+    "pt": {
+      "content": "Gere vídeos publicitários em estilo UGC no Seedance 2.5, solicitando diretamente conteúdo “UGC-style”.\n\nAdicione você mesmo como referência no Seedance 2.5 para direcionar o resultado para sua aparência, usando até 50 imagens de referência."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中，通过直接提示“UGC-style”内容，生成 UGC 风格的广告视频。\n\n在 Seedance 2.5 中添加你自己作为参考，以引导输出更接近你的外貌特征，最多可使用 50 张参考图片。"
+    }
+  }
+}

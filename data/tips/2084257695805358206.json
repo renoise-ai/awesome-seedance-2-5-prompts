@@ -1,0 +1,42 @@
+{
+  "id": "2084257695805358206",
+  "title": "Use Blender MCP to quickly create a previs with Claude, then feed that previs…",
+  "content": "Use Blender MCP to quickly create a previs with Claude, then feed that previs as a reference to Seedance 2.5 to generate the final video.",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084257202005811200/img/YKqcWuvcvYmkIJpY.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084257695805358206.mp4",
+  "sourceLink": "https://x.com/aigeboku/status/2084257695805358206",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "AI様の下僕",
+    "link": "https://x.com/aigeboku"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Blender MCP to quickly create a previs with Claude, then feed that previs as a reference to Seedance 2.5 to generate the final video.",
+  "translations": {
+    "en": {
+      "content": "Use Blender MCP to quickly create a previs with Claude, then feed that previs as a reference to Seedance 2.5 to generate the final video."
+    },
+    "es": {
+      "content": "Usa Blender MCP para crear rápidamente un previs con Claude, y luego usa ese previs como referencia en Seedance 2.5 para generar el video final."
+    },
+    "fr": {
+      "content": "Utilisez Blender MCP pour créer rapidement un previs avec Claude, puis utilisez ce previs comme référence dans Seedance 2.5 pour générer la vidéo finale."
+    },
+    "ko": {
+      "content": "Blender MCP를 사용해 Claude로 빠르게 previs를 만든 다음, 그 previs를 Seedance 2.5의 레퍼런스로 활용해 최종 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Use o Blender MCP para criar rapidamente uma previs com o Claude e, em seguida, use essa previs como referência no Seedance 2.5 para gerar o vídeo final."
+    },
+    "zh": {
+      "content": "使用 Blender MCP 与 Claude 快速创建一个预演（previs），然后将该预演作为参考输入到 Seedance 2.5 中，以生成最终视频。"
+    }
+  }
+}

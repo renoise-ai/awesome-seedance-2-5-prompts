@@ -1,0 +1,42 @@
+{
+  "id": "2084256472322781622",
+  "title": "Use a Claude skill to break your script/topic into scenes and generate…",
+  "content": "Use a Claude skill to break your script/topic into scenes and generate timestamped storyboard prompts matched to pacing before sending them to Seedance 2.5  \nIn Seedance 2.5, use 30-second continuous generation to produce longer, coherent shots per scene instead of many short clips  \nUse Seedance 2.5 reference asset support to keep characters/locations/visual style consistent across scenes  \nOutput the final video in 16:9 format for a YouTube-ready vlog  \nAdd an AI voiceover that matches the script’s tone, then stitch scenes together and burn in captions automatically to produce an upload-ready vlog",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084256354798317568/img/rhSqDdAkRtyAbGpS.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084256472322781622.mp4",
+  "sourceLink": "https://x.com/sulfurscales/status/2084256472322781622",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "Sulfur",
+    "link": "https://x.com/sulfurscales"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Travel Vlog",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a Claude skill to break your script/topic into scenes and generate timestamped storyboard prompts matched to pacing before sending them to Seedance 2.5  \nIn Seedance 2.5, use 30-second continuous generation to produce longer, coherent shots per scene instead of many short clips  \nUse Seedance 2.5 reference asset support to keep characters/locations/visual style consistent across scenes  \nOutput the final video in 16:9 format for a YouTube-ready vlog  \nAdd an AI voiceover that matches the script’s tone, then stitch scenes together and burn in captions automatically to produce an upload-ready vlog",
+  "translations": {
+    "es": {
+      "content": "Usa una skill de Claude para dividir tu guion/tema en escenas y generar prompts de storyboard con marcas de tiempo, alineados con el ritmo, antes de enviarlos a Seedance 2.5  \nEn Seedance 2.5, usa generación continua de 30 segundos para producir tomas más largas y coherentes por escena, en lugar de muchos clips cortos  \nUsa la compatibilidad de Seedance 2.5 con assets de referencia para mantener la coherencia de personajes, ubicaciones y estilo visual entre escenas  \nExporta el video final en formato 16:9 para un vlog listo para YouTube  \nAñade una voz en off con IA que coincida con el tono del guion, luego une las escenas y quema automáticamente los subtítulos para producir un vlog listo para subir"
+    },
+    "fr": {
+      "content": "Utilisez une skill Claude pour découper votre script/sujet en scènes et générer des prompts de storyboard horodatés, alignés sur le rythme, avant de les envoyer à Seedance 2.5  \nDans Seedance 2.5, utilisez la génération continue de 30 secondes pour produire des plans plus longs et cohérents par scène, au lieu de nombreux clips courts  \nUtilisez la prise en charge des assets de référence de Seedance 2.5 pour conserver la cohérence des personnages, des lieux et du style visuel d’une scène à l’autre  \nExportez la vidéo finale au format 16:9 pour un vlog prêt pour YouTube  \nAjoutez une voix off IA qui correspond au ton du script, puis assemblez les scènes et incrustez automatiquement les sous-titres pour produire un vlog prêt à être mis en ligne"
+    },
+    "ja": {
+      "content": "Claudeのskillを使って、スクリプト／トピックをシーンごとに分割し、テンポに合わせたタイムスタンプ付きの storyboard prompt を生成してから、Seedance 2.5 に送る  \nSeedance 2.5 では、30秒の continuous generation を使って、短いクリップを大量に作るのではなく、シーンごとにより長く一貫性のあるショットを生成する  \nSeedance 2.5 の reference asset support を活用して、キャラクター／ロケーション／ビジュアルスタイルをシーン全体で一貫させる  \n最終動画は YouTube 向け vlog として使えるよう、16:9 形式で出力する  \nスクリプトのトーンに合った AI voiceover を追加し、その後シーンをつなぎ合わせて captions を自動で burn in し、アップロード可能な vlog に仕上げる"
+    },
+    "ko": {
+      "content": "Claude skill을 사용해 스크립트/주제를 장면별로 나누고, 페이싱에 맞춘 타임스탬프가 포함된 스토리보드 prompt를 생성한 뒤 Seedance 2.5로 보내세요  \nSeedance 2.5에서는 30초 연속 생성을 사용해 여러 개의 짧은 클립 대신, 장면마다 더 길고 일관된 샷을 생성하세요  \nSeedance 2.5의 reference asset 지원을 활용해 장면 전반에서 캐릭터/장소/비주얼 스타일의 일관성을 유지하세요  \n최종 비디오는 YouTube 업로드용 vlog에 맞게 16:9 형식으로 출력하세요  \n스크립트의 톤에 맞는 AI voiceover를 추가한 다음, 장면들을 이어 붙이고 captions를 자동으로 burn in하여 업로드 준비가 완료된 vlog를 만드세요"
+    },
+    "pt": {
+      "content": "Use uma skill do Claude para dividir seu script/tópico em cenas e gerar prompts de storyboard com timestamp alinhados ao ritmo antes de enviá-los ao Seedance 2.5  \nNo Seedance 2.5, use geração contínua de 30 segundos para produzir takes mais longos e coerentes por cena, em vez de muitos clipes curtos  \nUse o suporte a assets de referência do Seedance 2.5 para manter personagens/localizações/estilo visual consistentes entre as cenas  \nExporte o vídeo final em formato 16:9 para um vlog pronto para o YouTube  \nAdicione uma narração por IA que combine com o tom do script, depois una as cenas e insira legendas automaticamente para produzir um vlog pronto para upload"
+    },
+    "zh": {
+      "content": "使用 Claude skill 将你的脚本/主题拆分成多个场景，并在发送到 Seedance 2.5 之前，生成与节奏匹配、带时间戳的 storyboard prompts  \n在 Seedance 2.5 中，使用 30 秒连续生成来为每个场景生成更长、更连贯的镜头，而不是许多短片段  \n利用 Seedance 2.5 的 reference asset 支持，确保角色/地点/视觉风格在各个场景中保持一致  \n将最终视频输出为 16:9 格式，制作成适合 YouTube 的 vlog  \n添加与脚本语气相匹配的 AI voiceover，然后将各个场景拼接起来，并自动烧录字幕，生成可直接上传的 vlog"
+    }
+  }
+}

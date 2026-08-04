@@ -1,0 +1,42 @@
+{
+  "id": "2084338400149065851",
+  "title": "Use up to 50 reference assets in a single Seedance clip to guide generation.",
+  "content": "Use up to 50 reference assets in a single Seedance clip to guide generation.\nGenerate a 30-second video in one Seedance generation.\nUse reference-driven controls to steer characters, scenes, and pacing in Seedance.\nEnable 3D white model support in Seedance to guide scene/layout structure.\nPrompt Seedance in multiple languages using its multilingual support.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084338249892237312/img/PcIlDv12DEYMUe2e.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084338400149065851.mp4",
+  "sourceLink": "https://x.com/SeharShinwari/status/2084338400149065851",
+  "sourcePublishedAt": "2026-08-03",
+  "author": {
+    "name": "Sarah Parker",
+    "link": "https://x.com/SeharShinwari"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use up to 50 reference assets in a single Seedance clip to guide generation.\nGenerate a 30-second video in one Seedance generation.\nUse reference-driven controls to steer characters, scenes, and pacing in Seedance.\nEnable 3D white model support in Seedance to guide scene/layout structure.\nPrompt Seedance in multiple languages using its multilingual support.",
+  "translations": {
+    "es": {
+      "content": "Usa hasta 50 recursos de referencia en un solo clip de Seedance para guiar la generación.  \nGenera un video de 30 segundos en una sola generación de Seedance.  \nUsa controles guiados por referencias para dirigir personajes, escenas y ritmo en Seedance.  \nActiva la compatibilidad con modelos blancos 3D en Seedance para guiar la estructura de la escena y el layout.  \nHaz prompts en Seedance en varios idiomas usando su compatibilidad multilingüe."
+    },
+    "fr": {
+      "content": "Utilisez jusqu’à 50 assets de référence dans un seul clip Seedance pour guider la génération.  \nGénérez une vidéo de 30 secondes en une seule génération Seedance.  \nUtilisez les contrôles guidés par des références pour orienter les personnages, les scènes et le rythme dans Seedance.  \nActivez la prise en charge des modèles blancs 3D dans Seedance pour guider la structure de la scène et de la mise en page.  \nRédigez des prompts pour Seedance dans plusieurs langues grâce à sa prise en charge multilingue."
+    },
+    "ja": {
+      "content": "1つのSeedanceクリップで最大50個の参照アセットを使用して生成をガイドできます。  \n1回のSeedance生成で30秒の動画を生成できます。  \nSeedanceの参照ベースのコントロールを使って、キャラクター、シーン、テンポを調整できます。  \nSeedanceで3Dホワイトモデルのサポートを有効にして、シーン／レイアウト構造のガイドに活用できます。  \nSeedanceの多言語対応を使って、複数の言語でpromptを入力できます。"
+    },
+    "ko": {
+      "content": "---\n단일 Seedance 클립에서 최대 50개의 레퍼런스 에셋을 사용해 생성을 가이드할 수 있습니다.\nSeedance 한 번의 생성으로 30초 분량의 비디오를 생성하세요.\nSeedance의 레퍼런스 기반 컨트롤을 사용해 캐릭터, 장면, 페이싱을 조정하세요.\nSeedance에서 3D 화이트 모델 지원을 활성화해 장면/레이아웃 구조를 가이드하세요.\nSeedance의 다국어 지원을 활용해 여러 언어로 prompt를 입력하세요.\n---"
+    },
+    "pt": {
+      "content": "Use até 50 assets de referência em um único clipe do Seedance para orientar a geração.  \nGere um vídeo de 30 segundos em uma única geração do Seedance.  \nUse controles orientados por referências para direcionar personagens, cenas e ritmo no Seedance.  \nAtive o suporte a modelo branco 3D no Seedance para orientar a estrutura da cena/layout.  \nFaça prompts no Seedance em vários idiomas usando seu suporte multilíngue."
+    },
+    "zh": {
+      "content": "在单个 Seedance 片段中最多可使用 50 个参考素材来引导生成。  \n在一次 Seedance 生成中生成一段 30 秒视频。  \n使用基于参考素材的控制功能，在 Seedance 中引导角色、场景和节奏。  \n在 Seedance 中启用 3D 白模支持，以指导场景/布局结构。  \n利用 Seedance 的多语言支持，用多种语言进行 prompt。"
+    }
+  }
+}
