@@ -1,0 +1,44 @@
+{
+  "id": "2084829116638068868",
+  "title": "Seedance2.5でPOV視点のドライブ動画を作るときは、同じカメラ設定の連続撮影として構成し、通常走行→途中で周囲の景色が変化する流れをプロンプト/シーン…",
+  "content": "Seedance2.5でPOV視点のドライブ動画を作るときは、同じカメラ設定の連続撮影として構成し、通常走行→途中で周囲の景色が変化する流れをプロンプト/シーン設計で作る  \nPOVの臨場感を出すために、手持ちカメラの揺れ（handheld shake）を意識して動きの指示を入れる  \n不気味さや違和感を狙う場合は、異形の動き（unnatural/inhuman movement）を明示してモーションを設計する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084827066730725376/img/Rs29K3AO8t8RL2-1.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084829116638068868.mp4",
+  "sourceLink": "https://x.com/roco_kn_roco/status/2084829116638068868",
+  "sourcePublishedAt": "2026-08-05",
+  "author": {
+    "name": "KnRoco@AIアニメ",
+    "link": "https://x.com/roco_kn_roco"
+  },
+  "tags": [
+    "Auto",
+    "POV Drive",
+    "Photoreal",
+    "Realistic World",
+    "POV",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "Seedance2.5でPOV視点のドライブ動画を作るときは、同じカメラ設定の連続撮影として構成し、通常走行→途中で周囲の景色が変化する流れをプロンプト/シーン設計で作る  \nPOVの臨場感を出すために、手持ちカメラの揺れ（handheld shake）を意識して動きの指示を入れる  \n不気味さや違和感を狙う場合は、異形の動き（unnatural/inhuman movement）を明示してモーションを設計する",
+  "translations": {
+    "en": {
+      "content": "When creating a POV driving video in Seedance 2.5, structure it as a continuous shoot with the same camera settings, and use the prompt/scene design to create a flow from normal driving to a point where the surrounding scenery changes partway through.  \nTo create a strong sense of POV immersion, include movement instructions with an awareness of handheld shake.  \nIf you want to evoke unease or a sense of something being off, explicitly specify unnatural/inhuman movement and design the motion accordingly."
+    },
+    "es": {
+      "content": "Al crear un video de conducción en POV con Seedance2.5, conviene estructurarlo como una toma continua con la misma configuración de cámara, y diseñar mediante el prompt/la escena una transición de conducción normal → cambio del paisaje circundante a mitad del recorrido.  \nPara lograr la sensación inmersiva del POV, incluye indicaciones de movimiento teniendo en cuenta el temblor de una cámara en mano (handheld shake).  \nSi buscas una sensación inquietante o extraña, diseña el motion especificando claramente movimientos antinaturales o inhumanos (unnatural/inhuman movement)."
+    },
+    "fr": {
+      "content": "Lorsque vous créez une vidéo de conduite en vue POV avec Seedance2.5, structurez-la comme une prise de vue continue avec les mêmes réglages de caméra, et concevez le prompt / la mise en scène de manière à faire passer la séquence d’une conduite normale à une transformation progressive du paysage environnant en cours de route.  \nPour renforcer l’immersion du POV, pensez au tremblement de caméra à main levée (handheld shake) et ajoutez des indications de mouvement en conséquence.  \nSi vous visez une sensation d’étrangeté ou de malaise, définissez explicitement des mouvements anormaux (unnatural/inhuman movement) afin de concevoir la motion."
+    },
+    "ko": {
+      "content": "Seedance2.5에서 POV 시점의 드라이브 영상을 만들 때는, 같은 카메라 설정의 연속 촬영으로 구성하고, 일반 주행 → 중간에 주변 풍경이 변화하는 흐름을 prompt/scene 설계로 만든다  \nPOV의 현장감을 살리기 위해, 핸드헬드 카메라의 흔들림(handheld shake)을 의식해 움직임 지시를 넣는다  \n기괴함이나 위화감을 노릴 경우에는, 비정상적인 움직임(unnatural/inhuman movement)을 명시해 motion을 설계한다"
+    },
+    "pt": {
+      "content": "Ao criar vídeos de direção em POV no Seedance2.5, estruture-os como uma gravação contínua com as mesmas configurações de câmera, e use o prompt/design de cena para criar um fluxo que vá da condução normal até a mudança da paisagem ao redor no meio do percurso.  \nPara transmitir a sensação de imersão do POV, inclua instruções de movimento com foco no balanço de câmera na mão (handheld shake).  \nSe o objetivo for criar estranheza ou desconforto, especifique movimentos anômalos (unnatural/inhuman movement) e projete a motion de forma explícita."
+    },
+    "zh": {
+      "content": "在使用 Seedance2.5 制作 POV 视角的驾驶视频时，应将其构成同一相机设置下的连续拍摄，并通过 prompt/场景设计来实现“正常行驶 → 中途周围景色发生变化”的流程。  \n为了增强 POV 的临场感，要有意识地加入手持相机的抖动（handheld shake）等动作指示。  \n如果想营造诡异感或违和感，则应明确指定异形的动作（unnatural/inhuman movement），并据此设计 motion。"
+    }
+  }
+}

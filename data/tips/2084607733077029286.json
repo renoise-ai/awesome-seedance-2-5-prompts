@@ -1,0 +1,42 @@
+{
+  "id": "2084607733077029286",
+  "title": "Start your Seedance project from a single Midjourney image and expand it into a…",
+  "content": "Start your Seedance project from a single Midjourney image and expand it into a full film by generating additional scenes from it  \nRerun Seedance generations multiple times to iteratively push scenes closer to your target look, then cherry-pick the best outputs for the final edit  \nUse 720p in Seedance when you need to finish quickly; detail and motion can still hold up better than expected",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084605707077238784/img/QKa2dKdLMhd-_0Ja.jpg",
+  "videoUrl": "https://video.twimg.com/amplify_video/2084605707077238784/vid/avc1/3840x2160/wG2z72A6RZwkfLjY.mp4",
+  "sourceLink": "https://x.com/AllarHaltsonen/status/2084607733077029286",
+  "sourcePublishedAt": "2026-08-04",
+  "author": {
+    "name": "Allar Haltsonen",
+    "link": "https://x.com/AllarHaltsonen"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Start your Seedance project from a single Midjourney image and expand it into a full film by generating additional scenes from it  \nRerun Seedance generations multiple times to iteratively push scenes closer to your target look, then cherry-pick the best outputs for the final edit  \nUse 720p in Seedance when you need to finish quickly; detail and motion can still hold up better than expected",
+  "translations": {
+    "es": {
+      "content": "---\nComienza tu proyecto de Seedance a partir de una sola imagen de Midjourney y amplíala hasta convertirla en una película completa generando escenas adicionales a partir de ella  \nVuelve a ejecutar las generaciones de Seedance varias veces para ir acercando iterativamente las escenas al aspecto que buscas, y luego selecciona cuidadosamente las mejores salidas para la edición final  \nUsa 720p en Seedance cuando necesites terminar rápido; el detalle y el movimiento aún pueden mantenerse mejor de lo esperado\n---"
+    },
+    "fr": {
+      "content": "Commencez votre projet Seedance à partir d’une seule image Midjourney et développez-le en un film complet en générant des scènes supplémentaires à partir de celle-ci  \nRelancez les générations Seedance plusieurs fois pour faire évoluer les scènes, étape par étape, vers le rendu recherché, puis sélectionnez les meilleurs résultats pour le montage final  \nUtilisez le 720p dans Seedance lorsque vous devez terminer rapidement ; les détails et le mouvement peuvent malgré tout rester meilleurs que prévu"
+    },
+    "ja": {
+      "content": "単一のMidjourney画像からSeedanceプロジェクトを始め、それをもとに追加のシーンを生成して、一本のフルフィルムへと展開できます。  \nSeedanceの生成を何度も再実行し、シーンを目標のルックに段階的に近づけていき、最終編集では最良の出力だけを厳選しましょう。  \n素早く仕上げる必要があるときは、Seedanceで720pを使ってください。ディテールや動きも、予想以上に十分耐えられることがあります。"
+    },
+    "ko": {
+      "content": "단 하나의 Midjourney 이미지로 Seedance 프로젝트를 시작하고, 거기서 추가 장면을 생성해 하나의 완성된 영화로 확장하세요  \nSeedance 생성을 여러 번 다시 실행해 장면을 목표한 비주얼에 더 가깝게 반복적으로 다듬은 다음, 최종 편집에 사용할 최고의 결과만 골라내세요  \n빠르게 마무리해야 할 때는 Seedance에서 720p를 사용하세요. 디테일과 모션은 예상보다 훨씬 잘 유지될 수 있습니다"
+    },
+    "pt": {
+      "content": "Comece seu projeto no Seedance a partir de uma única imagem do Midjourney e expanda-a em um filme completo gerando cenas adicionais a partir dela  \nExecute as gerações do Seedance várias vezes para, de forma iterativa, aproximar as cenas do visual desejado e, então, selecione a dedo os melhores resultados para a edição final  \nUse 720p no Seedance quando precisar finalizar rapidamente; os detalhes e o movimento ainda podem se manter melhores do que o esperado"
+    },
+    "zh": {
+      "content": "从一张 Midjourney 图片开始你的 Seedance 项目，并通过基于它生成更多场景，将其扩展成一部完整影片  \n多次重新运行 Seedance 生成，迭代地将场景逐步推向你想要的效果，然后从中精选最佳输出用于最终剪辑  \n当你需要快速完成时，在 Seedance 中使用 720p；细节和动态表现仍然可能比预期更出色"
+    }
+  }
+}

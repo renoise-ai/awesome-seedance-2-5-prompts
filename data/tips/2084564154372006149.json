@@ -1,0 +1,42 @@
+{
+  "id": "2084564154372006149",
+  "title": "Seedance 2.5では複数のリファレンスを入力してカットシーン生成を行い、世界観や参照要素を維持させる",
+  "content": "Seedance 2.5では複数のリファレンスを入力してカットシーン生成を行い、世界観や参照要素を維持させる  \n修正回数を減らして総コストを下げたい場合は、生成コストが高くてもリファレンス重視（複数リファレンス）で一発の精度を上げる運用にする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084564035539009537/img/qNO41yOdgKZCq9py.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084564154372006149.mp4",
+  "sourceLink": "https://x.com/taziku_co/status/2084564154372006149",
+  "sourcePublishedAt": "2026-08-04",
+  "author": {
+    "name": "田中義弘 | taziku CEO / AI × Creative",
+    "link": "https://x.com/taziku_co"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5では複数のリファレンスを入力してカットシーン生成を行い、世界観や参照要素を維持させる  \n修正回数を減らして総コストを下げたい場合は、生成コストが高くてもリファレンス重視（複数リファレンス）で一発の精度を上げる運用にする",
+  "translations": {
+    "en": {
+      "content": "In Seedance 2.5, you can input multiple references to generate cutscenes while preserving the worldbuilding and reference elements.  \nIf you want to reduce the number of revisions and lower the overall cost, even if the generation cost is higher, it’s better to prioritize references (multiple references) and use a workflow that improves first-pass accuracy."
+    },
+    "es": {
+      "content": "En Seedance 2.5, se pueden introducir múltiples referencias para generar cutscenes y mantener la ambientación y los elementos de referencia.  \nSi quieres reducir el número de iteraciones de corrección y bajar el costo total, conviene priorizar las referencias (múltiples referencias), aunque el costo de generación sea más alto, para aumentar la precisión en un solo intento."
+    },
+    "fr": {
+      "content": "Dans Seedance 2.5, il est possible d’entrer plusieurs références pour générer des cutscenes, tout en conservant l’univers et les éléments de référence.  \nSi vous souhaitez réduire le nombre d’itérations de correction et diminuer le coût total, il est préférable d’adopter une approche axée sur les références (plusieurs références) afin d’augmenter la précision dès la première génération, même si le coût de génération est plus élevé."
+    },
+    "ko": {
+      "content": "Seedance 2.5에서는 여러 개의 reference를 입력해 cutscene 생성을 수행하고, 세계관과 참조 요소를 유지할 수 있다.  \n수정 횟수를 줄여 총 비용을 낮추고 싶다면, 생성 비용이 높더라도 reference를 중시하는 방식(복수 reference)으로 한 번에 나오는 결과의 정확도를 높이는 운영을 하는 것이 좋다."
+    },
+    "pt": {
+      "content": "No Seedance 2.5, é possível inserir múltiplas referências para gerar cutscenes, mantendo o universo e os elementos de referência.  \nSe você quiser reduzir o número de revisões e diminuir o custo total, mesmo que o custo de geração seja mais alto, vale adotar um fluxo com foco em referências (múltiplas referências) para aumentar a precisão logo na primeira tentativa."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中，可以输入多个参考图来生成 cut scene，并保持世界观和参考元素的一致性。  \n如果想减少修改次数、降低总体成本，即使生成成本较高，也应采用更重视参考图（多个 reference）的方式，通过提高一次生成的准确率来进行运用。"
+    }
+  }
+}

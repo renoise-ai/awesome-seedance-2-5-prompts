@@ -1,0 +1,42 @@
+{
+  "id": "2084594808144982089",
+  "title": "使用 Seedance 2.5 一次生成 30 秒影片，利用其內建字幕與背景音樂功能來提升畫面連續性並加速完成累積腳本",
+  "content": "使用 Seedance 2.5 一次生成 30 秒影片，利用其內建字幕與背景音樂功能來提升畫面連續性並加速完成累積腳本",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084594730516795392/img/5QkEkzzZc_qY1tUY.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084594808144982089.mp4",
+  "sourceLink": "https://x.com/chenshifeng5/status/2084594808144982089",
+  "sourcePublishedAt": "2026-08-04",
+  "author": {
+    "name": "陳似風",
+    "link": "https://x.com/chenshifeng5"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "使用 Seedance 2.5 一次生成 30 秒影片，利用其內建字幕與背景音樂功能來提升畫面連續性並加速完成累積腳本",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2.5 to generate a 30-second video in one go, leveraging its built-in subtitles and background music features to enhance visual continuity and speed up the completion of cumulative scripts."
+    },
+    "es": {
+      "content": "Usa Seedance 2.5 para generar un video de 30 segundos de una sola vez, aprovechando sus funciones integradas de subtítulos y música de fondo para mejorar la continuidad visual y acelerar la finalización de un guion acumulativo."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 pour générer en une seule fois une vidéo de 30 secondes, en exploitant ses fonctions intégrées de sous-titres et de musique de fond afin d’améliorer la continuité visuelle et d’accélérer la réalisation d’un script cumulatif."
+    },
+    "ja": {
+      "content": "Seedance 2.5 を使って 30 秒の動画を一度に生成し、内蔵の字幕とBGM機能を活用して、映像の連続性を高めながら、蓄積された脚本の仕上げをより迅速に進める。"
+    },
+    "ko": {
+      "content": "Seedance 2.5를 사용해 한 번에 30초짜리 영상을 생성하고, 내장 자막과 배경 음악 기능을 활용해 화면의 연속성을 높이며 누적 스크립트 완성을 더 빠르게 진행하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 para gerar um vídeo de 30 segundos de uma só vez, aproveitando seus recursos integrados de legendas e música de fundo para melhorar a continuidade visual e acelerar a finalização do roteiro acumulado."
+    }
+  }
+}

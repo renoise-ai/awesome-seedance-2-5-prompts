@@ -1,0 +1,41 @@
+{
+  "id": "2084616141943824834",
+  "title": "参照画像は必要最低限の枚数に絞り、プロンプト中心で生成するとスタイルや構図の自由度が出やすい",
+  "content": "参照画像は必要最低限の枚数に絞り、プロンプト中心で生成するとスタイルや構図の自由度が出やすい  \n余計なイメージボードや設定資料など不要な参照は渡さず、参照に引っ張られすぎるのを避ける  \n具体的なイメージが固まらないシーンは、展開のアウトラインだけ渡して演出をSeedance 2.5に任せる",
+  "language": "ja",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/k_matsumaru/status/2084616141943824834",
+  "sourcePublishedAt": "2026-08-04",
+  "author": {
+    "name": "松丸 彗吾(keigo matsumaru)",
+    "link": "https://x.com/k_matsumaru"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "参照画像は必要最低限の枚数に絞り、プロンプト中心で生成するとスタイルや構図の自由度が出やすい  \n余計なイメージボードや設定資料など不要な参照は渡さず、参照に引っ張られすぎるのを避ける  \n具体的なイメージが固まらないシーンは、展開のアウトラインだけ渡して演出をSeedance 2.5に任せる",
+  "translations": {
+    "en": {
+      "content": "Keep the number of reference images to the bare minimum, and generate primarily from the prompt to give yourself more freedom in style and composition.  \nAvoid passing unnecessary references such as extra image boards or setting materials, since they can pull the result too strongly toward the references.  \nFor scenes where you don’t have a concrete image in mind, just provide the outline of the progression and let Seedance 2.5 handle the direction.\n\n--- QUOTED TWEET ---\nI thought Seedance 2.5 had weakened the director’s role, but that wasn’t the case at all. If anything, it’s improved. It works perfectly fine even when you leave the direction to it.\n\nSo what’s getting in the way? References.  \nAs others have said, reference strength has increased, and if you include unnecessary image boards or setting materials, the model gets pulled toward them, losing freedom in both style and composition.\n\nA minimal number of references plus a prompt tends to work better.  \nIf it’s a scene where you can’t form a concrete image, I think it’s also a good option to just give it the outline of the progression and let it take care of the rest.\n\nIt’s ironic that you can use up to 50 references, yet this is the situation."
+    },
+    "es": {
+      "content": "Limita las imágenes de referencia al mínimo indispensable y genera principalmente a partir del prompt; así suele haber más libertad en el estilo y la composición.  \nNo entregues referencias innecesarias, como mood boards o materiales de diseño, para evitar que el resultado quede demasiado condicionado por ellas.  \nEn escenas en las que no tengas una imagen concreta bien definida, basta con dar solo el esquema general de la secuencia y dejar la dirección en manos de Seedance 2.5.\n\n--- QUOTED TWEET ---\nPensé que Seedance 2.5 había reducido la capacidad de dirección, pero no fue así en absoluto. Al contrario, ha mejorado. Incluso dejando la puesta en escena a su criterio, funciona perfectamente.\n\nEntonces, ¿qué es lo que estorba? Las referencias.  \nComo también han dicho otras personas, la fuerza de las referencias ha aumentado, y si hay mood boards o materiales de diseño innecesarios, el modelo se deja arrastrar por ellos y tanto el estilo como la composición pierden libertad.\n\nSuele funcionar mejor usar el mínimo de referencias posible + el prompt.  \nSi se trata de una escena en la que no puedes imaginar una imagen concreta, también puede ser buena idea darle solo el esquema general de la secuencia y dejar que lo resuelva por sí mismo.\n\nEs irónico que, pudiendo usar hasta 50 referencias, la situación haya terminado así."
+    },
+    "fr": {
+      "content": "Réduisez les images de référence au strict minimum et générez surtout à partir du prompt : cela laisse généralement plus de liberté pour le style et la composition.  \nN’envoyez pas de références inutiles, comme des moodboards supplémentaires ou des documents de conception, afin d’éviter d’être trop contraint par les références.  \nPour les scènes dont l’image précise n’est pas encore bien définie, il vaut mieux ne fournir que le plan général du déroulement et laisser la mise en scène à Seedance 2.5.\n\n--- TWEET CITÉ ---\nJe pensais que Seedance 2.5 avait affaibli les capacités de direction, mais ce n’était pas du tout le cas. Au contraire, elles se sont améliorées. Même en laissant la mise en scène à l’outil, ça fonctionne tout à fait normalement.\n\nAlors, qu’est-ce qui gêne ? Les références.\nComme d’autres l’ont déjà dit, la force des références a augmenté, et s’il y a des moodboards ou des documents de conception superflus, on se retrouve tiré par eux, ce qui fait perdre en liberté au style comme à la composition.\n\nLe mieux, c’est souvent un minimum de références + un prompt.\nSi la scène ne permet pas d’avoir une image précise en tête, je pense qu’il peut aussi être judicieux de ne donner que le plan général du déroulement et de laisser faire.\n\nC’est ironique : on peut utiliser jusqu’à 50 références, et pourtant la situation devient contre-productive."
+    },
+    "ko": {
+      "content": "참조 이미지는 필요한 최소한의 개수로 줄이고, prompt 중심으로 생성하면 스타일과 구도의 자유도가 더 잘 나온다  \n불필요한 이미지 보드나 설정 자료처럼 참조에 끌려갈 만한 요소는 주지 않아, 참조에 지나치게 묶이는 것을 피한다  \n구체적인 이미지가 아직 잡히지 않은 장면은 전개 아웃라인만 전달하고 연출은 Seedance 2.5에 맡긴다\n\n--- QUOTED TWEET ---\nSeedance2.5가 디렉터 능력을 떨어뜨린 줄 알았는데 전혀 아니었다. 오히려 향상됐다. 연출을 맡겨도 그냥 잘 작동한다.\n\n그렇다면 무엇이 방해가 되는가 하면, 바로 참조다.\n다른 사람들도 말하듯 참조 강도가 올라가 버려서, 불필요한 이미지 보드나 설정 자료가 있으면 거기에 끌려 스타일도 구도도 자유도가 사라진다.\n\n최소한의 개수 + prompt 방식이 더 잘 통한다.\n구체적인 이미지를 떠올리기 어려운 장면이라면, 전개 아웃라인만 넘기고 맡겨버리는 것도 방법이라고 생각한다.\n\n참조를 50개나 쓸 수 있는데도, 아이러니한 상황이다.\n---"
+    },
+    "pt": {
+      "content": "Reduza as imagens de referência ao mínimo necessário e gere com foco no prompt; assim, fica mais fácil obter liberdade de estilo e composição.  \nNão forneça referências desnecessárias, como excessivos image boards ou materiais de setting, para evitar que o resultado fique excessivamente preso às referências.  \nEm cenas em que a imagem concreta ainda não está definida, basta passar apenas o outline da narrativa e deixar a direção por conta do Seedance 2.5.\n\n--- QUOTED TWEET ---\nEu achei que o Seedance 2.5 tivesse reduzido a capacidade de direção, mas não foi nada disso. Pelo contrário, ela melhorou. Mesmo deixando a direção por conta da ferramenta, ele funciona normalmente.\n\nEntão o que está atrapalhando? As referências.  \nComo outras pessoas também disseram, a força das referências aumentou, e, se houver image boards ou materiais de setting desnecessários, o modelo fica puxado por eles, perdendo liberdade tanto no estilo quanto na composição.\n\nO que tende a funcionar melhor é usar o mínimo de referências possível + um prompt bem feito.  \nSe for uma cena em que você não consegue visualizar uma imagem concreta, acho que também vale passar apenas o outline da sequência e deixar por conta da ferramenta.\n\nÉ irônico: mesmo podendo usar 50 referências, a situação acabou ficando assim."
+    },
+    "zh": {
+      "content": "将参考图像数量控制在最低限，更多依靠 prompt 生成，更容易获得风格和构图上的自由度  \n不要提供多余的 image board 或设定资料等无关参考，避免模型过度受参考内容牵引  \n对于具体画面还没定下来的场景，只给出剧情展开的 outline，把演出交给 Seedance 2.5 来处理\n\n--- QUOTED TWEET ---\n我原本以为 Seedance 2.5 会削弱导演能力，但完全不是这样。相反，它还提升了。即使把演出完全交给它，也能正常发挥作用。\n\n那到底是什么在干扰呢？答案是参考图。\n其他人也提到过，reference strength 变强了，如果有多余的 image board 或设定资料，就会被它们牵着走，导致风格和构图的自由度都被削弱。\n\n最少数量的参考图 + prompt，往往更容易成功。\n如果是还无法形成具体画面的场景，我觉得只把展开的 outline 交给它、直接放手也是一种办法。\n\n明明可以用 50 张参考图，结果却变成了这种讽刺的局面。"
+    }
+  }
+}

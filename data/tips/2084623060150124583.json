@@ -1,0 +1,42 @@
+{
+  "id": "2084623060150124583",
+  "title": "Use a full shooting script with timed beats and strict constraints instead of a…",
+  "content": "Use a full shooting script with timed beats and strict constraints instead of a normal prompt to improve Seedance 2.5 generations and reduce wasted credits.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084621558123728896/img/xHXW7LphrQO-Ypa2.jpg",
+  "videoUrl": "https://video.twimg.com/amplify_video/2084621558123728896/vid/avc1/3840x2160/dQzgBz61JPFJaWA7.mp4",
+  "sourceLink": "https://x.com/NEXUS_TO_NOVA/status/2084623060150124583",
+  "sourcePublishedAt": "2026-08-04",
+  "author": {
+    "name": "NΞXUS",
+    "link": "https://x.com/NEXUS_TO_NOVA"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a full shooting script with timed beats and strict constraints instead of a normal prompt to improve Seedance 2.5 generations and reduce wasted credits.",
+  "translations": {
+    "es": {
+      "content": "Usa un guion de rodaje completo con beats temporizados y restricciones estrictas en lugar de un prompt normal para mejorar las generaciones de Seedance 2.5 y reducir créditos desperdiciados."
+    },
+    "fr": {
+      "content": "Utilisez un script de tournage complet avec des beats minutés et des contraintes strictes plutôt qu’un prompt classique pour améliorer les générations Seedance 2.5 et réduire le gaspillage de crédits."
+    },
+    "ja": {
+      "content": "通常のプロンプトの代わりに、タイミングを指定したビートと厳密な制約を含む完全な撮影台本を使うことで、Seedance 2.5 の生成品質を向上させ、無駄なクレジットを減らせます。"
+    },
+    "ko": {
+      "content": "일반적인 프롬프트 대신, 타이밍이 지정된 비트와 엄격한 제약이 포함된 전체 촬영 스크립트를 사용하면 Seedance 2.5 생성 결과를 개선하고 불필요한 크레딧 낭비를 줄일 수 있습니다."
+    },
+    "pt": {
+      "content": "Use um roteiro de filmagem completo com beats cronometrados e restrições rígidas em vez de um prompt normal para melhorar as gerações do Seedance 2.5 e reduzir créditos desperdiçados."
+    },
+    "zh": {
+      "content": "使用完整的拍摄脚本，包含时间节拍和严格限制，而不是普通 prompt，以提升 Seedance 2.5 的生成效果并减少浪费的 credits。"
+    }
+  }
+}

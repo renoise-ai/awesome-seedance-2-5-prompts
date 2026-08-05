@@ -1,0 +1,42 @@
+{
+  "id": "2084632640435400772",
+  "title": "Split a longer music video into multiple Seedance 2.5 generations (e.g., mix…",
+  "content": "Split a longer music video into multiple Seedance 2.5 generations (e.g., mix 15‑second and ~8‑second clips) and assemble them in editing.\n\nIf Seedance flags generations that include vocals, try generating with instrumental-only audio to avoid community-guideline rejections.\n\nBefore generating, build a consistent reference pack (main character, supporting characters, outfits, instruments, and a defined visual universe) to significantly improve character/style consistency across clips.",
+  "language": "es",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084632202071957504/img/F3Uwu9B3A5Iqwmpp.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084632640435400772.mp4",
+  "sourceLink": "https://x.com/postandfly/status/2084632640435400772",
+  "sourcePublishedAt": "2026-08-04",
+  "author": {
+    "name": "Tarsicio Sañudo - Postandfly",
+    "link": "https://x.com/postandfly"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Split a longer music video into multiple Seedance 2.5 generations (e.g., mix 15‑second and ~8‑second clips) and assemble them in editing.\n\nIf Seedance flags generations that include vocals, try generating with instrumental-only audio to avoid community-guideline rejections.\n\nBefore generating, build a consistent reference pack (main character, supporting characters, outfits, instruments, and a defined visual universe) to significantly improve character/style consistency across clips.",
+  "translations": {
+    "en": {
+      "content": "Split a longer music video into multiple Seedance 2.5 generations (e.g., mix 15-second and ~8-second clips) and assemble them in editing.\n\nIf Seedance flags generations that include vocals, try generating with instrumental-only audio to avoid community-guideline rejections.\n\nBefore generating, build a consistent reference pack (main character, supporting characters, outfits, instruments, and a defined visual universe) to significantly improve character/style consistency across clips."
+    },
+    "fr": {
+      "content": "Divisez un clip musical plus long en plusieurs générations Seedance 2.5 (par exemple, en combinant des clips de 15 secondes et d’environ 8 secondes), puis assemblez-les au montage.\n\nSi Seedance signale des générations qui incluent des voix, essayez de générer avec un audio instrumental uniquement afin d’éviter les refus liés aux règles de la communauté.\n\nAvant de générer, constituez un pack de référence cohérent (personnage principal, personnages secondaires, tenues, instruments et univers visuel défini) afin d’améliorer considérablement la cohérence des personnages et du style d’un clip à l’autre."
+    },
+    "ja": {
+      "content": "長めのミュージックビデオは、複数の Seedance 2.5 の生成に分割し（例：15秒クリップと約8秒クリップを組み合わせる）、編集でつなぎ合わせます。\n\nSeedance がボーカルを含む生成をフラグ付けする場合は、コミュニティガイドラインによる拒否を避けるため、インストゥルメンタルのみの音声で生成してみてください。\n\n生成前に、統一された reference pack（メインキャラクター、サブキャラクター、衣装、楽器、そして明確に定義されたビジュアル世界観）を用意すると、クリップ間でのキャラクター／スタイルの一貫性が大幅に向上します。"
+    },
+    "ko": {
+      "content": "긴 뮤직비디오를 여러 개의 Seedance 2.5 생성본으로 나누어(예: 15초 클립과 약 8초 클립을 섞어 사용) 편집 단계에서 조합하세요.\n\nSeedance가 보컬이 포함된 생성물을 플래그 처리한다면, 커뮤니티 가이드라인 거부를 피하기 위해 기악만 포함된 오디오로 생성해 보세요.\n\n생성하기 전에, 일관된 레퍼런스 팩(주요 캐릭터, 보조 캐릭터, 의상, 악기, 그리고 정의된 비주얼 유니버스)을 구성하면 클립 간 캐릭터/스타일 일관성을 크게 향상시킬 수 있습니다."
+    },
+    "pt": {
+      "content": "Divida um videoclipe mais longo em várias gerações do Seedance 2.5 (por exemplo, misture clipes de 15 segundos e de ~8 segundos) e depois os monte na edição.\n\nSe o Seedance sinalizar gerações que incluam vocais, tente gerar com áudio apenas instrumental para evitar rejeições por diretrizes da comunidade.\n\nAntes de gerar, monte um pacote de referência consistente (personagem principal, personagens secundários, figurinos, instrumentos e um universo visual definido) para melhorar significativamente a consistência de personagem/estilo entre os clipes."
+    },
+    "zh": {
+      "content": "将一支较长的音乐视频拆分为多个 Seedance 2.5 生成片段（例如混合 15 秒和约 8 秒的片段），再在剪辑中将它们拼接起来。\n\n如果 Seedance 对包含人声的生成内容进行标记，尝试使用纯器乐音频进行生成，以避免因社区准则而被拒绝。\n\n在生成之前，先建立一套一致的参考素材包（主角、配角、服装、乐器，以及明确的视觉宇宙），以显著提升各个片段之间角色/风格的一致性。"
+    }
+  }
+}

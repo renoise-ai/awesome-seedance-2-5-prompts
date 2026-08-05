@@ -1,0 +1,42 @@
+{
+  "id": "2084709441245413715",
+  "title": "Use Seedance 2.5 Motion Control with two inputs—raw phone footage to drive…",
+  "content": "Use Seedance 2.5 Motion Control with two inputs—raw phone footage to drive motion/camera/timing and a single reference image to drive makeup/lighting/grain/color—to transfer a specific film look onto the footage.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084709225662386176/img/yoQKnPpqA74mnIiU.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084709441245413715.mp4",
+  "sourceLink": "https://x.com/emrefiratyildiz/status/2084709441245413715",
+  "sourcePublishedAt": "2026-08-04",
+  "author": {
+    "name": "firatyildiz",
+    "link": "https://x.com/emrefiratyildiz"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 Motion Control with two inputs—raw phone footage to drive motion/camera/timing and a single reference image to drive makeup/lighting/grain/color—to transfer a specific film look onto the footage.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 Motion Control con dos entradas: metraje bruto de teléfono para controlar el movimiento, la cámara y el timing, y una sola imagen de referencia para controlar el maquillaje, la iluminación, el grano y el color, con el fin de transferir un look cinematográfico específico al metraje."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 Motion Control avec deux entrées — des images brutes filmées au téléphone pour piloter le mouvement, la caméra et le timing, et une seule image de référence pour piloter le maquillage, l’éclairage, le grain et la couleur — afin de transférer un look cinématographique spécifique sur les images."
+    },
+    "ja": {
+      "content": "Seedance 2.5 Motion Control を、2つの入力——モーション／カメラ／タイミングを制御するための生のスマホ映像と、メイク／ライティング／粒子感／カラーを制御するための1枚の参照画像——と組み合わせて使用し、特定の映画的なルックを映像に転写します。"
+    },
+    "ko": {
+      "content": "Seedance 2.5 Motion Control을 두 가지 입력과 함께 사용하세요. 즉, 움직임/카메라/타이밍을 구동하는 원본 휴대폰 영상과, 메이크업/조명/그레인/색감을 구동하는 단일 레퍼런스 이미지를 활용해, 특정한 영화적 룩을 해당 영상에 적용할 수 있습니다."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 Motion Control com duas entradas — filmagem bruta de celular para controlar movimento/câmera/timing e uma única imagem de referência para controlar maquiagem/iluminação/grão/cor — para transferir um visual cinematográfico específico para a filmagem."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 Motion Control，结合两个输入——用于驱动运动/镜头/节奏的原始手机素材，以及用于驱动妆容/光照/颗粒感/色彩的单张参考图像——将特定的电影风格迁移到这段素材上。"
+    }
+  }
+}

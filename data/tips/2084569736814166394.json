@@ -1,0 +1,42 @@
+{
+  "id": "2084569736814166394",
+  "title": "Use a prompt-to-image workflow with Seedance 2.5 by prompting: A horizontal…",
+  "content": "Use a prompt-to-image workflow with Seedance 2.5 by prompting: A horizontal cinematic film strip divided into 9 distinct panels in a single row, telling a story of a camel caravan",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Caden_Flux/status/2084569736814166394",
+  "sourcePublishedAt": "2026-08-04",
+  "author": {
+    "name": "Caden Flux",
+    "link": "https://x.com/Caden_Flux"
+  },
+  "tags": [
+    "Animals",
+    "Wildlife",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use a prompt-to-image workflow with Seedance 2.5 by prompting: A horizontal cinematic film strip divided into 9 distinct panels in a single row, telling a story of a camel caravan",
+  "translations": {
+    "es": {
+      "content": "Usa un flujo de trabajo de prompt a imagen con Seedance 2.5 mediante el siguiente prompt: Una tira de película cinematográfica horizontal dividida en 9 paneles distintos en una sola fila, que cuenta la historia de una caravana de camellos"
+    },
+    "fr": {
+      "content": "Utilisez un workflow prompt-to-image avec Seedance 2.5 en indiquant : Une bande de film cinématographique horizontale, divisée en 9 panneaux distincts sur une seule rangée, racontant l’histoire d’une caravane de chameaux"
+    },
+    "ja": {
+      "content": "Seedance 2.5 では、prompt-to-image のワークフローを使い、次のようにプロンプトを入力します: 横長の cinematic なフィルムストリップが1列に9つの異なるパネルに分かれ、ラクダのキャラバンの物語を描いている。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 prompt-to-image 워크플로를 사용해 다음과 같이 프롬프트를 입력하세요: 한 줄로 9개의 서로 다른 패널로 나뉜 가로형 cinematic 필름 스트립, 낙타 행렬의 이야기를 담은 구성"
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho de prompt-to-image com o Seedance 2.5, usando o prompt: Uma faixa cinematográfica horizontal dividida em 9 painéis distintos em uma única linha, contando a história de uma caravana de camelos"
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 的 prompt-to-image 工作流，输入提示词：一条横向的 cinematic 胶片条，被分成 9 个独立画面，单排排列，讲述一支骆驼商队的故事"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2084599525264560302",
+  "title": "Add teleportation effects to your prompt to generate a teleportation-style…",
+  "content": "Add teleportation effects to your prompt to generate a teleportation-style effect in Seedance (works in Seedance 2.5 and Seedance 2.0).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084599362676494336/img/YluHq1iGqwJHvIP-.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084599525264560302.mp4",
+  "sourceLink": "https://x.com/patrickassale/status/2084599525264560302",
+  "sourcePublishedAt": "2026-08-04",
+  "author": {
+    "name": "Patrick",
+    "link": "https://x.com/patrickassale"
+  },
+  "tags": [
+    "Action",
+    "Superpower",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Add teleportation effects to your prompt to generate a teleportation-style effect in Seedance (works in Seedance 2.5 and Seedance 2.0).",
+  "translations": {
+    "es": {
+      "content": "Añade efectos de teletransporte a tu prompt para generar un efecto de estilo teletransporte en Seedance (funciona en Seedance 2.5 y Seedance 2.0)."
+    },
+    "fr": {
+      "content": "Ajoutez des effets de téléportation à votre prompt pour générer un effet de style téléportation dans Seedance (fonctionne dans Seedance 2.5 et Seedance 2.0)."
+    },
+    "ja": {
+      "content": "Seedanceでテレポーテーション風のエフェクトを生成するには、promptにテレポーテーション効果を追加してください（Seedance 2.5およびSeedance 2.0で動作します）。"
+    },
+    "ko": {
+      "content": "프롬프트에 텔레포테이션 효과를 추가하여 Seedance에서 텔레포테이션 스타일의 효과를 생성하세요(Seedance 2.5 및 Seedance 2.0에서 작동합니다)."
+    },
+    "pt": {
+      "content": "Adicione efeitos de teletransporte ao seu prompt para gerar um efeito no estilo de teletransporte no Seedance (funciona no Seedance 2.5 e no Seedance 2.0)."
+    },
+    "zh": {
+      "content": "在你的 prompt 中添加传送效果，即可在 Seedance 中生成传送风格的效果（适用于 Seedance 2.5 和 Seedance 2.0）。"
+    }
+  }
+}

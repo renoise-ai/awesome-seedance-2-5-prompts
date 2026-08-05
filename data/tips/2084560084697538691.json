@@ -1,0 +1,43 @@
+{
+  "id": "2084560084697538691",
+  "title": "Use Seedream to generate a character sheet first to keep the main character…",
+  "content": "Use Seedream to generate a character sheet first to keep the main character visually consistent across every frame.  \nUse Seedream to build a storyboard sheet to lock shot order and pacing before generating any video.  \nGenerate the sound bed (wind, impact hits, ambient tone) with SeedAudio before video generation.  \nFeed the character sheet, storyboard sheet, and SeedAudio output into Seedance 2.5 to generate a single 30-second shot with no stitching.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084559886348935168/img/t0KLYPMtAhVx6x1s.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084560084697538691.mp4",
+  "sourceLink": "https://x.com/atulkumarzz/status/2084560084697538691",
+  "sourcePublishedAt": "2026-08-04",
+  "author": {
+    "name": "Atul Kumar",
+    "link": "https://x.com/atulkumarzz"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use Seedream to generate a character sheet first to keep the main character visually consistent across every frame.  \nUse Seedream to build a storyboard sheet to lock shot order and pacing before generating any video.  \nGenerate the sound bed (wind, impact hits, ambient tone) with SeedAudio before video generation.  \nFeed the character sheet, storyboard sheet, and SeedAudio output into Seedance 2.5 to generate a single 30-second shot with no stitching.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedream para generar primero una hoja de personaje y mantener al personaje principal visualmente consistente en cada frame.  \nUsa Seedream para crear una hoja de storyboard y fijar el orden de los planos y el ritmo antes de generar cualquier video.  \nGenera la base sonora (viento, golpes de impacto, tono ambiental) con SeedAudio antes de la generación del video.  \nIntroduce la hoja de personaje, la hoja de storyboard y la salida de SeedAudio en Seedance 2.5 para generar un único plano de 30 segundos sin stitching."
+    },
+    "fr": {
+      "content": "Utilisez Seedream pour générer d’abord une character sheet afin de conserver une cohérence visuelle du personnage principal dans chaque frame.  \nUtilisez Seedream pour créer une storyboard sheet afin de verrouiller l’ordre des plans et le rythme avant de générer la moindre vidéo.  \nGénérez la sound bed (vent, impacts, ambiance) avec SeedAudio avant la génération vidéo.  \nIntégrez la character sheet, la storyboard sheet et la sortie de SeedAudio dans Seedance 2.5 pour générer un seul plan de 30 secondes, sans assemblage."
+    },
+    "ja": {
+      "content": "まずSeedreamを使ってキャラクターシートを生成し、各フレームを通して主人公の見た目を一貫させます。  \n次にSeedreamでストーリーボードシートを作成し、動画を生成する前にショット順とテンポを固定します。  \n動画生成の前に、SeedAudioでサウンドベッド（風、衝撃音、アンビエントトーン）を生成します。  \nキャラクターシート、ストーリーボードシート、そしてSeedAudioの出力をSeedance 2.5に入力し、つなぎなしの30秒の単一ショットを生成します。"
+    },
+    "ko": {
+      "content": "먼저 Seedream을 사용해 캐릭터 시트를 생성하여, 모든 프레임에서 주인공의 비주얼 일관성을 유지하세요.  \n영상 생성 전에 Seedream으로 스토리보드 시트를 만들어 샷 순서와 페이싱을 고정하세요.  \n영상 생성 전에 SeedAudio로 사운드 베드(바람, 충격음, 앰비언트 톤)를 생성하세요.  \n캐릭터 시트, 스토리보드 시트, 그리고 SeedAudio 출력물을 Seedance 2.5에 입력해, 이어붙임 없이 하나의 30초 샷을 생성하세요."
+    },
+    "pt": {
+      "content": "Use o Seedream para gerar primeiro uma character sheet e manter o personagem principal visualmente consistente em todos os frames.  \nUse o Seedream para criar uma storyboard sheet e travar a ordem dos planos e o ritmo antes de gerar qualquer vídeo.  \nGere a base sonora (vento, impactos, tom ambiente) com o SeedAudio antes da geração do vídeo.  \nAlimente a character sheet, a storyboard sheet e a saída do SeedAudio no Seedance 2.5 para gerar um único plano de 30 segundos, sem emendas."
+    },
+    "zh": {
+      "content": "先使用 Seedream 生成角色设定表，以确保主角在每一帧中都保持视觉一致。  \n再使用 Seedream 制作分镜表，在生成任何视频之前先锁定镜头顺序和节奏。  \n在视频生成前，先用 SeedAudio 生成声音底床（风声、撞击声、环境氛围音）。  \n将角色设定表、分镜表以及 SeedAudio 的输出输入到 Seedance 2.5 中，生成一个无拼接的 30 秒单镜头。"
+    }
+  }
+}

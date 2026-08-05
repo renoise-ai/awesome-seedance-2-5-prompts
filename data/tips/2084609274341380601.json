@@ -1,0 +1,42 @@
+{
+  "id": "2084609274341380601",
+  "title": "クローン音声を作るなら、自分の音声リファレンスを約30秒用意してSeedance 2.5に参照させる",
+  "content": "クローン音声を作るなら、自分の音声リファレンスを約30秒用意してSeedance 2.5に参照させる  \nクローン作成時の画像は自撮りでもAI生成画像でも使える  \n日本語音声の誤読を減らすため、漢字のままだと読み推測が必要な語（地名・外来語・数値読みなど）はセリフをひらがな/カナ表記（例：きりゅう市、だいや）にして漢字→読み変換をさせない",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084609240992526336/img/S87kA5cFAo_ZVy0l.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084609274341380601.mp4",
+  "sourceLink": "https://x.com/onofumi_AI/status/2084609274341380601",
+  "sourcePublishedAt": "2026-08-04",
+  "author": {
+    "name": "おのふみ| AIクリエーター×個人開発",
+    "link": "https://x.com/onofumi_AI"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "クローン音声を作るなら、自分の音声リファレンスを約30秒用意してSeedance 2.5に参照させる  \nクローン作成時の画像は自撮りでもAI生成画像でも使える  \n日本語音声の誤読を減らすため、漢字のままだと読み推測が必要な語（地名・外来語・数値読みなど）はセリフをひらがな/カナ表記（例：きりゅう市、だいや）にして漢字→読み変換をさせない",
+  "translations": {
+    "en": {
+      "content": "If you’re creating a cloned voice, prepare about 30 seconds of your own voice reference and have Seedance 2.5 use it as a reference.  \nFor the image used when creating the clone, you can use either a selfie or an AI-generated image.  \nTo reduce misreading in Japanese speech, for words that require reading inference when left in kanji—such as place names, loanwords, and numeric readings—write the dialogue in hiragana/katakana notation (e.g., きりゅう市, だいや) so it doesn’t have to convert kanji to reading.\n\n--- QUOTED TWEET ---\nI tested Seedance 2.5’s Japanese speech.\n\nAs a result of having a female news anchor read a 23-second news script, all 6 lines of dialogue were delivered without omissions and with zero retakes.\n\n✅ Only 3 parts broke down:\n・桐生市 → an unintelligible misreading\n・ダイヤ → “だいび”\n・39度2分 → “にふん” (correctly, it should be “にぶ”)\n\nMeanwhile, “気象庁,” “日中,” “観測史上,” and “午後3時15分” were all correct.\n\nThe common pattern is clear: only words that require reading inference from kanji fail. It’s not that Japanese itself is weak; only the kanji-to-reading conversion is weak.\n\nSo the fix is simple. Write the dialogue in kana, like “きりゅう市” and “だいや,” so it doesn’t have to perform the conversion.\n\n✅ Among video generation tools, it has the fewest Japanese breakdowns."
+    },
+    "es": {
+      "content": "Si vas a crear una voz clonada, prepara unos 30 segundos de referencia de tu propia voz y haz que Seedance 2.5 la tome como referencia.  \nLas imágenes para la clonación pueden ser tanto selfies como imágenes generadas por IA.  \nPara reducir las lecturas erróneas en voz japonesa, las palabras que requieren inferir la pronunciación si se dejan en kanji —como nombres de lugares, préstamos lingüísticos o la lectura de números— conviene escribirlas en hiragana/katakana en los diálogos (por ejemplo: きりゅう市, だいや), para evitar que haga la conversión de kanji a lectura.\n\n--- QUOTED TWEET ---\nHe probado la voz japonesa de Seedance 2.5.\n\nAl hacer que una presentadora leyera un guion de noticias de 23 segundos, las 6 líneas de diálogo se mantuvieron sin omisiones y sin ninguna corrección,\n\n✅Solo se descompuso en 3 puntos\n・桐生市 → lectura errónea ininteligible\n・ダイヤ → 「だいび」\n・39度2分 → 「にふん」 (correcto: 「にぶ」)\n\nEn cambio, 「気象庁」, 「日中」, 「観測史上」 y 「午後3時15分」 salieron todos correctos.\n\nEl patrón es claro: solo fallan las palabras cuya lectura hay que inferir a partir de los kanji. No es que el japonés sea débil; lo único débil es la conversión de kanji a lectura.\n\nAsí que la solución es simple: escribir los diálogos en kana, como 「きりゅう市」 o 「だいや」, y evitar que haga la conversión.\n\n✅Entre las herramientas de generación de video, es la que menos rompe el japonés.\n---"
+    },
+    "fr": {
+      "content": "Si vous voulez créer une voix clonée, préparez environ 30 secondes de votre propre référence vocale et faites-la référencer par Seedance 2.5  \nLes images utilisées lors de la création du clone peuvent être des selfies ou des images générées par IA  \nPour réduire les erreurs de lecture dans la voix japonaise, pour les mots dont la lecture doit être devinée à partir des kanji tels quels (noms de lieux, mots étrangers, lecture des nombres, etc.), écrivez les répliques en hiragana/katakana (ex. : きりゅう市, だいや) afin d’éviter la conversion kanji → lecture\n\n--- QUOTED TWEET ---\nJ’ai testé la voix japonaise de Seedance 2.5.\n\nEn faisant lire à une présentatrice une brève de 23 secondes, les 6 lignes de répliques sont toutes passées sans omission, sans aucune reprise,\n\n✅Seulement 3 passages se sont dégradés\n・桐生市 → mauvaise lecture inaudible\n・ダイヤ → « だいび »\n・39度2分 → « にふん » (correctement : « にぶ »)\n\nEn revanche, « 気象庁 », « 日中 », « 観測史上 » et « 午後3時15分 » étaient tous corrects.\n\nLe point commun est clair : seuls les mots dont il faut deviner la lecture à partir des kanji échouent. Ce n’est pas que le japonais soit faible, c’est uniquement la conversion kanji → lecture qui l’est.\n\nLa solution est donc simple. Écrivez les répliques en notation kana, comme « きりゅう市 » et « だいや », pour éviter la conversion.\n\n✅Parmi les outils de génération vidéo, c’est celui qui présente le moins de dégradation du japonais.\n---"
+    },
+    "ko": {
+      "content": "클론 음성을 만들려면, 자신의 음성 레퍼런스를 약 30초 정도 준비해 Seedance 2.5에 참조시키면 된다  \n클론 생성 시 사용할 이미지는 셀카든 AI 생성 이미지든 모두 사용할 수 있다  \n일본어 음성의 오독을 줄이기 위해, 한자 그대로 두면 읽기를 추측해야 하는 단어(지명·외래어·숫자 읽기 등)는 대사를 히라가나/가타카나 표기(예: きりゅう市, だいや)로 바꿔 한자→읽기 변환을 시키지 않는다\n\n--- QUOTED TWEET ---\nSeedance 2.5의 일본어 음성을 검증했다.\n\n여성 캐스터에게 23초짜리 뉴스 원고를 읽게 한 결과, 대사 6줄 전부 탈락 없이, 다시 말하기도 0회,\n\n✅3곳만 무너졌다\n・桐生市 → 알아들을 수 없는 오독\n・ダイヤ → 「だいび」\n・39度2分 → 「にふん」（정확히는 「にぶ」）\n\n반면 「気象庁」「日中」「観測史上」「午後3時15分」은 모두 정확했다.\n\n공통점은 분명하다. 한자에서 읽기를 추측해야 하는 단어만 틀린다. 일본어가 약한 게 아니라, 한자→읽기 변환만 약한 것이다.\n\n그렇다면 대책은 단순하다. 대사를 「きりゅう市」「だいや」처럼 가나 표기로 써서 변환을 시키지 않으면 된다.\n\n✅영상 생성 도구 중 일본어의 붕괴가 가장 적다.\n---"
+    },
+    "pt": {
+      "content": "Se você for criar voz clonada, prepare cerca de 30 segundos da sua própria referência de voz e faça o Seedance 2.5 usá-la como referência.  \nAs imagens para a criação do clone podem ser tanto selfies quanto imagens geradas por IA.  \nPara reduzir leituras incorretas na voz em japonês, palavras que exigem inferência de leitura quando ficam em kanji — como nomes de lugares, palavras estrangeiras e leituras de números — devem ser escritas em hiragana/katakana no diálogo (ex.: きりゅう市, だいや), para evitar a conversão de kanji para leitura.\n\n--- QUOTED TWEET ---\nTestei a voz em japonês do Seedance 2.5.\n\nAo fazer uma apresentadora ler um roteiro de notícias de 23 segundos, todas as 6 linhas de fala foram mantidas sem cortes, sem nenhuma repetição,\n\n✅ Só 3 trechos ficaram distorcidos\n・桐生市 → leitura incorreta e ininteligível\n・ダイヤ → “だいび”\n・39度2分 → “にふん” (o correto é “にぶ”)\n\nPor outro lado, “気象庁”, “日中”, “観測史上” e “午後3時15分” saíram todos corretos.\n\nO ponto em comum é claro: só falha nas palavras em que é preciso inferir a leitura a partir dos kanji. Não é que o japonês seja fraco; o que é fraco é apenas a conversão de kanji → leitura.\n\nEntão a solução é simples. Escreva o diálogo em kana, como “きりゅう市” e “だいや”, para não deixar a conversão acontecer.\n\n✅ Entre as ferramentas de geração de vídeo, é a que menos apresenta quebras no japonês.\n---"
+    },
+    "zh": {
+      "content": "如果要制作克隆音声，先准备约30秒的自己的音频参考，让 Seedance 2.5 进行参照  \n克隆制作时使用的图片，自拍照或 AI 生成图都可以  \n为了减少日语语音的误读，像地名、外来语、数值读法等这类需要从汉字推测读音的词，最好把台词改写成平假名/片假名表记（例如：きりゅう市、だいや），避免让系统进行汉字→读音转换\n\n--- QUOTED TWEET ---\n我验证了 Seedance 2.5 的日语语音。\n\n让女性主播朗读一段 23 秒的新闻稿后，6 行台词全部无遗漏、没有任何重读，\n\n✅ 只有 3 处出错\n・桐生市 → 听不清的误读\n・ダイヤ → “だいび”\n・39度2分 → “にふん”（正确应为“にぶ”）\n\n另一方面，“気象庁”“日中”“観測史上”“午後3時15分”全部正确。\n\n共同点很明确：只有那些必须从汉字推测读音的词会出错。不是日语本身弱，而是只有汉字→读音转换这一步较弱。\n\n那么对策就很简单。把台词写成“きりゅう市”“だいや”这样的假名表记，不让它去转换。\n\n✅ 在视频生成工具中，日语崩坏最少。"
+    }
+  }
+}

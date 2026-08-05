@@ -1,0 +1,42 @@
+{
+  "id": "2084787832141533419",
+  "title": "Map recurring locations and outfits to short tokens in your prompt (e.g…",
+  "content": "Map recurring locations and outfits to short tokens in your prompt (e.g., Location mapping: (details) -> LOC01; Wardrobe mapping: (details) -> EV01/RS01) and then reference those tokens in each shot line to keep continuity across jump cuts.  \nUse a structured shot syntax like [CAM] WS, low-angle inside LOC01 -> [ACT] EVAN wearing EV01 -> ... to clearly separate camera, location, and wardrobe per edit.  \nDefine wardrobe tokens from image references when needed (e.g., Wardrobe mapping: @[image1] as EV01; @[image2] as RS01) to lock outfits without lengthy text descriptions.  \nSave character limit by using compact mapping notation and ellipses (... -> ...) instead of verbose definitions like \"@[image1] defined as ...\" when repeating mapped elements.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084782284440489984/img/W2e_34tVW0IfQogP.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084787832141533419.mp4",
+  "sourceLink": "https://x.com/tarumainfo/status/2084787832141533419",
+  "sourcePublishedAt": "2026-08-04",
+  "author": {
+    "name": "taruma sakti",
+    "link": "https://x.com/tarumainfo"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Map recurring locations and outfits to short tokens in your prompt (e.g., Location mapping: (details) -> LOC01; Wardrobe mapping: (details) -> EV01/RS01) and then reference those tokens in each shot line to keep continuity across jump cuts.  \nUse a structured shot syntax like [CAM] WS, low-angle inside LOC01 -> [ACT] EVAN wearing EV01 -> ... to clearly separate camera, location, and wardrobe per edit.  \nDefine wardrobe tokens from image references when needed (e.g., Wardrobe mapping: @[image1] as EV01; @[image2] as RS01) to lock outfits without lengthy text descriptions.  \nSave character limit by using compact mapping notation and ellipses (... -> ...) instead of verbose definitions like \"@[image1] defined as ...\" when repeating mapped elements.",
+  "translations": {
+    "es": {
+      "content": "Mapea las ubicaciones y los outfits recurrentes a tokens cortos en tu prompt (por ejemplo, Location mapping: (details) -> LOC01; Wardrobe mapping: (details) -> EV01/RS01) y luego referencia esos tokens en cada línea de plano para mantener la continuidad entre jump cuts.  \nUsa una sintaxis estructurada de planos como [CAM] WS, low-angle inside LOC01 -> [ACT] EVAN wearing EV01 -> ... para separar claramente cámara, ubicación y vestuario en cada edición.  \nDefine los tokens de vestuario a partir de referencias de imagen cuando sea necesario (por ejemplo, Wardrobe mapping: @[image1] as EV01; @[image2] as RS01) para fijar los outfits sin descripciones largas.  \nAhorra caracteres usando una notación de mapeo compacta y puntos suspensivos (... -> ...) en lugar de definiciones verbosas como \"@[image1] defined as ...\" cuando repitas elementos mapeados.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Here's a complete full script: https://t.co/qRi1jpSOVq\n---"
+    },
+    "fr": {
+      "content": "Mappez les lieux récurrents et les tenues en de courts tokens dans votre prompt (par ex. : Location mapping : (details) -> LOC01 ; Wardrobe mapping : (details) -> EV01/RS01), puis référez-vous à ces tokens dans chaque ligne de plan pour maintenir la continuité à travers les jump cuts.  \nUtilisez une syntaxe de plan structurée comme [CAM] WS, low-angle inside LOC01 -> [ACT] EVAN wearing EV01 -> ... pour séparer clairement la caméra, le lieu et la tenue à chaque montage.  \nDéfinissez les tokens de tenue à partir de références d’images lorsque c’est nécessaire (par ex. : Wardrobe mapping : @[image1] as EV01 ; @[image2] as RS01) afin de verrouiller les tenues sans longues descriptions textuelles.  \nGagnez de la place dans la limite de caractères en utilisant une notation de mapping compacte et des ellipses (... -> ...) plutôt que des définitions verbeuses comme \"@[image1] defined as ...\" lorsque des éléments mappés se répètent.\n\n--- CONTINUATION DU FIL ---\n[Thread 1] Voici un script complet : https://t.co/qRi1jpSOVq\n---"
+    },
+    "ja": {
+      "content": "プロンプト内で、繰り返し登場するロケーションや衣装を短いトークンにマッピングします（例: Location mapping: (details) -> LOC01; Wardrobe mapping: (details) -> EV01/RS01）。そのうえで、各ショット行でそれらのトークンを参照し、ジャンプカットをまたいでも一貫性を保ちます。  \n[CAM] WS, low-angle inside LOC01 -> [ACT] EVAN wearing EV01 -> ... のような構造化された shot syntax を使うと、編集ごとに camera、location、wardrobe を明確に分けられます。  \n必要に応じて、画像参照から wardrobe token を定義します（例: Wardrobe mapping: @[image1] as EV01; @[image2] as RS01）。これにより、長いテキスト説明なしで衣装を固定できます。  \n繰り返し使うマッピング要素については、冗長な \"@[image1] defined as ...\" のような定義ではなく、コンパクトな mapping notation と省略記号（... -> ...）を使うことで、文字数を節約できます。\n\n--- THREAD CONTINUATION ---\n[Thread 1] こちらに完全版のフルスクリプトがあります: https://t.co/qRi1jpSOVq\n---"
+    },
+    "ko": {
+      "content": "반복되는 장소와 의상을 프롬프트에서 짧은 토큰으로 매핑하세요. 예: Location mapping: (details) -> LOC01; Wardrobe mapping: (details) -> EV01/RS01. 그런 다음 각 샷 라인에서 그 토큰을 참조해 점프 컷 전반의 연속성을 유지합니다.  \n[CAM] WS, low-angle inside LOC01 -> [ACT] EVAN wearing EV01 -> ...처럼 구조화된 shot syntax를 사용해 편집마다 camera, location, wardrobe를 명확히 구분하세요.  \n필요할 때는 image reference를 바탕으로 wardrobe 토큰을 정의하세요. 예: Wardrobe mapping: @[image1] as EV01; @[image2] as RS01. 이렇게 하면 긴 텍스트 설명 없이도 의상을 고정할 수 있습니다.  \n반복되는 요소를 매핑할 때는 \"@[image1] defined as ...\"처럼 장황한 정의 대신, 간결한 mapping notation과 ellipses (... -> ...)를 사용해 character limit을 절약하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 전체 스크립트는 여기 있습니다: https://t.co/qRi1jpSOVq\n---"
+    },
+    "pt": {
+      "content": "Mapeie locais e figurinos recorrentes em tokens curtos no seu prompt (por exemplo, mapeamento de local: (detalhes) -> LOC01; mapeamento de figurino: (detalhes) -> EV01/RS01) e depois referencie esses tokens em cada linha de cena para manter a continuidade entre jump cuts.  \nUse uma sintaxe estruturada de cena, como [CAM] WS, low-angle inside LOC01 -> [ACT] EVAN wearing EV01 -> ... para separar claramente câmera, local e figurino em cada corte.  \nDefina tokens de figurino a partir de referências de imagem quando necessário (por exemplo, mapeamento de figurino: @[image1] como EV01; @[image2] como RS01) para fixar os looks sem descrições textuais longas.  \nEconomize caracteres usando uma notação compacta de mapeamento e reticências (... -> ...) em vez de definições verbosas como \"@[image1] definido como ...\" ao repetir elementos mapeados.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Aqui está um roteiro completo: https://t.co/qRi1jpSOVq\n---"
+    },
+    "zh": {
+      "content": "将重复出现的地点和服装映射为提示词中的简短 token（例如：地点映射：(details) -> LOC01；服装映射：(details) -> EV01/RS01），然后在每个镜头行中引用这些 token，以在跳切之间保持连贯性。  \n使用结构化的镜头语法，例如 [CAM] WS, low-angle inside LOC01 -> [ACT] EVAN wearing EV01 -> ...，以便在每次剪辑中清晰地区分 camera、location 和 wardrobe。  \n在需要时，可根据图像参考定义服装 token（例如：服装映射：@[image1] as EV01；@[image2] as RS01），以在不使用冗长文字描述的情况下锁定服装。  \n通过使用紧凑的映射标记和省略号（... -> ...）来节省字符数，而不是在重复映射元素时使用诸如 \"@[image1] defined as ...\" 之类冗长的定义。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 这里有一份完整的完整脚本：https://t.co/qRi1jpSOVq\n---"
+    }
+  }
+}

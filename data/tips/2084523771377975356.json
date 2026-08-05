@@ -1,0 +1,42 @@
+{
+  "id": "2084523771377975356",
+  "title": "Seedance 2.5の日本語音声品質を検証する際は、女性キャスターに約23秒のニュース原稿を読ませ、全セリフが脱落しないか・言い直しが発生しないかをチェック…",
+  "content": "Seedance 2.5の日本語音声品質を検証する際は、女性キャスターに約23秒のニュース原稿を読ませ、全セリフが脱落しないか・言い直しが発生しないかをチェックする  \n固有名詞（例：桐生市）やカタカナ語（例：ダイヤ）、数値＋単位表現（例：39度2分）の読みが崩れやすいので、これらを含む原稿で誤読が出ないか重点的にテストする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084523697835323392/img/QYjFYubys6jaiFAF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084523771377975356.mp4",
+  "sourceLink": "https://x.com/onofumi_AI/status/2084523771377975356",
+  "sourcePublishedAt": "2026-08-04",
+  "author": {
+    "name": "おのふみ| AIクリエーター×個人開発",
+    "link": "https://x.com/onofumi_AI"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5の日本語音声品質を検証する際は、女性キャスターに約23秒のニュース原稿を読ませ、全セリフが脱落しないか・言い直しが発生しないかをチェックする  \n固有名詞（例：桐生市）やカタカナ語（例：ダイヤ）、数値＋単位表現（例：39度2分）の読みが崩れやすいので、これらを含む原稿で誤読が出ないか重点的にテストする",
+  "translations": {
+    "en": {
+      "content": "When verifying the Japanese voice quality of Seedance 2.5, have a female news anchor read a news script of about 23 seconds, and check whether any lines are omitted or whether any rephrasing occurs.  \nProper nouns (e.g., Kiryu City), katakana words (e.g., diamond), and numeric + unit expressions (e.g., 39 degrees 2 minutes) are especially prone to misreading, so test these carefully with scripts that include them to ensure there are no reading errors."
+    },
+    "es": {
+      "content": "Al verificar la calidad del audio en japonés de Seedance 2.5, haz que una presentadora lea un guion de noticias de aproximadamente 23 segundos y comprueba que no se omita ningún diálogo ni se produzcan repeticiones o correcciones.\n\nLos nombres propios (por ejemplo, Kiryu) y las palabras en katakana (por ejemplo, diamante), así como las expresiones de números + unidades (por ejemplo, 39 grados 2 minutos), tienden a pronunciarse incorrectamente con facilidad, por lo que conviene probar de forma prioritaria guiones que los incluyan para comprobar que no haya lecturas erróneas."
+    },
+    "fr": {
+      "content": "Lors de la vérification de la qualité audio en japonais de Seedance 2.5, faites lire à une présentatrice un script d’actualité d’environ 23 secondes, et vérifiez que toutes les répliques sont bien prononcées sans omission ni reprise.\n\nLes noms propres (par ex. Kiryu City), les mots en katakana (par ex. diamant) et les expressions chiffrées avec unité (par ex. 39 degrés 2 minutes) ont tendance à être mal lus ; il faut donc tester en priorité des scripts contenant ces éléments afin de détecter d’éventuelles erreurs de lecture."
+    },
+    "ko": {
+      "content": "Seedance 2.5의 일본어 음성 품질을 검증할 때는 여성 캐스터에게 약 23초 분량의 뉴스 원고를 읽게 하고, 모든 대사가 빠지지 않는지, 그리고 다시 말하기가 발생하지 않는지를 확인한다.  \n고유명사(예: 桐生市)나 가타카나어(예: ダイヤ), 숫자+단위 표현(예: 39도 2분)의 읽기가 무너지기 쉬우므로, 이러한 요소가 포함된 원고를 사용해 오독이 발생하지 않는지 중점적으로 테스트한다."
+    },
+    "pt": {
+      "content": "Ao verificar a qualidade do áudio em japonês do Seedance 2.5, faça uma apresentadora ler um roteiro de notícias de cerca de 23 segundos e verifique se nenhuma fala é omitida e se não há repetições ou correções durante a leitura.  \nNomes próprios (por exemplo, Kiryu) e palavras em katakana (por exemplo, diamante), além de expressões com números + unidades (por exemplo, 39 graus e 2 minutos), tendem a ser lidos de forma incorreta; por isso, teste com prioridade roteiros que incluam esses elementos para verificar se não ocorrem leituras equivocadas."
+    },
+    "zh": {
+      "content": "在验证 Seedance 2.5 的日语音频质量时，可让女性主播朗读一段约 23 秒的新闻稿，并检查是否有台词遗漏、是否出现重读或改口。  \n专有名词（例如：桐生市）、片假名词汇（例如：ダイヤ）以及“数值 + 单位”表达（例如：39度2分）的读法容易出错，因此应使用包含这些内容的稿件进行重点测试，确认是否会出现误读。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2084594445073404120",
+  "title": "Claudeで元動画のDepth（深度）を抽出して、Seedance2.5のリファレンス素材として使う",
+  "content": "Claudeで元動画のDepth（深度）を抽出して、Seedance2.5のリファレンス素材として使う  \nおじさんの画像（被写体）と抽出したDepthを一緒にリファレンスに入れて、元動画の動き／奥行きを反映したダンス生成を行う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084533491426074624/img/MpYXqU1vxqHDs3-L.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084594445073404120.mp4",
+  "sourceLink": "https://x.com/Ayu_AI_0912/status/2084594445073404120",
+  "sourcePublishedAt": "2026-08-04",
+  "author": {
+    "name": "アユネオ",
+    "link": "https://x.com/Ayu_AI_0912"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Claudeで元動画のDepth（深度）を抽出して、Seedance2.5のリファレンス素材として使う  \nおじさんの画像（被写体）と抽出したDepthを一緒にリファレンスに入れて、元動画の動き／奥行きを反映したダンス生成を行う",
+  "translations": {
+    "en": {
+      "content": "Use Claude to extract the Depth from the original video and use it as reference material for Seedance 2.5.  \nPut the uncle’s image (the subject) and the extracted Depth together into the reference, and generate a dance that reflects the motion/depth of the original video.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Minimax H3 Comparison\n---"
+    },
+    "es": {
+      "content": "Extraer la Depth (profundidad) del video original con Claude y usarla como material de referencia para Seedance2.5  \nIncluir juntos en la referencia la imagen del hombre mayor (sujeto) y la Depth extraída, para generar un baile que refleje el movimiento y la profundidad del video original\n\n--- CONTINUACIÓN DEL THREAD ---\n[Thread 1] Comparación con Minimax H3\n---"
+    },
+    "fr": {
+      "content": "Extraire la Depth (profondeur) de la vidéo originale avec Claude et l’utiliser comme matériau de référence pour Seedance2.5  \nAjouter ensemble à la référence l’image de l’oncle (le sujet) et la Depth extraite, afin de générer une danse qui reflète le mouvement / la profondeur de la vidéo originale\n\n--- THREAD CONTINUATION ---\n[Thread 1] Comparaison avec Minimax H3\n---"
+    },
+    "ko": {
+      "content": "Claude를 사용해 원본 영상의 Depth(깊이)를 추출하고, 이를 Seedance2.5의 레퍼런스 소재로 활용한다  \n아저씨 이미지(피사체)와 추출한 Depth를 함께 레퍼런스에 넣어, 원본 영상의 움직임/입체감을 반영한 댄스 생성을 수행한다\n\n--- THREAD CONTINUATION ---\n[Thread 1] Minimax H3 비교\n---"
+    },
+    "pt": {
+      "content": "Extrair a Depth (profundidade) do vídeo original com o Claude e usá-la como material de referência para o Seedance2.5  \nInserir juntos na referência a imagem do tio (sujeito) e a Depth extraída, para gerar uma dança que reflita o movimento/profundidade do vídeo original\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Comparação com Minimax H3\n---"
+    },
+    "zh": {
+      "content": "使用 Claude 从原始视频中提取 Depth（深度），并将其作为 Seedance2.5 的参考素材使用  \n把大叔的图像（主体）和提取出的 Depth 一起放入参考中，生成能够反映原视频运动/景深的舞蹈内容\n\n--- THREAD CONTINUATION ---\n[Thread 1] Minimax H3 比较\n---"
+    }
+  }
+}
