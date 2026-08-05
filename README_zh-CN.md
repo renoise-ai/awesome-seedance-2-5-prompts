@@ -66,7 +66,7 @@
 | 📝 提示词总数 | **333** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **243** |
-| 🔄 最后更新 | **2026-08-04** |
+| 🔄 最后更新 | **2026-08-05** |
 
 ---
 
@@ -4881,4 +4881,4 @@ VRMアバターを起点に、GPTImage2でキャラクターシート→GeminiNo
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **🎬 [Seedance 2.5 模型](https://renoise.ai/zh-CN/features/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-08-04T21:16:28.836Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-08-05T02:48:59.033Z
