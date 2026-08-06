@@ -1,0 +1,41 @@
+{
+  "id": "2085118145728303312",
+  "title": "連続して生成される線、水彩。線と色が遅れて追随する。極端なアクションの際にはキャラクターの形状を崩すこと。",
+  "content": "連続して生成される線、水彩。線と色が遅れて追随する。極端なアクションの際にはキャラクターの形状を崩すこと。",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085104994433576960/img/9BYam_tnvkQYi_x7.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085118145728303312.mp4",
+  "sourceLink": "https://x.com/PDyv9gdatT4132/status/2085118145728303312",
+  "sourcePublishedAt": "2026-08-05",
+  "author": {
+    "name": "前田こう｜AI動画×地方会社員の副業",
+    "link": "https://x.com/PDyv9gdatT4132"
+  },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "Hand-drawn",
+    "Fantasy",
+    "VFX"
+  ],
+  "translations": {
+    "en": {
+      "content": "Continuous lines and watercolor are generated. The lines and colors follow with a delay. During extreme action, distort the character’s shape.\n\n--- QUOTED TWEET ---\nGood morning.\nIn connection with the WFAIA submission, I’ve published the workflow for this expression method on floyo. If you’re interested, please take a look.\nhttps://t.co/JTYw5xI4lL\n\nThe important points are four.\n\n1. First, create the reference in an extremely rough, jagged state.\nSeedance applies correction in the opposite direction, so this hack increases the hand-drawn feel by leveraging that roughness.\n\n2. Next is the prompt: write “continuous lines and watercolor are generated.” Because this is always rendered with bleeding and unstable lines, it increases the hand-drawn feel. If you leave this out, even though you’re drawing in 2D, the motion starts to feel more like 2.5D or 3D, so you absolutely must not stabilize the lines and colors.\n\n3. Along with that, I also include “the lines and colors follow with a delay.” It doesn’t have a very obvious effect, but I add it to reinforce and support point 2.\n\n4. The last thing is to instruct: “During extreme action, distort the character’s shape.”\nAlso, by giving it a messy image in the reference that only contains the character’s color palette, you can create fast, cinematic, extreme movements with a sense of speed."
+    },
+    "es": {
+      "content": "Líneas generadas de forma continua, acuarela. Las líneas y el color siguen con retraso. En las acciones extremas, deformar la forma del personaje.\n\n--- TWEET CITADO ---\nBuenos días.\nCon motivo de la presentación para WFAIA, he publicado en floyo el workflow de este método de expresión. Si te interesa, échale un vistazo.\nhttps://t.co/JTYw5xI4lL\n\nLo importante son cuatro cosas.\n\n① Crear una referencia extremadamente tosca y pixelada.\nSeedance, de hecho, aplica una corrección inversa, así que estamos usando un truco: cuanto más rugosidad tenga, más aumenta esa sensación de hecho a mano.\n\n② Luego, el prompt. Escribir: “連続して生成される線、水彩”. Esto siempre se dibuja con un efecto de difuminado y líneas inestables, lo que aumenta la sensación de hecho a mano. Si se omite, aunque esté dibujado en 2D, aumentan los movimientos que parecen de 2.5D o 3D, así que las líneas y el color no deben estabilizarse bajo ningún concepto.\n\n③ En relación con eso, también escribo “las líneas y el color siguen con retraso”. No es un efecto tan evidente, pero lo incluyo para reforzar y complementar el punto ②.\n\n④ La última es indicar: “en acciones extremas, deformar la forma del personaje”.\nAdemás, si le das como referencia una imagen caótica en la que solo estén alineados los colores del personaje, se generan movimientos extremos con sensación de velocidad, casi como en un vídeo."
+    },
+    "fr": {
+      "content": "Des lignes générées en continu, aquarelle. Les lignes et les couleurs suivent avec un léger retard. Lors des actions extrêmes, faire se déformer la silhouette du personnage.\n\n--- TWEET CITÉ ---\nBonjour à tous.\nDans le cadre de ma soumission à WFAIA, j’ai publié sur floyo le workflow de cette méthode d’expression. Si cela vous intéresse, n’hésitez pas à y jeter un œil.\nhttps://t.co/JTYw5xI4lL\n\nL’important, ce sont 4 points.\n\n① Créer une référence extrêmement grossière et pixelisée.\nSeedance applique au contraire une correction, donc j’utilise ce biais pour renforcer une ambiance dessinée à la main grâce à la rugosité.\n\n② Ensuite, le prompt : écrire « lignes générées en continu, aquarelle ». Comme cela est toujours écrit avec des contours flous et des lignes instables, l’aspect fait main s’accentue. Si on l’enlève, même en dessinant en 2D, le mouvement tend à devenir plus proche de la 2.5D ou de la 3D ; il ne faut donc surtout pas stabiliser les lignes et les couleurs.\n\n③ En lien avec cela, j’écris aussi « les lignes et les couleurs suivent avec un léger retard ». Ce n’est pas un effet particulièrement évident, mais je l’ajoute pour renforcer et accompagner le point ②.\n\n④ Le dernier point consiste à ajouter l’instruction : « lors des actions extrêmes, faire se déformer la silhouette du personnage ».\nDe plus, si l’on fournit comme référence une image brouillonne où seules les couleurs du personnage sont alignées, on obtient des mouvements extrêmes avec une sensation de vitesse, presque cinématographique."
+    },
+    "ko": {
+      "content": "連続して生成される線、水彩。線と色が遅れて追随する。極端なアクションの際にはキャラクターの形状を崩すこと。\n\n--- 인용된 트윗 ---\nおはようございますー。\nWFAIA 제출에 맞춰, floyo에서 이 표현 방식의 워크플로를 공개하고 있습니다. 관심이 있으면 한번 들러보세요.\nhttps://t.co/JTYw5xI4lL\n\n중요한 건 4가지입니다.\n\n① 엄청나게 거칠게 리퍼런스를 만드는 것.\nSeedance가 오히려 보정을 걸기 때문에, 거칠수록 손그림 같은 분위기가 더해진다는 해킹을 걸어두고 있습니다.\n\n② 다음은 prompt. 「連続して生成される線、水彩」라고 적는 것. 이것은 항상 번지거나 안정적이지 않은 선으로 그려지기 때문에 손그림 느낌이 더 강해집니다. 이걸 빼면 2D로 그리고 있는데도 2.5D나 3D 같은 모션이 늘어나버리므로, 절대로 선과 색을 안정시키면 안 됩니다.\n\n③ 그에 따라, 「線と色が遅れて追随する」라고도 적고 있습니다. 그렇게까지 뚜렷한 효과가 있는 건 아니지만, ②를 보강하고 서로 맞물리게 하기 위해 넣고 있습니다.\n\n④ 마지막으로는 「극단적인 액션 시에는 캐릭터의 형태를 무너뜨릴 것」이라고 지시를 넣는 것.\n더 나아가, 리퍼런스에 캐릭터의 배색만 나열된 엉망진창인 이미지를 넘겨두면 영상 같은 속도감 있는 극단적인 움직임이 만들어집니다."
+    },
+    "pt": {
+      "content": "Linhas geradas continuamente, aquarela. As linhas e as cores seguem com atraso. Em ações extremas, deformar a forma do personagem.\n\n--- TWEET CITADO ---\nBom diaaa.\nEm conjunto com a submissão ao WFAIA, estou publicando no floyo o workflow desse método de expressão. Se tiver interesse, dá uma olhada.\nhttps://t.co/JTYw5xI4lL\n\nO importante são 4 pontos.\n\n① Criar uma referência extremamente granulada e feia.\nComo o Seedance faz uma correção inversa, estamos aplicando um hack em que a aspereza aumenta a sensação de algo desenhado à mão.\n\n② Depois, o prompt. Escrever: “linhas geradas continuamente, aquarela”.\nIsso sempre faz com que seja escrito com borrões e linhas instáveis, aumentando a sensação de desenho à mão. Se você tirar isso, mesmo desenhando em 2D, acabam surgindo movimentos mais parecidos com 2.5D ou 3D, então as linhas e as cores nunca devem ficar estáveis.\n\n③ Em seguida, também escrevo “as linhas e as cores seguem com atraso”.\nNão é algo com um efeito tão claro, mas incluí isso para reforçar e complementar o item ②.\n\n④ O último ponto é inserir a instrução “em ações extremas, deformar a forma do personagem”.\nAlém disso, se você fornecer como referência uma imagem bagunçada contendo apenas as cores do personagem, é possível criar movimentos extremos com sensação de velocidade, como em vídeo."
+    },
+    "zh": {
+      "content": "连续生成的线条、水彩。线条和颜色会延迟跟随。在极端动作时，要让角色的形状发生变形。\n\n--- 引用推文 ---\n早上好。\n随着 WFAIA 的提交，我在 floyo 上公开了这种表现方式的工作流程。如果感兴趣的话可以看看。\nhttps://t.co/JTYw5xI4lL\n\n关键有四点。\n\n① 先做一个非常粗糙、糊成一团的参考图。\nSeedance 反而会对其进行修正，所以我利用这种粗糙度来增加手绘感，这是一个小技巧。\n\n② 接下来是 prompt。写入“连续生成的线条、水彩”。因为它会始终以晕染、线条不稳定的方式被生成，所以会增强手绘感。如果去掉这一项，明明是在画 2D，却会增加类似 2.5D 或 3D 的 motion，所以线条和颜色绝对不能稳定下来。\n\n③ 与此相应，我还写了“线条和颜色会延迟跟随”。虽然效果并没有那么明显，但我把它作为对②的补强和配合加入了进去。\n\n④ 最后一点是加入“在极端动作时，要让角色的形状发生变形”这一指示。\n进一步来说，如果再给参考图一张只排列着角色配色、乱糟糟的图片，就能做出像影像一样具有速度感的极端动作。"
+    }
+  }
+}

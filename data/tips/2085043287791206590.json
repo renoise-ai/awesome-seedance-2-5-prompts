@@ -1,0 +1,43 @@
+{
+  "id": "2085043287791206590",
+  "title": "When setting up a Seedance model comparison grid, test using up to 50 reference…",
+  "content": "When setting up a Seedance model comparison grid, test using up to 50 reference assets in a single clip.  \nWhen comparing Seedance models, include a 30-second video generated in one run to evaluate long-form consistency.  \nUse reference-driven controls to lock in characters, scenes, and pacing during Seedance generations.  \nTest Seedance’s 3D white model support as part of your comparison workflow.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085043275531243520/img/CGS42eXznzXloVDH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085043287791206590.mp4",
+  "sourceLink": "https://x.com/SaniBulaAI/status/2085043287791206590",
+  "sourcePublishedAt": "2026-08-05",
+  "author": {
+    "name": "SANI BULA",
+    "link": "https://x.com/SaniBulaAI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "Model Showcase"
+  ],
+  "tips": "When setting up a Seedance model comparison grid, test using up to 50 reference assets in a single clip.  \nWhen comparing Seedance models, include a 30-second video generated in one run to evaluate long-form consistency.  \nUse reference-driven controls to lock in characters, scenes, and pacing during Seedance generations.  \nTest Seedance’s 3D white model support as part of your comparison workflow.",
+  "translations": {
+    "es": {
+      "content": "---\nAl configurar una cuadrícula de comparación de modelos Seedance, prueba usando hasta 50 assets de referencia en un solo clip.  \nAl comparar modelos Seedance, incluye un video de 30 segundos generado en una sola ejecución para evaluar la consistencia en formatos largos.  \nUsa controles basados en referencias para fijar personajes, escenas y ritmo durante las generaciones de Seedance.  \nPrueba el soporte de Seedance para modelos blancos 3D como parte de tu flujo de trabajo de comparación.\n---"
+    },
+    "fr": {
+      "content": "Lors de la mise en place d’une grille de comparaison des modèles Seedance, testez jusqu’à 50 assets de référence dans un seul clip.  \nLors de la comparaison des modèles Seedance, incluez une vidéo de 30 secondes générée en une seule exécution afin d’évaluer la cohérence sur les formats longs.  \nUtilisez des contrôles pilotés par des références pour verrouiller les personnages, les scènes et le rythme pendant les générations Seedance.  \nTestez la prise en charge du modèle blanc 3D de Seedance dans le cadre de votre workflow de comparaison."
+    },
+    "ja": {
+      "content": "Seedanceのモデル比較グリッドを設定する際は、1つのクリップで最大50個の参照アセットを使ってテストしてください。  \nSeedanceモデルを比較する際は、長尺での一貫性を評価するために、1回の実行で生成した30秒の動画を含めてください。  \nSeedanceの生成では、参照ベースのコントロールを使って、キャラクター、シーン、テンポを固定してください。  \n比較ワークフローの一環として、Seedanceの3Dホワイトモデル対応もテストしてください。"
+    },
+    "ko": {
+      "content": "Seedance 모델 비교 그리드를 설정할 때는 한 클립에서 최대 50개의 reference asset을 사용해 테스트하세요.  \nSeedance 모델을 비교할 때는 장편 일관성을 평가하기 위해 한 번의 실행으로 생성된 30초 분량의 비디오를 포함하세요.  \nSeedance 생성 과정에서 reference-driven controls를 사용해 캐릭터, 장면, 페이싱을 고정하세요.  \n비교 워크플로의 일부로 Seedance의 3D white model 지원을 테스트하세요."
+    },
+    "pt": {
+      "content": "Ao configurar uma grade de comparação de modelos Seedance, teste usando até 50 assets de referência em um único clipe.  \nAo comparar modelos Seedance, inclua um vídeo de 30 segundos gerado em uma única execução para avaliar a consistência em formatos longos.  \nUse controles orientados por referência para fixar personagens, cenas e ritmo durante as gerações no Seedance.  \nTeste o suporte do Seedance a modelos brancos 3D como parte do seu fluxo de trabalho de comparação."
+    },
+    "zh": {
+      "content": "在搭建 Seedance 模型对比网格时，测试单个片段中最多使用 50 个参考素材。  \n在比较 Seedance 模型时，加入一段一次生成完成的 30 秒视频，以评估长篇内容的一致性。  \n在 Seedance 生成过程中，使用基于参考素材的控制来锁定角色、场景和节奏。  \n将 Seedance 的 3D 白模支持纳入你的对比工作流程中进行测试。"
+    }
+  }
+}

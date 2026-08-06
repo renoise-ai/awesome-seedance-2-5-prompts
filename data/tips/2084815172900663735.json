@@ -1,0 +1,42 @@
+{
+  "id": "2084815172900663735",
+  "title": "Use Seedance 2.5 prompts that specify the music genre, a 6-beat arc-driven…",
+  "content": "Use Seedance 2.5 prompts that specify the music genre, a 6-beat arc-driven story, choreography, and production style to structure a music video concept  \nGenerate the video using 8-character master shots to stage multi-character choreography and scenes",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084814267765710848/img/GQUFVJwGTvs1QIIU.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084815172900663735.mp4",
+  "sourceLink": "https://x.com/westkast/status/2084815172900663735",
+  "sourcePublishedAt": "2026-08-05",
+  "author": {
+    "name": "West Kast",
+    "link": "https://x.com/westkast"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 prompts that specify the music genre, a 6-beat arc-driven story, choreography, and production style to structure a music video concept  \nGenerate the video using 8-character master shots to stage multi-character choreography and scenes",
+  "translations": {
+    "es": {
+      "content": "Usa prompts de Seedance 2.5 que especifiquen el género musical, una historia impulsada por un arco de 6 beats, la coreografía y el estilo de producción para estructurar un concepto de videoclip  \nGenera el video usando master shots de 8 caracteres para escenificar coreografías y escenas con múltiples personajes"
+    },
+    "fr": {
+      "content": "Utilisez des prompts Seedance 2.5 qui précisent le genre musical, une histoire structurée en arc narratif de 6 temps, la chorégraphie et le style de production pour structurer un concept de clip musical  \nGénérez la vidéo à l’aide de master shots de 8 caractères pour mettre en scène une chorégraphie multi-personnages et des scènes"
+    },
+    "ja": {
+      "content": "Seedance 2.5 のプロンプトを使って、音楽ジャンル、6ビートの起承転結のあるストーリー、振付、制作スタイルを指定し、ミュージックビデオのコンセプトを構成する  \n8文字のマスターショットを使って動画を生成し、複数キャラクターの振付やシーンを演出する"
+    },
+    "ko": {
+      "content": "음악 장르, 6비트 아크 중심 스토리, 안무, 프로덕션 스타일을 명시하는 Seedance 2.5 프롬프트를 사용해 뮤직비디오 콘셉트를 구성하세요  \n8자 길이의 마스터 샷을 사용해 여러 캐릭터의 안무와 장면을 연출하며 영상을 생성하세요"
+    },
+    "pt": {
+      "content": "Use prompts do Seedance 2.5 que especifiquem o gênero musical, uma história com arco de 6 batidas, coreografia e estilo de produção para estruturar um conceito de videoclipe  \nGere o vídeo usando master shots de 8 caracteres para encenar coreografias e cenas com vários personagens"
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 提示词，明确指定音乐类型、6 拍弧线式故事、编舞和制作风格，以构建音乐视频概念  \n使用 8 个角色的主镜头生成视频，以呈现多角色编舞和场景"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2085050152725909703",
+  "title": "Break your screenplay/treatment into scenes, then convert each scene into a…",
+  "content": "Break your screenplay/treatment into scenes, then convert each scene into a shot list with Seedance 2.5 prompts that specify character continuity, wardrobe, lighting, locations, camera movement, pacing, and what happens before/after the shot.  \nRun those shot prompts through Seedance 2.5 using reference assets (for faces/wardrobe/locations/style) to lock continuity across clips.  \nUse longer Seedance 2.5 generations to keep the film feeling like a single cohesive world rather than disconnected AI clips.  \nAssemble Seedance-generated footage into a finished film by adding voice/dialogue, sound design, music, captions, transitions, and b-roll in editing.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085050081640878080/img/RzPQ4WS-WO-OTh4P.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085050152725909703.mp4",
+  "sourceLink": "https://x.com/sulfurscales/status/2085050152725909703",
+  "sourcePublishedAt": "2026-08-05",
+  "author": {
+    "name": "Sulfur",
+    "link": "https://x.com/sulfurscales"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Break your screenplay/treatment into scenes, then convert each scene into a shot list with Seedance 2.5 prompts that specify character continuity, wardrobe, lighting, locations, camera movement, pacing, and what happens before/after the shot.  \nRun those shot prompts through Seedance 2.5 using reference assets (for faces/wardrobe/locations/style) to lock continuity across clips.  \nUse longer Seedance 2.5 generations to keep the film feeling like a single cohesive world rather than disconnected AI clips.  \nAssemble Seedance-generated footage into a finished film by adding voice/dialogue, sound design, music, captions, transitions, and b-roll in editing.",
+  "translations": {
+    "es": {
+      "content": "Divide tu guion/tratamiento en escenas y luego convierte cada escena en una shot list con prompts de Seedance 2.5 que especifiquen la continuidad de los personajes, el vestuario, la iluminación, las locaciones, el movimiento de cámara, el ritmo y lo que ocurre antes/después del plano.  \nEjecuta esos prompts de shots en Seedance 2.5 usando assets de referencia (para rostros/vestuario/locaciones/estilo) para fijar la continuidad entre clips.  \nUsa generaciones más largas de Seedance 2.5 para que la película se sienta como un solo mundo cohesivo, en lugar de clips de IA desconectados.  \nEnsambla el material generado por Seedance en una película terminada añadiendo voz/diálogo, diseño de sonido, música, subtítulos, transiciones y b-roll en la edición.\n\n--- TWEET CITADO ---\nNuestra película de IA de 95 minutos, Hell Grind, ya es completamente open-source para el Higgsfield Global Film Festival. \n\nTodos los prompts y assets son públicos.\n\nSe hizo por 500.000 dólares, se proyectó en el Cannes Market y recibió cobertura de The Wall Street Journal, Variety y BBC News. https://t.co/ZC8FvrRjhn\n---"
+    },
+    "fr": {
+      "content": "Décomposez votre scénario/treatment en scènes, puis convertissez chaque scène en une shot list avec des prompts Seedance 2.5 qui précisent la continuité des personnages, les costumes, l’éclairage, les lieux, les mouvements de caméra, le rythme, ainsi que ce qui se passe avant/après le plan.  \nFaites passer ces prompts de plans dans Seedance 2.5 en utilisant des assets de référence (pour les visages, les costumes, les lieux, le style) afin de verrouiller la continuité entre les clips.  \nUtilisez des générations Seedance 2.5 plus longues pour que le film donne l’impression d’un monde unique et cohérent plutôt que d’une suite de clips IA déconnectés.  \nAssemblez les images générées par Seedance en un film terminé en ajoutant voix/dialogue, sound design, musique, sous-titres, transitions et b-roll au montage.\n\n--- TWEET CITÉ ---\nNotre long-métrage IA de 95 minutes, Hell Grind, est désormais entièrement open source pour le Higgsfield Global Film Festival. \n\nTous les prompts et assets sont publics.\n\nIl a été réalisé pour 500 000 $, projeté au Marché de Cannes et a fait l’objet de reportages dans The Wall Street Journal, Variety et BBC News. https://t.co/ZC8FvrRjhn"
+    },
+    "ja": {
+      "content": "脚本／トリートメントをシーンごとに分解し、各シーンをショットリストに変換します。その際、Seedance 2.5 の prompt には、キャラクターの一貫性、衣装、ライティング、ロケーション、カメラの動き、テンポ、そしてショットの前後で何が起こるかを指定します。  \nそのショット用 prompt を、顔・衣装・ロケーション・スタイルの参照アセットを使って Seedance 2.5 に通し、クリップ全体の一貫性を固定します。  \nより長尺の Seedance 2.5 の生成を使うことで、映画をバラバラの AI クリップではなく、ひとつのまとまりある世界として感じられるようにします。  \nSeedance で生成した映像は、編集段階でボイス／セリフ、サウンドデザイン、音楽、キャプション、トランジション、B-roll を加えて、完成した映画に仕上げます。\n\n--- 引用ツイート ---\n私たちの95分のAI長編映画『Hell Grind』は、Higgsfield Global Film Festival 向けに完全オープンソース化されました。  \n\nすべての prompt とアセットは公開されています。  \n\n制作費は50万ドルで、カンヌ・マーケットで上映され、The Wall Street Journal、Variety、BBC News でも取り上げられました。 https://t.co/ZC8FvrRjhn"
+    },
+    "ko": {
+      "content": "시나리오/트리트먼트를 장면별로 나눈 다음, 각 장면을 캐릭터의 연속성, 의상, 조명, 장소, 카메라 움직임, 템포, 그리고 샷 전후에 일어나는 일을 명시하는 Seedance 2.5 prompt가 포함된 shot list로 변환하세요.  \n이 shot prompt들을 얼굴/의상/장소/스타일용 reference assets와 함께 Seedance 2.5에 넣어, 클립 간 연속성을 고정하세요.  \n더 긴 Seedance 2.5 generation을 사용해, 영화가 서로 분리된 AI 클립이 아니라 하나의 일관된 세계처럼 느껴지도록 하세요.  \n편집 단계에서 voice/dialogue, sound design, music, captions, transitions, b-roll을 추가해 Seedance로 생성한 영상을 완성된 영화로 구성하세요.\n\n--- 인용된 트윗 ---\n95분 분량의 AI 장편 영화인 Hell Grind가 이제 Higgsfield Global Film Festival을 위해 완전히 오픈소스화되었습니다. \n\n모든 prompt와 asset은 공개되어 있습니다.\n\n이 작품은 50만 달러로 제작되었고, 칸 마켓에서 상영되었으며, The Wall Street Journal, Variety, BBC News의 보도를 받았습니다. https://t.co/ZC8FvrRjhn"
+    },
+    "pt": {
+      "content": "Divida seu roteiro/treatment em cenas e, em seguida, converta cada cena em uma shot list com prompts do Seedance 2.5 que especifiquem continuidade de personagem, figurino, iluminação, locações, movimento de câmera, ritmo e o que acontece antes/depois do plano.  \nExecute esses prompts de shot no Seedance 2.5 usando assets de referência (para rostos/figurino/locações/estilo) para travar a continuidade entre os clipes.  \nUse gerações mais longas no Seedance 2.5 para manter o filme com a sensação de um único mundo coeso, em vez de clipes de IA desconectados.  \nMonte as imagens geradas pelo Seedance em um filme final adicionando voz/diálogo, sound design, música, legendas, transições e b-roll na edição.\n\n--- TWEET CITADO ---\nNosso longa-metragem de IA de 95 minutos, Hell Grind, agora está totalmente open-sourced para o Higgsfield Global Film Festival. \n\nTodos os prompts e assets estão públicos.\n\nEle foi feito por US$ 500.000, exibido no Cannes Market e recebeu cobertura do The Wall Street Journal, Variety e BBC News. https://t.co/ZC8FvrRjhn\n---"
+    },
+    "zh": {
+      "content": "将你的剧本/故事梗概拆分成多个场景，然后把每个场景转换成镜头清单，并为 Seedance 2.5 编写 prompts，明确角色连续性、服装、光线、地点、镜头运动、节奏，以及镜头前后发生的内容。  \n使用参考素材（用于面孔/服装/地点/风格）在 Seedance 2.5 中运行这些 shot prompts，以锁定各个片段之间的连续性。  \n使用更长的 Seedance 2.5 生成时长，让影片感觉像一个连贯统一的世界，而不是彼此割裂的 AI 片段。  \n在剪辑中加入配音/对白、声音设计、音乐、字幕、转场和 b-roll，将 Seedance 生成的素材整合成一部完整电影。\n\n--- 引述推文 ---\n我们的 95 分钟 AI 长片《Hell Grind》现已为 Higgsfield Global Film Festival 全面开源。  \n\n所有 prompts 和素材均已公开。  \n\n这部影片制作成本为 50 万美元，曾在戛纳市场放映，并获得了《华尔街日报》、《Variety》和 BBC News 的报道。 https://t.co/ZC8FvrRjhn"
+    }
+  }
+}

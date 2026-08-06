@@ -1,0 +1,42 @@
+{
+  "id": "2084883691793244467",
+  "title": "Simplify the scene/setup in Seedance 2.5 prompts to improve consistency across…",
+  "content": "Simplify the scene/setup in Seedance 2.5 prompts to improve consistency across complex scenes.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084883569185267712/img/07QS3sRtouHxiUqk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084883691793244467.mp4",
+  "sourceLink": "https://x.com/HustleXR/status/2084883691793244467",
+  "sourcePublishedAt": "2026-08-05",
+  "author": {
+    "name": "zayan",
+    "link": "https://x.com/HustleXR"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Simplify the scene/setup in Seedance 2.5 prompts to improve consistency across complex scenes.",
+  "translations": {
+    "es": {
+      "content": "Simplifica la escena/configuración en los prompts de Seedance 2.5 para mejorar la consistencia en escenas complejas."
+    },
+    "fr": {
+      "content": "Simplifiez la scène et la mise en place dans les prompts Seedance 2.5 afin d’améliorer la cohérence dans les scènes complexes."
+    },
+    "ja": {
+      "content": "Seedance 2.5 の prompt では、複雑なシーン全体での一貫性を高めるために、シーン／セットアップを簡潔にしてください。"
+    },
+    "ko": {
+      "content": "복잡한 장면 전반에서 일관성을 높이기 위해 Seedance 2.5 prompt의 scene/setup을 단순화하세요."
+    },
+    "pt": {
+      "content": "Simplifique a cena/configuração nos prompts do Seedance 2.5 para melhorar a consistência em cenas complexas."
+    },
+    "zh": {
+      "content": "简化 Seedance 2.5 prompts 中的场景/设置，以提高复杂场景中的一致性。"
+    }
+  }
+}

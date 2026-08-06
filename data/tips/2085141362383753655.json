@@ -1,0 +1,42 @@
+{
+  "id": "2085141362383753655",
+  "title": "Don’t prompt Seedance 2.5 1:1 to your final edit; instead prompt in 15-second…",
+  "content": "Don’t prompt Seedance 2.5 1:1 to your final edit; instead prompt in 15-second montage batches when you plan to cut the edit yourself.  \nFor each ~5 seconds of script, write one 15s montage prompt and instruct the model that you’ll be cutting in Premiere and want the montage loaded with extra shots/options.  \nAsk Seedance to include alternate angles and extra coverage in each montage batch to give you more choices in the edit, then select the best shots and discard the rest.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085141284109639681/img/Ug1DrYvKyzcO0s3j.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085141362383753655.mp4",
+  "sourceLink": "https://x.com/beechinour/status/2085141362383753655",
+  "sourcePublishedAt": "2026-08-05",
+  "author": {
+    "name": "beech",
+    "link": "https://x.com/beechinour"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Don’t prompt Seedance 2.5 1:1 to your final edit; instead prompt in 15-second montage batches when you plan to cut the edit yourself.  \nFor each ~5 seconds of script, write one 15s montage prompt and instruct the model that you’ll be cutting in Premiere and want the montage loaded with extra shots/options.  \nAsk Seedance to include alternate angles and extra coverage in each montage batch to give you more choices in the edit, then select the best shots and discard the rest.",
+  "translations": {
+    "es": {
+      "content": "No le pidas a Seedance 2.5 1:1 tu edición final; en su lugar, genera prompts en lotes de montaje de 15 segundos cuando planees hacer el corte tú mismo.  \nPor cada ~5 segundos de guion, escribe un prompt de montaje de 15 s e indícale al modelo que vas a editar en Premiere y que quieres que el montaje venga cargado con tomas/opciones extra.  \nPídele a Seedance que incluya ángulos alternativos y cobertura adicional en cada lote de montaje para darte más opciones en la edición; luego selecciona las mejores tomas y descarta el resto."
+    },
+    "fr": {
+      "content": "Ne faites pas de prompt à Seedance 2.5 en 1:1 pour votre montage final ; faites plutôt des prompts par lots de montages de 15 secondes lorsque vous prévoyez de faire le montage vous-même.  \nPour chaque segment d’environ 5 secondes de script, rédigez un prompt de montage de 15 s et indiquez au modèle que vous ferez le montage dans Premiere et que vous souhaitez que le montage soit chargé de plans/options supplémentaires.  \nDemandez à Seedance d’inclure des angles alternatifs et des plans de couverture supplémentaires dans chaque lot de montage afin de vous offrir davantage de choix au montage, puis sélectionnez les meilleurs plans et écartez le reste."
+    },
+    "ja": {
+      "content": "最終編集にそのまま Seedance 2.5 1:1 を prompt するのではなく、自分で編集を切る予定なら、15秒のモンタージュ単位で prompt してください。  \n台本の約5秒ごとに1つの15秒モンタージュ prompt を書き、Premiere で編集するつもりで、モンタージュには追加のショットや選択肢を多めに入れてほしいとモデルに指示します。  \n各モンタージュ単位ごとに、別アングルや追加の coverage を含めるよう Seedance に依頼して、編集時により多くの選択肢を持てるようにし、最良のショットを選んで残りは破棄します。"
+    },
+    "ko": {
+      "content": "최종 편집본을 만들기 위해 Seedance 2.5를 1:1로 prompt하지 말고, 직접 편집할 계획이라면 15초짜리 montage 배치 단위로 prompt하세요.  \n스크립트의 약 5초 분량마다 15초 montage prompt 하나를 작성하고, Premiere에서 직접 컷 편집할 예정이며 montage에 추가 샷과 옵션이 많이 포함되길 원한다고 모델에 지시하세요.  \nSeedance에게 각 montage 배치에 alternate angles와 extra coverage를 포함해 더 많은 편집 선택지를 제공하도록 요청한 다음, 가장 좋은 샷을 골라 나머지는 버리면 됩니다."
+    },
+    "pt": {
+      "content": "Não faça prompt no Seedance 2.5 1:1 para a sua edição final; em vez disso, faça prompts em blocos de montagem de 15 segundos quando você planeja cortar a edição por conta própria.  \nPara cada ~5 segundos de roteiro, escreva um prompt de montagem de 15s e instrua o modelo de que você fará a edição no Premiere e quer a montagem carregada com tomadas/opções extras.  \nPeça ao Seedance para incluir ângulos alternativos e cobertura extra em cada bloco de montagem, para lhe dar mais opções na edição; depois, selecione as melhores tomadas e descarte o restante."
+    },
+    "zh": {
+      "content": "不要将 Seedance 2.5 1:1 直接用于你的最终剪辑；如果你打算自己后期剪辑，就应按 15 秒的 montage 批次来生成 prompt。  \n对于每约 5 秒的脚本，写一个 15 秒的 montage prompt，并告诉模型你会在 Premiere 里进行剪辑，希望这个 montage 里包含更多额外镜头/可选项。  \n让 Seedance 在每个 montage 批次中加入替代机位和额外补拍镜头，以便你在剪辑时有更多选择，然后挑选最佳镜头，舍弃其余部分。"
+    }
+  }
+}

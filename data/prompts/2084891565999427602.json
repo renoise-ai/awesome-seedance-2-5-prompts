@@ -1,0 +1,40 @@
+{
+  "id": "2084891565999427602",
+  "title": "喜极而泣",
+  "content": "喜极而泣",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084890678195281920/img/yGbSqoof5BNF-2BD.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084891565999427602.mp4",
+  "sourceLink": "https://x.com/ZS_JOSH/status/2084891565999427602",
+  "sourcePublishedAt": "2026-08-05",
+  "author": {
+    "name": "Josh",
+    "link": "https://x.com/ZS_JOSH"
+  },
+  "tags": [
+    "Story",
+    "Heartwarming",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "en": {
+      "content": "Tears of joy"
+    },
+    "es": {
+      "content": "Llorar de alegría"
+    },
+    "fr": {
+      "content": "Pleurer de joie"
+    },
+    "ja": {
+      "content": "嬉しさのあまり涙を流す"
+    },
+    "ko": {
+      "content": "기쁨에 겨워 눈물을 흘리다"
+    },
+    "pt": {
+      "content": "Chorar de alegria"
+    }
+  }
+}

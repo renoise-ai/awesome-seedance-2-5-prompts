@@ -1,0 +1,42 @@
+{
+  "id": "2084972706303246770",
+  "title": "Blenderで作った3DプレビズをSeedance 2.5でV2V（video-to-video）入力にして、カメラパスやキャラクターへの360度回り込みをそ…",
+  "content": "Blenderで作った3DプレビズをSeedance 2.5でV2V（video-to-video）入力にして、カメラパスやキャラクターへの360度回り込みをそのまま反映させる  \nプレビズ側でDOF（被写界深度）を入れていなくても、Seedance 2.5に撮影演出（自動のDOF/シネマティックな処理）を任せて仕上げる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084971099582832640/img/9clZ1XcYWUxKvls_.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2084972706303246770.mp4",
+  "sourceLink": "https://x.com/talos_world/status/2084972706303246770",
+  "sourcePublishedAt": "2026-08-05",
+  "author": {
+    "name": "Talos",
+    "link": "https://x.com/talos_world"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Sci-Fi",
+    "Tutorial"
+  ],
+  "tips": "Blenderで作った3DプレビズをSeedance 2.5でV2V（video-to-video）入力にして、カメラパスやキャラクターへの360度回り込みをそのまま反映させる  \nプレビズ側でDOF（被写界深度）を入れていなくても、Seedance 2.5に撮影演出（自動のDOF/シネマティックな処理）を任せて仕上げる",
+  "translations": {
+    "en": {
+      "content": "Use 3D previs created in Blender as V2V (video-to-video) input in Seedance 2.5, and have camera paths and 360-degree orbiting around characters reflected as-is.  \nEven if DOF (depth of field) isn’t added on the previs side, let Seedance 2.5 handle the cinematography (automatic DOF/cinematic processing) to finish the shot."
+    },
+    "es": {
+      "content": "Usar el previz 3D creado en Blender como entrada V2V (video-to-video) en Seedance 2.5, para reflejar tal cual los camera paths y los movimientos de 360 grados alrededor del personaje.  \nAunque no se haya aplicado DOF (profundidad de campo) en el lado del previz, dejar que Seedance 2.5 se encargue de la dirección de fotografía (DOF automático/procesado cinematográfico) para rematar el resultado."
+    },
+    "fr": {
+      "content": "Utiliser un préviz 3D créé dans Blender comme entrée V2V (video-to-video) dans Seedance 2.5, afin de refléter directement les camera paths et les mouvements de rotation à 360° autour des personnages.  \nMême si le préviz n’intègre pas de DOF (profondeur de champ), laisser Seedance 2.5 se charger de la mise en scène cinématographique (DOF automatique / traitement cinématique) pour finaliser le rendu."
+    },
+    "ko": {
+      "content": "Blender로 만든 3D 프리비즈를 Seedance 2.5에서 V2V(video-to-video) 입력으로 사용해, 카메라 패스와 캐릭터를 중심으로 한 360도 회전을 그대로 반영한다  \n프리비즈 단계에서 DOF(피사계 심도)를 넣지 않았더라도, Seedance 2.5에 촬영 연출(자동 DOF/시네마틱 처리)을 맡겨 완성한다"
+    },
+    "pt": {
+      "content": "Usar o previs 3D criado no Blender como entrada V2V (video-to-video) no Seedance 2.5, refletindo diretamente o camera path e o movimento de 360 graus ao redor do personagem.  \nMesmo que o previs não tenha DOF (depth of field / profundidade de campo), deixar a direção de fotografia por conta do Seedance 2.5 para finalizar com DOF automático e um tratamento cinematográfico."
+    },
+    "zh": {
+      "content": "将用 Blender 制作的 3D 预演作为 Seedance 2.5 的 V2V（video-to-video）输入，直接反映摄像机路径以及围绕角色的 360 度环绕运动。  \n即使在预演阶段没有加入 DOF（景深），也可以交给 Seedance 2.5 来负责拍摄演出（自动 DOF / cinematic 处理）并完成最终效果。"
+    }
+  }
+}

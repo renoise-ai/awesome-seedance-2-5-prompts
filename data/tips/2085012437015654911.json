@@ -1,0 +1,42 @@
+{
+  "id": "2085012437015654911",
+  "title": "Use Seedance 2.5’s multi-reference input by supplying 6 key references…",
+  "content": "Use Seedance 2.5’s multi-reference input by supplying 6 key references: packshot + label, brand palette + creator face, buyer context + one proven ad.  \nBuild your reference kit in Vibelets with Claude before rendering in Seedance.  \nWrite prompts to describe the product, and use references to enforce/defend brand and context consistency.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085012363011346432/img/FEzv_5FirCQh7YJp.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085012437015654911.mp4",
+  "sourceLink": "https://x.com/nipuntaneja/status/2085012437015654911",
+  "sourcePublishedAt": "2026-08-05",
+  "author": {
+    "name": "Nipun Taneja",
+    "link": "https://x.com/nipuntaneja"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5’s multi-reference input by supplying 6 key references: packshot + label, brand palette + creator face, buyer context + one proven ad.  \nBuild your reference kit in Vibelets with Claude before rendering in Seedance.  \nWrite prompts to describe the product, and use references to enforce/defend brand and context consistency.",
+  "translations": {
+    "es": {
+      "content": "Usa la entrada multi-reference de Seedance 2.5 proporcionando 6 referencias clave: packshot + etiqueta, paleta de marca + rostro del creador, contexto del comprador + un anuncio probado.  \nConstruye tu kit de referencias en Vibelets con Claude antes de renderizar en Seedance.  \nEscribe prompts para describir el producto y usa las referencias para reforzar y defender la coherencia de la marca y del contexto."
+    },
+    "fr": {
+      "content": "Utilisez l’entrée multi-références de Seedance 2.5 en fournissant 6 références clés : packshot + étiquette, palette de marque + visage du créateur, contexte de l’acheteur + une publicité éprouvée.  \nConstituez votre kit de références dans Vibelets avec Claude avant le rendu dans Seedance.  \nRédigez des prompts pour décrire le produit, et utilisez les références pour imposer et préserver la cohérence de la marque et du contexte."
+    },
+    "ja": {
+      "content": "Seedance 2.5 のマルチリファレンス入力を活用し、6つの主要な参照を指定します：packshot + label、brand palette + creator face、buyer context + one proven ad。  \nレンダリング前に、Claude を使って Vibelets でリファレンスキットを作成します。  \nプロンプトでは製品を説明し、参照を使ってブランドとコンテキストの一貫性を担保・維持します。"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 multi-reference input을 활용하려면 6개의 핵심 reference를 제공하세요: packshot + label, brand palette + creator face, buyer context + one proven ad.  \nSeedance에서 렌더링하기 전에 Claude를 사용해 Vibelets에서 reference kit을 구성하세요.  \n프롬프트는 제품을 설명하는 데 사용하고, reference는 브랜드와 context의 일관성을 강제하고 유지하는 데 활용하세요."
+    },
+    "pt": {
+      "content": "Use a entrada multi-referência do Seedance 2.5 fornecendo 6 referências-chave: packshot + label, paleta da marca + rosto do criador, contexto do comprador + um anúncio comprovado.  \nMonte seu kit de referências no Vibelets com o Claude antes de renderizar no Seedance.  \nEscreva prompts para descrever o produto e use as referências para reforçar/garantir a consistência da marca e do contexto."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 的多参考输入，提供 6 个关键参考：packshot + label、品牌配色 + 创作者面孔、买家场景 + 一个已验证的广告。  \n在 Seedance 渲染之前，先用 Claude 在 Vibelets 中构建你的参考素材包。  \n编写 prompt 来描述产品，并使用参考图来强化/维护品牌与场景的一致性。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2085123685145284678",
+  "title": "顔は正面のまま、目線だけ隣へ のように「体（顔）の向き」と「視線」を分けて具体的な演技指示をプロンプトに入れる",
+  "content": "顔は正面のまま、目線だけ隣へ のように「体（顔）の向き」と「視線」を分けて具体的な演技指示をプロンプトに入れる  \nCapCutのAI機能を使ってSeedance 2.5生成動画を制作する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085025064790245376/img/GkItpnA6qwMB3lUu.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085123685145284678.mp4",
+  "sourceLink": "https://x.com/nAI_station/status/2085123685145284678",
+  "sourcePublishedAt": "2026-08-05",
+  "author": {
+    "name": "naisute",
+    "link": "https://x.com/nAI_station"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "顔は正面のまま、目線だけ隣へ のように「体（顔）の向き」と「視線」を分けて具体的な演技指示をプロンプトに入れる  \nCapCutのAI機能を使ってSeedance 2.5生成動画を制作する",
+  "translations": {
+    "en": {
+      "content": "Keep the body/face facing forward while shifting only the eyes to the side — in other words, separate the “orientation of the body (face)” from the “gaze” and include specific performance directions in the prompt.  \nCreate Seedance 2.5 generated videos using CapCut’s AI features."
+    },
+    "es": {
+      "content": "Incorpora en el prompt indicaciones de actuación concretas que separen la “orientación del cuerpo (rostro)” y la “mirada”, como “el rostro de frente, pero la mirada hacia un lado”.  \nCrear videos generados con Seedance 2.5 usando las funciones de IA de CapCut"
+    },
+    "fr": {
+      "content": "Garder le visage de face, tout en déplaçant uniquement le regard vers le côté, par exemple : séparer clairement dans le prompt les indications de jeu entre « l’orientation du corps (du visage) » et « le regard »  \nCréer une vidéo générée avec Seedance 2.5 en utilisant les fonctionnalités IA de CapCut"
+    },
+    "ko": {
+      "content": "얼굴은 정면을 유지한 채 시선만 옆으로 향하게 하는 식으로, “몸(얼굴)의 방향”과 “시선”을 분리해 구체적인 연기 지시를 프롬프트에 넣는다  \nCapCut의 AI 기능을 사용해 Seedance 2.5 생성 영상을 제작한다"
+    },
+    "pt": {
+      "content": "Incorpore instruções de atuação específicas no prompt, separando a “orientação do corpo (rosto)” da “direção do olhar”, como em “o rosto permanece de frente, mas os olhos olham para o lado”.  \nCriar vídeos gerados com o Seedance 2.5 usando os recursos de IA do CapCut"
+    },
+    "zh": {
+      "content": "将“身体（脸）的朝向”和“视线”分开，在 prompt 中加入具体的表演指示，例如“脸保持正面，只把视线移向旁边”  \n使用 CapCut 的 AI 功能制作 Seedance 2.5 生成视频"
+    }
+  }
+}

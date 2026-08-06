@@ -1,0 +1,42 @@
+{
+  "id": "2085068412078694742",
+  "title": "Force skin imperfections into the prompt (pores, tear catching light, flush…",
+  "content": "Force skin imperfections into the prompt (pores, tear catching light, flush around the eyes, slight redness on the nose) to avoid a “poreless mask” and make emotion read as real.  \nIn Seedance 2.5, use up to 50 reference inputs of the same face (multiple angles) to lock identity and eliminate frame-to-frame micro-drift.  \nDirect the performance with second-by-second, timestamped beats instead of a single prompt like “she cries” (e.g., specify micro-actions per 1–2s: laugh → blink → eyes glass over → first tear → wipe → wet smile).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085068402889011200/img/QTOoy8mvwalWLV4u.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085068412078694742.mp4",
+  "sourceLink": "https://x.com/cookwithmrz/status/2085068412078694742",
+  "sourcePublishedAt": "2026-08-05",
+  "author": {
+    "name": "Zeid “Zieed” Daoud",
+    "link": "https://x.com/cookwithmrz"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Force skin imperfections into the prompt (pores, tear catching light, flush around the eyes, slight redness on the nose) to avoid a “poreless mask” and make emotion read as real.  \nIn Seedance 2.5, use up to 50 reference inputs of the same face (multiple angles) to lock identity and eliminate frame-to-frame micro-drift.  \nDirect the performance with second-by-second, timestamped beats instead of a single prompt like “she cries” (e.g., specify micro-actions per 1–2s: laugh → blink → eyes glass over → first tear → wipe → wet smile).",
+  "translations": {
+    "es": {
+      "content": "Incluye imperfecciones de la piel en el prompt (poros, lágrimas captando la luz, rubor alrededor de los ojos, leve enrojecimiento en la nariz) para evitar una “máscara sin poros” y hacer que la emoción se perciba como real.  \nEn Seedance 2.5, usa hasta 50 inputs de referencia del mismo rostro (múltiples ángulos) para fijar la identidad y eliminar el micro-drift de un frame a otro.  \nDirige la interpretación con beats marcados por timestamp, segundo a segundo, en lugar de un solo prompt como “she cries” (por ejemplo, especifica microacciones por cada 1–2 s: laugh → blink → eyes glass over → first tear → wipe → wet smile)."
+    },
+    "fr": {
+      "content": "Intégrez les imperfections de la peau dans le prompt (pores, larmes captant la lumière, rougeur autour des yeux, légère rougeur sur le nez) afin d’éviter un « masque sans pores » et de rendre l’émotion plus authentique.  \nDans Seedance 2.5, utilisez jusqu’à 50 références de la même personne (sous plusieurs angles) pour verrouiller l’identité et éliminer les micro-dérives d’une image à l’autre.  \nDirigez la performance avec des beats horodatés, seconde par seconde, plutôt qu’avec un seul prompt comme « she cries » (par exemple, précisez des micro-actions toutes les 1 à 2 s : rire → cligner des yeux → regard qui se voile → première larme → essuyer → sourire humide)."
+    },
+    "ja": {
+      "content": "肌の欠点を prompt に入れる（毛穴、光を受ける涙、目の周りの赤み、鼻先のわずかな赤み）ことで、「毛穴のないマスク」感を避け、感情をより本物らしく見せる。  \nSeedance 2.5 では、同じ顔の reference input を最大50枚（複数アングル）使って identity を固定し、フレームごとの微妙なブレをなくす。  \n「she cries」のような単一の prompt ではなく、秒単位の timestamp 付きの beat で演技を指示する（例：1〜2秒ごとの micro-actions を指定する：笑う → まばたき → 目が潤む → 最初の涙 → 拭う → 濡れた笑顔）。"
+    },
+    "ko": {
+      "content": "피부 결점을 prompt에 반드시 포함하세요(모공, 빛을 머금은 눈물, 눈가의 홍조, 코의 약간의 붉은기 등). 그래야 “poreless mask”를 피하고 감정이 더 실제처럼 읽힙니다.  \nSeedance 2.5에서는 같은 얼굴의 reference input을 최대 50개까지 사용해(다양한 각도) identity를 고정하고, 프레임 간 미세한 드리프트를 없앨 수 있습니다.  \n“she cries”처럼 하나의 prompt로 끝내지 말고, 초 단위로 timestamp를 넣은 비트로 퍼포먼스를 디렉팅하세요(예: 1~2초마다의 micro-actions를 지정: laugh → blink → eyes glass over → first tear → wipe → wet smile)."
+    },
+    "pt": {
+      "content": "Force imperfeições da pele no prompt (poros, lágrima refletindo a luz, rubor ao redor dos olhos, leve vermelhidão no nariz) para evitar uma “máscara sem poros” e fazer a emoção parecer real.  \nNo Seedance 2.5, use até 50 inputs de referência do mesmo rosto (múltiplos ângulos) para travar a identidade e eliminar microdesvios de um frame para o outro.  \nDirija a performance com beats cronometrados, segundo a segundo, em vez de um único prompt como “ela chora” (por exemplo, especifique microações a cada 1–2s: rir → piscar → olhos marejarem → primeira lágrima → limpar → sorriso molhado)."
+    },
+    "zh": {
+      "content": "在 prompt 中加入皮肤瑕疵（毛孔、泪光反射、眼周泛红、鼻尖轻微发红），以避免出现“无毛孔面具感”，并让情绪表现更真实。  \n在 Seedance 2.5 中，使用最多 50 张同一张脸的参考输入（多个角度）来锁定身份，并消除逐帧微漂移。  \n用按秒标注的节拍来指导表演，而不是只用一个像“她哭了”这样的单一 prompt（例如，按 1–2 秒细化微动作：笑 → 眨眼 → 眼神泛起泪光 → 第一滴泪 → 擦拭 → 带泪微笑）。"
+    }
+  }
+}

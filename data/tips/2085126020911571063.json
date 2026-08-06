@@ -1,0 +1,42 @@
+{
+  "id": "2085126020911571063",
+  "title": "Avoid combining orbit camera movement with multiple weapon reveals in Seedance…",
+  "content": "Avoid combining orbit camera movement with multiple weapon reveals in Seedance 2.5, as it can cause reveal elements to get mixed up and the clip to fall apart.  \nKeep event density low in Seedance 2.5; three or more characters plus three weapon reveals plus camera work exceeds its current limits.  \nUse static shots instead of orbit camera work when you need complex weapon reveals to hold up reliably in Seedance 2.5.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085125941551104000/img/GcwuRb2gwMwRmbku.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085126020911571063.mp4",
+  "sourceLink": "https://x.com/hero84/status/2085126020911571063",
+  "sourcePublishedAt": "2026-08-05",
+  "author": {
+    "name": "MINa",
+    "link": "https://x.com/hero84"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Avoid combining orbit camera movement with multiple weapon reveals in Seedance 2.5, as it can cause reveal elements to get mixed up and the clip to fall apart.  \nKeep event density low in Seedance 2.5; three or more characters plus three weapon reveals plus camera work exceeds its current limits.  \nUse static shots instead of orbit camera work when you need complex weapon reveals to hold up reliably in Seedance 2.5.",
+  "translations": {
+    "es": {
+      "content": "Evita combinar el movimiento de cámara orbital con múltiples revelaciones de armas en Seedance 2.5, ya que puede hacer que los elementos de la revelación se mezclen y que el clip se desmorone.  \nMantén baja la densidad de eventos en Seedance 2.5; tres o más personajes, más tres revelaciones de armas, más trabajo de cámara superan sus límites actuales.  \nUsa planos estáticos en lugar de cámara orbital cuando necesites que revelaciones de armas complejas se mantengan de forma fiable en Seedance 2.5."
+    },
+    "fr": {
+      "content": "Évitez de combiner un mouvement de caméra orbitale avec plusieurs révélations d’armes dans Seedance 2.5, car cela peut entraîner un mélange des éléments révélés et faire s’effondrer le clip.  \nGardez une faible densité d’événements dans Seedance 2.5 ; trois personnages ou plus, plus trois révélations d’armes, plus un travail de caméra dépassent ses limites actuelles.  \nUtilisez des plans fixes plutôt qu’un mouvement de caméra orbitale lorsque vous avez besoin que des révélations d’armes complexes tiennent de manière fiable dans Seedance 2.5."
+    },
+    "ja": {
+      "content": "Seedance 2.5では、orbit camera movement と複数の weapon reveal を組み合わせないでください。reveal 要素が混ざってしまい、クリップが崩れる原因になります。  \nSeedance 2.5では event density を低く保ってください。3人以上のキャラクターに加えて3つ以上の weapon reveal と camera work を入れると、現時点の制限を超えてしまいます。  \nSeedance 2.5で複雑な weapon reveal を安定して成立させたい場合は、orbit camera work の代わりに static shots を使ってください。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서는 orbit camera movement와 여러 weapon reveal을 함께 사용하지 마세요. reveal 요소가 섞여서 클립이 무너질 수 있습니다.  \nSeedance 2.5에서는 event density를 낮게 유지하세요. 캐릭터 3명 이상에 weapon reveal 3개 이상, 그리고 camera work까지 더해지면 현재 한계를 초과합니다.  \n복잡한 weapon reveal을 안정적으로 유지해야 할 때는 Seedance 2.5에서 orbit camera work 대신 static shot을 사용하세요."
+    },
+    "pt": {
+      "content": "Evite combinar movimento de câmera em órbita com múltiplas revelações de armas no Seedance 2.5, pois isso pode fazer com que os elementos revelados se misturem e o clipe se desfaça.  \nMantenha a densidade de eventos baixa no Seedance 2.5; três ou mais personagens, mais três revelações de armas, além de trabalho de câmera, excedem seus limites atuais.  \nUse planos estáticos em vez de movimento de câmera em órbita quando precisar que revelações complexas de armas se sustentem de forma confiável no Seedance 2.5."
+    },
+    "zh": {
+      "content": "避免在 Seedance 2.5 中将 orbit camera movement 与多个武器揭示同时结合使用，因为这可能会导致揭示元素混淆，并使片段崩坏。  \n在 Seedance 2.5 中保持较低的事件密度；三个或更多角色，再加上三个武器揭示以及镜头运动，已经超出了它当前的限制。  \n当你需要复杂的武器揭示能够稳定呈现时，在 Seedance 2.5 中应使用 static shots，而不是 orbit camera work。"
+    }
+  }
+}
