@@ -1,0 +1,42 @@
+{
+  "id": "2085219893180563470",
+  "title": "在 Seedance2.5 里不上传任何参考图，直接用纯文字描述生成完整 30s 宣传片（从头到尾一气呵成）",
+  "content": "在 Seedance2.5 里不上传任何参考图，直接用纯文字描述生成完整 30s 宣传片（从头到尾一气呵成）",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085219821986480128/img/w73R2-oNKeFIGZF0.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085219893180563470.mp4",
+  "sourceLink": "https://x.com/hahazwei/status/2085219893180563470",
+  "sourcePublishedAt": "2026-08-06",
+  "author": {
+    "name": "haha🌈.sats",
+    "link": "https://x.com/hahazwei"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "在 Seedance2.5 里不上传任何参考图，直接用纯文字描述生成完整 30s 宣传片（从头到尾一气呵成）",
+  "translations": {
+    "en": {
+      "content": "In Seedance 2.5, don’t upload any reference images—just use a pure text description to generate a complete 30-second promotional video in one seamless take, from start to finish."
+    },
+    "es": {
+      "content": "En Seedance2.5, no subas ninguna imagen de referencia; genera directamente un spot publicitario completo de 30 s con una descripción puramente textual (de principio a fin, de una sola vez)."
+    },
+    "fr": {
+      "content": "Dans Seedance2.5, n’importez aucune image de référence et utilisez directement une description entièrement textuelle pour générer une publicité complète de 30 s, d’un seul tenant du début à la fin."
+    },
+    "ja": {
+      "content": "Seedance2.5 では、参考画像を一切アップロードせず、純粋なテキストだけで、最初から最後まで一気通貫の完全な30秒プロモーション映像を生成する。"
+    },
+    "ko": {
+      "content": "Seedance2.5에서는 참고 이미지를 전혀 업로드하지 않고, 순수 텍스트 설명만으로 완성도 높은 30초 홍보 영상을 처음부터 끝까지 한 번에 생성합니다."
+    },
+    "pt": {
+      "content": "No Seedance2.5, não envie nenhuma imagem de referência; gere diretamente um vídeo promocional completo de 30s apenas com uma descrição em texto puro (do início ao fim, em uma única tomada)."
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2085398288799592642",
+  "title": "Use Seedance 2.5’s Timestamp Refinement to adjust specific moments in a longer…",
+  "content": "Use Seedance 2.5’s Timestamp Refinement to adjust specific moments in a longer sequence that aren’t landing.\n\nUse Seedance 2.5’s AI Extend to reshape or expand parts of a sequence to improve the setup/turn/payoff storytelling arc.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085393754710769665/img/cfDBg20brhB8A1Uv.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085398288799592642.mp4",
+  "sourceLink": "https://x.com/HeyAmit_/status/2085398288799592642",
+  "sourcePublishedAt": "2026-08-06",
+  "author": {
+    "name": "Amit",
+    "link": "https://x.com/HeyAmit_"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5’s Timestamp Refinement to adjust specific moments in a longer sequence that aren’t landing.\n\nUse Seedance 2.5’s AI Extend to reshape or expand parts of a sequence to improve the setup/turn/payoff storytelling arc.",
+  "translations": {
+    "es": {
+      "content": "Usa Timestamp Refinement de Seedance 2.5 para ajustar momentos específicos de una secuencia más larga que no están funcionando.\n\nUsa AI Extend de Seedance 2.5 para reestructurar o ampliar partes de una secuencia y mejorar el arco narrativo de planteamiento/desarrollo/desenlace."
+    },
+    "fr": {
+      "content": "Utilisez le Timestamp Refinement de Seedance 2.5 pour ajuster des moments précis d’une séquence plus longue qui ne fonctionnent pas.\n\nUtilisez l’AI Extend de Seedance 2.5 pour remodeler ou développer certaines parties d’une séquence afin d’améliorer l’arc narratif mise en place / rebondissement / résolution."
+    },
+    "ja": {
+      "content": "Seedance 2.5のTimestamp Refinementを使って、長めのシーケンスの中でうまく決まっていない特定の瞬間を調整します。\n\nSeedance 2.5のAI Extendを使って、シーケンスの一部を再構成したり拡張したりし、setup/turn/payoffのストーリーテリングの流れを改善します。"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 Timestamp Refinement을 사용해 더 긴 시퀀스에서 원하는 대로 잘 나오지 않는 특정 순간을 조정하세요.\n\nSeedance 2.5의 AI Extend를 사용해 시퀀스의 일부를 재구성하거나 확장하여 setup/turn/payoff 스토리텔링 아크를 더 잘 살리세요."
+    },
+    "pt": {
+      "content": "Use o Timestamp Refinement do Seedance 2.5 para ajustar momentos específicos em uma sequência mais longa que não estejam funcionando.\n\nUse o AI Extend do Seedance 2.5 para remodelar ou expandir partes de uma sequência e melhorar o arco narrativo de setup/turn/payoff."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 的 Timestamp Refinement 来调整长序列中那些没有达到预期效果的特定时刻。\n\n使用 Seedance 2.5 的 AI Extend 来重塑或扩展序列中的部分内容，以优化铺垫/转折/收束的叙事弧线。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2085230822077182182",
+  "title": "Use Seedance 2.5’s 30-second generation to do non-linear storytelling…",
+  "content": "Use Seedance 2.5’s 30-second generation to do non-linear storytelling (flashbacks/flashforwards) within a single clip instead of generating separate clips and editing them together  \nIn auteur scripts, use value -> label mapping for wardrobe and location, and key -> value mapping for lighting and color palette to keep the execution section concise  \nRepeat critical state details (e.g., LOC01/LOC02 and wardrobe) at each macro-state/shot change to reduce failed generations and prevent the model from getting confused  \nAvoid relying on separate [AESTHETIC] or [REFERENCE] blocks for stateful details if you’re switching timelines, because the model may carry over prior-state attributes (e.g., flashback outfit) into the present; re-specify those attributes when returning to the present  \nGenerate at 480p in Seedance 2.5 if you want out-of-the-box results with minimal post (minor edits/music) while still benefiting from improved realism quality over 2.0",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085229936177270784/img/hJUPQ39ItDpyJMMB.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085230822077182182.mp4",
+  "sourceLink": "https://x.com/tarumainfo/status/2085230822077182182",
+  "sourcePublishedAt": "2026-08-06",
+  "author": {
+    "name": "taruma sakti",
+    "link": "https://x.com/tarumainfo"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5’s 30-second generation to do non-linear storytelling (flashbacks/flashforwards) within a single clip instead of generating separate clips and editing them together  \nIn auteur scripts, use value -> label mapping for wardrobe and location, and key -> value mapping for lighting and color palette to keep the execution section concise  \nRepeat critical state details (e.g., LOC01/LOC02 and wardrobe) at each macro-state/shot change to reduce failed generations and prevent the model from getting confused  \nAvoid relying on separate [AESTHETIC] or [REFERENCE] blocks for stateful details if you’re switching timelines, because the model may carry over prior-state attributes (e.g., flashback outfit) into the present; re-specify those attributes when returning to the present  \nGenerate at 480p in Seedance 2.5 if you want out-of-the-box results with minimal post (minor edits/music) while still benefiting from improved realism quality over 2.0",
+  "translations": {
+    "es": {
+      "content": "Usa la generación de 30 segundos de Seedance 2.5 para hacer narración no lineal (flashbacks/flashforwards) dentro de un solo clip, en lugar de generar clips separados y editarlos después.  \nEn scripts de autor, usa mapeo value -> label para vestuario y ubicación, y mapeo key -> value para iluminación y paleta de color, para mantener concisa la sección de ejecución.  \nRepite los detalles críticos del estado (p. ej., LOC01/LOC02 y vestuario) en cada cambio de macroestado/shot para reducir generaciones fallidas y evitar que el modelo se confunda.  \nEvita depender de bloques separados [AESTHETIC] o [REFERENCE] para detalles con estado si estás cambiando de línea temporal, porque el modelo puede arrastrar atributos del estado anterior (p. ej., el atuendo del flashback) al presente; vuelve a especificar esos atributos al regresar al presente.  \nGenera a 480p en Seedance 2.5 si quieres resultados listos para usar con una posproducción mínima (ediciones menores/música), sin dejar de beneficiarte de una calidad de realismo mejorada frente a 2.0."
+    },
+    "fr": {
+      "content": "Utilisez la génération de 30 secondes de Seedance 2.5 pour faire du storytelling non linéaire (flashbacks/flashforwards) au sein d’un seul clip, au lieu de générer des clips séparés puis de les monter ensemble.  \nDans les scripts d’auteur, utilisez un mapping valeur -> label pour la garde-robe et le lieu, et un mapping clé -> valeur pour l’éclairage et la palette de couleurs afin de garder la section d’exécution concise.  \nRépétez les détails d’état critiques (par ex. LOC01/LOC02 et la garde-robe) à chaque changement de macro-état/plan afin de réduire les générations échouées et d’éviter que le modèle ne se mélange.  \nÉvitez de vous appuyer sur des blocs [AESTHETIC] ou [REFERENCE] séparés pour les détails liés à l’état si vous changez de timeline, car le modèle peut réutiliser des attributs de l’état précédent (par ex. la tenue du flashback) dans le présent ; redéfinissez ces attributs lorsque vous revenez au présent.  \nGénérez en 480p dans Seedance 2.5 si vous voulez des résultats prêts à l’emploi avec un post-traitement minimal (petites retouches/musique), tout en bénéficiant d’une meilleure qualité de réalisme qu’en 2.0."
+    },
+    "ja": {
+      "content": "Seedance 2.5 の30秒生成を使って、別々のクリップを生成して編集でつなぐのではなく、1つのクリップ内で非線形ストーリーテリング（フラッシュバック／フラッシュフォワード）を行う  \nオーター脚本では、衣装とロケーションには value -> label のマッピング、照明とカラーパレットには key -> value のマッピングを使い、実行セクションを簡潔に保つ  \n失敗生成を減らし、モデルが混乱しないように、各マクロ状態／ショットの切り替えごとに重要な状態情報（例: LOC01/LOC02 と衣装）を繰り返し記載する  \nタイムラインを切り替える場合、状態を持つ詳細については別々の [AESTHETIC] や [REFERENCE] ブロックに頼らないこと。モデルが前の状態の属性（例: フラッシュバック時の衣装）を現在に引き継いでしまう可能性があるため、現在に戻る際はそれらの属性を再指定する  \n最小限の後処理（軽微な編集／音楽追加）で、そのまま使える結果を得つつ、2.0 より向上したリアリズム品質の恩恵も受けたいなら、Seedance 2.5 では 480p で生成する"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 30초 생성 기능을 활용해, 별도의 클립을 생성한 뒤 편집으로 이어 붙이는 대신 하나의 클립 안에서 비선형 서사(플래시백/플래시포워드)를 구현하세요.  \n오퇴르 스크립트에서는 의상과 로케이션에는 value -> label 매핑을, 조명과 컬러 팔레트에는 key -> value 매핑을 사용해 execution 섹션을 간결하게 유지하세요.  \n실패한 생성 결과를 줄이고 모델이 혼동하지 않도록, 각 macro-state/shot 전환마다 LOC01/LOC02와 의상 같은 핵심 상태 정보를 반복해서 명시하세요.  \n타임라인을 전환할 때는 상태가 있는 세부사항에 대해 별도의 [AESTHETIC] 또는 [REFERENCE] 블록에 의존하지 마세요. 모델이 이전 상태의 속성(예: 플래시백 의상)을 현재 시점으로 가져올 수 있기 때문입니다. 현재로 돌아올 때는 해당 속성을 다시 명시하세요.  \n2.0보다 향상된 사실감 품질의 이점을 유지하면서도, 최소한의 후반 작업(약간의 편집/음악)만으로 바로 쓸 수 있는 결과를 원한다면 Seedance 2.5에서 480p로 생성하세요."
+    },
+    "pt": {
+      "content": "Use a geração de 30 segundos do Seedance 2.5 para fazer storytelling não linear (flashbacks/flashforwards) dentro de um único clipe, em vez de gerar clipes separados e editá-los juntos  \nEm roteiros de autor, use mapeamento value -> label para figurino e locação, e mapeamento key -> value para iluminação e paleta de cores, para manter a seção de execução concisa  \nRepita detalhes críticos de estado (por exemplo, LOC01/LOC02 e figurino) a cada mudança de macroestado/plano para reduzir gerações com falha e evitar que o modelo fique confuso  \nEvite depender de blocos separados [AESTHETIC] ou [REFERENCE] para detalhes com estado se você estiver alternando linhas do tempo, porque o modelo pode переносar atributos do estado anterior (por exemplo, roupa do flashback) para o presente; reespecifique esses atributos ao retornar ao presente  \nGere em 480p no Seedance 2.5 se você quiser resultados prontos para uso com pós-produção mínima (pequenos ajustes/música), ainda se beneficiando da qualidade de realismo aprimorada em relação ao 2.0"
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 的 30 秒生成能力，在单个片段内实现非线性叙事（闪回/闪前），而不是分别生成多个片段再剪辑拼接  \n在 auteur 脚本中，服装和地点使用 value -> label 映射，灯光和色彩方案使用 key -> value 映射，以保持执行部分简洁  \n在每次宏状态/镜头切换时重复关键状态细节（例如 LOC01/LOC02 和服装），以减少生成失败并防止模型混淆  \n如果你在切换时间线时需要处理有状态细节，不要过度依赖单独的 [AESTHETIC] 或 [REFERENCE] 区块，因为模型可能会把前一状态的属性（例如闪回服装）带入当前时刻；回到现在时应重新指定这些属性  \n如果你希望以最少后期处理（轻微剪辑/配乐）获得开箱即用的结果，同时仍能受益于比 2.0 更高的真实感质量，那么在 Seedance 2.5 中以 480p 生成"
+    }
+  }
+}

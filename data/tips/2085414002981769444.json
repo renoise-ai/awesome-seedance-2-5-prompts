@@ -1,0 +1,42 @@
+{
+  "id": "2085414002981769444",
+  "title": "Use Seedance 2.5’s multimodal references feature and provide up to 50 reference…",
+  "content": "Use Seedance 2.5’s multimodal references feature and provide up to 50 reference inputs to create a detailed creative brief that reduces material/camera/product identity drift across frames.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085413964821979136/img/3ZnGPRVZhRBPKLcb.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085414002981769444.mp4",
+  "sourceLink": "https://x.com/HeyNayeem/status/2085414002981769444",
+  "sourcePublishedAt": "2026-08-06",
+  "author": {
+    "name": "Nayeem Sheikh",
+    "link": "https://x.com/HeyNayeem"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5’s multimodal references feature and provide up to 50 reference inputs to create a detailed creative brief that reduces material/camera/product identity drift across frames.",
+  "translations": {
+    "es": {
+      "content": "Usa la función de referencias multimodales de Seedance 2.5 y proporciona hasta 50 entradas de referencia para crear un brief creativo detallado que reduzca la deriva de material/cámara/identidad del producto entre fotogramas."
+    },
+    "fr": {
+      "content": "Utilisez la fonctionnalité de références multimodales de Seedance 2.5 et fournissez jusqu’à 50 entrées de référence pour créer un brief créatif détaillé qui réduit les dérives de matériau, de caméra et d’identité du produit d’une image à l’autre."
+    },
+    "ja": {
+      "content": "Seedance 2.5のマルチモーダル参照機能を活用し、最大50件の参照入力を提供することで、フレーム間での素材・カメラ・製品アイデンティティのブレを抑えた、詳細なクリエイティブブリーフを作成できます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 멀티모달 레퍼런스 기능을 사용해 최대 50개의 레퍼런스 입력을 제공하면, 프레임 간 소재/카메라/제품 아이덴티티 드리프트를 줄이는 상세한 크리에이티브 브리프를 만들 수 있습니다."
+    },
+    "pt": {
+      "content": "Use o recurso de referências multimodais do Seedance 2.5 e forneça até 50 inputs de referência para criar um briefing criativo detalhado que reduza a variação de material/câmera/identidade do produto entre os frames."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 的多模态参考功能，最多可提供 50 个参考输入，以创建一份详细的创意简报，从而减少各帧之间的素材、镜头和产品身份漂移。"
+    }
+  }
+}

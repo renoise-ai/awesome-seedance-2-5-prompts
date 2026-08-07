@@ -1,0 +1,42 @@
+{
+  "id": "2085363953383960915",
+  "title": "なるべくシンプルなプロンプト／構成にしてSeedance 2.5を生成すると、複雑にしすぎた場合より安定して良い結果になりやすい",
+  "content": "なるべくシンプルなプロンプト／構成にしてSeedance 2.5を生成すると、複雑にしすぎた場合より安定して良い結果になりやすい  \n破綻（例：カップ麺の崩れ）は入力画像の品質に左右されるので、参照画像は歪みや欠けの少ないものを渡す",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085363420480897024/img/zhUHkM3xsuV6f7WG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085363953383960915.mp4",
+  "sourceLink": "https://x.com/manga_nimation/status/2085363953383960915",
+  "sourcePublishedAt": "2026-08-06",
+  "author": {
+    "name": "彼方｜300日で未経験からAIクリエイターとして成長する記録",
+    "link": "https://x.com/manga_nimation"
+  },
+  "tags": [
+    "Product Ad",
+    "F&B",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "なるべくシンプルなプロンプト／構成にしてSeedance 2.5を生成すると、複雑にしすぎた場合より安定して良い結果になりやすい  \n破綻（例：カップ麺の崩れ）は入力画像の品質に左右されるので、参照画像は歪みや欠けの少ないものを渡す",
+  "translations": {
+    "en": {
+      "content": "When generating with Seedance 2.5, keeping the prompt/composition as simple as possible tends to produce more stable and better results than making it too complex.  \nArtifacts or breakdowns (e.g., a cup noodle collapsing) depend on the quality of the input image, so provide reference images with as little distortion or missing detail as possible."
+    },
+    "es": {
+      "content": "Cuando se genera con Seedance 2.5 usando un prompt/composición lo más simple posible, suele obtenerse un resultado más estable y mejor que cuando se complica demasiado.  \nLas deformaciones o fallos de coherencia (por ejemplo, que un vaso de fideos instantáneos se desmorone) dependen de la calidad de la imagen de entrada, así que conviene proporcionar imágenes de referencia con la menor distorsión o partes faltantes posible."
+    },
+    "fr": {
+      "content": "Lorsque l’on génère avec Seedance 2.5 en gardant un prompt / une composition aussi simples que possible, on obtient généralement des résultats plus stables et meilleurs que lorsqu’on complexifie trop le tout.  \nLes déformations ou ruptures (par exemple, un cup ramen qui s’effondre) dépendent de la qualité de l’image d’entrée ; il faut donc fournir des images de référence présentant le moins possible de distorsions ou de parties manquantes."
+    },
+    "ko": {
+      "content": "가능한 한 단순한 prompt/구성으로 Seedance 2.5를 생성하면, 너무 복잡하게 했을 때보다 더 안정적으로 좋은 결과가 나오기 쉽다  \n붕괴(예: 컵라면이 무너지는 현상)는 입력 이미지의 품질에 좌우되므로, 참조 이미지는 왜곡이나 결손이 적은 것을 사용한다"
+    },
+    "pt": {
+      "content": "Ao gerar no Seedance 2.5 com um prompt/estrutura o mais simples possível, é mais provável obter resultados estáveis e bons do que ao complicar demais.\n\nFalhas de consistência (por exemplo, o desmoronamento de um copo de macarrão instantâneo) dependem da qualidade da imagem de entrada, então forneça imagens de referência com o mínimo possível de distorções ou partes faltando."
+    },
+    "zh": {
+      "content": "尽量使用简单的 prompt／构图来生成 Seedance 2.5，通常会比过于复杂的情况更稳定，也更容易得到更好的结果。  \n崩坏（例如：杯面变形）会受输入图像质量影响，因此应提供畸变和缺损较少的参考图像。"
+    }
+  }
+}

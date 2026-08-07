@@ -1,0 +1,42 @@
+{
+  "id": "2085418303825093006",
+  "title": "Split Seedance 2.5’s 30s generation into explicit timed prompt slices (e.g…",
+  "content": "Split Seedance 2.5’s 30s generation into explicit timed prompt slices (e.g., 0–3s hook/pattern interrupt, 3–8s problem agitation, 8–15s product in hand, 15–24s proof, 24–30s CTA) so each beat is locked to its own time window and the model can’t drift.  \nUse a shot-list style prompt per time slice instead of one long paragraph to keep the 30s sequence directed.  \nTag references inline for each slice (face ref, product ref, style ref) and reuse the exact same tags across all slices to keep character and product consistent from first frame to last.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085418130117947393/img/NGqxQ16biLOtV1Yh.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085418303825093006.mp4",
+  "sourceLink": "https://x.com/cookwithmrz/status/2085418303825093006",
+  "sourcePublishedAt": "2026-08-06",
+  "author": {
+    "name": "Zeid “Zieed” Daoud",
+    "link": "https://x.com/cookwithmrz"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Split Seedance 2.5’s 30s generation into explicit timed prompt slices (e.g., 0–3s hook/pattern interrupt, 3–8s problem agitation, 8–15s product in hand, 15–24s proof, 24–30s CTA) so each beat is locked to its own time window and the model can’t drift.  \nUse a shot-list style prompt per time slice instead of one long paragraph to keep the 30s sequence directed.  \nTag references inline for each slice (face ref, product ref, style ref) and reuse the exact same tags across all slices to keep character and product consistent from first frame to last.",
+  "translations": {
+    "es": {
+      "content": "Divide la generación de 30 s de Seedance 2.5 en fragmentos de prompt con tiempo explícito (por ejemplo, 0–3 s gancho/interrupción del patrón, 3–8 s intensificación del problema, 8–15 s producto en mano, 15–24 s prueba, 24–30 s CTA) para que cada beat quede fijado a su propia ventana temporal y el modelo no se desvíe.  \nUsa un prompt estilo shot list para cada intervalo de tiempo en lugar de un solo párrafo largo, para mantener la secuencia de 30 s bien dirigida.  \nEtiqueta las referencias en línea para cada fragmento (face ref, product ref, style ref) y reutiliza exactamente las mismas etiquetas en todos los fragmentos para mantener coherentes el personaje y el producto del primer fotograma al último."
+    },
+    "fr": {
+      "content": "Découpez la génération de 30 s de Seedance 2.5 en segments de prompt explicites et minutés (par ex. 0–3 s hook/pattern interrupt, 3–8 s agitation du problème, 8–15 s produit en main, 15–24 s preuve, 24–30 s CTA) afin que chaque temps fort soit verrouillé dans sa propre fenêtre temporelle et que le modèle ne dérive pas.  \nUtilisez un prompt de type shot list pour chaque tranche de temps plutôt qu’un long paragraphe, afin de garder la séquence de 30 s bien dirigée.  \nAjoutez les références en ligne pour chaque segment (face ref, product ref, style ref) et réutilisez exactement les mêmes tags dans toutes les tranches pour conserver la cohérence du personnage et du produit du premier au dernier frame."
+    },
+    "ja": {
+      "content": "Seedance 2.5 の30秒生成を、明確な時間指定の prompt スライスに分割します（例：0〜3秒はフック／パターンインタラプト、3〜8秒は問題提起、8〜15秒は商品を手に持つ、15〜24秒は証拠、24〜30秒はCTA）。こうすることで、各ビートがそれぞれの時間枠に固定され、モデルが意図から逸脱しにくくなります。  \n30秒のシーケンスを意図どおりに保つため、1つの長い段落ではなく、各時間スライスごとに shot-list 形式の prompt を使います。  \n各スライスには参照情報をインラインでタグ付けし（face ref、product ref、style ref）、すべてのスライスでまったく同じタグを再利用して、最初のフレームから最後のフレームまでキャラクターと商品を一貫させます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 30초 생성 결과를 명시적인 타임드 프롬프트 슬라이스로 나누세요. 예: 0–3초 훅/패턴 인터럽트, 3–8초 문제 제기, 8–15초 제품을 손에 든 장면, 15–24초 증거, 24–30초 CTA. 이렇게 하면 각 비트가 고유한 시간 구간에 고정되어 모델이 흐트러지지 않습니다.  \n30초 시퀀스를 한 덩어리의 긴 문단으로 쓰기보다, 각 시간 구간마다 shot-list 스타일의 prompt를 사용해 연출을 유지하세요.  \n각 슬라이스마다 참조를 인라인으로 태그하세요(얼굴 ref, 제품 ref, 스타일 ref). 그리고 모든 슬라이스에서 정확히 동일한 태그를 재사용해 첫 프레임부터 마지막 프레임까지 캐릭터와 제품의 일관성을 유지하세요."
+    },
+    "pt": {
+      "content": "Divida a geração de 30s do Seedance 2.5 em fatias explícitas de prompt com tempo definido (por exemplo, 0–3s hook/pattern interrupt, 3–8s problem agitation, 8–15s product in hand, 15–24s proof, 24–30s CTA), para que cada beat fique travado na sua própria janela de tempo e o modelo não possa desviar.  \nUse um prompt em estilo shot list para cada fatia de tempo, em vez de um único parágrafo longo, para manter a sequência de 30s direcionada.  \nMarque as referências inline para cada fatia (face ref, product ref, style ref) e reutilize exatamente as mesmas tags em todas as fatias para manter o personagem e o produto consistentes do primeiro ao último frame."
+    },
+    "zh": {
+      "content": "将 Seedance 2.5 的 30 秒生成拆分为明确的定时 prompt 片段（例如：0–3 秒 hook/模式打断，3–8 秒问题激化，8–15 秒手持产品，15–24 秒证明，24–30 秒 CTA），这样每个节拍都被锁定在各自的时间窗口内，模型就不会跑偏。  \n针对每个时间片使用 shot-list 风格的 prompt，而不是一整段长文本，以保持 30 秒序列的明确导向。  \n为每个片段在行内标注参考（face ref、product ref、style ref），并在所有片段中复用完全相同的标签，以确保角色和产品从第一帧到最后一帧都保持一致。"
+    }
+  }
+}
