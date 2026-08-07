@@ -6048,4 +6048,4 @@ Run one timed prompt to generate the entire 30-second sequence end-to-end in See
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **🎬 [Seedance 2.5 模型](https://renoise.ai/zh-CN/features/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-08-07T06:24:32.036Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-08-07T09:03:42.589Z
