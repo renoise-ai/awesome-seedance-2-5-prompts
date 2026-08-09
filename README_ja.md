@@ -66,7 +66,7 @@
 | 📝 プロンプト総数 | **491** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **377** |
-| 🔄 最終更新 | **2026-08-08** |
+| 🔄 最終更新 | **2026-08-09** |
 
 ---
 
@@ -7486,4 +7486,4 @@ Run one timed prompt to generate the entire 30-second sequence end-to-end in See
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **🎬 [Seedance 2.5 モデル](https://renoise.ai/ja/features/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-08-08T20:34:04.644Z
+🤖 この README は自動生成されています。最終更新： 2026-08-09T02:00:27.467Z
