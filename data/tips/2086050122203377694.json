@@ -1,0 +1,42 @@
+{
+  "id": "2086050122203377694",
+  "title": "Drop a still photo into a Seedance 2.5 video node and prompt for a steadicam…",
+  "content": "Drop a still photo into a Seedance 2.5 video node and prompt for a steadicam camera move to animate it into a new scene (e.g., a fantasy‑medieval battle).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086048195927285760/img/_nAmbL0X_BRBvBuU.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086050122203377694.mp4",
+  "sourceLink": "https://x.com/techhalla/status/2086050122203377694",
+  "sourcePublishedAt": "2026-08-08",
+  "author": {
+    "name": "TechHalla",
+    "link": "https://x.com/techhalla"
+  },
+  "tags": [
+    "Action",
+    "Military",
+    "Photoreal",
+    "Fantasy",
+    "Tutorial"
+  ],
+  "tips": "Drop a still photo into a Seedance 2.5 video node and prompt for a steadicam camera move to animate it into a new scene (e.g., a fantasy‑medieval battle).",
+  "translations": {
+    "es": {
+      "content": "Introduce una foto fija en un nodo de video de Seedance 2.5 y usa un prompt para indicar un movimiento de cámara steadicam que la anime y la convierta en una nueva escena (por ejemplo, una batalla de fantasía medieval)."
+    },
+    "fr": {
+      "content": "Déposez une photo fixe dans un nœud vidéo Seedance 2.5 et demandez un mouvement de caméra steadicam pour l’animer dans une nouvelle scène (par exemple, une bataille fantasy médiévale)."
+    },
+    "ja": {
+      "content": "静止画をSeedance 2.5のvideo nodeに入れ、steadicamのカメラ移動をpromptして、新しいシーン（例：ファンタジー中世の戦闘シーン）へとアニメーション化します。"
+    },
+    "ko": {
+      "content": "정지 사진을 Seedance 2.5 비디오 노드에 넣고, steadicam 카메라 무브를 prompt로 입력해 새로운 장면으로 애니메이션화하세요(예: 판타지-중세 전투)."
+    },
+    "pt": {
+      "content": "Insira uma foto estática em um nó de vídeo do Seedance 2.5 e use um prompt para um movimento de câmera steadicam para animá-la em uma nova cena (por exemplo, uma batalha medieval fantástica)."
+    },
+    "zh": {
+      "content": "将一张静态照片放入 Seedance 2.5 视频节点，并提示使用 steadicam 摄影机运动，将其动画化为一个新场景（例如奇幻中世纪战斗场景）。"
+    }
+  }
+}

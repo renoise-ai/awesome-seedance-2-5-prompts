@@ -1,0 +1,42 @@
+{
+  "id": "2086231481308029202",
+  "title": "Seedance 2.5에서 실험할 때 임의의 AI 이미지(타인이 생성한 그림)를 레퍼런스로 넣고 프롬프트에 오토바이를 타고 도망간다처럼 간단한…",
+  "content": "Seedance 2.5에서 실험할 때 임의의 AI 이미지(타인이 생성한 그림)를 레퍼런스로 넣고 프롬프트에 오토바이를 타고 도망간다처럼 간단한 상황 설명만 추가해 생성해본다",
+  "language": "ko",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086231461146013696/img/RDhebJnzDWBHPmE5.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086231481308029202.mp4",
+  "sourceLink": "https://x.com/um_moo_/status/2086231481308029202",
+  "sourcePublishedAt": "2026-08-08",
+  "author": {
+    "name": "음메 (@moo)",
+    "link": "https://x.com/um_moo_"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5에서 실험할 때 임의의 AI 이미지(타인이 생성한 그림)를 레퍼런스로 넣고 프롬프트에 오토바이를 타고 도망간다처럼 간단한 상황 설명만 추가해 생성해본다",
+  "translations": {
+    "en": {
+      "content": "When experimenting in Seedance 2.5, try using a random AI-generated image (an image created by someone else) as a reference, and then add only a simple situation description to the prompt, such as “rides off on a motorcycle and escapes,” to generate the result."
+    },
+    "es": {
+      "content": "Al experimentar en Seedance 2.5, prueba a introducir como referencia una imagen de IA cualquiera (un dibujo generado por otra persona) y añade al prompt solo una descripción sencilla de la situación, como que huye en una motocicleta, para generar el resultado."
+    },
+    "fr": {
+      "content": "Lorsque vous expérimentez avec Seedance 2.5, insérez une image IA aléatoire (une image générée par quelqu’un d’autre) comme référence, puis ajoutez simplement une brève description de la situation dans le prompt, comme « s’enfuit à moto », et lancez la génération."
+    },
+    "ja": {
+      "content": "Seedance 2.5で実験する際は、任意のAI画像（他人が生成した絵）をレファレンスとして入れ、promptには「オートバイに乗って逃げる」といった簡単な状況説明だけを追加して生成してみる。"
+    },
+    "pt": {
+      "content": "Ao experimentar no Seedance 2.5, insira uma imagem de IA aleatória (uma imagem gerada por outra pessoa) como referência e adicione ao prompt apenas uma descrição simples da situação, como “fugindo de moto”, para gerar o resultado."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中进行实验时，可以将任意 AI 图像（他人生成的图片）作为参考图输入，并在 prompt 中只添加像“骑着摩托车逃走”这样简单的情境描述来生成。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2086119741949870584",
+  "title": "Upload a white model animation as a reference video in Dreamina Seedance 2.5 to…",
+  "content": "Upload a white model animation as a reference video in Dreamina Seedance 2.5 to preserve underlying movement and composition while you render a new visual style.  \nDescribe the target visual style and world in your prompt and let Dreamina Seedance 2.5 handle the rendering instead of rebuilding the animation from scratch.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/marcusyul/status/2086119741949870584",
+  "sourcePublishedAt": "2026-08-08",
+  "author": {
+    "name": "marcus",
+    "link": "https://x.com/marcusyul"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "Upload a white model animation as a reference video in Dreamina Seedance 2.5 to preserve underlying movement and composition while you render a new visual style.  \nDescribe the target visual style and world in your prompt and let Dreamina Seedance 2.5 handle the rendering instead of rebuilding the animation from scratch.",
+  "translations": {
+    "es": {
+      "content": "Sube una animación de modelo en blanco como video de referencia en Dreamina Seedance 2.5 para preservar el movimiento y la composición subyacentes mientras renderizas un nuevo estilo visual.  \nDescribe el estilo visual y el mundo objetivo en tu prompt y deja que Dreamina Seedance 2.5 se encargue del renderizado en lugar de reconstruir la animación desde cero."
+    },
+    "fr": {
+      "content": "Téléchargez une animation de modèle blanc comme vidéo de référence dans Dreamina Seedance 2.5 afin de préserver le mouvement et la composition sous-jacents pendant que vous appliquez un nouveau style visuel.  \nDécrivez le style visuel et l’univers cibles dans votre prompt, et laissez Dreamina Seedance 2.5 gérer le rendu au lieu de reconstruire l’animation à partir de zéro."
+    },
+    "ja": {
+      "content": "Dreamina Seedance 2.5 に白いモデルアニメーションを参照動画としてアップロードすると、基礎となる動きや構図を保ったまま、新しいビジュアルスタイルでレンダリングできます。  \nprompt で目指すビジュアルスタイルや世界観を記述し、アニメーションを一から作り直すのではなく、レンダリングは Dreamina Seedance 2.5 に任せましょう。"
+    },
+    "ko": {
+      "content": "Dreamina Seedance 2.5에 흰색 모델 애니메이션을 레퍼런스 비디오로 업로드하면, 새로운 비주얼 스타일을 렌더링할 때도 기본적인 움직임과 구도를 그대로 유지할 수 있습니다.  \nprompt에서 목표 비주얼 스타일과 세계관을 설명하고, 애니메이션을 처음부터 다시 만드는 대신 Dreamina Seedance 2.5가 렌더링을 처리하도록 하세요."
+    },
+    "pt": {
+      "content": "Envie uma animação de modelo branco como vídeo de referência no Dreamina Seedance 2.5 para preservar o movimento e a composição subjacentes enquanto você renderiza um novo estilo visual.  \nDescreva o estilo visual e o mundo desejados no seu prompt e deixe o Dreamina Seedance 2.5 cuidar da renderização, em vez de reconstruir a animação do zero."
+    },
+    "zh": {
+      "content": "将白模动画作为参考视频上传到 Dreamina Seedance 2.5，以在渲染新的视觉风格时保留底层的运动和构图。  \n在 prompt 中描述目标视觉风格和世界观，让 Dreamina Seedance 2.5 负责渲染，而不是从头重建动画。"
+    }
+  }
+}

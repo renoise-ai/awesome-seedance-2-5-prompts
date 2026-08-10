@@ -1,0 +1,42 @@
+{
+  "id": "2085704852114465094",
+  "title": "Use multiple reference images (e.g., 6 screenshots of your site: logo…",
+  "content": "Use multiple reference images (e.g., 6 screenshots of your site: logo, dashboard, chat UI, moderation log) as Seedance 2.5 references to keep brand elements consistent across shots.  \nIn Seedance 2.5, leverage up to 50 reference images to lock the same logo, colors, and UI/panel style across every shot.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085704484324331520/img/S8ZNNGH-9ghD8fwM.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085704852114465094.mp4",
+  "sourceLink": "https://x.com/BatsouElef/status/2085704852114465094",
+  "sourcePublishedAt": "2026-08-07",
+  "author": {
+    "name": "Eleftheria Batsou",
+    "link": "https://x.com/BatsouElef"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use multiple reference images (e.g., 6 screenshots of your site: logo, dashboard, chat UI, moderation log) as Seedance 2.5 references to keep brand elements consistent across shots.  \nIn Seedance 2.5, leverage up to 50 reference images to lock the same logo, colors, and UI/panel style across every shot.",
+  "translations": {
+    "es": {
+      "content": "Usa múltiples imágenes de referencia (por ejemplo, 6 capturas de pantalla de tu sitio: logo, panel de control, interfaz de chat, registro de moderación) como referencias de Seedance 2.5 para mantener la coherencia de los elementos de marca entre tomas.  \nEn Seedance 2.5, aprovecha hasta 50 imágenes de referencia para fijar el mismo logo, colores y estilo de interfaz/panel en cada toma."
+    },
+    "fr": {
+      "content": "Utilisez plusieurs images de référence (par exemple, 6 captures d’écran de votre site : logo, tableau de bord, interface de chat, journal de modération) comme références Seedance 2.5 afin de conserver la cohérence des éléments de marque d’une prise de vue à l’autre.  \nDans Seedance 2.5, exploitez jusqu’à 50 images de référence pour verrouiller le même logo, les mêmes couleurs et le même style d’interface/panneau sur chaque prise de vue."
+    },
+    "ja": {
+      "content": "複数の参照画像（例：サイトのスクリーンショット6枚：ロゴ、ダッシュボード、チャットUI、モデレーションログ）を Seedance 2.5 の参照として使用し、ショット間でブランド要素の一貫性を保ちます。  \nSeedance 2.5 では、最大50枚の参照画像を活用して、すべてのショットで同じロゴ、配色、UI／パネルスタイルを固定できます。"
+    },
+    "ko": {
+      "content": "여러 개의 참조 이미지를 사용하세요(예: 사이트의 스크린샷 6장: 로고, 대시보드, 채팅 UI, 모더레이션 로그). 이를 Seedance 2.5의 reference로 활용하면 샷 전반에서 브랜드 요소를 일관되게 유지할 수 있습니다.  \nSeedance 2.5에서는 최대 50장의 reference image를 활용해 모든 샷에서 동일한 로고, 색상, UI/패널 스타일을 고정할 수 있습니다."
+    },
+    "pt": {
+      "content": "Use várias imagens de referência (por exemplo, 6 screenshots do seu site: logo, dashboard, interface de chat, log de moderação) como referências do Seedance 2.5 para manter os elementos da marca consistentes entre os takes.  \nNo Seedance 2.5, aproveite até 50 imagens de referência para fixar o mesmo logo, cores e estilo de UI/painel em todos os takes."
+    },
+    "zh": {
+      "content": "使用多张参考图像（例如你网站的 6 张截图：logo、仪表盘、聊天界面、审核日志）作为 Seedance 2.5 的参考，以确保不同镜头中的品牌元素保持一致。  \n在 Seedance 2.5 中，最多可利用 50 张参考图像，来锁定每个镜头中的同一 logo、配色和 UI/面板风格。"
+    }
+  }
+}

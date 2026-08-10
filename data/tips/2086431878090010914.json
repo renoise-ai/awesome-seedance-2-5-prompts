@@ -1,0 +1,43 @@
+{
+  "id": "2086431878090010914",
+  "title": "Seedance2.5でマルチカットムービーを作るときは、クローズアップ（複数角度）→コクピット内POV→正面から背後へ回り込むショット→急加速して地平線へ消え…",
+  "content": "Seedance2.5でマルチカットムービーを作るときは、クローズアップ（複数角度）→コクピット内POV→正面から背後へ回り込むショット→急加速して地平線へ消える、のようにカット順を設計して生成する\n\nSeedance2.5は画像1枚からの再現性が高いので、ベースとなる参照画像1枚を用意してマルチカットを生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086431736666390528/img/RmXqAabdUfjAcL0O.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086431878090010914.mp4",
+  "sourceLink": "https://x.com/taziku_co/status/2086431878090010914",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "田中義弘 | taziku CEO / AI × Creative",
+    "link": "https://x.com/taziku_co"
+  },
+  "tags": [
+    "Auto",
+    "POV Drive",
+    "Photoreal",
+    "Realistic World",
+    "POV",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.5でマルチカットムービーを作るときは、クローズアップ（複数角度）→コクピット内POV→正面から背後へ回り込むショット→急加速して地平線へ消える、のようにカット順を設計して生成する\n\nSeedance2.5は画像1枚からの再現性が高いので、ベースとなる参照画像1枚を用意してマルチカットを生成する",
+  "translations": {
+    "en": {
+      "content": "When creating a multi-cut movie with Seedance 2.5, design the cut sequence for generation like this: close-ups (multiple angles) → POV inside the cockpit → a shot that moves around from the front to behind → rapid acceleration and disappearing into the horizon.\n\nBecause Seedance 2.5 has high reproducibility from a single image, prepare one base reference image and generate the multi-cut sequence from it."
+    },
+    "es": {
+      "content": "Al crear una película de multi-cut con Seedance2.5, diseña el orden de los cortes y genera algo como: primer plano (múltiples ángulos) → POV dentro de la cabina → toma que rodea desde el frente hasta la parte trasera → aceleración brusca y desaparición en el horizonte.\n\nComo Seedance2.5 tiene una alta capacidad de reproducibilidad a partir de una sola imagen, prepara una imagen de referencia base y genera el multi-cut a partir de ella."
+    },
+    "fr": {
+      "content": "Lorsque vous créez un multi-cut movie avec Seedance2.5, concevez l’ordre des plans de manière à générer quelque chose comme : gros plan (plusieurs angles) → POV à l’intérieur du cockpit → plan qui contourne le sujet de face vers l’arrière → accélération brutale jusqu’à disparaître à l’horizon.\n\nSeedance2.5 offre une forte fidélité de reproduction à partir d’une seule image, donc préparez une image de référence de base et générez le multi-cut à partir de celle-ci."
+    },
+    "ko": {
+      "content": "Seedance2.5로 멀티컷 무비를 만들 때는 클로즈업(복수 각도) → 콕핏 내부 POV → 정면에서 뒤쪽으로 돌아 들어가는 샷 → 급가속해 지평선으로 사라지는 식으로 컷 순서를 설계해 생성한다\n\nSeedance2.5는 이미지 1장만으로도 재현성이 높기 때문에, 베이스가 될 참조 이미지 1장을 준비해 멀티컷을 생성한다"
+    },
+    "pt": {
+      "content": "Ao criar um filme multi-cut com o Seedance2.5, projete a ordem dos cortes e gere algo como: close-up (múltiplos ângulos) → POV dentro do cockpit → tomada que contorna da frente para trás → acelera bruscamente e desaparece no horizonte.\n\nComo o Seedance2.5 tem alta fidelidade de reprodução a partir de uma única imagem, prepare uma imagem de referência base e gere o multi-cut a partir dela."
+    },
+    "zh": {
+      "content": "在使用 Seedance2.5 制作多镜头电影时，可以按“特写（多个角度）→驾驶舱内 POV→从正面绕到背后的镜头→急加速并消失在地平线尽头”这样的顺序来设计镜头并生成。\n\nSeedance2.5 从单张图片生成时的还原度很高，因此只需准备一张作为基础的参考图像，就可以生成多镜头内容。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2085796979356139781",
+  "title": "Avoid using negation words like no/avoid/don’t in Seedance 2.5 prompts; they…",
+  "content": "Avoid using negation words like no/avoid/don’t in Seedance 2.5 prompts; they can increase artifacts by reinforcing the unwanted concept  \nReplace negative constraints with positive descriptions of the desired result (e.g., use locked tripod shot, cinema stable instead of no shake)  \nSpecify desired facial/skin quality positively (e.g., photorealistic skin, 8K sharp features instead of no face artifacts)  \nSpecify desired lighting stability positively (e.g., consistent soft key light instead of no flickering)",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2083368866722312192/img/eVUwtMFg4V0bXIuV.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085796979356139781.mp4",
+  "sourceLink": "https://x.com/ZentrixHQ/status/2085796979356139781",
+  "sourcePublishedAt": "2026-08-07",
+  "author": {
+    "name": "Zentrix⌚️",
+    "link": "https://x.com/ZentrixHQ"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Avoid using negation words like no/avoid/don’t in Seedance 2.5 prompts; they can increase artifacts by reinforcing the unwanted concept  \nReplace negative constraints with positive descriptions of the desired result (e.g., use locked tripod shot, cinema stable instead of no shake)  \nSpecify desired facial/skin quality positively (e.g., photorealistic skin, 8K sharp features instead of no face artifacts)  \nSpecify desired lighting stability positively (e.g., consistent soft key light instead of no flickering)",
+  "translations": {
+    "es": {
+      "content": "Evita usar palabras de negación como no/avoid/don’t en los prompts de Seedance 2.5; pueden aumentar los artefactos al reforzar el concepto no deseado  \nSustituye las restricciones negativas por descripciones positivas del resultado deseado (por ejemplo, usa locked tripod shot, cinema stable en lugar de no shake)  \nEspecifica de forma positiva la calidad deseada del rostro/la piel (por ejemplo, photorealistic skin, 8K sharp features en lugar de no face artifacts)  \nEspecifica de forma positiva la estabilidad de la iluminación deseada (por ejemplo, consistent soft key light en lugar de no flickering)"
+    },
+    "fr": {
+      "content": "Évitez d’utiliser des mots de négation comme no/avoid/don’t dans les prompts Seedance 2.5 ; ils peuvent augmenter les artefacts en renforçant le concept indésirable  \nRemplacez les contraintes négatives par des descriptions positives du résultat souhaité (par exemple, utilisez locked tripod shot, cinema stable au lieu de no shake)  \nSpécifiez positivement la qualité souhaitée du visage/de la peau (par exemple, photorealistic skin, 8K sharp features au lieu de no face artifacts)  \nSpécifiez positivement la stabilité de l’éclairage souhaitée (par exemple, consistent soft key light au lieu de no flickering)"
+    },
+    "ja": {
+      "content": "Seedance 2.5 の prompt では、no / avoid / don’t のような否定語の使用を避けてください。不要な概念を強調してしまい、アーティファクトが増える可能性があります。  \n否定的な制約は、望ましい結果を表す肯定的な表現に置き換えてください（例: no shake の代わりに locked tripod shot, cinema stable を使う）。  \n顔や肌の品質は、望ましい状態を肯定的に指定してください（例: no face artifacts の代わりに photorealistic skin, 8K sharp features を使う）。  \nライティングの安定性も、望ましい状態を肯定的に指定してください（例: no flickering の代わりに consistent soft key light を使う）。"
+    },
+    "ko": {
+      "content": "Seedance 2.5 프롬프트에서는 no/avoid/don’t 같은 부정 표현을 사용하지 마세요. 원치 않는 개념을 오히려 강화해 아티팩트를 늘릴 수 있습니다.  \n부정적인 제약 대신 원하는 결과를 긍정적으로 설명하세요(예: no shake 대신 locked tripod shot, cinema stable 사용).  \n원하는 얼굴/피부 품질을 긍정적으로 명시하세요(예: no face artifacts 대신 photorealistic skin, 8K sharp features 사용).  \n원하는 조명 안정성도 긍정적으로 명시하세요(예: no flickering 대신 consistent soft key light 사용)."
+    },
+    "pt": {
+      "content": "Evite usar palavras de negação como no/avoid/don’t em prompts do Seedance 2.5; elas podem aumentar artefatos ao reforçar o conceito indesejado  \nSubstitua restrições negativas por descrições positivas do resultado desejado (por exemplo, use locked tripod shot, cinema stable em vez de no shake)  \nEspecifique positivamente a qualidade desejada do rosto/pele (por exemplo, photorealistic skin, 8K sharp features em vez de no face artifacts)  \nEspecifique positivamente a estabilidade da iluminação desejada (por exemplo, consistent soft key light em vez de no flickering)"
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 prompts 中，避免使用 no/avoid/don’t 之类的否定词；它们可能会通过强化不想要的概念而增加 artifacts。  \n将负向约束改写为对期望结果的正向描述（例如，用 locked tripod shot、cinema stable 代替 no shake）。  \n以正向方式指定理想的面部/皮肤质量（例如，photorealistic skin、8K sharp features 代替 no face artifacts）。  \n以正向方式指定理想的光照稳定性（例如，consistent soft key light 代替 no flickering）。"
+    }
+  }
+}

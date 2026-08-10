@@ -1,0 +1,43 @@
+{
+  "id": "2086455274898870431",
+  "title": "Use the same prompt and the same starting frame across models (Seedance 2.5…",
+  "content": "Use the same prompt and the same starting frame across models (Seedance 2.5, Minimax H3, Omni Flash) to make a fair b-roll quality comparison.  \nFor better Seedance 2.5 results, add more reference images and use more specific prompting.  \nIf Seedance struggles to recreate a face, provide additional face reference images beyond a single starting frame.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086453288614957056/img/xW_zfX6jnPGY3Dr7.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086455274898870431.mp4",
+  "sourceLink": "https://x.com/MattPenny99/status/2086455274898870431",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "Matt Penny",
+    "link": "https://x.com/MattPenny99"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Model Showcase"
+  ],
+  "tips": "Use the same prompt and the same starting frame across models (Seedance 2.5, Minimax H3, Omni Flash) to make a fair b-roll quality comparison.  \nFor better Seedance 2.5 results, add more reference images and use more specific prompting.  \nIf Seedance struggles to recreate a face, provide additional face reference images beyond a single starting frame.",
+  "translations": {
+    "es": {
+      "content": "Usa el mismo prompt y el mismo frame inicial en todos los modelos (Seedance 2.5, Minimax H3, Omni Flash) para hacer una comparación justa de la calidad del b-roll.  \nPara obtener mejores resultados con Seedance 2.5, añade más imágenes de referencia y usa prompts más específicos.  \nSi a Seedance le cuesta recrear un rostro, proporciona imágenes de referencia adicionales del rostro, más allá de un solo frame inicial."
+    },
+    "fr": {
+      "content": "Utilisez le même prompt et la même image de départ sur tous les modèles (Seedance 2.5, Minimax H3, Omni Flash) afin de réaliser une comparaison équitable de la qualité du b-roll.  \nPour obtenir de meilleurs résultats avec Seedance 2.5, ajoutez davantage d’images de référence et utilisez un prompting plus précis.  \nSi Seedance a du mal à recréer un visage, fournissez des images de référence supplémentaires du visage, au-delà d’une seule image de départ."
+    },
+    "ja": {
+      "content": "同じ prompt と同じ開始フレームを各モデル（Seedance 2.5、Minimax H3、Omni Flash）で使用し、公平な b-roll の品質比較を行ってください。  \nSeedance 2.5 の結果をより良くするには、参照画像をさらに追加し、より具体的な prompting を行ってください。  \nSeedance が顔の再現に苦戦する場合は、1 枚の開始フレームだけでなく、追加の顔参照画像を用意してください。"
+    },
+    "ko": {
+      "content": "모델 간 공정한 b-roll 품질 비교를 위해 동일한 prompt와 동일한 시작 프레임을 Seedance 2.5, Minimax H3, Omni Flash에 모두 사용하세요.  \nSeedance 2.5에서 더 나은 결과를 얻으려면, 참고 이미지를 더 많이 추가하고 더 구체적으로 prompting하세요.  \nSeedance가 얼굴을 재현하는 데 어려움을 겪는다면, 단일 시작 프레임 외에 추가적인 얼굴 reference 이미지를 제공하세요."
+    },
+    "pt": {
+      "content": "Use o mesmo prompt e o mesmo frame inicial em todos os modelos (Seedance 2.5, Minimax H3, Omni Flash) para fazer uma comparação justa da qualidade do b-roll.  \nPara obter melhores resultados com o Seedance 2.5, adicione mais imagens de referência e use prompts mais específicos.  \nSe o Seedance tiver dificuldade para recriar um rosto, forneça imagens adicionais de referência facial além de um único frame inicial."
+    },
+    "zh": {
+      "content": "在不同模型（Seedance 2.5、Minimax H3、Omni Flash）中使用相同的 prompt 和相同的起始帧，以便进行公平的 b-roll 质量对比。  \n为了获得更好的 Seedance 2.5 效果，请添加更多参考图像，并使用更具体的 prompting。  \n如果 Seedance 难以重现某张脸，请提供除单一起始帧之外的额外人脸参考图像。"
+    }
+  }
+}

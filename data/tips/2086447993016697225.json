@@ -1,0 +1,42 @@
+{
+  "id": "2086447993016697225",
+  "title": "Generate longer clips as a single 30s Seedance 2.5 generation instead of…",
+  "content": "Generate longer clips as a single 30s Seedance 2.5 generation instead of stitching two 15s extensions if you want to avoid visible seams.  \nWhen using video extension, expect the second clip to repeat the tail of the first; pick the exact cut frame and trim until motion carries straight through.  \nPut critical “bans”/constraints both in your global rules section and again inside the specific beat/segment they apply to so they persist across the video.  \nIf you have a beat chart image, feed it to an LLM and ask it to describe what would draw it, then use that as the basis for your Seedance prompt structure.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086441937154805760/img/P7ZQvmwqxeUvBdno.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086447993016697225.mp4",
+  "sourceLink": "https://x.com/Iancu_ai/status/2086447993016697225",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "Mr.Iancu",
+    "link": "https://x.com/Iancu_ai"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate longer clips as a single 30s Seedance 2.5 generation instead of stitching two 15s extensions if you want to avoid visible seams.  \nWhen using video extension, expect the second clip to repeat the tail of the first; pick the exact cut frame and trim until motion carries straight through.  \nPut critical “bans”/constraints both in your global rules section and again inside the specific beat/segment they apply to so they persist across the video.  \nIf you have a beat chart image, feed it to an LLM and ask it to describe what would draw it, then use that as the basis for your Seedance prompt structure.",
+  "translations": {
+    "es": {
+      "content": "Genera clips más largos como una sola generación de 30 s en Seedance 2.5 en lugar de unir dos extensiones de 15 s si quieres evitar costuras visibles.  \nAl usar la extensión de video, espera que el segundo clip repita el final del primero; elige el fotograma exacto de corte y recorta hasta que el movimiento continúe de forma fluida.  \nColoca las “prohibiciones”/restricciones críticas tanto en tu sección de reglas globales como de nuevo dentro del beat/segmento específico al que aplican, para que se mantengan a lo largo del video.  \nSi tienes una imagen de beat chart, pásasela a un LLM y pídele que describa qué la dibujaría; luego usa eso como base para la estructura de tu prompt de Seedance.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] todo el prompt, y el chart del que salió.\n\nla parte que vale la pena robar es la división. una prohibición que solo vive en la columna de reglas no sobrevive. la misma prohibición escrita en el beat al que pertenece sí. así que cualquier cosa que tenga que mantenerse se escribe dos veces.\n\nno voy a publicar el prompt del propio chart. pásale la imagen a cualquier LLM y pregúntale qué la dibujaría; esa parte es mucho más fácil de resolver que el video.\n\n[Hilo 2] un corte lo oculta todo. esto no tenía dónde esconderse.\n\n#DreaminaSeedance25"
+    },
+    "fr": {
+      "content": "Générez des clips plus longs en une seule génération Seedance 2.5 de 30 s plutôt qu’en enchaînant deux extensions de 15 s si vous voulez éviter des raccords visibles.  \nLors de l’utilisation de l’extension vidéo, attendez-vous à ce que le deuxième clip répète la fin du premier ; choisissez exactement l’image de coupe et rognez jusqu’à ce que le mouvement se poursuive sans rupture.  \nPlacez les « bans »/contraintes critiques à la fois dans votre section de règles globales et à nouveau dans le beat/segment spécifique auquel elles s’appliquent, afin qu’elles persistent tout au long de la vidéo.  \nSi vous avez une image de beat chart, donnez-la à un LLM et demandez-lui de décrire ce qui la dessinerait, puis utilisez cela comme base pour la structure de votre prompt Seedance.\n\n--- CONTINUATION DU THREAD ---\n[Thread 1] l’intégralité du prompt, et le chart dont il provient.\n\nla partie à découper est celle qui vaut la peine d’être volée. un ban qui ne vit que dans la colonne des règles ne survit pas. le même ban réécrit dans le beat auquel il appartient, si. donc tout ce qui doit tenir est écrit deux fois.\n\nje ne publie pas le prompt du chart lui-même. donnez l’image à n’importe quel LLM et demandez-lui ce qui la dessinerait ; cette partie est beaucoup plus facile à reconstituer que la vidéo.\n\n[Thread 2] une coupe cache tout. ici, il n’y avait nulle part où se cacher.\n\n#DreaminaSeedance25"
+    },
+    "ja": {
+      "content": "目に見える継ぎ目を避けたいなら、15秒の拡張を2回つなぐのではなく、30秒のSeedance 2.5生成を1回で行って、より長いクリップを生成してください。  \n動画拡張を使う場合、2本目のクリップには1本目の末尾が繰り返されると想定してください。正確なカットフレームを選び、動きがそのまま自然につながるところまでトリミングします。  \n重要な「禁止事項」や制約は、グローバルルール欄と、それが適用される各ビート／セグメントの中の両方に入れて、動画全体を通して維持されるようにしてください。  \nビートチャートの画像がある場合は、それをLLMに入力して「何を描けばその画像になるか」を説明させ、その内容をSeedanceのprompt構造の基礎にしてください。\n\n--- THREAD CONTINUATION ---\n[Thread 1] プロンプト全体と、その元になったチャート。\n\n分割された部分こそが、盗む価値のある部分です。ルール欄にしか書かれていない禁止事項は持続しません。ビートに書き込まれた同じ禁止事項は持続します。だから、維持したいものはすべて2回書きます。\n\nチャート自体のpromptは公開しません。画像を任意のLLMに入力して、「何を描けばそれになるか」を尋ねてください。その部分は、動画そのものを解き明かすよりずっと簡単です。\n\n[Thread 2] カットがあれば、すべてが隠れます。これは隠れる場所がありませんでした。\n\n#DreaminaSeedance25"
+    },
+    "ko": {
+      "content": "보이는 이음새를 피하고 싶다면, 15초 확장 두 개를 이어 붙이는 대신 하나의 30초 Seedance 2.5 생성으로 더 긴 클립을 만드세요.  \n비디오 확장을 사용할 때는 두 번째 클립이 첫 번째 클립의 끝부분을 반복할 것으로 예상하세요. 정확한 컷 프레임을 고르고, 모션이 자연스럽게 이어질 때까지 트리밍하세요.  \n중요한 “금지 사항”/제약은 전역 규칙 섹션과, 그것이 적용되는 특정 비트/세그먼트 안에 다시 한 번 넣어 두세요. 그래야 영상 전체에 걸쳐 유지됩니다.  \n비트 차트 이미지가 있다면 LLM에 넣고 무엇을 그리면 될지 설명해 달라고 한 뒤, 그 내용을 Seedance prompt 구조의 기반으로 사용하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 전체 prompt와, 그 prompt가 나온 차트.\n\n분할된 부분이 바로 훔칠 가치가 있는 부분이다. 규칙 열에만 존재하는 금지는 살아남지 못한다. 같은 금지를 그것이 속한 비트에 다시 써 넣어야 유지된다. 그래서 유지되어야 하는 것은 무엇이든 두 번 적는다.\n\n차트 자체의 prompt는 공개하지 않는다. 이미지를 아무 LLM에나 넣고 무엇을 그리면 될지 물어보면 된다. 그 부분은 영상 자체를 파악하는 것보다 훨씬 쉽다.\n\n[Thread 2] 컷 하나가 모든 것을 가린다. 이건 숨을 곳이 없었다.\n\n#DreaminaSeedance25"
+    },
+    "pt": {
+      "content": "Gere clipes mais longos como uma única geração de 30s no Seedance 2.5, em vez de emendar duas extensões de 15s, se quiser evitar emendas visíveis.  \nAo usar extensão de vídeo, espere que o segundo clipe repita o final do primeiro; escolha o frame exato do corte e faça o trim até que o movimento siga de forma contínua.  \nColoque “bans”/restrições críticas tanto na seção de regras globais quanto novamente dentro do beat/segmento específico a que elas se aplicam, para que persistam ao longo do vídeo.  \nSe você tiver uma imagem de beat chart, envie-a para um LLM e peça que ele descreva o que a desenharia; depois use isso como base para a estrutura do seu prompt do Seedance.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] o prompt inteiro, e o chart de onde ele veio.\n\na parte valiosa é o split. um ban que só vive na coluna de regras não sobrevive. o mesmo ban escrito no beat ao qual pertence, sim. então qualquer coisa que precise se manter é escrita duas vezes.\n\nnão vou publicar o prompt do próprio chart. envie a imagem para qualquer LLM e pergunte o que a desenharia; essa parte é muito mais fácil de descobrir do que o vídeo foi.\n\n[Thread 2] um corte esconde tudo. isso não tinha onde se esconder.\n\n#DreaminaSeedance25"
+    },
+    "zh": {
+      "content": "如果你想避免可见的接缝，生成更长的片段时，最好直接作为一个 30 秒的 Seedance 2.5 单次生成，而不是把两个 15 秒的扩展拼接起来。  \n使用视频扩展时，要预期第二段会重复第一段的尾部；选择精确的切点帧，并裁剪到动作能够自然连续衔接为止。  \n把关键的“禁令”/约束同时写在全局规则部分，以及它们适用的具体 beat/segment 里，这样它们才能贯穿整个视频。  \n如果你有一张 beat chart 图片，把它喂给 LLM，让它描述“什么内容会画出这张图”，然后以此作为 Seedance prompt 结构的基础。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 整个 prompt，以及它来源的图表。\n\n可拆分的部分才是值得借鉴的。只写在 rules 栏里的禁令不会保留。把同样的禁令写进它所属的 beat 里，它就会保留。所以任何必须持续生效的内容，都要写两遍。\n\n图表对应的原始 prompt 我不会公开。把图片交给任何 LLM，让它说出“什么会画出它”，这部分比视频本身容易推导得多。\n\n[Thread 2] 一个剪切就能隐藏一切。这个没有地方可藏。\n\n#DreaminaSeedance25"
+    }
+  }
+}

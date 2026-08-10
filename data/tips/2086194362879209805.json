@@ -1,0 +1,43 @@
+{
+  "id": "2086194362879209805",
+  "title": "Generate a UGC-style still image with GPT-image-2 by placing the person in the…",
+  "content": "Generate a UGC-style still image with GPT-image-2 by placing the person in the bottom-right corner and adding a green-screen background, prompting for an organic/hand-held look and imperfect quality.  \nSend the generated still image to Seedance 2.5 and prompt it with the exact dialogue you want the subject to say.  \nAfter generating in Seedance 2.5, chroma-key the green-screen background in a video editor to make it transparent, then place a screenshot of the video’s topic behind the subject.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086193809700831233/img/tXUe3L8JtRjWVwbw.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086194362879209805.mp4",
+  "sourceLink": "https://x.com/eptwts/status/2086194362879209805",
+  "sourcePublishedAt": "2026-08-08",
+  "author": {
+    "name": "EP",
+    "link": "https://x.com/eptwts"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Generate a UGC-style still image with GPT-image-2 by placing the person in the bottom-right corner and adding a green-screen background, prompting for an organic/hand-held look and imperfect quality.  \nSend the generated still image to Seedance 2.5 and prompt it with the exact dialogue you want the subject to say.  \nAfter generating in Seedance 2.5, chroma-key the green-screen background in a video editor to make it transparent, then place a screenshot of the video’s topic behind the subject.",
+  "translations": {
+    "es": {
+      "content": "Genera una imagen fija estilo UGC con GPT-image-2 colocando a la persona en la esquina inferior derecha y añadiendo un fondo de pantalla verde, indicando un aspecto orgánico/de cámara en mano y una calidad imperfecta.  \nEnvía la imagen fija generada a Seedance 2.5 y haz que el prompt incluya el diálogo exacto que quieres que diga el sujeto.  \nDespués de generar en Seedance 2.5, aplica chroma key al fondo de pantalla verde en un editor de video para hacerlo transparente y luego coloca detrás del sujeto una captura de pantalla del tema del video.\n\n--- CONTINUACIÓN DEL HILO ---\n[Thread 1] shoutout clavadilur\n---"
+    },
+    "fr": {
+      "content": "Générez une image fixe de style UGC avec GPT-image-2 en plaçant la personne dans le coin inférieur droit et en ajoutant un fond vert, avec une consigne visant un rendu organique / filmé à la main et une qualité imparfaite.  \nEnvoyez l’image fixe générée à Seedance 2.5 et indiquez-lui le dialogue exact que vous voulez que le sujet prononce.  \nAprès la génération dans Seedance 2.5, effectuez un chroma key du fond vert dans un éditeur vidéo pour le rendre transparent, puis placez derrière le sujet une capture d’écran du thème de la vidéo.\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Fil 1] shoutout clavadilur\n---"
+    },
+    "ja": {
+      "content": "GPT-image-2 を使って、人物を右下に配置し、グリーンスクリーン背景を追加した UGC スタイルの静止画を生成します。organic / hand-held な見た目と、あえて不完全なクオリティになるよう prompt します。  \n生成した静止画を Seedance 2.5 に送り、被写体に言わせたい正確なセリフを prompt します。  \nSeedance 2.5 で生成した後、動画編集ソフトでグリーンスクリーン背景を chroma-key して透明化し、その後ろに動画のトピックのスクリーンショットを配置します。\n\n--- スレッドの続き ---\n[Thread 1] shoutout clavadilur\n---"
+    },
+    "ko": {
+      "content": "GPT-image-2로 UGC 스타일의 정지 이미지를 생성할 때는 인물을 오른쪽 아래 구석에 배치하고, green-screen 배경을 추가한 뒤, 유기적/핸드헬드 느낌과 완벽하지 않은 품질을 요청하는 prompt를 사용하세요.  \n생성된 정지 이미지를 Seedance 2.5로 보내고, 피사체가 말하길 원하는 정확한 대사를 prompt로 입력하세요.  \nSeedance 2.5에서 생성한 후에는 비디오 편집기에서 green-screen 배경에 chroma-key를 적용해 투명하게 만든 다음, 피사체 뒤에 영상 주제의 스크린샷을 배치하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] shoutout clavadilur\n---"
+    },
+    "pt": {
+      "content": "Gere uma imagem estática em estilo UGC com o GPT-image-2, posicionando a pessoa no canto inferior direito e adicionando um fundo de tela verde, com um prompt para um visual orgânico/filmado à mão e qualidade imperfeita.  \nEnvie a imagem estática gerada para o Seedance 2.5 e faça o prompt com o diálogo exato que você quer que o sujeito diga.  \nDepois de gerar no Seedance 2.5, aplique chroma key no fundo de tela verde em um editor de vídeo para torná-lo transparente e, em seguida, coloque uma captura de tela do tema do vídeo atrás do sujeito.\n\n--- CONTINUAÇÃO DO THREAD ---  \n[Thread 1] shoutout clavadilur\n---"
+    },
+    "zh": {
+      "content": "使用 GPT-image-2 生成一张 UGC 风格的静态图像：将人物放在右下角，并添加绿幕背景，同时提示其呈现自然/手持拍摄感以及不完美的画质。  \n将生成的静态图像发送到 Seedance 2.5，并用你希望主体说出的准确对白进行提示。  \n在 Seedance 2.5 中生成后，在视频编辑器里对绿幕背景进行 chroma key 处理，使其透明，然后将一张与视频主题相关的截图放在主体后方。\n\n--- 线程续接 ---\n[Thread 1] shoutout clavadilur\n---"
+    }
+  }
+}

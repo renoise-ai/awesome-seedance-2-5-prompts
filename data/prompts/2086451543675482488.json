@@ -1,0 +1,42 @@
+{
+  "id": "2086451543675482488",
+  "title": "Beam Me up",
+  "content": "Beam Me up",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086450888541868032/img/U4fXERlwrRDqZnau.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086451543675482488.mp4",
+  "sourceLink": "https://x.com/K3yKur0n0/status/2086451543675482488",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "GhostMKC AKA ＭｒＫｕｓｈＣｌｏｕｄｓ",
+    "link": "https://x.com/K3yKur0n0"
+  },
+  "tags": [
+    "Story",
+    "Twist",
+    "Photoreal",
+    "Sci-Fi",
+    "VFX",
+    "Transformation"
+  ],
+  "translations": {
+    "es": {
+      "content": "Llévame arriba"
+    },
+    "fr": {
+      "content": "Beam me up"
+    },
+    "ja": {
+      "content": "ビーム・ミー・アップ"
+    },
+    "ko": {
+      "content": "비미 업"
+    },
+    "pt": {
+      "content": "Leve-me para cima"
+    },
+    "zh": {
+      "content": "把我传送上去"
+    }
+  }
+}

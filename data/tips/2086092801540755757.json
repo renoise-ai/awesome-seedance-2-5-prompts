@@ -1,0 +1,42 @@
+{
+  "id": "2086092801540755757",
+  "title": "Use Seedance 2.5 in RunwayML and provide three 30-second video clips as inputs…",
+  "content": "Use Seedance 2.5 in RunwayML and provide three 30-second video clips as inputs to generate an epic fantasy anime sequence  \nCreate your characters in Midjourney using a consistent style, then use those characters as the basis for your Seedance 2.5 video generation",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086092510707798016/img/fFhRhWFUAUvYp49O.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086092801540755757.mp4",
+  "sourceLink": "https://x.com/Artedeingenio/status/2086092801540755757",
+  "sourcePublishedAt": "2026-08-08",
+  "author": {
+    "name": "OscarAI",
+    "link": "https://x.com/Artedeingenio"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Anime 2D",
+    "Fantasy",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 in RunwayML and provide three 30-second video clips as inputs to generate an epic fantasy anime sequence  \nCreate your characters in Midjourney using a consistent style, then use those characters as the basis for your Seedance 2.5 video generation",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 en RunwayML y proporciona tres clips de video de 30 segundos como entradas para generar una secuencia épica de anime de fantasía  \nCrea tus personajes en Midjourney usando un estilo consistente y luego utiliza esos personajes como base para tu generación de video con Seedance 2.5"
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 dans RunwayML et fournissez trois clips vidéo de 30 secondes comme entrées pour générer une séquence d’anime fantasy épique  \nCréez vos personnages dans Midjourney en utilisant un style cohérent, puis utilisez ces personnages comme base pour votre génération vidéo avec Seedance 2.5"
+    },
+    "ja": {
+      "content": "RunwayMLでSeedance 2.5を使用し、3本の30秒の動画クリップを入力として、壮大なファンタジーアニメのシーケンスを生成します  \nMidjourneyで一貫したスタイルでキャラクターを作成し、そのキャラクターをSeedance 2.5の動画生成のベースとして使用します"
+    },
+    "ko": {
+      "content": "RunwayML에서 Seedance 2.5를 사용하고, 30초짜리 비디오 클립 3개를 입력으로 제공해 서사적인 판타지 애니메이션 시퀀스를 생성하세요  \nMidjourney에서 일관된 스타일로 캐릭터를 만든 다음, 그 캐릭터들을 Seedance 2.5 비디오 생성의 기반으로 사용하세요"
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 no RunwayML e forneça três clipes de vídeo de 30 segundos como entradas para gerar uma sequência épica de anime de fantasia  \nCrie seus personagens no Midjourney usando um estilo consistente e, em seguida, use esses personagens como base para a geração de vídeo no Seedance 2.5"
+    },
+    "zh": {
+      "content": "在 RunwayML 中使用 Seedance 2.5，并提供三个 30 秒的视频片段作为输入，以生成一段史诗级奇幻动漫序列  \n先在 Midjourney 中以一致的风格创建你的角色，然后将这些角色作为 Seedance 2.5 视频生成的基础"
+    }
+  }
+}

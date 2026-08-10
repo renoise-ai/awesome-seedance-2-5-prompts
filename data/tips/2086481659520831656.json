@@ -1,0 +1,42 @@
+{
+  "id": "2086481659520831656",
+  "title": "Use a character reference plus a single-shot reference image (e.g., an oil…",
+  "content": "Use a character reference plus a single-shot reference image (e.g., an oil spill) in Seedance 2.5 to generate more realistic footage.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086481633641889793/img/JKpiwGRT6shKY3s7.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086481659520831656.mp4",
+  "sourceLink": "https://x.com/HBCoop_/status/2086481659520831656",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "Heather Cooper",
+    "link": "https://x.com/HBCoop_"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Micro",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a character reference plus a single-shot reference image (e.g., an oil spill) in Seedance 2.5 to generate more realistic footage.",
+  "translations": {
+    "es": {
+      "content": "Usa una referencia de personaje junto con una imagen de referencia de una sola toma (por ejemplo, un derrame de petróleo) en Seedance 2.5 para generar metraje más realista."
+    },
+    "fr": {
+      "content": "Utilisez une référence de personnage ainsi qu’une image de référence en prise unique (par exemple, une marée noire) dans Seedance 2.5 pour générer des séquences plus réalistes."
+    },
+    "ja": {
+      "content": "Seedance 2.5 では、キャラクター参照と単一ショットの参照画像（例：油流出）を組み合わせて、よりリアルな映像を生成できます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 캐릭터 레퍼런스와 단일 샷 레퍼런스 이미지(예: 기름 유출)를 함께 사용하면 더 사실적인 영상을 생성할 수 있습니다."
+    },
+    "pt": {
+      "content": "Use uma referência de personagem junto com uma imagem de referência de plano único (por exemplo, um derramamento de óleo) no Seedance 2.5 para gerar imagens em movimento mais realistas."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中，结合角色参考和单镜头参考图像（例如油污泄漏）来生成更逼真的视频素材。"
+    }
+  }
+}

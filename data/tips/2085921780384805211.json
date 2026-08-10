@@ -1,0 +1,42 @@
+{
+  "id": "2085921780384805211",
+  "title": "在 Seedance 2.5 和 2.0 上分别跑同一条视频做对比，用于评估打斗特效、动作质量与镜头衔接流畅度",
+  "content": "在 Seedance 2.5 和 2.0 上分别跑同一条视频做对比，用于评估打斗特效、动作质量与镜头衔接流畅度",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085921418839994368/img/Rl65WIiD4keJ50e_.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085921780384805211.mp4",
+  "sourceLink": "https://x.com/joshesye/status/2085921780384805211",
+  "sourcePublishedAt": "2026-08-08",
+  "author": {
+    "name": "行者AI视频",
+    "link": "https://x.com/joshesye"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Realistic World",
+    "Model Showcase"
+  ],
+  "tips": "在 Seedance 2.5 和 2.0 上分别跑同一条视频做对比，用于评估打斗特效、动作质量与镜头衔接流畅度",
+  "translations": {
+    "en": {
+      "content": "Run the same video on Seedance 2.5 and 2.0 respectively for comparison, to evaluate fight effects, motion quality, and the smoothness of shot transitions."
+    },
+    "es": {
+      "content": "Comparar el mismo video ejecutado en Seedance 2.5 y 2.0, respectivamente, para evaluar los efectos de combate, la calidad de los movimientos y la fluidez de la transición entre planos."
+    },
+    "fr": {
+      "content": "Comparer la même vidéo sur Seedance 2.5 et 2.0 afin d’évaluer les effets de combat, la qualité des mouvements et la fluidité des enchaînements de plans."
+    },
+    "ja": {
+      "content": "Seedance 2.5 と 2.0 で同じ動画をそれぞれ生成して比較し、バトルエフェクト、アクションの品質、そしてカット間のつながりの滑らかさを評価するためのもの。"
+    },
+    "ko": {
+      "content": "Seedance 2.5와 2.0에서 동일한 영상을 각각 실행해 비교하며, 전투 특수효과, 동작 품질, 그리고 샷 전환의 매끄러움을 평가하는 데 사용됩니다."
+    },
+    "pt": {
+      "content": "Executar o mesmo vídeo no Seedance 2.5 e no 2.0 para comparação, a fim de avaliar os efeitos de luta, a qualidade dos movimentos e a fluidez da transição entre os planos."
+    }
+  }
+}

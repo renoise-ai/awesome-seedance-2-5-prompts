@@ -1,0 +1,42 @@
+{
+  "id": "2086267134037094897",
+  "title": "目線→顔の順に動かしたい場合は、プロンプトに目が先に動いて顔が後から追いつくと動作順序を明記する",
+  "content": "目線→顔の順に動かしたい場合は、プロンプトに目が先に動いて顔が後から追いつくと動作順序を明記する  \n笑みの立ち上がりを自然にしたい場合は、プロンプトに笑みは本人が笑おうと決める半拍前に出るとタイミング指定を書く  \n大きな出来事がない静かなカットを作りたい場合は、5秒間何も起きない動画と尺とイベント量を明示して生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086266304823169024/img/yjY8x2RSVNMhjyJ9.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086267134037094897.mp4",
+  "sourceLink": "https://x.com/not_fukuda/status/2086267134037094897",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "Kyohei Fukuda",
+    "link": "https://x.com/not_fukuda"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "目線→顔の順に動かしたい場合は、プロンプトに目が先に動いて顔が後から追いつくと動作順序を明記する  \n笑みの立ち上がりを自然にしたい場合は、プロンプトに笑みは本人が笑おうと決める半拍前に出るとタイミング指定を書く  \n大きな出来事がない静かなカットを作りたい場合は、5秒間何も起きない動画と尺とイベント量を明示して生成する",
+  "translations": {
+    "en": {
+      "content": "If you want the gaze to move before the face, specify the action order in the prompt: the eyes move first, and the face follows afterward.\n\nIf you want the smile to emerge naturally, specify the timing in the prompt: the smile appears half a beat before the person consciously decides to smile.\n\nIf you want to create a quiet shot with no major events, generate a video in which nothing happens for 5 seconds, and clearly specify the duration and the amount of event activity."
+    },
+    "es": {
+      "content": "Si quieres que el movimiento vaya primero de la mirada y luego del rostro, especifica en el prompt el orden de la acción: que los ojos se muevan primero y que la cara les siga después.\n\nSi quieres que la aparición de la sonrisa sea más natural, indica en el prompt el timing: que la sonrisa aparezca medio tiempo antes de que la persona decida sonreír.\n\nSi quieres crear un corte tranquilo en el que no ocurra ningún gran acontecimiento, genera un video en el que no pase nada durante 5 segundos, especificando claramente la duración y la cantidad de eventos."
+    },
+    "fr": {
+      "content": "Si vous souhaitez faire bouger le regard puis le visage dans cet ordre, indiquez clairement dans le prompt l’ordre d’exécution : les yeux bougent d’abord, puis le visage suit.\n\nSi vous souhaitez rendre l’apparition du sourire plus naturelle, précisez dans le prompt le timing : le sourire apparaît une demi-battue avant que la personne ne décide elle-même de sourire.\n\nSi vous souhaitez créer un plan calme sans grand événement, générez une vidéo où il ne se passe rien pendant 5 secondes, en précisant clairement la durée et la quantité d’événements."
+    },
+    "ko": {
+      "content": "시선→얼굴 순으로 움직이게 하고 싶다면, prompt에 눈이 먼저 움직이고 얼굴이 나중에 따라온다는 식으로 동작 순서를 명시한다  \n미소가 자연스럽게 올라오게 하고 싶다면, prompt에 미소는 본인이 웃기로 결심하기 반 박자 전에 나온다는 식으로 타이밍을 지정한다  \n큰 사건이 없는 조용한 컷을 만들고 싶다면, 5초 동안 아무 일도 일어나지 않는 영상과 길이, 이벤트량을 명시해 생성한다"
+    },
+    "pt": {
+      "content": "Se você quiser que o movimento vá primeiro do olhar e depois do rosto, especifique no prompt a ordem da ação, dizendo que os olhos se movem primeiro e o rosto os acompanha depois.\n\nSe quiser que o surgimento do sorriso fique natural, escreva no prompt uma indicação de timing, dizendo que o sorriso aparece meio tempo antes de a pessoa decidir sorrir.\n\nSe quiser criar um corte silencioso, sem grandes acontecimentos, gere um vídeo em que nada acontece por 5 segundos, deixando explícitos a duração e a quantidade de eventos."
+    },
+    "zh": {
+      "content": "如果想让动作按“视线→脸部”的顺序变化，就在 prompt 里明确写出动作顺序：眼睛先动，脸部随后跟上。  \n如果想让微笑的起势更自然，就在 prompt 里写明时机：微笑要比本人决定要笑的瞬间提前半拍出现。  \n如果想制作没有重大事件发生的安静镜头，就在生成时明确说明：5 秒内什么都不会发生，并指定视频时长和事件量。"
+    }
+  }
+}

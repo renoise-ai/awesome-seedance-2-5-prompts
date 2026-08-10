@@ -1,0 +1,42 @@
+{
+  "id": "2086014747254907259",
+  "title": "ドーパミンの役割を説明とだけ指定して、セリフはモデルに完全に任せる（セリフ生成を丸投げする）",
+  "content": "ドーパミンの役割を説明とだけ指定して、セリフはモデルに完全に任せる（セリフ生成を丸投げする）",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086014193975906304/img/jiH6g5_FVc7pbYNu.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086014747254907259.mp4",
+  "sourceLink": "https://x.com/kna091202/status/2086014747254907259",
+  "sourcePublishedAt": "2026-08-08",
+  "author": {
+    "name": "kna091202",
+    "link": "https://x.com/kna091202"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "ドーパミンの役割を説明とだけ指定して、セリフはモデルに完全に任せる（セリフ生成を丸投げする）",
+  "translations": {
+    "en": {
+      "content": "Specify only an explanation of dopamine’s role, and leave the dialogue entirely to the model (fully delegate dialogue generation)."
+    },
+    "es": {
+      "content": "Especifica solo la explicación del papel de la dopamina y deja por completo los diálogos al modelo (delegando por completo la generación de diálogos)."
+    },
+    "fr": {
+      "content": "Définir uniquement le rôle de la dopamine comme explication, et laisser entièrement les répliques au modèle (confier entièrement la génération des dialogues au modèle)."
+    },
+    "ko": {
+      "content": "도파민의 역할만 지정하고, 대사는 모델에 전적으로 맡긴다(대사 생성은 완전히 모델에 일임한다)"
+    },
+    "pt": {
+      "content": "Especificar apenas a função da dopamina e deixar os diálogos inteiramente a cargo do modelo (delegando totalmente a geração dos diálogos)"
+    },
+    "zh": {
+      "content": "只指定多巴胺的作用说明，台词则完全交给模型处理（把台词生成全权交给模型）"
+    }
+  }
+}

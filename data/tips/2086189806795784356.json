@@ -1,0 +1,41 @@
+{
+  "id": "2086189806795784356",
+  "title": "Generate a starting keyframe image first in GPT Image 2 by prompting it to give…",
+  "content": "Generate a starting keyframe image first in GPT Image 2 by prompting it to give you the starting key frame for the video, then use that as the basis for your Seedance clip.\n\nSet resolution to 1k and quality to Medium to intentionally get a low-quality/phone-video look.\n\nUse Seedance 2.5 with a 15-second duration for the final video generation.\n\nPrompt for “ultra-realistic handheld mobile phone footage” and explicitly include artifacts like natural shake, slight compression, autofocus hunting, digital sharpening, exposure shifts, and imperfect phone-camera realism to sell the bystander smartphone aesthetic.\n\nAdd “natural ambient sound only” and list specific diegetic audio sources (sirens, traffic, market chatter, cops shouting, bus engine, city noise) to guide the soundscape toward realism.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/rahulnanda86/status/2086189806795784356",
+  "sourcePublishedAt": "2026-08-08",
+  "author": {
+    "name": "Rahul Nanda",
+    "link": "https://x.com/rahulnanda86"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate a starting keyframe image first in GPT Image 2 by prompting it to give you the starting key frame for the video, then use that as the basis for your Seedance clip.\n\nSet resolution to 1k and quality to Medium to intentionally get a low-quality/phone-video look.\n\nUse Seedance 2.5 with a 15-second duration for the final video generation.\n\nPrompt for “ultra-realistic handheld mobile phone footage” and explicitly include artifacts like natural shake, slight compression, autofocus hunting, digital sharpening, exposure shifts, and imperfect phone-camera realism to sell the bystander smartphone aesthetic.\n\nAdd “natural ambient sound only” and list specific diegetic audio sources (sirens, traffic, market chatter, cops shouting, bus engine, city noise) to guide the soundscape toward realism.",
+  "translations": {
+    "es": {
+      "content": "Genera primero una imagen de fotograma inicial en GPT Image 2, pidiéndole que te dé el fotograma inicial para el video; luego úsala como base para tu clip de Seedance.\n\nConfigura la resolución en 1k y la calidad en Medium para obtener intencionalmente un aspecto de baja calidad / video de teléfono.\n\nUsa Seedance 2.5 con una duración de 15 segundos para la generación final del video.\n\nPide “ultra-realistic handheld mobile phone footage” e incluye explícitamente artefactos como sacudidas naturales, ligera compresión, autofocus hunting, sharpening digital, cambios de exposición y realismo imperfecto de cámara de teléfono para reforzar la estética de smartphone de un transeúnte.\n\nAñade “natural ambient sound only” y enumera fuentes de audio diegético específicas (sirens, traffic, market chatter, cops shouting, bus engine, city noise) para orientar el paisaje sonoro hacia el realismo.\n\n--- TUIT CITADO ---\nUn tipo sin hogar que solía trabajar en el circo huye de las autoridades en India.\n\nHecho con Seedance 2.5 + GPT Image 2. https://t.co/WvJMTJrbnA\n---"
+    },
+    "fr": {
+      "content": "Générez d’abord une image de keyframe de départ dans GPT Image 2 en lui demandant de fournir la key frame initiale pour la vidéo, puis utilisez-la comme base pour votre clip Seedance.\n\nRéglez la résolution sur 1k et la qualité sur Medium afin d’obtenir volontairement un rendu de faible qualité / type vidéo de téléphone.\n\nUtilisez Seedance 2.5 avec une durée de 15 secondes pour la génération finale de la vidéo.\n\nDemandez un rendu de « ultra-realistic handheld mobile phone footage » et incluez explicitement des artefacts comme un léger tremblement naturel, une légère compression, le hunting de l’autofocus, l’accentuation numérique, des variations d’exposition et un réalisme imparfait de caméra de téléphone pour renforcer l’esthétique de smartphone de témoin.\n\nAjoutez « natural ambient sound only » et listez des sources audio diégétiques spécifiques (sirens, traffic, market chatter, cops shouting, bus engine, city noise) pour orienter l’ambiance sonore vers le réalisme.\n\n--- TWEET CITÉ ---\nUn type sans-abri qui travaillait autrefois dans le cirque distancie les autorités en Inde.\n\nRéalisé avec Seedance 2.5 + GPT Image 2. https://t.co/WvJMTJrbnA\n---"
+    },
+    "ja": {
+      "content": "まず、GPT Image 2 で動画の開始キーフレームを生成するようにプロンプトを出し、スタート用のキーフレーム画像を作成します。その画像を Seedance クリップのベースとして使用してください。\n\n解像度は 1k、品質は Medium に設定して、あえて低品質なスマホ動画っぽい見た目にします。\n\n最終的な動画生成には、15秒の長さで Seedance 2.5 を使用します。\n\n“ultra-realistic handheld mobile phone footage” とプロンプトし、自然な揺れ、わずかな圧縮、オートフォーカスの迷い、デジタルシャープニング、露出の変化、そして不完全なスマホカメラらしさといったアーティファクトを明示的に含めて、傍観者がスマホで撮影したような美学を強調します。\n\n“natural ambient sound only” を追加し、サウンドスケープをリアルに寄せるために、具体的なダイジェティック音源（サイレン、交通音、市場のざわめき、警官の叫び、バスのエンジン音、都市の雑踏）を列挙します。\n\n--- 引用ツイート ---\nかつてサーカスで働いていたホームレスの男が、インドで当局を振り切って逃走。 \n\nSeedance 2.5 + GPT Image 2 を使用して制作。 https://t.co/WvJMTJrbnA\n---"
+    },
+    "ko": {
+      "content": "먼저 GPT Image 2에서 시작 키프레임 이미지를 생성하세요. 비디오의 시작 키 프레임을 만들어 달라고 프롬프트한 뒤, 그 이미지를 Seedance 클립의 기반으로 사용합니다.\n\n해상도는 1k로, 품질은 Medium으로 설정해 의도적으로 저화질/휴대폰 영상 같은 느낌을 내세요.\n\n최종 비디오 생성에는 15초 길이의 Seedance 2.5를 사용하세요.\n\n“ultra-realistic handheld mobile phone footage”를 프롬프트하고, 자연스러운 흔들림, 약간의 압축 손실, autofocus hunting, 디지털 샤프닝, 노출 변화, 그리고 완벽하지 않은 폰카메라 현실감 같은 아티팩트를 명시적으로 포함해 지나가던 사람이 찍은 스마트폰 영상 같은 미학을 살리세요.\n\n“natural ambient sound only”를 추가하고, 구체적인 diegetic 오디오 소스(sirens, traffic, market chatter, cops shouting, bus engine, city noise)를 나열해 사운드스케이프가 현실적으로 들리도록 유도하세요.\n\n--- 인용된 트윗 ---\n서커스에서 일하던 노숙자가 인도에서 당국을 따돌리고 달아난다.\n\nSeedance 2.5 + GPT Image 2로 제작. https://t.co/WvJMTJrbnA\n---"
+    },
+    "pt": {
+      "content": "Gere primeiro uma imagem de keyframe inicial no GPT Image 2, pedindo que ele crie o key frame inicial para o vídeo; depois, use isso como base para o seu clipe no Seedance.\n\nDefina a resolução para 1k e a qualidade para Medium para obter intencionalmente um visual de baixa qualidade/filmagem de celular.\n\nUse o Seedance 2.5 com duração de 15 segundos para a geração final do vídeo.\n\nPeça por “ultra-realistic handheld mobile phone footage” e inclua explicitamente artefatos como tremor natural, leve compressão, autofocus hunting, sharpening digital, variações de exposição e realismo imperfeito de câmera de celular para reforçar a estética de smartphone de um observador casual.\n\nAdicione “natural ambient sound only” e liste fontes sonoras diegéticas específicas (sirens, traffic, market chatter, cops shouting, bus engine, city noise) para orientar a paisagem sonora em direção ao realismo.\n\n--- TWEET CITADO ---\nHomeless guy who used to work in the circus outruns authorities in India. \n\nFeito usando Seedance 2.5 + GPT Image 2. https://t.co/WvJMTJrbnA\n---"
+    },
+    "zh": {
+      "content": "先在 GPT Image 2 中生成一张起始关键帧图像，方法是提示它为视频提供起始关键帧，然后将其作为 Seedance 片段的基础。\n\n将分辨率设为 1k、质量设为 Medium，刻意做出低画质/手机视频的观感。\n\n最终视频生成使用 Seedance 2.5，时长设为 15 秒。\n\n提示词使用“ultra-realistic handheld mobile phone footage”，并明确加入自然抖动、轻微压缩、自动对焦 hunting、数字锐化、曝光变化以及不完美的手机摄像头真实感等瑕疵，以强化旁观者手机拍摄的美学。\n\n加入“natural ambient sound only”，并列出具体的画内音频来源（警笛、交通声、市场喧哗、警察喊叫、公交车引擎、城市噪音），以引导声音场景更贴近真实。\n\n--- 引用的推文 ---\n曾在马戏团工作的流浪汉在印度甩开了当局的追捕。\n\n使用 Seedance 2.5 + GPT Image 2 制作。https://t.co/WvJMTJrbnA\n---"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2086479051586437418",
+  "title": "Seedance 2.5と他モデルを比較する時は、同一プロンプト・同一の最長30秒条件で生成して差分を確認する",
+  "content": "Seedance 2.5と他モデルを比較する時は、同一プロンプト・同一の最長30秒条件で生成して差分を確認する  \nSeedance 2.5では被写界深度（DOF）やローアングルを明示して映画的な演出を狙う  \nTopviewのSeedance 2.5は最長30秒のワンカット生成に対応しているので、30秒ワンカット指定で長尺ショットを作る  \nTopviewのSeedance 2.5では参照素材を最大50個まで指定して、世界観を保ったまま生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086478149421039616/img/sumO4Svigx95oPjw.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086479051586437418.mp4",
+  "sourceLink": "https://x.com/dVGBP2SIqE55447/status/2086479051586437418",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "五月雨",
+    "link": "https://x.com/dVGBP2SIqE55447"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Model Showcase"
+  ],
+  "tips": "Seedance 2.5と他モデルを比較する時は、同一プロンプト・同一の最長30秒条件で生成して差分を確認する  \nSeedance 2.5では被写界深度（DOF）やローアングルを明示して映画的な演出を狙う  \nTopviewのSeedance 2.5は最長30秒のワンカット生成に対応しているので、30秒ワンカット指定で長尺ショットを作る  \nTopviewのSeedance 2.5では参照素材を最大50個まで指定して、世界観を保ったまま生成する",
+  "translations": {
+    "en": {
+      "content": "When comparing Seedance 2.5 with other models, generate them under the same prompt and the same maximum 30-second condition, then check the differences.  \nIn Seedance 2.5, explicitly specify depth of field (DOF) and a low-angle shot to aim for a cinematic look.  \nTopview’s Seedance 2.5 supports up to 30-second one-shot generation, so create long-form shots by specifying a 30-second single take.  \nIn Topview’s Seedance 2.5, you can specify up to 50 reference assets to generate while preserving the same worldbuilding.\n\n--- QUOTED TWEET ---\nThank you for waiting.\nSeedance 2.5 is now released on Topview today 🔥\n\n・Supports up to 30-second one-shot generation\n・Up to 50 reference assets can be specified, allowing generation while preserving the same worldbuilding\n・Ultra annual plan users get unlimited access for 60 days\n\nPlease give it a try starting today! https://t.co/kdv69VZj6X\n---"
+    },
+    "es": {
+      "content": "Al comparar Seedance 2.5 con otros modelos, genera con el mismo prompt y la misma condición de duración máxima de 30 segundos para comprobar las diferencias.  \nEn Seedance 2.5, especifica explícitamente la profundidad de campo (DOF) y un ángulo bajo para lograr una puesta en escena cinematográfica.  \nTopview de Seedance 2.5 admite generación en un solo plano de hasta 30 segundos, así que crea tomas largas con la indicación de un solo plano de 30 segundos.  \nEn Topview de Seedance 2.5, puedes especificar hasta 50 materiales de referencia para generar manteniendo intacto el universo visual.\n\n--- TWEET CITADO ---\nGracias por esperar.\nSeedance 2.5 ya está disponible hoy en Topview 🔥\n\n・Compatible con generación en un solo plano de hasta 30 segundos\n・Se pueden especificar hasta 50 materiales de referencia. Puedes generar manteniendo intacto el universo visual\n・Los usuarios del plan anual Ultra pueden usarlo ilimitadamente durante 60 días\n\n¡Pruébalo desde hoy! https://t.co/kdv69VZj6X\n---"
+    },
+    "fr": {
+      "content": "Lorsqu’on compare Seedance 2.5 à d’autres modèles, il faut générer avec le même prompt et la même contrainte de durée maximale de 30 secondes afin de vérifier les différences.  \nAvec Seedance 2.5, on peut expliciter la profondeur de champ (DOF) et un angle de prise de vue en contre-plongée pour viser une mise en scène cinématographique.  \nSeedance 2.5 sur Topview prend en charge la génération en un seul plan jusqu’à 30 secondes, donc on crée des plans longs en spécifiant un single shot de 30 secondes.  \nAvec Seedance 2.5 sur Topview, il est possible de définir jusqu’à 50 éléments de référence afin de générer tout en conservant l’univers visuel.\n\n--- TWEET CITÉ ---\nMerci de votre patience.  \nSeedance 2.5 est disponible dès aujourd’hui sur Topview 🔥\n\n・Prise en charge de la génération en un seul plan jusqu’à 30 secondes  \n・Jusqu’à 50 éléments de référence peuvent être spécifiés. Vous pouvez générer tout en conservant l’univers visuel  \n・Les personnes ayant l’abonnement annuel Ultra peuvent l’utiliser en illimité pendant 60 jours\n\nN’hésitez pas à l’essayer dès aujourd’hui ! https://t.co/kdv69VZj6X\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5와 다른 모델을 비교할 때는 동일한 prompt, 동일한 최대 30초 조건으로 생성해 차이를 확인한다  \nSeedance 2.5에서는 피사계 심도(DOF)와 로우 앵글을 명시해 cinematic한 연출을 노린다  \nTopview의 Seedance 2.5는 최대 30초의 원테이크 생성에 대응하므로, 30초 원테이크 지정으로 롱샷을 만든다  \nTopview의 Seedance 2.5에서는 reference 소재를 최대 50개까지 지정해, 세계관을 유지한 채 생성한다\n\n--- QUOTED TWEET ---\n기다려주셔서 감사합니다.\nSeedance 2.5, Topview에서 오늘 출시입니다 🔥\n\n・최대 30초의 원테이크 생성에 대응\n・reference 소재는 최대 50개까지 지정 가능. 세계관을 유지한 채 생성할 수 있습니다\n・Ultra 연간 플랜 이용자는 60일간 무제한 사용 가능\n\n오늘부터 꼭 사용해 보세요! https://t.co/kdv69VZj6X\n---"
+    },
+    "pt": {
+      "content": "Ao comparar o Seedance 2.5 com outros modelos, gere com o mesmo prompt e nas mesmas condições de duração máxima de 30 segundos para verificar as diferenças  \nNo Seedance 2.5, especifique depth of field (DOF) e low angle de forma explícita para buscar uma direção cinematográfica  \nO Seedance 2.5 no Topview oferece suporte à geração em plano-sequência de até 30 segundos, então crie takes longos com a especificação de plano-sequência de 30 segundos  \nNo Seedance 2.5 do Topview, é possível निर्दicar até 50 materiais de referência para gerar mantendo o mesmo universo visual\n\n--- TWEET CITADO ---\nObrigado pela espera.\nSeedance 2.5, no Topview, lançado hoje 🔥\n\n・Suporte à geração em plano-sequência de até 30 segundos\n・É possível especificar até 50 materiais de referência. Você pode gerar mantendo o mesmo universo visual\n・Quem está no plano anual Ultra pode usar sem limites por 60 dias\n\nExperimente a partir de hoje! https://t.co/kdv69VZj6X\n---"
+    },
+    "zh": {
+      "content": "在将 Seedance 2.5 与其他模型进行比较时，使用相同的 prompt、相同的最长 30 秒条件进行生成，并确认差异  \n在 Seedance 2.5 中，明确指定景深（DOF）和低机位，以营造 cinematic 的表现  \nTopview 的 Seedance 2.5 支持最长 30 秒的单镜头生成，因此可以通过指定 30 秒单镜头来制作长镜头  \nTopview 的 Seedance 2.5 最多可指定 50 个参考素材，在保持世界观一致的同时进行生成\n\n--- QUOTED TWEET ---\n久等了。\nSeedance 2.5 已于今日在 Topview 发布 🔥\n\n・支持最长 30 秒的单镜头生成\n・参考素材最多可指定 50 个，可在保持世界观一致的同时进行生成\n・Ultra 年度套餐用户可享 60 天无限使用\n\n欢迎从今天开始试用！ https://t.co/kdv69VZj6X\n---"
+    }
+  }
+}

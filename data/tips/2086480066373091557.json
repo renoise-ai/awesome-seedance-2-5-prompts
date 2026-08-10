@@ -1,0 +1,42 @@
+{
+  "id": "2086480066373091557",
+  "title": "Use timestamp-based prompt edits in Seedance 2.5 to refine a specific moment in…",
+  "content": "Use timestamp-based prompt edits in Seedance 2.5 to refine a specific moment in a clip while keeping the product and overall style consistent across the full sequence.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086480047276478464/img/ZlYGXxfTIgNoR0-x.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086480066373091557.mp4",
+  "sourceLink": "https://x.com/FellMentKE/status/2086480066373091557",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "FELIX",
+    "link": "https://x.com/FellMentKE"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use timestamp-based prompt edits in Seedance 2.5 to refine a specific moment in a clip while keeping the product and overall style consistent across the full sequence.",
+  "translations": {
+    "es": {
+      "content": "Usa ediciones de prompt basadas en marcas de tiempo en Seedance 2.5 para refinar un momento específico de un clip, manteniendo el producto y el estilo general consistentes en toda la secuencia."
+    },
+    "fr": {
+      "content": "Utilisez les modifications de prompt basées sur les timestamps dans Seedance 2.5 pour affiner un moment précis d’un clip tout en conservant le produit et le style global cohérents sur l’ensemble de la séquence."
+    },
+    "ja": {
+      "content": "Seedance 2.5 では、timestampベースのprompt編集を使って、クリップ内の特定の瞬間を微調整しながら、製品と全体のスタイルをシーケンス全体で一貫して保つことができます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 타임스탬프 기반 prompt 편집을 사용해 클립의 특정 순간을 정교하게 다듬으면서, 제품과 전체 스타일은 전체 시퀀스에서 일관되게 유지하세요."
+    },
+    "pt": {
+      "content": "Use edições de prompt baseadas em timestamp no Seedance 2.5 para refinar um momento específico em um clipe, mantendo o produto e o estilo geral consistentes ao longo de toda a sequência."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中使用基于时间戳的 prompt 编辑，在保持产品和整体风格在整个序列中一致的同时，精细调整片段中的特定时刻。"
+    }
+  }
+}

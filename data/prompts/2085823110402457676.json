@@ -1,0 +1,41 @@
+{
+  "id": "2085823110402457676",
+  "title": "Follow the exact turntable motion and camera path from Video1, but render the…",
+  "content": "Follow the exact turntable motion and camera path from Video1, but render the armchair in Image1 in finished production quality. Replace the grey clay with the tan leather, tufted cushions, and walnut legs.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085822909562380289/img/94NFbwt4nPqSbngn.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085823110402457676.mp4",
+  "sourceLink": "https://x.com/felixsanzm/status/2085823110402457676",
+  "sourcePublishedAt": "2026-08-07",
+  "author": {
+    "name": "Félix Sanz",
+    "link": "https://x.com/felixsanzm"
+  },
+  "tags": [
+    "Product Ad",
+    "Home",
+    "Photoreal",
+    "Realistic World",
+    "Model Showcase"
+  ],
+  "translations": {
+    "es": {
+      "content": "Sigue exactamente el movimiento de turntable y la trayectoria de cámara de Video1, pero renderiza el sillón de Image1 con calidad final de producción. Sustituye la arcilla gris por cuero color tan, cojines capitoné y patas de nogal."
+    },
+    "fr": {
+      "content": "Suivez exactement le mouvement du plateau tournant et le trajet de la caméra de la Vidéo1, mais rendez le fauteuil de l’Image1 avec une qualité de production finale. Remplacez l’argile grise par le cuir fauve, les coussins capitonnés et les pieds en noyer."
+    },
+    "ja": {
+      "content": "Video1の正確なターンテーブルの動きとカメラの軌道に従いながら、Image1のアームチェアを完成された製品品質でレンダリングしてください。グレーのクレイを、タンのレザー、ボタン留めのクッション、ウォールナットの脚に置き換えてください。"
+    },
+    "ko": {
+      "content": "Video1의 정확한 턴테이블 모션과 카메라 경로를 그대로 따르되, Image1의 안락의자를 완성된 프로덕션 퀄리티로 렌더링하세요. 회색 클레이는 황갈색 가죽, 버튼 장식이 들어간 쿠션, 월넛 다리로 교체하세요."
+    },
+    "pt": {
+      "content": "Siga exatamente o movimento de turntable e o caminho da câmera do Video1, mas renderize a poltrona da Image1 em qualidade final de produção. Substitua a argila cinza pelo couro marrom-claro, pelas almofadas capitonê e pelas pernas de nogueira."
+    },
+    "zh": {
+      "content": "严格遵循 Video1 中的转盘运动和镜头路径，但将 Image1 中的扶手椅渲染为完成后的高品质成品。将灰色黏土替换为棕褐色皮革、绗缝坐垫和胡桃木椅腿。"
+    }
+  }
+}

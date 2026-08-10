@@ -1,0 +1,42 @@
+{
+  "id": "2086388171638751431",
+  "title": "SeeDance2.5で画面分割の制御テストをする際は、480p・15秒設定で生成する",
+  "content": "SeeDance2.5で画面分割の制御テストをする際は、480p・15秒設定で生成する  \n画面分割の制御にキャラシートをリファレンスとして5枚（キャラシートx5）投入する  \n長文プロンプトで制御する場合は、人物ごとにプロンプト長を変える（例：おっさん10000文字、アイドル12000文字）",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086385665059799040/img/SQcZcHJt-_lK0PRy.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086388171638751431.mp4",
+  "sourceLink": "https://x.com/viva_artificial/status/2086388171638751431",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "viva",
+    "link": "https://x.com/viva_artificial"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "SeeDance2.5で画面分割の制御テストをする際は、480p・15秒設定で生成する  \n画面分割の制御にキャラシートをリファレンスとして5枚（キャラシートx5）投入する  \n長文プロンプトで制御する場合は、人物ごとにプロンプト長を変える（例：おっさん10000文字、アイドル12000文字）",
+  "translations": {
+    "en": {
+      "content": "---\nWhen testing split-screen control in SeeDance 2.5, generate at 480p with a 15-second setting.  \nFor split-screen control, use five character sheets as references (character sheets x5).  \nWhen controlling with a long prompt, vary the prompt length for each character (e.g., 10,000 characters for the older man, 12,000 characters for the idol).\n---"
+    },
+    "es": {
+      "content": "Al realizar pruebas de control de pantalla dividida en SeeDance2.5, genera con la configuración de 480p y 15 segundos.  \nPara el control de pantalla dividida, introduce 5 character sheets como referencia (character sheets x5).  \nSi vas a controlar mediante un prompt largo, cambia la longitud del prompt según cada personaje (por ejemplo: 10.000 caracteres para el hombre mayor, 12.000 caracteres para el ídolo)."
+    },
+    "fr": {
+      "content": "Lors des tests de contrôle du split screen avec SeeDance2.5, générez en 480p avec une durée de 15 secondes.  \nPour le contrôle du split screen, ajoutez 5 character sheets en tant que références (character sheets x5).  \nSi vous contrôlez avec un prompt long, ajustez la longueur du prompt selon chaque personnage (ex. : homme d’âge mûr 10 000 caractères, idole 12 000 caractères)."
+    },
+    "ko": {
+      "content": "SeeDance2.5에서 화면 분할 제어 테스트를 할 때는 480p·15초 설정으로 생성한다  \n화면 분할 제어를 위해 캐릭터 시트를 레퍼런스로 5장(캐릭터 시트 x5) 투입한다  \n장문 prompt로 제어할 경우에는 인물별로 prompt 길이를 다르게 한다(예: 아저씨 10000자, 아이돌 12000자)"
+    },
+    "pt": {
+      "content": "Ao testar o controle de divisão de tela no SeeDance2.5, gere com configuração de 480p e 15 segundos.\n\nPara o controle de divisão de tela, insira 5 character sheets como referência (character sheet x5).\n\nAo controlar com um prompt longo, altere o comprimento do prompt de acordo com cada personagem (ex.: homem de meia-idade: 10.000 caracteres, idol: 12.000 caracteres)."
+    },
+    "zh": {
+      "content": "在使用 SeeDance2.5 进行画面分割控制测试时，请以 480p、15 秒设置生成。  \n用于画面分割控制时，投入 5 张角色设定图作为参考（角色设定图 x5）。  \n如果通过长文本 prompt 进行控制，则应根据不同人物调整 prompt 的长度（例如：大叔 10000 字，偶像 12000 字）。"
+    }
+  }
+}

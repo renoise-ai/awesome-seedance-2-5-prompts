@@ -1,0 +1,42 @@
+{
+  "id": "2085680608412573841",
+  "title": "Build a reference library before prompting by uploading up to 50 multimodal…",
+  "content": "Build a reference library before prompting by uploading up to 50 multimodal references per Seedance 2.5 project to lock in consistency.  \nUse the 50-reference limit to include a full character wardrobe, product images from every angle, location plates for each shot, and a color/lighting board to maintain consistent outputs.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085680582634405888/img/Vi6Ra-z7_SaSkCga.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085680608412573841.mp4",
+  "sourceLink": "https://x.com/hasantoxr/status/2085680608412573841",
+  "sourcePublishedAt": "2026-08-07",
+  "author": {
+    "name": "Hasan Toor",
+    "link": "https://x.com/hasantoxr"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Build a reference library before prompting by uploading up to 50 multimodal references per Seedance 2.5 project to lock in consistency.  \nUse the 50-reference limit to include a full character wardrobe, product images from every angle, location plates for each shot, and a color/lighting board to maintain consistent outputs.",
+  "translations": {
+    "es": {
+      "content": "Construye una biblioteca de referencia antes de hacer prompts subiendo hasta 50 referencias multimodales por proyecto de Seedance 2.5 para garantizar la consistencia.  \nAprovecha el límite de 50 referencias para incluir un vestuario completo del personaje, imágenes del producto desde todos los ángulos, placas de localización para cada toma y un panel de color/iluminación para mantener resultados consistentes."
+    },
+    "fr": {
+      "content": "Créez une bibliothèque de référence avant de rédiger votre prompt en téléversant jusqu’à 50 références multimodales par projet Seedance 2.5 afin de garantir la cohérence.  \nUtilisez la limite de 50 références pour inclure une garde-robe complète du personnage, des images du produit sous tous les angles, des plans de décor pour chaque prise, ainsi qu’un mood board couleur/éclairage afin de maintenir des résultats cohérents."
+    },
+    "ja": {
+      "content": "プロンプトを作成する前に、Seedance 2.5 の各プロジェクトごとに最大50件のマルチモーダル参照をアップロードして、整合性を固定したリファレンスライブラリを構築しましょう。  \n50件の参照上限を活用して、キャラクターの衣装一式、あらゆる角度からの製品画像、各ショット用のロケーションプレート、そして一貫した出力を維持するためのカラー／ライティングボードを含めてください。"
+    },
+    "ko": {
+      "content": "프롬프트를 작성하기 전에, Seedance 2.5 프로젝트당 최대 50개의 멀티모달 레퍼런스를 업로드해 일관성을 고정하세요.  \n50개 레퍼런스 한도를 활용해 전체 캐릭터 의상, 모든 각도의 제품 이미지, 각 샷별 로케이션 플레이트, 그리고 일관된 결과물을 유지하기 위한 색감/조명 보드를 포함하세요."
+    },
+    "pt": {
+      "content": "Crie uma biblioteca de referência antes de fazer prompts, enviando até 50 referências multimodais por projeto do Seedance 2.5 para garantir consistência.  \nUse o limite de 50 referências para incluir um guarda-roupa completo do personagem, imagens do produto de todos os ângulos, plates de locação para cada tomada e um board de cor/iluminação para manter resultados consistentes."
+    },
+    "zh": {
+      "content": "在开始 prompting 之前，先通过上传每个 Seedance 2.5 项目最多 50 个多模态参考素材来建立参考库，以锁定一致性。  \n利用 50 个参考的上限，纳入完整的角色服装、各个角度的产品图片、每个镜头的场景底板，以及色彩/光线板，以保持输出的一致性。"
+    }
+  }
+}

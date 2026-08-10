@@ -1,0 +1,42 @@
+{
+  "id": "2086529483075428749",
+  "title": "Build longer videos by generating 10‑second clips in Seedance 2.5 and splicing…",
+  "content": "Build longer videos by generating 10‑second clips in Seedance 2.5 and splicing them together in editing.  \nUse a starting image plus a character reference to anchor the look/identity across clips.  \nKeep each 10‑second prompt as a single paragraph that simply describes the scene instead of using complex “AI prompts.”  \nExpect small‑window (short clip) generations to drop props (e.g., a sword) when the character reference isn’t fully followed, so plan to regenerate or patch those scenes.  \nIf a subject (e.g., a dragon) slowly changes size over time, reinforce consistent scale by relying on the starting image dimensions and regenerating segments where size drift occurs.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086528856643534848/img/zjzrYbstLlqdBm_N.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086529483075428749.mp4",
+  "sourceLink": "https://x.com/Sweet_Afterlife/status/2086529483075428749",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "Skelly",
+    "link": "https://x.com/Sweet_Afterlife"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Build longer videos by generating 10‑second clips in Seedance 2.5 and splicing them together in editing.  \nUse a starting image plus a character reference to anchor the look/identity across clips.  \nKeep each 10‑second prompt as a single paragraph that simply describes the scene instead of using complex “AI prompts.”  \nExpect small‑window (short clip) generations to drop props (e.g., a sword) when the character reference isn’t fully followed, so plan to regenerate or patch those scenes.  \nIf a subject (e.g., a dragon) slowly changes size over time, reinforce consistent scale by relying on the starting image dimensions and regenerating segments where size drift occurs.",
+  "translations": {
+    "es": {
+      "content": "Construye videos más largos generando clips de 10 segundos en Seedance 2.5 y uniéndolos en edición.  \nUsa una imagen inicial junto con una referencia de personaje para anclar el aspecto/la identidad a lo largo de los clips.  \nMantén cada prompt de 10 segundos como un solo párrafo que simplemente describa la escena, en lugar de usar “AI prompts” complejos.  \nTen en cuenta que las generaciones en ventana pequeña (clips cortos) pueden omitir objetos (p. ej., una espada) cuando la referencia del personaje no se sigue por completo, así que planifica regenerar o corregir esas escenas.  \nSi un sujeto (p. ej., un dragón) cambia lentamente de tamaño con el tiempo, refuerza una escala consistente apoyándote en las dimensiones de la imagen inicial y regenerando los segmentos donde se produzca deriva de tamaño."
+    },
+    "fr": {
+      "content": "Construisez des vidéos plus longues en générant des clips de 10 secondes dans Seedance 2.5, puis en les assemblant au montage.  \nUtilisez une image de départ ainsi qu’une référence de personnage pour ancrer l’apparence et l’identité d’un clip à l’autre.  \nGardez chaque prompt de 10 secondes sous forme d’un seul paragraphe qui décrit simplement la scène, plutôt que d’utiliser des « prompts IA » complexes.  \nAttendez-vous à ce que les générations en petite fenêtre (clips courts) fassent disparaître des accessoires (par ex. une épée) lorsque la référence du personnage n’est pas entièrement respectée ; prévoyez donc de régénérer ou de retoucher ces scènes.  \nSi un sujet (par ex. un dragon) change lentement de taille au fil du temps, renforcez la cohérence de l’échelle en vous appuyant sur les dimensions de l’image de départ et en régénérant les segments où la dérive de taille apparaît."
+    },
+    "ja": {
+      "content": "Seedance 2.5で10秒のクリップを生成し、編集でつなぎ合わせることで、より長い動画を作成します。  \n開始画像に加えてキャラクター参照を使い、クリップ全体で見た目やアイデンティティを固定します。  \n各10秒のpromptは、複雑な「AI prompt」を使うのではなく、単にシーンを説明するだけの1つの段落にまとめます。  \n小さなウィンドウ（短いクリップ）の生成では、キャラクター参照が完全に反映されないと小道具（例：剣）が抜け落ちることがあるため、そうしたシーンは再生成するか、後から補完する前提で計画します。  \n被写体（例：ドラゴン）のサイズが時間とともに少しずつ変化する場合は、開始画像の寸法に基づいて一貫したスケールを強め、サイズのずれが起きた区間を再生成して補正します。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 10초 클립을 생성한 뒤 편집에서 이어 붙여 더 긴 영상을 만드세요.  \n시작 이미지와 캐릭터 레퍼런스를 함께 사용해 클립 전반에 걸쳐 외형/정체성을 고정하세요.  \n각 10초 prompt는 복잡한 “AI prompt”를 쓰기보다, 장면을 간단히 묘사하는 하나의 문단으로 유지하세요.  \n작은 윈도우(짧은 클립) 생성에서는 캐릭터 레퍼런스가 완전히 반영되지 않으면 소품(예: 검)이 사라질 수 있으므로, 그런 장면은 다시 생성하거나 패치할 계획을 세우세요.  \n대상(예: 드래곤)의 크기가 시간이 지나며 서서히 변한다면, 시작 이미지의 크기를 기준으로 일관된 스케일을 강화하고 크기 드리프트가 발생한 구간은 다시 생성하세요."
+    },
+    "pt": {
+      "content": "Crie vídeos mais longos gerando clipes de 10 segundos no Seedance 2.5 e depois unindo-os na edição.  \nUse uma imagem inicial junto com uma referência de personagem para ancorar a aparência/identidade ao longo dos clipes.  \nMantenha cada prompt de 10 segundos como um único parágrafo que simplesmente descreva a cena, em vez de usar “prompts de IA” complexos.  \nEspere que gerações em janela pequena (clipes curtos) deixem de incluir objetos (por exemplo, uma espada) quando a referência do personagem não for seguida completamente, então planeje regenerar ou corrigir essas cenas.  \nSe um sujeito (por exemplo, um dragão) mudar de tamanho lentamente ao longo do tempo, reforce uma escala consistente confiando nas dimensões da imagem inicial e regenerando os trechos em que ocorrer desvio de tamanho."
+    },
+    "zh": {
+      "content": "通过在 Seedance 2.5 中生成 10 秒短片并在后期剪辑中将它们拼接起来，来制作更长的视频。  \n使用一张起始图像加上角色参考，来锚定各个片段中的外观/身份一致性。  \n将每个 10 秒 prompt 保持为单个段落，只需描述场景即可，不要使用复杂的“AI prompts”。  \n要预期小窗口（短片）生成在角色参考没有被完全遵循时会丢失道具（例如一把剑），因此要计划重新生成或修补这些场景。  \n如果某个主体（例如一条龙）会随着时间缓慢改变大小，可依靠起始图像的尺寸来强化一致的比例，并对出现尺寸漂移的片段重新生成。"
+    }
+  }
+}

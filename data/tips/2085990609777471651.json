@@ -1,0 +1,42 @@
+{
+  "id": "2085990609777471651",
+  "title": "在 Seedance 2.5 里上传自己的图片作为参考图，然后在提示词中加入风格：日本大型综艺水上闯关特别节目（Japanese TV Game…",
+  "content": "在 Seedance 2.5 里上传自己的图片作为参考图，然后在提示词中加入风格：日本大型综艺水上闯关特别节目（Japanese TV Game Show，Live-Action）来生成对应风格的视频",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085990389702426625/img/UOKjGuuoGwlaXXrW.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085990609777471651.mp4",
+  "sourceLink": "https://x.com/johnAGI168/status/2085990609777471651",
+  "sourcePublishedAt": "2026-08-08",
+  "author": {
+    "name": "John",
+    "link": "https://x.com/johnAGI168"
+  },
+  "tags": [
+    "Sports",
+    "Other Competition",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "在 Seedance 2.5 里上传自己的图片作为参考图，然后在提示词中加入风格：日本大型综艺水上闯关特别节目（Japanese TV Game Show，Live-Action）来生成对应风格的视频",
+  "translations": {
+    "en": {
+      "content": "In Seedance 2.5, upload your own image as a reference image, then add the style “Japanese TV Game Show, Live-Action” to the prompt to generate a video in the corresponding style."
+    },
+    "es": {
+      "content": "En Seedance 2.5, sube tu propia imagen como imagen de referencia y luego añade en el prompt el estilo: programa especial de concursos acuáticos de un gran show de variedades japonés (Japanese TV Game Show, Live-Action) para generar un video con ese estilo."
+    },
+    "fr": {
+      "content": "Dans Seedance 2.5, téléversez votre propre image comme image de référence, puis ajoutez dans le prompt le style : émission spéciale japonaise de grand jeu télévisé sur l’eau (Japanese TV Game Show, Live-Action) afin de générer une vidéo correspondant à ce style."
+    },
+    "ja": {
+      "content": "Seedance 2.5 では、自分の画像を参考画像としてアップロードし、プロンプトに「スタイル：日本の大型バラエティ番組の水上アスレチック特番（Japanese TV Game Show, Live-Action）」を追加することで、対応するスタイルの動画を生成できます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 자신의 이미지를 참고 이미지로 업로드한 다음, prompt에 스타일: 일본 대형 버라이어티 수상 도전 특별 프로그램(Japanese TV Game Show, Live-Action)을 추가하면 해당 스타일의 영상을 생성할 수 있습니다."
+    },
+    "pt": {
+      "content": "No Seedance 2.5, faça upload da sua própria imagem como imagem de referência e, em seguida, adicione ao prompt o estilo: programa especial de competição aquática de um grande show de variedades japonês (Japanese TV Game Show, Live-Action) para gerar um vídeo no estilo correspondente."
+    }
+  }
+}

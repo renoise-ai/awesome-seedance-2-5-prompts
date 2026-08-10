@@ -1,0 +1,41 @@
+{
+  "id": "2085651439381356580",
+  "title": "Usa un flujo de trabajo: referencia → storyboard → prompt por timestamps →…",
+  "content": "Usa un flujo de trabajo: referencia → storyboard → prompt por timestamps → generación → ajustes → teaser final en Seedance 2.5.",
+  "language": "es",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/ValeriA_Tech/status/2085651439381356580",
+  "sourcePublishedAt": "2026-08-07",
+  "author": {
+    "name": "𝑽𝒂𝒍𝒆𝒓𝑰𝑨",
+    "link": "https://x.com/ValeriA_Tech"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Usa un flujo de trabajo: referencia → storyboard → prompt por timestamps → generación → ajustes → teaser final en Seedance 2.5.",
+  "translations": {
+    "en": {
+      "content": "Use a workflow: reference → storyboard → timestamp-based prompt → generation → adjustments → final teaser in Seedance 2.5."
+    },
+    "fr": {
+      "content": "Utilisez un flux de travail : référence → storyboard → prompt par timestamps → génération → ajustements → teaser final dans Seedance 2.5."
+    },
+    "ja": {
+      "content": "Seedance 2.5では、ワークフローを活用しましょう：参考資料 → ストーリーボード → タイムスタンプ付きプロンプト → 生成 → 調整 → 最終ティーザー。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 워크플로를 사용하세요: 레퍼런스 → 스토리보드 → 타임스탬프별 프롬프트 → 생성 → 조정 → 최종 티저."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho: referência → storyboard → prompt por timestamps → geração → ajustes → teaser final no Seedance 2.5."
+    },
+    "zh": {
+      "content": "使用一个工作流程：参考 → 分镜脚本 → 按时间戳编写 prompt → 生成 → 调整 → 在 Seedance 2.5 中完成最终 teaser。"
+    }
+  }
+}

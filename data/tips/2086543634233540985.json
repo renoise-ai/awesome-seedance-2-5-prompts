@@ -1,0 +1,42 @@
+{
+  "id": "2086543634233540985",
+  "title": "Usa prompts muy largos (hasta ~3.500 caracteres) en Seedance 2.5 para describir…",
+  "content": "Usa prompts muy largos (hasta ~3.500 caracteres) en Seedance 2.5 para describir escenas complejas en un solo plano y mantener coherencia durante ~30s.",
+  "language": "es",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2086543475693035520/pu/img/NFU-8rXn0XYhMRQQ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086543634233540985.mp4",
+  "sourceLink": "https://x.com/nomaaistudio/status/2086543634233540985",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "NoMa Studio AI",
+    "link": "https://x.com/nomaaistudio"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Usa prompts muy largos (hasta ~3.500 caracteres) en Seedance 2.5 para describir escenas complejas en un solo plano y mantener coherencia durante ~30s.",
+  "translations": {
+    "en": {
+      "content": "Use very long prompts (up to ~3,500 characters) in Seedance 2.5 to describe complex scenes in a single shot and maintain consistency for ~30s."
+    },
+    "fr": {
+      "content": "Utilisez des prompts très longs (jusqu’à ~3 500 caractères) dans Seedance 2.5 pour décrire des scènes complexes en un seul plan et maintenir la cohérence pendant ~30 s."
+    },
+    "ja": {
+      "content": "Seedance 2.5では、非常に長いprompt（最大約3,500文字）を使って、複雑なシーンを1カットで描写し、約30秒にわたって一貫性を保てます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서는 매우 긴 prompt(최대 약 3,500자)를 사용해 복잡한 장면을 한 번의 샷으로 묘사하고, 약 30초 동안 일관성을 유지할 수 있습니다."
+    },
+    "pt": {
+      "content": "Use prompts muito longos (até ~3.500 caracteres) no Seedance 2.5 para descrever cenas complexas em um único plano e manter a coerência por cerca de 30s."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中使用很长的 prompt（最多约 3,500 个字符），以便在单个镜头中描述复杂场景，并在约 30 秒内保持一致性。"
+    }
+  }
+}

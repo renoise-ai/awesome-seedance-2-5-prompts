@@ -1,0 +1,43 @@
+{
+  "id": "2086279239423410239",
+  "title": "Use a vision model (mmx vision describe) to read/describe your storyboard into…",
+  "content": "Use a vision model (mmx vision describe) to read/describe your storyboard into text prompts if your text-only prompting keeps guessing wrong.  \nIf Seedance 2.5 is web-only, automate Dreamina’s web UI with Playwright to run generations.  \nFor Seedance 2.5 via Dreamina UI, generate at 480p / 10s using a storyboard reference to keep shots aligned.  \nIterate multiple paid runs (e.g., 17 MiniMax H3 runs) until specific action beats land (one-take, no water, spatula-tap, chew-then-blush).  \nAssemble and label side-by-side comparisons in ChatCut, then finish with ffmpeg using drawtext + vstack + adelay + cover frames.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086279118103179264/img/h0BNnDPLLYF_In3L.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086279239423410239.mp4",
+  "sourceLink": "https://x.com/ChangningL29508/status/2086279239423410239",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "Changning Liu",
+    "link": "https://x.com/ChangningL29508"
+  },
+  "tags": [
+    "Food",
+    "Cooking",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Use a vision model (mmx vision describe) to read/describe your storyboard into text prompts if your text-only prompting keeps guessing wrong.  \nIf Seedance 2.5 is web-only, automate Dreamina’s web UI with Playwright to run generations.  \nFor Seedance 2.5 via Dreamina UI, generate at 480p / 10s using a storyboard reference to keep shots aligned.  \nIterate multiple paid runs (e.g., 17 MiniMax H3 runs) until specific action beats land (one-take, no water, spatula-tap, chew-then-blush).  \nAssemble and label side-by-side comparisons in ChatCut, then finish with ffmpeg using drawtext + vstack + adelay + cover frames.",
+  "translations": {
+    "es": {
+      "content": "Usa un modelo de visión (mmx vision describe) para leer/describir tu storyboard en prompts de texto si tus prompts solo de texto siguen adivinando mal.  \nSi Seedance 2.5 es solo web, automatiza la interfaz web de Dreamina con Playwright para ejecutar las generaciones.  \nPara Seedance 2.5 a través de la interfaz de Dreamina, genera a 480p / 10s usando una referencia de storyboard para mantener los planos alineados.  \nItera múltiples ejecuciones de pago (p. ej., 17 ejecuciones de MiniMax H3) hasta que se consigan los beats de acción específicos (one-take, no water, spatula-tap, chew-then-blush).  \nArma y etiqueta comparaciones lado a lado en ChatCut, y luego termina con ffmpeg usando drawtext + vstack + adelay + cover frames."
+    },
+    "fr": {
+      "content": "Utilisez un modèle de vision (mmx vision describe) pour lire/décrire votre storyboard en prompts textuels si vos prompts en texte seul continuent de se tromper.  \nSi Seedance 2.5 est uniquement disponible sur le web, automatisez l’interface web de Dreamina avec Playwright pour lancer les générations.  \nPour Seedance 2.5 via l’interface Dreamina, générez en 480p / 10s en utilisant une référence de storyboard afin de garder les plans alignés.  \nItérez avec plusieurs exécutions payantes (par ex. 17 runs MiniMax H3) jusqu’à ce que des beats d’action précis soient réussis (one-take, pas d’eau, tapotement de spatule, mâcher puis rougir).  \nAssemblez et étiquetez des comparaisons côte à côte dans ChatCut, puis finalisez avec ffmpeg en utilisant drawtext + vstack + adelay + cover frames."
+    },
+    "ja": {
+      "content": "テキストのみのプロンプトでうまくいかず、推測ばかりしてしまう場合は、ビジョンモデル（mmx vision describe）を使って、絵コンテを読み取り／説明し、それをテキストプロンプトに変換してください。  \nSeedance 2.5 が Web 専用なら、Playwright を使って Dreamina の Web UI を自動操作し、生成を実行します。  \nDreamina UI 経由で Seedance 2.5 を使う場合は、ショットの整合性を保つために絵コンテ参照を用い、480p / 10s で生成します。  \n特定のアクションのビートが狙いどおりに決まるまで、複数回の有料実行（例: MiniMax H3 を 17 回）を繰り返します（ワンテイク、水なし、スパチュラでトントン、噛んでから赤面）。  \nChatCut で横並び比較を組み立ててラベル付けし、最後に ffmpeg で drawtext + vstack + adelay + cover frames を使って仕上げます。"
+    },
+    "ko": {
+      "content": "텍스트만으로 프롬프트를 작성할 때 계속 엉뚱하게 추측한다면, 비전 모델(mmx vision describe)을 사용해 스토리보드를 읽고/설명해 텍스트 프롬프트로 옮기세요.  \nSeedance 2.5가 웹 전용이라면, Playwright로 Dreamina의 웹 UI를 자동화해 생성 작업을 실행하세요.  \nDreamina UI를 통해 Seedance 2.5를 사용할 때는, 샷의 정렬을 유지하기 위해 스토리보드 레퍼런스를 사용해 480p / 10s로 생성하세요.  \n특정 액션 비트가 제대로 나올 때까지 여러 번 유료 실행을 반복하세요(예: 17회의 MiniMax H3 실행) — one-take, no water, spatula-tap, chew-then-blush.  \nChatCut에서 나란히 비교한 결과를 조합하고 라벨링한 뒤, drawtext + vstack + adelay + cover frames를 사용해 ffmpeg로 마무리하세요."
+    },
+    "pt": {
+      "content": "Use um modelo de visão (mmx vision describe) para ler/descrever seu storyboard em prompts de texto, se o seu prompting apenas com texto continuar errando.  \nSe o Seedance 2.5 for apenas web, automatize a interface web do Dreamina com o Playwright para executar as gerações.  \nPara o Seedance 2.5 via a interface do Dreamina, gere em 480p / 10s usando uma referência de storyboard para manter os planos alinhados.  \nItere várias execuções pagas (por exemplo, 17 execuções do MiniMax H3) até que os beats de ação específicos funcionem (one-take, sem água, batida da espátula, mastigar-then-blush).  \nMonte e rotule comparações lado a lado no ChatCut, depois finalize com ffmpeg usando drawtext + vstack + adelay + cover frames."
+    },
+    "zh": {
+      "content": "如果你的纯文本提示总是猜错，可以使用视觉模型（mmx vision describe）来读取/描述你的分镜，并将其转成文本提示。  \n如果 Seedance 2.5 仅支持网页端，可使用 Playwright 自动化 Dreamina 的网页 UI 来运行生成。  \n通过 Dreamina UI 使用 Seedance 2.5 时，使用分镜参考以 480p / 10s 生成，确保镜头保持对齐。  \n反复进行多次付费运行（例如 17 次 MiniMax H3 运行），直到特定动作节拍达到预期效果（one-take、no water、spatula-tap、chew-then-blush）。  \n在 ChatCut 中整理并标注并排对比，然后使用 ffmpeg 结合 drawtext + vstack + adelay + cover frames 完成最终处理。"
+    }
+  }
+}

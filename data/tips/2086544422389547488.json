@@ -1,0 +1,43 @@
+{
+  "id": "2086544422389547488",
+  "title": "Add a panel-to-timestamp mapping for your storyboard so Seedance 2.5 knows the…",
+  "content": "Add a panel-to-timestamp mapping for your storyboard so Seedance 2.5 knows the intended shot order; otherwise the storyboard acts only as a style reference.\n\nUse timestamped storyboard sheet prompts (not just images) to explicitly define when each panel/shot occurs in the video.\n\nCreate character sheet prompts with face lock enabled to maintain consistent character identity across shots.\n\nInclude the storyboard panel code in every beat of your video prompt so each moment is tied to the correct storyboard panel.\n\nLock the reference order (keep references in a fixed sequence) to reduce character drift across the render.\n\nAdd exclusion lines to your prompt to prevent Seedance 2.5 from rendering storyboard panel borders and gray backdrops into the final video.\n\nUse a fixed set of intake questions (with defaults) to standardize inputs before generating prompts for Seedance 2.5.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086540904979189760/img/LenLA4lGf5seUpLe.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086544422389547488.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2086544422389547488",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Add a panel-to-timestamp mapping for your storyboard so Seedance 2.5 knows the intended shot order; otherwise the storyboard acts only as a style reference.\n\nUse timestamped storyboard sheet prompts (not just images) to explicitly define when each panel/shot occurs in the video.\n\nCreate character sheet prompts with face lock enabled to maintain consistent character identity across shots.\n\nInclude the storyboard panel code in every beat of your video prompt so each moment is tied to the correct storyboard panel.\n\nLock the reference order (keep references in a fixed sequence) to reduce character drift across the render.\n\nAdd exclusion lines to your prompt to prevent Seedance 2.5 from rendering storyboard panel borders and gray backdrops into the final video.\n\nUse a fixed set of intake questions (with defaults) to standardize inputs before generating prompts for Seedance 2.5.",
+  "translations": {
+    "es": {
+      "content": "Añade una asignación de panel a timestamp para tu storyboard, de modo que Seedance 2.5 sepa el orden previsto de los planos; de lo contrario, el storyboard solo actúa como referencia de estilo.\n\nUsa prompts de hojas de storyboard con timestamp (no solo imágenes) para definir explícitamente cuándo ocurre cada panel/plano en el video.\n\nCrea prompts de hojas de personajes con face lock activado para mantener una identidad de personaje consistente entre planos.\n\nIncluye el código del panel del storyboard en cada beat de tu prompt de video para que cada momento quede vinculado al panel correcto del storyboard.\n\nBloquea el orden de las referencias (mantén las referencias en una secuencia fija) para reducir la deriva del personaje durante el render.\n\nAñade líneas de exclusión a tu prompt para evitar que Seedance 2.5 renderice los bordes de los paneles del storyboard y los fondos grises en el video final.\n\nUsa un conjunto fijo de preguntas de entrada (con valores predeterminados) para estandarizar los inputs antes de generar prompts para Seedance 2.5.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Descarga: https://t.co/1ZzzLN5Lip\n\nMete el archivo en Claude como una skill y funcionará por sí solo. Dime qué falla y lo arreglo."
+    },
+    "fr": {
+      "content": "Ajoutez une correspondance entre les panneaux et les timestamps pour votre storyboard afin que Seedance 2.5 comprenne l’ordre prévu des plans ; sinon, le storyboard ne sert que de référence de style.\n\nUtilisez des prompts de storyboard sheet horodatés (pas seulement des images) pour définir explicitement quand chaque panneau/plan apparaît dans la vidéo.\n\nCréez des prompts de character sheet avec le face lock activé afin de maintenir une identité de personnage cohérente d’un plan à l’autre.\n\nIncluez le code du panneau de storyboard dans chaque beat de votre prompt vidéo afin que chaque moment soit relié au bon panneau du storyboard.\n\nVerrouillez l’ordre des références (conservez les références dans une séquence fixe) pour réduire la dérive du personnage pendant le rendu.\n\nAjoutez des lignes d’exclusion à votre prompt pour empêcher Seedance 2.5 de rendre les bordures des panneaux du storyboard et les arrière-plans gris dans la vidéo finale.\n\nUtilisez un ensemble fixe de questions d’entrée (avec des valeurs par défaut) pour standardiser les inputs avant de générer des prompts pour Seedance 2.5.\n\n--- SUITE DU FIL ---\n[Fil 1] Téléchargement : https://t.co/1ZzzLN5Lip\n\nDéposez le fichier dans Claude comme un skill et il fonctionne tout seul. Dites-moi ce qui casse — je corrigerai."
+    },
+    "ja": {
+      "content": "ストーリーボードにパネルとタイムスタンプの対応表を追加して、Seedance 2.5 に意図したショット順を認識させてください。そうしないと、ストーリーボードはスタイル参照としてしか機能しません。\n\n各パネル／ショットが動画のどの時点で発生するかを明示するために、タイムスタンプ付きの storyboard sheet prompts（画像だけではなく）を使用してください。\n\nショット間で一貫したキャラクターの同一性を維持するために、face lock を有効にした character sheet prompts を作成してください。\n\n動画プロンプトの各ビートに storyboard のパネルコードを含めて、各瞬間が正しい storyboard パネルに紐づくようにしてください。\n\nレンダー全体での character drift を抑えるために、reference order を固定し、参照を常に同じ順序で保持してください。\n\nSeedance 2.5 が storyboard のパネル枠やグレーの背景を最終動画に描画しないように、プロンプトに exclusion lines を追加してください。\n\nSeedance 2.5 用のプロンプトを生成する前に、入力を標準化するため、デフォルト値付きの固定された intake questions を使用してください。\n\n--- スレッド継続 ---\n[Thread 1] ダウンロード: https://t.co/1ZzzLN5Lip\n\nファイルを Claude に skill として入れれば、あとは自動で動きます。何が壊れるか教えてください。直します。"
+    },
+    "ko": {
+      "content": "스토리보드에 패널-타임스탬프 매핑을 추가해 Seedance 2.5가 의도된 샷 순서를 알 수 있게 하세요. 그렇지 않으면 스토리보드는 스타일 레퍼런스로만 작동합니다.\n\n타임스탬프가 포함된 storyboard sheet prompts(이미지뿐 아니라)를 사용해 각 패널/샷이 영상의 어느 시점에 등장하는지 명시적으로 정의하세요.\n\nface lock을 활성화한 character sheet prompts를 만들어 샷 전반에 걸쳐 일관된 캐릭터 아이덴티티를 유지하세요.\n\n영상 prompt의 모든 beat에 storyboard 패널 코드를 포함해 각 순간이 올바른 storyboard 패널과 연결되도록 하세요.\n\n렌더 전반에서 캐릭터 드리프트를 줄이기 위해 reference 순서를 고정하세요(레퍼런스를 일정한 순서로 유지).\n\nSeedance 2.5가 storyboard 패널 테두리와 회색 배경을 최종 영상에 렌더링하지 않도록 prompt에 exclusion lines를 추가하세요.\n\nSeedance 2.5용 prompt를 생성하기 전에 입력을 표준화할 수 있도록 기본값이 포함된 고정된 intake questions 세트를 사용하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 다운로드: https://t.co/1ZzzLN5Lip\n\n파일을 Claude에 skill로 넣으면 저절로 실행됩니다. 무엇이 깨지는지 알려 주세요 — 제가 고치겠습니다."
+    },
+    "pt": {
+      "content": "Adicione um mapeamento de painel para timestamp ao seu storyboard para que o Seedance 2.5 saiba a ordem pretendida dos planos; caso contrário, o storyboard funciona apenas como referência de estilo.\n\nUse prompts de storyboard sheet com timestamp (não apenas imagens) para definir explicitamente quando cada painel/plano ocorre no vídeo.\n\nCrie prompts de character sheet com face lock ativado para manter a identidade consistente do personagem entre os planos.\n\nInclua o código do painel do storyboard em cada beat do seu prompt de vídeo para que cada momento fique vinculado ao painel correto do storyboard.\n\nTrave a ordem das referências (mantenha as referências em uma sequência fixa) para reduzir o drift do personagem ao longo da renderização.\n\nAdicione linhas de exclusão ao seu prompt para impedir que o Seedance 2.5 renderize as bordas dos painéis do storyboard e os fundos cinza no vídeo final.\n\nUse um conjunto fixo de perguntas de entrada (com padrões) para padronizar os inputs antes de gerar prompts para o Seedance 2.5.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Download: https://t.co/1ZzzLN5Lip\n\nColoque o arquivo no Claude como uma skill e ele roda sozinho. Me diga o que quebra — eu conserto."
+    },
+    "zh": {
+      "content": "为你的分镜板添加面板到时间戳的映射，这样 Seedance 2.5 才能知道预期的镜头顺序；否则，分镜板只会作为风格参考。\n\n使用带时间戳的分镜板提示词（不仅仅是图片），明确指定视频中每个面板/镜头出现的时间。\n\n创建启用 face lock 的角色表提示词，以在不同镜头之间保持角色身份一致。\n\n在视频提示词的每个节拍中都包含分镜板面板代码，这样每个时刻都会对应到正确的分镜板面板。\n\n锁定参考顺序（保持参考素材的固定顺序），以减少渲染过程中角色漂移。\n\n在提示词中加入排除语句，防止 Seedance 2.5 将分镜板的面板边框和灰色背景渲染进最终视频。\n\n使用一组固定的输入问题（带默认值），在为 Seedance 2.5 生成提示词之前标准化输入。\n\n--- 线程续接 ---\n[Thread 1] 下载：https://t.co/1ZzzLN5Lip\n\n把文件作为 skill 放进 Claude，它就会自动运行。告诉我哪里出问题——我来修。"
+    }
+  }
+}

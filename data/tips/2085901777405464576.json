@@ -1,0 +1,45 @@
+{
+  "id": "2085901777405464576",
+  "title": "Buat prompt generator Seedance di ChatGPT yang menerima gambar referensi +…",
+  "content": "Buat prompt generator Seedance di ChatGPT yang menerima gambar referensi + deskripsi animasi, lalu mengeluarkan prompt animasi siap pakai untuk workflow text-to-video, image-to-video, dan storyboard.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085901678533136385/img/QK_eKuGrUZxIQ33F.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085901777405464576.mp4",
+  "sourceLink": "https://x.com/Cupang1997/status/2085901777405464576",
+  "sourcePublishedAt": "2026-08-08",
+  "author": {
+    "name": "CUPANG",
+    "link": "https://x.com/Cupang1997"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Buat prompt generator Seedance di ChatGPT yang menerima gambar referensi + deskripsi animasi, lalu mengeluarkan prompt animasi siap pakai untuk workflow text-to-video, image-to-video, dan storyboard.",
+  "translations": {
+    "en": {
+      "content": "Create a Seedance prompt generator in ChatGPT that accepts a reference image + animation description, then outputs a ready-to-use animation prompt for text-to-video, image-to-video, and storyboard workflows.\n\n--- QUOTED TWEET ---\nI made a prompt generator for Seedance in ChatGPT.\n\nSo you can create Text-to-Video, Image-to-Video, and storyboard animations without the hassle.\n\nJust send your reference image and your animation request, and this generator will produce an animation prompt ready for you to use.\n\nWould anyone be interested?\n---"
+    },
+    "es": {
+      "content": "Crea un prompt generator de Seedance en ChatGPT que reciba una imagen de referencia + una descripción de la animación, y luego genere un prompt de animación listo para usar para workflows de text-to-video, image-to-video y storyboard.\n\n--- TWEET CITADO ---\nHice un prompt generator para Seedance en ChatGPT\n\nAsí puedes crear animaciones de text-to-video, image-to-video y storyboard sin complicarte.\n\nSolo envía tu imagen de referencia y tu solicitud de animación, y este generador producirá un prompt de animación listo para que lo uses.\n\n¿Creen que a alguien le interesaría?\n---"
+    },
+    "fr": {
+      "content": "Créez un prompt generator Seedance dans ChatGPT qui accepte une image de référence + une description d’animation, puis génère un prompt d’animation prêt à l’emploi pour les workflows text-to-video, image-to-video et storyboard.\n\n--- TWEET CITÉ ---\nJ’ai créé un prompt generator pour Seedance dans ChatGPT\n\nComme ça, tu peux créer des animations text-to-video, image-to-video et storyboard sans te prendre la tête.\n\nIl suffit d’envoyer ton image de référence et ta demande d’animation, et ce générateur produira un prompt d’animation prêt à être utilisé.\n\nEst-ce que ça intéresserait quelqu’un ?\n---"
+    },
+    "ja": {
+      "content": "ChatGPTで、参照画像＋アニメーションの説明を受け取り、text-to-video、image-to-video、そして storyboard のワークフロー向けに、そのまま使えるアニメーション用 prompt を出力する Seedance の prompt generator を作る。\n\n--- 引用ツイート ---\nChatGPTで seedance 用の prompt generator を作った\n\nこれで、Text to video、image to video、storyboard のアニメーションを面倒なく作れる。\n\n参照画像とアニメーションのリクエストを送るだけで、この generator がすぐ使えるアニメーション用 prompt を生成してくれる。\n\n欲しい人いるかな？\n---"
+    },
+    "ko": {
+      "content": "ChatGPT에서 Seedance 프롬프트 생성기를 만들어, 참고 이미지 + 애니메이션 설명을 입력하면 text-to-video, image-to-video, 그리고 storyboard 워크플로우에 바로 사용할 수 있는 애니메이션 프롬프트를 출력하게 하세요.\n\n--- 인용된 트윗 ---\n나는 ChatGPT에서 seedance용 프롬프트 생성기를 만들었어\n\n그래서 Text to video, image to video, storyboard 애니메이션을 번거롭지 않게 만들 수 있어.\n\n참고 이미지만 보내고 원하는 애니메이션을 요청하면, 이 생성기가 바로 사용할 수 있는 애니메이션 프롬프트를 만들어줄 거야.\n\n혹시 필요할 사람 있을까?\n---"
+    },
+    "pt": {
+      "content": "Crie um prompt generator para Seedance no ChatGPT que receba uma imagem de referência + uma descrição da animação e, em seguida, gere um prompt de animação pronto para uso em workflows de text-to-video, image-to-video e storyboard.\n\n--- TWEET CITADO ---\nEu criei um prompt generator para Seedance no ChatGPT\n\nAssim, você pode criar animações de text to video, image to video e storyboard sem complicação.\n\nBasta enviar sua imagem de referência e o pedido da animação, e então esse generator vai gerar um prompt de animação pronto para você usar.\n\nSerá que tem gente interessada?\n---"
+    },
+    "zh": {
+      "content": "在 ChatGPT 中制作一个 Seedance prompt 生成器，接收参考图片 + 动画描述，然后输出可直接使用的动画 prompt，适用于 text-to-video、image-to-video 和 storyboard 工作流。\n\n--- QUOTED TWEET ---\n我在 ChatGPT 里做了一个用于 seedance 的 prompt 生成器\n\n这样你就可以轻松制作 Text to video、image to video 和 storyboard 动画，不用再那么麻烦。\n\n只要把你的参考图片和动画需求发过来，这个生成器就会为你生成可直接使用的动画 prompt。\n\n有没有人想要？\n---"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2086271247860809784",
+  "title": "Test Seedance 2.5 consistency by generating a 30‑second single-shot monologue…",
+  "content": "Test Seedance 2.5 consistency by generating a 30‑second single-shot monologue with no fast action shots and no quick cuts, using a stylized character with a clearly defined style.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086221820538093569/img/nNnUmriiDlUcbRW7.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086271247860809784.mp4",
+  "sourceLink": "https://x.com/ToshiArte/status/2086271247860809784",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "Toshi",
+    "link": "https://x.com/ToshiArte"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Model Showcase"
+  ],
+  "tips": "Test Seedance 2.5 consistency by generating a 30‑second single-shot monologue with no fast action shots and no quick cuts, using a stylized character with a clearly defined style.",
+  "translations": {
+    "es": {
+      "content": "Prueba la consistencia de Seedance 2.5 generando un monólogo de una sola toma de 30 segundos, sin planos de acción rápida ni cortes rápidos, utilizando un personaje estilizado con un estilo claramente definido."
+    },
+    "fr": {
+      "content": "Testez la cohérence de Seedance 2.5 en générant un monologue en un seul plan de 30 secondes, sans plans d’action rapides ni coupes rapides, avec un personnage stylisé au style clairement défini."
+    },
+    "ja": {
+      "content": "スタイルが明確に定義されたスタイライズドなキャラクターを用い、速いアクションショットやクイックカットなしで、30秒のワンショットモノローグを生成して、Seedance 2.5 の一貫性をテストする。"
+    },
+    "ko": {
+      "content": "스타일이 명확하게 정의된 스타일라이즈드 캐릭터를 사용해, 빠른 액션 샷이나 빠른 컷 없이 30초짜리 단일 샷 모놀로그를 생성하여 Seedance 2.5의 일관성을 테스트하세요."
+    },
+    "pt": {
+      "content": "Teste a consistência do Seedance 2.5 gerando um monólogo de 30 segundos em plano único, sem cenas de ação rápida e sem cortes rápidos, usando um personagem estilizado com um estilo claramente definido."
+    },
+    "zh": {
+      "content": "通过生成一个 30 秒的单镜头独白来测试 Seedance 2.5 的一致性，要求没有快速动作镜头和快速剪辑，并使用一个风格鲜明、风格定义清晰的角色。"
+    }
+  }
+}

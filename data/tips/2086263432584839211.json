@@ -1,0 +1,42 @@
+{
+  "id": "2086263432584839211",
+  "title": "Use SeeDance2.5 with four character-sheet reference images (キャラシートx4) to test…",
+  "content": "Use SeeDance2.5 with four character-sheet reference images (キャラシートx4) to test and control split-screen (画面分割) composition  \nIncrease prompt length to around 8200 characters to pack detailed instructions for complex compositions like split-screen control  \nSpecify Japanese singing and provide explicit lyrics (日本語歌唱・歌詞指定) in the prompt to control vocal language and content  \nMix in live-action elements (実写混入) to create unexpected/interesting results when testing split-screen setups",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086261228570324992/img/_PbEtoM3XMA9MECz.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086263432584839211.mp4",
+  "sourceLink": "https://x.com/viva_artificial/status/2086263432584839211",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "viva",
+    "link": "https://x.com/viva_artificial"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use SeeDance2.5 with four character-sheet reference images (キャラシートx4) to test and control split-screen (画面分割) composition  \nIncrease prompt length to around 8200 characters to pack detailed instructions for complex compositions like split-screen control  \nSpecify Japanese singing and provide explicit lyrics (日本語歌唱・歌詞指定) in the prompt to control vocal language and content  \nMix in live-action elements (実写混入) to create unexpected/interesting results when testing split-screen setups",
+  "translations": {
+    "en": {
+      "content": "Use SeeDance2.5 with four character-sheet reference images (キャラシートx4) to test and control split-screen (画面分割) composition  \nIncrease prompt length to around 8,200 characters to include detailed instructions for complex compositions such as split-screen control  \nSpecify Japanese singing and provide explicit lyrics (日本語歌唱・歌詞指定) in the prompt to control the vocal language and content  \nMix in live-action elements (実写混入) to create unexpected and interesting results when testing split-screen setups"
+    },
+    "es": {
+      "content": "Usa SeeDance2.5 con cuatro imágenes de referencia de character sheet (キャラシートx4) para probar y controlar la composición en pantalla dividida (画面分割).  \nAumenta la longitud del prompt a alrededor de 8200 caracteres para incluir instrucciones detalladas para composiciones complejas como el control de pantalla dividida.  \nEspecifica canto en japonés y proporciona letras explícitas (日本語歌唱・歌詞指定) en el prompt para controlar el idioma y el contenido vocal.  \nMezcla elementos de acción real (実写混入) para crear resultados inesperados e interesantes al probar configuraciones de pantalla dividida."
+    },
+    "fr": {
+      "content": "Utilisez SeeDance2.5 avec quatre images de référence de character sheet (キャラシートx4) pour tester et contrôler la composition en split-screen (画面分割)  \nAugmentez la longueur du prompt à environ 8200 caractères afin d’y intégrer des instructions détaillées pour des compositions complexes comme le contrôle du split-screen  \nPrécisez un chant en japonais et fournissez des paroles explicites (日本語歌唱・歌詞指定) dans le prompt afin de contrôler la langue vocale et le contenu  \nMélangez des éléments en prises de vue réelles (実写混入) pour obtenir des résultats inattendus et intéressants lors des tests de configurations en split-screen"
+    },
+    "ko": {
+      "content": "SeeDance2.5를 사용해 캐릭터 시트 참조 이미지 4장(キャラシートx4)으로 split-screen(화면 분할) 구도를 테스트하고 제어하기  \n복잡한 split-screen 제어 같은 구성을 위해 prompt 길이를 약 8200자까지 늘려 상세한 지시를 담기  \nprompt에서 일본어 singing과 명시적인 lyrics(日本語歌唱・歌詞指定)를 지정해 보컬의 언어와 내용을 제어하기  \nsplit-screen 설정을 테스트할 때 live-action 요소(実写混入)를 섞어 예상 밖의 흥미로운 결과를 만들기"
+    },
+    "pt": {
+      "content": "Use o SeeDance2.5 com quatro imagens de referência de character sheet (キャラシートx4) para testar e controlar a composição em split-screen (画面分割)  \nAumente o comprimento do prompt para cerca de 8200 caracteres para incluir instruções detalhadas para composições complexas, como o controle de split-screen  \nEspecifique canto em japonês e forneça letras explícitas (日本語歌唱・歌詞指定) no prompt para controlar o idioma e o conteúdo vocal  \nMisture elementos de live-action (実写混入) para criar resultados inesperados/interessantes ao testar configurações de split-screen"
+    },
+    "zh": {
+      "content": "使用 SeeDance2.5 搭配四张角色设定参考图（キャラシートx4）来测试并控制分屏（画面分割）构图  \n将 prompt 长度增加到约 8200 个字符，以便为分屏控制等复杂构图塞入更详细的指令  \n在 prompt 中指定日语演唱并明确给出歌词（日本語歌唱・歌詞指定），以控制演唱语言和内容  \n混入实拍元素（実写混入），在测试分屏设置时创造出意想不到且有趣的结果"
+    }
+  }
+}

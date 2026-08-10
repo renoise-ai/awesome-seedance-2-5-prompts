@@ -1,0 +1,42 @@
+{
+  "id": "2086209495609540867",
+  "title": "Upload 3 references in Seedance 2.5: one for the character, one for the…",
+  "content": "Upload 3 references in Seedance 2.5: one for the character, one for the environment/location, and one style frame for the desired look.  \nExplicitly assign a role to every uploaded reference in the prompt (e.g., @Image1 main character, @Image2 location, match @Image3 look) so the model doesn’t guess.  \nUse a timestamped storyboard (e.g., 0–8s wide shot action, 9–16s close-up reaction, 17–30s talking to camera) instead of a single paragraph to make Seedance follow the sequence beat-by-beat.  \nAdd a realism line to reduce the “AI look”: retain real micro pores and skin texture, natural imperfections, no beauty retouching, no commercial polish.  \nAppend global consistency/editing rules at the end of the prompt (e.g., no subtitles, no fast cuts, same person in every frame).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086209369893486592/img/4w4mlc4NrTiX07lo.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086209495609540867.mp4",
+  "sourceLink": "https://x.com/DeRonin_/status/2086209495609540867",
+  "sourcePublishedAt": "2026-08-08",
+  "author": {
+    "name": "Ronin",
+    "link": "https://x.com/DeRonin_"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Upload 3 references in Seedance 2.5: one for the character, one for the environment/location, and one style frame for the desired look.  \nExplicitly assign a role to every uploaded reference in the prompt (e.g., @Image1 main character, @Image2 location, match @Image3 look) so the model doesn’t guess.  \nUse a timestamped storyboard (e.g., 0–8s wide shot action, 9–16s close-up reaction, 17–30s talking to camera) instead of a single paragraph to make Seedance follow the sequence beat-by-beat.  \nAdd a realism line to reduce the “AI look”: retain real micro pores and skin texture, natural imperfections, no beauty retouching, no commercial polish.  \nAppend global consistency/editing rules at the end of the prompt (e.g., no subtitles, no fast cuts, same person in every frame).",
+  "translations": {
+    "es": {
+      "content": "Sube 3 referencias en Seedance 2.5: una para el personaje, una para el entorno/ubicación y una frame de estilo para el look deseado.  \nAsigna explícitamente un rol a cada referencia subida en el prompt (p. ej., @Image1 personaje principal, @Image2 ubicación, match @Image3 look) para que el modelo no tenga que adivinar.  \nUsa un storyboard con marcas de tiempo (p. ej., 0–8s wide shot action, 9–16s close-up reaction, 17–30s talking to camera) en lugar de un solo párrafo para que Seedance siga la secuencia beat by beat.  \nAñade una línea de realismo para reducir el “AI look”: conserva los poros micro reales y la textura de la piel, imperfecciones naturales, sin retoque de belleza, sin acabado comercial.  \nAñade al final del prompt reglas globales de consistencia/edición (p. ej., sin subtítulos, sin cortes rápidos, la misma persona en cada frame).\n\n--- TUIT CITADO ---\n33 días de Seedance 2.5 ilimitado\n\nSeedance 2.5 ya está EN VIVO en Higgsfield hoy.\n\nEl modelo de video más capaz hasta la fecha, con escenas de 30 segundos en una sola pasada, 50 referencias y edición lista para producción.\n\nCosto de crédito cero durante 33 días. Oferta por tiempo limitado. https://t.co/ldITD8TCHX\n---"
+    },
+    "fr": {
+      "content": "Téléchargez 3 références dans Seedance 2.5 : une pour le personnage, une pour l’environnement/le lieu, et une image de style pour le rendu souhaité.  \nAttribuez explicitement un rôle à chaque référence importée dans le prompt (par ex. @Image1 personnage principal, @Image2 lieu, match @Image3 look) afin que le modèle n’ait pas à deviner.  \nUtilisez un storyboard horodaté (par ex. 0–8 s plan large d’action, 9–16 s gros plan de réaction, 17–30 s face caméra en train de parler) plutôt qu’un seul paragraphe pour que Seedance suive la séquence plan par plan.  \nAjoutez une ligne de réalisme pour réduire l’« effet IA » : conserver les micro-pores et la texture réelle de la peau, les imperfections naturelles, pas de retouche beauté, pas de finition commerciale.  \nAjoutez à la fin du prompt des règles globales de cohérence/montage (par ex. pas de sous-titres, pas de coupes rapides, la même personne dans chaque image).\n\n--- TWEET CITÉ ---\n\n33 jours de Seedance 2.5 illimité\n\nSeedance 2.5 est EN DIRECT sur Higgsfield aujourd’hui.\n\nLe modèle vidéo le plus performant à ce jour, avec des scènes de 30 secondes en un seul passage, 50 références et un montage prêt pour la production.\n\nCoût en crédits nul pendant 33 jours. Offre à durée limitée. https://t.co/ldITD8TCHX"
+    },
+    "ja": {
+      "content": "Seedance 2.5では、3つの参照画像をアップロードします。1つはキャラクター用、1つは環境／ロケーション用、そして1つは希望する見た目のスタイルフレーム用です。  \nアップロードした各参照画像には、プロンプト内で必ず役割を明示的に割り当ててください（例：@Image1 main character、@Image2 location、match @Image3 look）。そうすることで、モデルが勝手に推測しなくなります。  \n単一の段落ではなく、タイムスタンプ付きのストーリーボード（例：0–8s wide shot action、9–16s close-up reaction、17–30s talking to camera）を使うことで、Seedanceがシーケンスをビートごとに追いやすくなります。  \n「AIっぽさ」を抑えるために、リアリズムに関する一文を追加します。実際の微細な毛穴や肌の質感、自然な不完全さを残し、美肌補正や商業的な仕上げはしないこと。  \nプロンプトの最後には、全体の一貫性／編集ルールを追記します（例：no subtitles, no fast cuts, same person in every frame）。\n\n--- QUOTED TWEET ---\n33 Days of Unlimited Seedance 2.5\n\nSeedance 2.5 is LIVE on Higgsfield today.\n\nThe most capable video model yet, with 30-second scenes in a single pass, 50 references and production-ready editing.\n\nZero credit cost for 33 days. Limited-time offer. https://t.co/ldITD8TCHX\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서는 참조 이미지 3장을 업로드하세요: 캐릭터용 1장, 환경/장소용 1장, 그리고 원하는 룩을 보여주는 스타일 프레임 1장.  \n프롬프트에서 업로드한 각 참조 이미지의 역할을 명확히 지정하세요(예: @Image1 main character, @Image2 location, match @Image3 look). 그래야 모델이 임의로 추측하지 않습니다.  \n한 문단으로 쓰기보다 타임스탬프가 있는 storyboard를 사용하세요(예: 0–8s wide shot action, 9–16s close-up reaction, 17–30s talking to camera). 그래야 Seedance가 시퀀스를 비트 단위로 따라갑니다.  \n“AI 느낌”을 줄이기 위해 realism line을 추가하세요: 실제 미세한 모공과 피부 질감, 자연스러운 불완전함을 유지하고, 뷰티 리터칭이나 상업적 광택은 넣지 않습니다.  \n프롬프트 끝에는 전역 일관성/편집 규칙을 덧붙이세요(예: no subtitles, no fast cuts, same person in every frame).\n\n--- QUOTED TWEET ---\n33 Days of Unlimited Seedance 2.5\n\nSeedance 2.5 is LIVE on Higgsfield today.\n\nThe most capable video model yet, with 30-second scenes in a single pass, 50 references and production-ready editing.\n\nZero credit cost for 33 days. Limited-time offer. https://t.co/ldITD8TCHX\n---"
+    },
+    "pt": {
+      "content": "Faça upload de 3 referências no Seedance 2.5: uma para o personagem, uma para o ambiente/local e uma frame de estilo para o visual desejado.  \nAtribua explicitamente uma função a cada referência enviada no prompt (por exemplo, @Image1 main character, @Image2 location, match @Image3 look) para que o modelo não precise adivinhar.  \nUse um storyboard com marcação de tempo (por exemplo, 0–8s wide shot action, 9–16s close-up reaction, 17–30s talking to camera) em vez de um único parágrafo para fazer o Seedance seguir a sequência beat by beat.  \nAdicione uma linha de realismo para reduzir o “AI look”: preserve os microporos e a textura real da pele, imperfeições naturais, sem retoque de beleza, sem acabamento comercial.  \nAcrescente regras globais de consistência/edição no final do prompt (por exemplo, sem legendas, sem cortes rápidos, a mesma pessoa em todos os frames).\n\n--- TWEET CITADO ---\n33 Days of Unlimited Seedance 2.5\n\nSeedance 2.5 is LIVE on Higgsfield today.\n\nThe most capable video model yet, with 30-second scenes in a single pass, 50 references and production-ready editing.\n\nZero credit cost for 33 days. Limited-time offer. https://t.co/ldITD8TCHX"
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中上传 3 个参考图：一个用于角色，一个用于环境/地点，一个用于所需外观的风格参考图。  \n在 prompt 中明确为每个上传的参考图分配角色（例如，@Image1 主角，@Image2 地点，匹配 @Image3 的风格），这样模型就不会自行猜测。  \n使用带时间戳的 storyboard（例如，0–8s wide shot action，9–16s close-up reaction，17–30s talking to camera），而不是单段文字，这样 Seedance 才能逐拍跟随序列。  \n添加一条 realism 描述来减少“AI 感”：保留真实的微小毛孔和皮肤纹理、自然瑕疵，不要美颜修饰，不要商业级过度精修。  \n在 prompt 末尾附加全局一致性/剪辑规则（例如，不要字幕，不要快速切镜，每一帧都是同一个人）。\n\n--- QUOTED TWEET ---\n33 天无限制使用 Seedance 2.5\n\nSeedance 2.5 今天已在 Higgsfield 上线。\n\n迄今为止最强大的视频模型，单次可生成 30 秒场景，支持 50 个参考图，并提供可直接用于制作的编辑能力。\n\n33 天内零点数成本。限时优惠。https://t.co/ldITD8TCHX\n---"
+    }
+  }
+}

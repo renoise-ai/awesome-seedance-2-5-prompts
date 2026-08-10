@@ -1,0 +1,41 @@
+{
+  "id": "2085726516248457515",
+  "title": "Build the scene in 3D before generating to guide Seedance 2.5’s camera movement.",
+  "content": "Build the scene in 3D before generating to guide Seedance 2.5’s camera movement.  \nSet keyframes to explicitly control camera motion instead of relying on the prompt.  \nUse your own footage as a reference input to steer the camera movement and scene direction in Seedance 2.5.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/VermaAakash3/status/2085726516248457515",
+  "sourcePublishedAt": "2026-08-07",
+  "author": {
+    "name": "Aakash Verma",
+    "link": "https://x.com/VermaAakash3"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Build the scene in 3D before generating to guide Seedance 2.5’s camera movement.  \nSet keyframes to explicitly control camera motion instead of relying on the prompt.  \nUse your own footage as a reference input to steer the camera movement and scene direction in Seedance 2.5.",
+  "translations": {
+    "es": {
+      "content": "Construye la escena en 3D antes de generar para guiar el movimiento de cámara de Seedance 2.5.  \nEstablece fotogramas clave para controlar explícitamente el movimiento de la cámara en lugar de depender del prompt.  \nUsa tu propio material como referencia de entrada para dirigir el movimiento de la cámara y la dirección de la escena en Seedance 2.5."
+    },
+    "fr": {
+      "content": "Construisez la scène en 3D avant la génération afin de guider le mouvement de caméra de Seedance 2.5.  \nDéfinissez des keyframes pour contrôler explicitement le mouvement de caméra au lieu de vous fier au prompt.  \nUtilisez vos propres images comme entrée de référence pour orienter le mouvement de caméra et la direction de la scène dans Seedance 2.5."
+    },
+    "ja": {
+      "content": "生成前に3Dでシーンを構築し、Seedance 2.5 のカメラ移動をガイドします。  \nプロンプトに頼るのではなく、キーフレームを設定してカメラの動きを明示的に制御します。  \n自分の映像を参照入力として使用し、Seedance 2.5 におけるカメラの動きとシーンの方向性を調整します。"
+    },
+    "ko": {
+      "content": "생성하기 전에 3D로 장면을 구성해 Seedance 2.5의 카메라 움직임을 유도하세요.  \n프롬프트에만 의존하지 말고, 키프레임을 설정해 카메라 모션을 명시적으로 제어하세요.  \n자신의 영상을 reference input으로 사용해 Seedance 2.5에서 카메라 움직임과 장면 방향을 조정하세요."
+    },
+    "pt": {
+      "content": "Construa a cena em 3D antes de gerar para orientar o movimento de câmera do Seedance 2.5.  \nDefina keyframes para controlar explicitamente o movimento da câmera, em vez de depender do prompt.  \nUse suas próprias imagens como input de referência para direcionar o movimento da câmera e a direção da cena no Seedance 2.5."
+    },
+    "zh": {
+      "content": "在生成之前先用 3D 搭建场景，以引导 Seedance 2.5 的镜头运动。  \n通过设置关键帧来明确控制镜头运动，而不是依赖 prompt。  \n使用你自己的素材作为参考输入，来引导 Seedance 2.5 的镜头运动和场景走向。"
+    }
+  }
+}

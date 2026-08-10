@@ -1,0 +1,42 @@
+{
+  "id": "2086640202035163565",
+  "title": "キャラシート1枚を参照画像として入力し、10秒・12ショットなどショット数と尺を明記してアクション内容を指定する",
+  "content": "キャラシート1枚を参照画像として入力し、10秒・12ショットなどショット数と尺を明記してアクション内容を指定する  \nカット割り（各ショットの内容）を言葉で具体的に指示して構成をコントロールする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086639876758523904/img/DOefEsX7fBJAviaS.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086640202035163565.mp4",
+  "sourceLink": "https://x.com/KITAcore1203/status/2086640202035163565",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "KITAcore",
+    "link": "https://x.com/KITAcore1203"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "キャラシート1枚を参照画像として入力し、10秒・12ショットなどショット数と尺を明記してアクション内容を指定する  \nカット割り（各ショットの内容）を言葉で具体的に指示して構成をコントロールする",
+  "translations": {
+    "en": {
+      "content": "Input a single character sheet as a reference image, and specify the number of shots and duration, such as 10 seconds or 12 shots, to define the action content.  \nUse verbal, detailed instructions for the shot breakdown (the content of each shot) to control the composition."
+    },
+    "es": {
+      "content": "Introduce una hoja de personaje como imagen de referencia y especifica claramente el número de shots y la duración, por ejemplo 10 segundos y 12 shots, para indicar el contenido de la acción.  \nControla la composición dando instrucciones verbales y concretas sobre el desglose de cortes (el contenido de cada shot)."
+    },
+    "fr": {
+      "content": "Saisissez une fiche de personnage comme image de référence, puis précisez le nombre de plans et la durée, par exemple 10 secondes et 12 shots, afin de définir le contenu de l’action.  \nContrôlez la composition en indiquant de manière concrète, avec des mots, le découpage des plans (le contenu de chaque shot)."
+    },
+    "ko": {
+      "content": "캐릭터 시트 1장을 참조 이미지로 입력하고, 10초·12샷 등 샷 수와 길이를 명시해 액션 내용을 지정한다  \n컷 구성(각 샷의 내용)을 말로 구체적으로 지시해 구성을 컨트롤한다"
+    },
+    "pt": {
+      "content": "Insira uma folha de personagem como imagem de referência e especifique claramente a duração e o número de shots, como 10 segundos e 12 shots, para definir o conteúdo da ação.  \nControle a composição instruindo de forma concreta, em palavras, a divisão de cortes (o conteúdo de cada shot)."
+    },
+    "zh": {
+      "content": "输入一张角色设定图作为参考图像，并明确指定镜头数量和时长，例如 10 秒、12 个 shot 等，同时指定动作内容。  \n通过用语言具体指示分镜（各个 shot 的内容），来控制整体构成。"
+    }
+  }
+}

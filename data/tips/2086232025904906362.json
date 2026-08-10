@@ -1,0 +1,42 @@
+{
+  "id": "2086232025904906362",
+  "title": "Add Seedance 2.5 to an Android app, upload a photo as the input, then type a…",
+  "content": "Add Seedance 2.5 to an Android app, upload a photo as the input, then type a prompt to generate a 12-second video.\n\nBudget Seedance credits by estimating usage (e.g., a 12-second video used 336 credits; $5 buys 1,000 credits).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086231997442088960/img/lh5KmmM15d4uiW8N.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086232025904906362.mp4",
+  "sourceLink": "https://x.com/AnthonyLoera_/status/2086232025904906362",
+  "sourcePublishedAt": "2026-08-08",
+  "author": {
+    "name": "Anthony Loera",
+    "link": "https://x.com/AnthonyLoera_"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Add Seedance 2.5 to an Android app, upload a photo as the input, then type a prompt to generate a 12-second video.\n\nBudget Seedance credits by estimating usage (e.g., a 12-second video used 336 credits; $5 buys 1,000 credits).",
+  "translations": {
+    "es": {
+      "content": "Añade Seedance 2.5 a una app de Android, sube una foto como entrada y luego escribe un prompt para generar un video de 12 segundos.\n\nCalcula el uso de créditos de Seedance estimando el consumo (por ejemplo, un video de 12 segundos usó 336 créditos; $5 compra 1,000 créditos)."
+    },
+    "fr": {
+      "content": "Ajoutez Seedance 2.5 à une application Android, importez une photo comme entrée, puis saisissez un prompt pour générer une vidéo de 12 secondes.\n\nGérez votre budget de crédits Seedance en estimant l’utilisation (par exemple, une vidéo de 12 secondes a utilisé 336 crédits ; 5 $ permettent d’acheter 1 000 crédits)."
+    },
+    "ja": {
+      "content": "Androidアプリに Seedance 2.5 を追加し、入力として写真をアップロードしてから、prompt を入力して12秒の動画を生成します。\n\nSeedance のクレジットは、使用量を見積もって予算管理します（例：12秒の動画で336クレジットを使用、$5で1,000クレジットを購入可能）。"
+    },
+    "ko": {
+      "content": "Android 앱에 Seedance 2.5를 추가하고, 사진을 입력으로 업로드한 다음 prompt를 입력해 12초짜리 비디오를 생성하세요.\n\nSeedance 크레딧은 사용량을 추정해 예산을 잡으세요(예: 12초 비디오는 336 크레딧이 사용되었고, $5로 1,000 크레딧을 구매할 수 있습니다)."
+    },
+    "pt": {
+      "content": "Adicione o Seedance 2.5 a um app Android, envie uma foto como entrada e, em seguida, digite um prompt para gerar um vídeo de 12 segundos.\n\nPlaneje os créditos do Seedance estimando o uso (por exemplo, um vídeo de 12 segundos consumiu 336 créditos; US$ 5 compram 1.000 créditos)."
+    },
+    "zh": {
+      "content": "将 Seedance 2.5 添加到 Android 应用中，上传一张照片作为输入，然后输入一个 prompt 来生成一段 12 秒的视频。\n\n通过估算用量来规划 Seedance credits 的预算（例如，12 秒视频消耗了 336 credits；5 美元可购买 1,000 credits）。"
+    }
+  }
+}

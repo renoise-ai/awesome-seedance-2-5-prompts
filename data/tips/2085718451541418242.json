@@ -1,0 +1,41 @@
+{
+  "id": "2085718451541418242",
+  "title": "Render 30-second cinematic storytelling sequences in a single Seedance 2.5…",
+  "content": "Render 30-second cinematic storytelling sequences in a single Seedance 2.5 generation to speed up game cutscene creation.  \nUse up to 50 asset references in Seedance 2.5 to reduce/eliminate character drift across shots.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/YorollAI/status/2085718451541418242",
+  "sourcePublishedAt": "2026-08-07",
+  "author": {
+    "name": "Yoroll",
+    "link": "https://x.com/YorollAI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Render 30-second cinematic storytelling sequences in a single Seedance 2.5 generation to speed up game cutscene creation.  \nUse up to 50 asset references in Seedance 2.5 to reduce/eliminate character drift across shots.",
+  "translations": {
+    "es": {
+      "content": "Renderiza secuencias narrativas cinematográficas de 30 segundos en una sola generación de Seedance 2.5 para acelerar la creación de cinemáticas de videojuegos.  \nUsa hasta 50 referencias de assets en Seedance 2.5 para reducir o eliminar la deriva de personajes entre planos."
+    },
+    "fr": {
+      "content": "Rendez des séquences narratives cinématographiques de 30 secondes en une seule génération Seedance 2.5 pour accélérer la création de cinématiques de jeu.  \nUtilisez jusqu’à 50 références d’assets dans Seedance 2.5 pour réduire ou éliminer la dérive des personnages d’un plan à l’autre."
+    },
+    "ja": {
+      "content": "ゲームのカットシーン制作を高速化するために、30秒のcinematicなストーリーテリングシーケンスを、1回のSeedance 2.5生成でレンダリングします。  \nSeedance 2.5では最大50件のアセット参照を使用して、ショット間でのキャラクターのドリフトを軽減または解消できます。"
+    },
+    "ko": {
+      "content": "30초 분량의 cinematic 스토리텔링 시퀀스를 단일 Seedance 2.5 생성으로 렌더링해 게임 컷신 제작 속도를 높이세요.  \nSeedance 2.5에서 최대 50개의 asset reference를 사용해 샷 간 캐릭터 드리프트를 줄이거나 없앨 수 있습니다."
+    },
+    "pt": {
+      "content": "Renderize sequências cinematográficas de storytelling de 30 segundos em uma única geração do Seedance 2.5 para acelerar a criação de cutscenes de jogos.  \nUse até 50 referências de assets no Seedance 2.5 para reduzir/eliminar o drift de personagens entre os planos."
+    },
+    "zh": {
+      "content": "在一次 Seedance 2.5 生成中渲染 30 秒的 cinematic 叙事序列，以加快游戏过场动画的制作。  \n在 Seedance 2.5 中最多可使用 50 个素材参考，以减少或消除镜头之间的角色漂移。"
+    }
+  }
+}

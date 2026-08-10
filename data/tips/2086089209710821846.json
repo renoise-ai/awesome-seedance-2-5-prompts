@@ -1,0 +1,42 @@
+{
+  "id": "2086089209710821846",
+  "title": "絵コンテ用にきっちり書き込んだプロンプトを先に作り、それを元にSeedance2.5のSkill機能で動画生成プロンプトを自動生成・全任せする",
+  "content": "絵コンテ用にきっちり書き込んだプロンプトを先に作り、それを元にSeedance2.5のSkill機能で動画生成プロンプトを自動生成・全任せする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086086629320732672/img/4xCEYeZB4iePrNhB.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086089209710821846.mp4",
+  "sourceLink": "https://x.com/hii_roto/status/2086089209710821846",
+  "sourcePublishedAt": "2026-08-08",
+  "author": {
+    "name": "KanahiRO/かなひろ（AI-ART）",
+    "link": "https://x.com/hii_roto"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "絵コンテ用にきっちり書き込んだプロンプトを先に作り、それを元にSeedance2.5のSkill機能で動画生成プロンプトを自動生成・全任せする",
+  "translations": {
+    "en": {
+      "content": "First, create a thoroughly detailed prompt for the storyboard, then use it as the basis for Seedance 2.5’s Skill feature to automatically generate the video prompt and handle everything for you."
+    },
+    "es": {
+      "content": "Primero crea un prompt detallado y bien elaborado para el storyboard, y a partir de él deja que la función Skill de Seedance2.5 genere automáticamente el prompt de video y se encargue de todo."
+    },
+    "fr": {
+      "content": "Créer d’abord un prompt détaillé et soigneusement rédigé pour le storyboard, puis s’appuyer dessus pour laisser la fonction Skill de Seedance2.5 générer automatiquement le prompt de génération vidéo et tout prendre en charge."
+    },
+    "ko": {
+      "content": "스토리보드용으로 꼼꼼하게 작성한 prompt를 먼저 만들고, 이를 바탕으로 Seedance2.5의 Skill 기능으로 영상 생성 prompt를 자동 생성해 전부 맡긴다"
+    },
+    "pt": {
+      "content": "Crie primeiro um prompt bem detalhado para o storyboard e, com base nele, use a função Skill do Seedance2.5 para gerar automaticamente o prompt de geração de vídeo, deixando tudo por conta dele."
+    },
+    "zh": {
+      "content": "先先写好用于分镜的详细 prompt，然后基于它，利用 Seedance2.5 的 Skill 功能自动生成视频 prompt，完全交给它处理。"
+    }
+  }
+}

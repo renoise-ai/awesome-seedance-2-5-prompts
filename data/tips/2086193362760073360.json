@@ -1,0 +1,42 @@
+{
+  "id": "2086193362760073360",
+  "title": "Connect Higgsfield’s MCP server to Claude Code to automate Seedance 2.5 ad…",
+  "content": "Connect Higgsfield’s MCP server to Claude Code to automate Seedance 2.5 ad generation workflows.  \nProvide your offer and ask for six ad angles, each mapped to a real buyer objection, before generating videos.  \nBatch-generate the six angles in one run, keeping within the limit of 12 jobs max per call in Claude Code.  \nWhen uploading/testing, create one ad set per angle and never mix angles in the same ad set so you can attribute performance correctly.  \nPause/kill any ad set once it exceeds 3× your target cost, and reallocate that budget to the angles that remain under target.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086193130005524480/img/NrgnES7c0Wd_9JG2.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086193362760073360.mp4",
+  "sourceLink": "https://x.com/knoxtwts/status/2086193362760073360",
+  "sourcePublishedAt": "2026-08-08",
+  "author": {
+    "name": "KNOX",
+    "link": "https://x.com/knoxtwts"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Connect Higgsfield’s MCP server to Claude Code to automate Seedance 2.5 ad generation workflows.  \nProvide your offer and ask for six ad angles, each mapped to a real buyer objection, before generating videos.  \nBatch-generate the six angles in one run, keeping within the limit of 12 jobs max per call in Claude Code.  \nWhen uploading/testing, create one ad set per angle and never mix angles in the same ad set so you can attribute performance correctly.  \nPause/kill any ad set once it exceeds 3× your target cost, and reallocate that budget to the angles that remain under target.",
+  "translations": {
+    "es": {
+      "content": "Conecta el servidor MCP de Higgsfield con Claude Code para automatizar los flujos de trabajo de generación de anuncios con Seedance 2.5.  \nProporciona tu oferta y pide seis ángulos de anuncio, cada uno vinculado a una objeción real del comprador, antes de generar videos.  \nGenera por lotes los seis ángulos en una sola ejecución, manteniéndote dentro del límite de 12 trabajos máximos por llamada en Claude Code.  \nAl subir y probar, crea un conjunto de anuncios por ángulo y nunca mezcles ángulos en el mismo conjunto de anuncios para poder atribuir correctamente el rendimiento.  \nPausa o elimina cualquier conjunto de anuncios una vez que supere 3× tu costo objetivo, y reasigna ese presupuesto a los ángulos que permanezcan por debajo del objetivo.\n\n--- TUIT CITADO ---\n33 días de Seedance 2.5 ilimitado\n\nSeedance 2.5 ya está EN VIVO hoy en Higgsfield.\n\nEl modelo de video más capaz hasta la fecha, con escenas de 30 segundos en una sola pasada, 50 referencias y edición lista para producción.\n\nCosto de crédito cero durante 33 días. Oferta por tiempo limitado. https://t.co/ldITD8TCHX\n---"
+    },
+    "fr": {
+      "content": "Connectez le serveur MCP de Higgsfield à Claude Code pour automatiser les workflows de génération de publicités avec Seedance 2.5.  \nPrésentez votre offre et demandez six angles publicitaires, chacun associé à une objection réelle d’acheteur, avant de générer des vidéos.  \nGénérez les six angles en lot en une seule exécution, en restant dans la limite de 12 jobs maximum par appel dans Claude Code.  \nLors du chargement/des tests, créez un ensemble de publicités par angle et ne mélangez jamais les angles dans un même ensemble de publicités afin de pouvoir attribuer correctement les performances.  \nMettez en pause/supprimez tout ensemble de publicités dès qu’il dépasse 3× votre coût cible, et réaffectez ce budget aux angles qui restent sous l’objectif.\n\n--- TWEET CITÉ ---\n33 jours de Seedance 2.5 illimité\n\nSeedance 2.5 est EN DIRECT sur Higgsfield aujourd’hui.\n\nLe modèle vidéo le plus performant à ce jour, avec des scènes de 30 secondes en un seul passage, 50 références et un montage prêt pour la production.\n\nCoût en crédits nul pendant 33 jours. Offre à durée limitée. https://t.co/ldITD8TCHX\n---"
+    },
+    "ja": {
+      "content": "Higgsfield の MCP サーバーを Claude Code に接続して、Seedance 2.5 の広告生成ワークフローを自動化しましょう。  \n動画を生成する前に、あなたのオファーを提示し、実際の購入者の反論にそれぞれ対応する 6 つの広告アングルを求めます。  \n6 つのアングルは 1 回の実行でまとめてバッチ生成し、Claude Code での 1 回の呼び出しにつき最大 12 ジョブという上限内に収めます。  \nアップロード／テスト時は、アングルごとに 1 つずつ広告セットを作成し、正確に成果を把握できるよう、同じ広告セットに複数のアングルを混在させないでください。  \nいずれかの広告セットが目標コストの 3 倍を超えたら一時停止／停止し、その予算を目標内に収まっている他のアングルへ再配分します。\n\n--- 引用ツイート ---\n33 日間の無制限 Seedance 2.5\n\nSeedance 2.5 が本日 Higgsfield で公開されました。\n\nこれまでで最も高性能な動画モデルで、30 秒のシーンを 1 回の処理で生成でき、50 の参照と本番投入可能な編集機能を備えています。\n\n33 日間、クレジット消費ゼロ。期間限定オファー。 https://t.co/ldITD8TCHX\n---"
+    },
+    "ko": {
+      "content": "Higgsfield의 MCP 서버를 Claude Code에 연결해 Seedance 2.5 광고 생성 워크플로를 자동화하세요.  \n영상 생성 전에, 당신의 오퍼를 제시하고 실제 구매자 이의제기에 각각 매핑되는 6개의 광고 각도를 요청하세요.  \n한 번의 실행으로 6개 각도를 일괄 생성하되, Claude Code에서 호출당 최대 12개 작업 제한을 넘기지 마세요.  \n업로드/테스트할 때는 각 각도마다 하나의 광고 세트를 만들고, 성과를 정확히 귀속할 수 있도록 같은 광고 세트에 서로 다른 각도를 섞지 마세요.  \n어떤 광고 세트든 목표 비용의 3배를 초과하면 즉시 일시중지/중단하고, 그 예산을 목표 이하를 유지하는 각도들에 재배분하세요.\n\n--- 인용된 트윗 ---\n33일간 무제한 Seedance 2.5\n\nSeedance 2.5가 오늘 Higgsfield에서 LIVE입니다.\n\n지금까지 가장 강력한 비디오 모델로, 한 번의 패스로 30초 장면, 50개의 레퍼런스, 그리고 프로덕션용 편집을 지원합니다.\n\n33일 동안 크레딧 비용 0. 기간 한정 혜택. https://t.co/ldITD8TCHX"
+    },
+    "pt": {
+      "content": "Conecte o servidor MCP da Higgsfield ao Claude Code para automatizar fluxos de trabalho de geração de anúncios com o Seedance 2.5.  \nApresente sua oferta e peça seis ângulos de anúncio, cada um mapeado para uma objeção real do comprador, antes de gerar os vídeos.  \nGere em lote os seis ângulos em uma única execução, respeitando o limite de no máximo 12 jobs por chamada no Claude Code.  \nAo fazer upload/testes, crie um ad set por ângulo e nunca misture ângulos no mesmo ad set, para que você possa atribuir o desempenho corretamente.  \nPause/cancele qualquer ad set assim que ele ultrapassar 3× seu custo-alvo e realoque esse orçamento para os ângulos que permanecerem abaixo da meta.\n\n--- TWEET CITADO ---\n33 Dias de Seedance 2.5 Ilimitado\n\nSeedance 2.5 está AO VIVO na Higgsfield hoje.\n\nO modelo de vídeo mais capaz até agora, com cenas de 30 segundos em uma única passagem, 50 referências e edição pronta para produção.\n\nCusto zero de créditos por 33 dias. Oferta por tempo limitado. https://t.co/ldITD8TCHX\n---"
+    },
+    "zh": {
+      "content": "将 Higgsfield 的 MCP 服务器连接到 Claude Code，以自动化 Seedance 2.5 广告生成工作流。  \n先提供你的 offer，并要求生成六个广告角度，每个角度都要对应一个真实的买家异议，然后再生成视频。  \n一次批量生成这六个角度，并确保在 Claude Code 中每次调用的作业数不超过 12 个。  \n在上传/测试时，每个角度创建一个独立的 ad set，绝不要把不同角度混在同一个 ad set 里，这样才能正确归因表现。  \n一旦某个 ad set 的成本超过你的目标成本的 3 倍，就暂停/终止它，并把预算重新分配给仍低于目标的角度。\n\n--- QUOTED TWEET ---\n33 天无限制 Seedance 2.5\n\nSeedance 2.5 今日已在 Higgsfield 上线。\n\n目前最强的视频模型，支持单次生成 30 秒场景、50 个参考图，以及可直接用于生产的编辑能力。\n\n33 天零 credit 成本。限时优惠。 https://t.co/ldITD8TCHX\n---"
+    }
+  }
+}

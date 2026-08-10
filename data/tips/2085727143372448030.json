@@ -1,0 +1,41 @@
+{
+  "id": "2085727143372448030",
+  "title": "Start with a single prompt, generate a storyboard from it, then build campaign…",
+  "content": "Start with a single prompt, generate a storyboard from it, then build campaign visuals before moving into video generation.  \nUse Seedance 2.5 to generate a continuous 30-second video (instead of stitching short clips).  \nFine-tune the final video inside the same Seedance workspace to maintain consistency across lighting, camera movement, and character motion.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Krishnasagrawal/status/2085727143372448030",
+  "sourcePublishedAt": "2026-08-07",
+  "author": {
+    "name": "Krishna Agrawal",
+    "link": "https://x.com/Krishnasagrawal"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Start with a single prompt, generate a storyboard from it, then build campaign visuals before moving into video generation.  \nUse Seedance 2.5 to generate a continuous 30-second video (instead of stitching short clips).  \nFine-tune the final video inside the same Seedance workspace to maintain consistency across lighting, camera movement, and character motion.",
+  "translations": {
+    "es": {
+      "content": "Comienza con un solo prompt, genera un storyboard a partir de él y luego crea los visuales de la campaña antes de pasar a la generación de video.  \nUsa Seedance 2.5 para generar un video continuo de 30 segundos (en lugar de unir clips cortos).  \nAjusta el video final dentro del mismo espacio de trabajo de Seedance para mantener la coherencia en la iluminación, el movimiento de cámara y el movimiento de los personajes."
+    },
+    "fr": {
+      "content": "Commencez avec un seul prompt, générez-en un storyboard, puis créez les visuels de campagne avant de passer à la génération vidéo.  \nUtilisez Seedance 2.5 pour générer une vidéo continue de 30 secondes (au lieu d’assembler de courts clips).  \nAjustez la vidéo finale dans le même espace de travail Seedance afin de maintenir la cohérence de l’éclairage, des mouvements de caméra et des mouvements des personnages."
+    },
+    "ja": {
+      "content": "まずは1つのpromptから始め、それをもとに storyboard を生成し、その後で video generation に進む前に campaign visuals を作成します。  \nSeedance 2.5 を使って、短いクリップをつなぎ合わせるのではなく、連続した30秒の動画を生成します。  \n同じ Seedance workspace 内で最終動画を微調整し、lighting、camera movement、character motion 全体の一貫性を保ちます。"
+    },
+    "ko": {
+      "content": "하나의 프롬프트로 시작해, 이를 바탕으로 스토리보드를 생성한 다음, 캠페인 비주얼을 제작하고 마지막으로 비디오 생성으로 넘어가세요.  \nSeedance 2.5를 사용해 짧은 클립을 이어 붙이는 대신, 연속적인 30초 비디오를 생성하세요.  \n조명, 카메라 움직임, 캐릭터 모션의 일관성을 유지하기 위해 동일한 Seedance 워크스페이스 안에서 최종 비디오를 미세 조정하세요."
+    },
+    "pt": {
+      "content": "Comece com um único prompt, gere um storyboard a partir dele e, em seguida, crie os visuais da campanha antes de avançar para a geração de vídeo.  \nUse o Seedance 2.5 para gerar um vídeo contínuo de 30 segundos (em vez de juntar clipes curtos).  \nAjuste o vídeo final dentro do mesmo workspace do Seedance para manter a consistência na iluminação, no movimento de câmera e no movimento dos personagens."
+    },
+    "zh": {
+      "content": "先从一个 prompt 开始，由此生成分镜脚本，然后在进入视频生成之前先制作 campaign 视觉素材。  \n使用 Seedance 2.5 生成一段连续的 30 秒视频（而不是拼接短片）。  \n在同一个 Seedance 工作区内对最终视频进行微调，以保持光照、镜头运动和角色动作的一致性。"
+    }
+  }
+}

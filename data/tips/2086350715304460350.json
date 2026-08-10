@@ -1,0 +1,43 @@
+{
+  "id": "2086350715304460350",
+  "title": "Seedance2.5は参照（リファレンス）への追従が強すぎるので、Blender等のプリビズ動画をR2Vに使うとプロンプト補正してもアクションがそのまま固定さ…",
+  "content": "Seedance2.5は参照（リファレンス）への追従が強すぎるので、Blender等のプリビズ動画をR2Vに使うとプロンプト補正してもアクションがそのまま固定されやすい；アクションを変えたい場合は別の戦闘シーン動画など「望む動き」に近いリファレンスを用意して差し替える  \nアクションシーンの再現はSeedance2.5だけでなくMiniMax H3でも試し、コスト重視ならH3で同等再現できるか比較して使い分ける",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086349415586160640/img/1JARDO2kM1XEZIDK.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086350715304460350.mp4",
+  "sourceLink": "https://x.com/aigeboku/status/2086350715304460350",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "AI様の下僕",
+    "link": "https://x.com/aigeboku"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Model Showcase"
+  ],
+  "tips": "Seedance2.5は参照（リファレンス）への追従が強すぎるので、Blender等のプリビズ動画をR2Vに使うとプロンプト補正してもアクションがそのまま固定されやすい；アクションを変えたい場合は別の戦闘シーン動画など「望む動き」に近いリファレンスを用意して差し替える  \nアクションシーンの再現はSeedance2.5だけでなくMiniMax H3でも試し、コスト重視ならH3で同等再現できるか比較して使い分ける",
+  "translations": {
+    "en": {
+      "content": "Seedance 2.5 follows references too strongly, so if you use a Blender previs video or similar for R2V, the action tends to stay fixed even if you adjust the prompt; if you want to change the action, prepare a different reference that is closer to the “desired movement,” such as another combat scene video, and swap it in.  \nFor recreating action scenes, try not only Seedance 2.5 but also MiniMax H3; if cost is a priority, compare whether H3 can achieve the same level of reproduction and choose accordingly.\n\n--- THREAD CONTINUATION ---\n[Thread 1] I did the action scene with Seedance 2.5, but if you can reproduce it with something cheaper like MiniMax H3, the cost performance isn’t bad at all 🥳🙌"
+    },
+    "es": {
+      "content": "Seedance2.5 sigue demasiado de cerca la referencia, así que si usas un vídeo de previs de Blender u otro similar para R2V, aunque ajustes el prompt, la acción tiende a quedar fijada tal cual; si quieres cambiar la acción, prepara y sustituye la referencia por otra más cercana al “movimiento deseado”, como un vídeo de otra escena de combate.  \nLa reproducción de escenas de acción conviene probarla no solo con Seedance2.5, sino también con MiniMax H3; si priorizas el coste, compara si H3 puede lograr una reproducción equivalente y úsalo según convenga.\n\n--- CONTINUACIÓN DEL HILO ---\n[Thread 1] Hice la escena de acción con Seedance2.5, pero si la reproduces con algo más barato como MiniMax H3, la relación calidad-precio no está nada mal 🥳🙌"
+    },
+    "fr": {
+      "content": "Seedance2.5 suit trop fortement les références, donc si l’on utilise une vidéo de prévisualisation comme celles de Blender pour du R2V, l’action a tendance à rester figée telle quelle, même en corrigeant le prompt ; si vous voulez changer l’action, préparez une autre référence, par exemple une vidéo de scène de combat, plus proche du « mouvement souhaité », puis remplacez-la.  \nPour reproduire des scènes d’action, il vaut la peine de tester non seulement Seedance2.5, mais aussi MiniMax H3 ; si le coût est un critère important, comparez si H3 peut offrir une reproduction équivalente et utilisez l’un ou l’autre selon le cas.\n\n--- THREAD CONTINUATION ---\n[Thread 1] J’ai fait la scène d’action avec Seedance2.5, mais si on la reproduit avec quelque chose de moins cher comme MiniMax H3, le rapport qualité-prix n’est pas mauvais 🥳🙌"
+    },
+    "ko": {
+      "content": "Seedance2.5는 참조(reference)를 너무 강하게 따라가서, Blender 같은 프리비즈(previs) 영상을 R2V에 사용하면 prompt를 보정해도 액션이 그대로 고정되기 쉽다. 액션을 바꾸고 싶다면 다른 전투 장면 영상처럼 “원하는 움직임”에 가까운 reference를 준비해 교체하는 것이 좋다.  \n액션 장면 재현은 Seedance2.5뿐만 아니라 MiniMax H3에서도 시도해 보고, 비용을 중시한다면 H3로 동일한 수준의 재현이 가능한지 비교해가며 용도에 맞게 나눠 쓰는 것이 좋다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 액션 장면은 Seedance2.5로 했지만, 더 저렴한 MiniMax H3 같은 걸로 재현해 보니 가성비가 나쁘지 않네🥳🙌"
+    },
+    "pt": {
+      "content": "Seedance2.5 tem uma aderência forte demais à referência, então, se você usar vídeos de previs em Blender ou similares como referência para R2V, mesmo com ajustes no prompt a ação tende a ficar travada como está; se quiser mudar a ação, prepare e substitua por uma referência mais próxima do “movimento desejado”, como outro vídeo de cena de combate.\n\nA reprodução de cenas de ação deve ser testada não só no Seedance2.5, mas também no MiniMax H3; se o foco for custo, compare se o H3 consegue reproduzir o mesmo resultado e use cada um conforme o caso.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Fiz a cena de ação no Seedance2.5, mas, se eu reproduzir com algo mais barato como o MiniMax H3, o custo-benefício não é ruim 🥳🙌"
+    },
+    "zh": {
+      "content": "Seedance2.5 对参考（reference）的跟随过强，所以如果把 Blender 等的预演（previs）视频用于 R2V，即使做了 prompt 校正，动作也很容易被原样固定住；如果想改变动作，最好准备一个更接近“目标动作”的参考，比如其他战斗场景视频，然后替换掉原参考。  \n动作场景的复现不只可以用 Seedance2.5，也可以试试 MiniMax H3；如果更看重成本，就比较一下 H3 能否实现同等复现，再按需分开使用。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 动作场景我是用 seedance2.5 做的，不过如果用更便宜的 MiniMax H3 之类来复现，性价比也不差呢🥳🙌"
+    }
+  }
+}

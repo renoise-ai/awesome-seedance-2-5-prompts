@@ -1,0 +1,42 @@
+{
+  "id": "2085709333279461721",
+  "title": "In LovartAI, create a new project and select Video with the Seedance 2.5 model…",
+  "content": "In LovartAI, create a new project and select Video with the Seedance 2.5 model, then set your desired parameters before generating  \nIf using references, add images via the Asset Library before pasting your prompt and starting generation  \nUse this prompt formula for ideas: My pet believes they are [THEIR IDENTITY], our [ROOM] is their [WORLD], and I am their [ROLE]",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085688041503379456/img/oiJ07TyT1IZ3lJZa.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085709333279461721.mp4",
+  "sourceLink": "https://x.com/yulikay/status/2085709333279461721",
+  "sourcePublishedAt": "2026-08-07",
+  "author": {
+    "name": "Yuli Kay",
+    "link": "https://x.com/yulikay"
+  },
+  "tags": [
+    "Animals",
+    "Pets",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "In LovartAI, create a new project and select Video with the Seedance 2.5 model, then set your desired parameters before generating  \nIf using references, add images via the Asset Library before pasting your prompt and starting generation  \nUse this prompt formula for ideas: My pet believes they are [THEIR IDENTITY], our [ROOM] is their [WORLD], and I am their [ROLE]",
+  "translations": {
+    "es": {
+      "content": "En LovartAI, crea un nuevo proyecto y selecciona Video con el modelo Seedance 2.5, luego configura los parámetros que desees antes de generar  \nSi vas a usar referencias, añade imágenes desde la Asset Library antes de pegar tu prompt e iniciar la generación  \nUsa esta fórmula de prompt para inspirarte: My pet believes they are [THEIR IDENTITY], our [ROOM] is their [WORLD], and I am their [ROLE]"
+    },
+    "fr": {
+      "content": "Dans LovartAI, créez un nouveau projet et sélectionnez Video avec le modèle Seedance 2.5, puis définissez les paramètres souhaités avant de lancer la génération  \nSi vous utilisez des références, ajoutez des images via l’Asset Library avant de coller votre prompt et de démarrer la génération  \nUtilisez cette formule de prompt pour trouver des idées : My pet believes they are [THEIR IDENTITY], our [ROOM] is their [WORLD], and I am their [ROLE]"
+    },
+    "ja": {
+      "content": "LovartAIで新しいプロジェクトを作成し、Seedance 2.5モデルのVideoを選択してから、生成を開始する前に希望のパラメータを設定してください。  \n参考画像を使う場合は、promptを貼り付けて生成を開始する前に、Asset Libraryから画像を追加してください。  \nアイデア用のpromptは次の形式を使ってください: My pet believes they are [THEIR IDENTITY], our [ROOM] is their [WORLD], and I am their [ROLE]"
+    },
+    "ko": {
+      "content": "LovartAI에서 새 프로젝트를 만들고 Seedance 2.5 모델이 적용된 Video를 선택한 다음, 생성하기 전에 원하는 파라미터를 설정하세요.  \n레퍼런스를 사용할 경우, prompt를 붙여넣고 생성을 시작하기 전에 Asset Library를 통해 이미지를 추가하세요.  \n아이디어를 위한 prompt 공식은 다음과 같습니다: My pet believes they are [THEIR IDENTITY], our [ROOM] is their [WORLD], and I am their [ROLE]"
+    },
+    "pt": {
+      "content": "No LovartAI, crie um novo projeto e selecione Video com o modelo Seedance 2.5; em seguida, defina os parâmetros desejados antes de gerar  \nSe estiver usando referências, adicione imagens pela Asset Library antes de colar seu prompt e iniciar a geração  \nUse esta fórmula de prompt para ideias: My pet believes they are [THEIR IDENTITY], our [ROOM] is their [WORLD], and I am their [ROLE]"
+    },
+    "zh": {
+      "content": "在 LovartAI 中，创建一个新项目并选择带有 Seedance 2.5 模型的 Video，然后在生成前设置你想要的参数  \n如果使用参考图，请先通过 Asset Library 添加图片，再粘贴你的 prompt 并开始生成  \n可参考以下 prompt 公式获取灵感：My pet believes they are [THEIR IDENTITY], our [ROOM] is their [WORLD], and I am their [ROLE]"
+    }
+  }
+}

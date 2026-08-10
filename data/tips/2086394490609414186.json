@@ -1,0 +1,42 @@
+{
+  "id": "2086394490609414186",
+  "title": "Seedance2.5を使うと、アップ（クローズアップ）に寄っても参照画像の顔が崩れにくく、キャラの顔を維持しやすいので、顔の一致が重要なシーンは2.5を選ぶ",
+  "content": "Seedance2.5を使うと、アップ（クローズアップ）に寄っても参照画像の顔が崩れにくく、キャラの顔を維持しやすいので、顔の一致が重要なシーンは2.5を選ぶ",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086394426814001152/img/6LLhvESSe2-H2MXl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086394490609414186.mp4",
+  "sourceLink": "https://x.com/nAI_station/status/2086394490609414186",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "naisute",
+    "link": "https://x.com/nAI_station"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.5を使うと、アップ（クローズアップ）に寄っても参照画像の顔が崩れにくく、キャラの顔を維持しやすいので、顔の一致が重要なシーンは2.5を選ぶ",
+  "translations": {
+    "en": {
+      "content": "When using Seedance 2.5, even when moving in for a close-up, the face in the reference image is less likely to break down, making it easier to preserve the character’s face. So for scenes where facial consistency is important, choose 2.5."
+    },
+    "es": {
+      "content": "Con Seedance2.5, incluso al acercarte en un plano corto (close-up), el rostro de la imagen de referencia tiende a deformarse menos y es más fácil mantener la cara del personaje, así que para escenas en las que la coincidencia facial es importante, elige 2.5."
+    },
+    "fr": {
+      "content": "Avec Seedance2.5, même en passant en gros plan, le visage de l’image de référence se déforme moins facilement, ce qui permet de mieux conserver le visage du personnage ; pour les scènes où la correspondance du visage est importante, choisissez donc la version 2.5."
+    },
+    "ko": {
+      "content": "Seedance 2.5를 사용하면 클로즈업으로 들어가도 참조 이미지의 얼굴이 무너지기 어렵고, 캐릭터의 얼굴을 유지하기 쉬우므로, 얼굴 일치가 중요한 장면에서는 2.5를 선택한다"
+    },
+    "pt": {
+      "content": "Ao usar o Seedance2.5, mesmo ao aproximar a câmera (close-up), o rosto da imagem de referência tende a se deformar menos, e fica mais fácil manter o rosto do personagem. Por isso, em cenas em que a consistência facial é importante, escolha o 2.5."
+    },
+    "zh": {
+      "content": "使用 Seedance2.5 时，即使拉近到特写，参考图像中的脸也不容易崩坏，更容易保持角色的面部，因此在脸部一致性很重要的场景中，建议选择 2.5。"
+    }
+  }
+}

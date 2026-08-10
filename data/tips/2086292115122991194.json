@@ -1,0 +1,42 @@
+{
+  "id": "2086292115122991194",
+  "title": "Seedance 2.5でブレイキンダンス動画を作るときは、キャラクターシート画像を参照に設定して、15秒のマルチカットで生成する",
+  "content": "Seedance 2.5でブレイキンダンス動画を作るときは、キャラクターシート画像を参照に設定して、15秒のマルチカットで生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086292059548430336/img/lHmOt5NXMKV5anzc.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086292115122991194.mp4",
+  "sourceLink": "https://x.com/ZetoGroovin/status/2086292115122991194",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "Zeto",
+    "link": "https://x.com/ZetoGroovin"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5でブレイキンダンス動画を作るときは、キャラクターシート画像を参照に設定して、15秒のマルチカットで生成する",
+  "translations": {
+    "en": {
+      "content": "When creating a breakdancing video with Seedance 2.5, set the character sheet image as a reference and generate it as a 15-second multi-cut."
+    },
+    "es": {
+      "content": "Cuando crees un video de breakdance con Seedance 2.5, configura la imagen de la hoja de personaje como referencia y genera un multicut de 15 segundos."
+    },
+    "fr": {
+      "content": "Lorsque vous créez une vidéo de breakdance avec Seedance 2.5, définissez l’image de la character sheet comme référence et générez en multi-cut de 15 secondes."
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 브레이킹 댄스 영상을 만들 때는 캐릭터 시트 이미지를 참조로 설정하고, 15초 멀티컷으로 생성한다"
+    },
+    "pt": {
+      "content": "Ao criar um vídeo de breakdance com o Seedance 2.5, defina a imagem da character sheet como referência e gere em um multi-cut de 15 segundos."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 制作霹雳舞视频时，请将角色设定图像设为参考，并以 15 秒的多镜头方式生成。"
+    }
+  }
+}

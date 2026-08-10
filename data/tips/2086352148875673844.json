@@ -1,0 +1,42 @@
+{
+  "id": "2086352148875673844",
+  "title": "最大50枚までのMulti-Asset Referenceを投入して、人物・空間の整合性を保った長尺生成を狙う",
+  "content": "最大50枚までのMulti-Asset Referenceを投入して、人物・空間の整合性を保った長尺生成を狙う  \n最大30秒の直接生成を使って、長尺シーンを一発生成する  \n3D White ModelまたはGreen Screen素材を参照として使い、被写体分離や合成前提の映像を作る  \nTimestamp Promptを使って、時間指定で演出や動きを切り替える",
+  "language": "ja",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/seiiiiiiiiiiru/status/2086352148875673844",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "SEIIIRU😈動画生成AIを使う映像クリエイター",
+    "link": "https://x.com/seiiiiiiiiiiru"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "最大50枚までのMulti-Asset Referenceを投入して、人物・空間の整合性を保った長尺生成を狙う  \n最大30秒の直接生成を使って、長尺シーンを一発生成する  \n3D White ModelまたはGreen Screen素材を参照として使い、被写体分離や合成前提の映像を作る  \nTimestamp Promptを使って、時間指定で演出や動きを切り替える",
+  "translations": {
+    "en": {
+      "content": "Use up to 50 Multi-Asset References to aim for long-form generation while maintaining consistency in characters and spaces  \nUse direct generation of up to 30 seconds to create a long scene in one shot  \nUse 3D White Model or Green Screen assets as references to create footage intended for subject separation or compositing  \nUse Timestamp Prompt to switch direction and motion at specified times"
+    },
+    "es": {
+      "content": "Introducir hasta 50 Multi-Asset Reference para apuntar a una generación de larga duración manteniendo la coherencia entre personajes y espacios  \nUsar la generación directa de hasta 30 segundos para crear una escena larga de una sola vez  \nUsar como referencia material 3D White Model o Green Screen para crear videos pensados para la separación del sujeto y la composición  \nUsar Timestamp Prompt para cambiar la puesta en escena y el movimiento en momentos específicos"
+    },
+    "fr": {
+      "content": "---\nJusqu’à 50 références Multi-Asset peuvent être intégrées pour viser une génération longue en conservant la cohérence des personnages et des espaces  \nUtiliser la génération directe jusqu’à 30 secondes pour créer d’un seul coup une longue scène  \nUtiliser un 3D White Model ou des素材 Green Screen comme références pour créer des vidéos destinées à la séparation du sujet ou à la composition  \nUtiliser un Timestamp Prompt pour changer la mise en scène ou les mouvements à des moments précis\n---"
+    },
+    "ko": {
+      "content": "최대 50장까지의 Multi-Asset Reference를 입력해 인물과 공간의 일관성을 유지한 장시간 생성을 노린다  \n최대 30초의 직접 생성을 사용해 긴 장면을 한 번에 생성한다  \n3D White Model 또는 Green Screen 소재를 참조로 사용해 피사체 분리나 합성을 전제로 한 영상을 만든다  \nTimestamp Prompt를 사용해 시간 지정으로 연출이나 움직임을 전환한다"
+    },
+    "pt": {
+      "content": "Inserir até 50 referências de Multi-Asset para buscar uma geração de longa duração mantendo a consistência de personagens e ambientes  \nUsar geração direta de até 30 segundos para criar uma cena longa em uma única passada  \nUsar materiais de 3D White Model ou Green Screen como referência para criar vídeos voltados à separação de sujeito e à composição  \nUsar Timestamp Prompt para alternar direção e movimentos em momentos específicos do tempo"
+    },
+    "zh": {
+      "content": "---\n投入最多 50 张 Multi-Asset Reference，以在保持人物与空间一致性的前提下实现长时长生成  \n使用最长 30 秒的直接生成，一次性生成长镜头场景  \n将 3D White Model 或 Green Screen 素材作为参考，用于制作以主体分离或合成为前提的视频  \n使用 Timestamp Prompt，按时间指定切换演出和动作\n---"
+    }
+  }
+}

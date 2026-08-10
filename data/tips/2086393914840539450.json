@@ -1,0 +1,42 @@
+{
+  "id": "2086393914840539450",
+  "title": "Use Seedance 2.5 with 480p resolution and a 15-second duration for generating a…",
+  "content": "Use Seedance 2.5 with 480p resolution and a 15-second duration for generating a wide-area fixed aerial long-shot combat scene (上空ロングショット 俯瞰視点 広域 定点撮影 戦闘シーン).",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086393588393574400/img/3FB9Jn6lYcG6xPLE.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086393914840539450.mp4",
+  "sourceLink": "https://x.com/k_matsumaru/status/2086393914840539450",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "松丸 彗吾(keigo matsumaru)",
+    "link": "https://x.com/k_matsumaru"
+  },
+  "tags": [
+    "Action",
+    "Military",
+    "Photoreal",
+    "Realistic World",
+    "FPV & Aerial"
+  ],
+  "tips": "Use Seedance 2.5 with 480p resolution and a 15-second duration for generating a wide-area fixed aerial long-shot combat scene (上空ロングショット 俯瞰視点 広域 定点撮影 戦闘シーン).",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2.5 with 480p resolution and a 15-second duration to generate a wide-area fixed aerial long-shot combat scene (aerial long shot, bird’s-eye view, wide area, fixed camera, combat scene)."
+    },
+    "es": {
+      "content": "Usa Seedance 2.5 con resolución de 480p y una duración de 15 segundos para generar una escena de combate en plano general aéreo fijo de gran angular (上空ロングショット 俯瞰視点 広域 定点撮影 戦闘シーン)."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 avec une résolution de 480p et une durée de 15 secondes pour générer une scène de combat en long shot aérien fixe à grande échelle (上空ロングショット 俯瞰視点 広域 定点撮影 戦闘シーン)."
+    },
+    "ko": {
+      "content": "Seedance 2.5를 480p 해상도와 15초 길이로 사용하여, 광역 고정 항공 롱샷 전투 장면(上空ロングショット 俯瞰視点 広域 定点撮影 戦闘シーン)을 생성하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 com resolução de 480p e duração de 15 segundos para gerar uma cena de combate em plano geral aéreo fixo de grande área (上空ロングショット 俯瞰視点 広域 定点撮影 戦闘シーン)."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5，分辨率为 480p，时长 15 秒，用于生成一个广域固定航拍远景战斗场景（上空ロングショット 俯瞰视点 広域 定点撮影 戦闘シーン）。"
+    }
+  }
+}

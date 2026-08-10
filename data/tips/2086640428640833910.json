@@ -1,0 +1,43 @@
+{
+  "id": "2086640428640833910",
+  "title": "60秒のMVは30秒×2本に分割して生成し、前半の最終フレームを後半の開始フレームとして引き継いで疑似ワンカットにする",
+  "content": "60秒のMVは30秒×2本に分割して生成し、前半の最終フレームを後半の開始フレームとして引き継いで疑似ワンカットにする  \n歌詞が空間内を移動するように、リリック（テキスト）アニメーションを「空間を動く」演出として検証・設計する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086640340753367040/img/dMoIBu3WDBYK7yMt.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086640428640833910.mp4",
+  "sourceLink": "https://x.com/the_n_sns/status/2086640428640833910",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "YUN",
+    "link": "https://x.com/the_n_sns"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "60秒のMVは30秒×2本に分割して生成し、前半の最終フレームを後半の開始フレームとして引き継いで疑似ワンカットにする  \n歌詞が空間内を移動するように、リリック（テキスト）アニメーションを「空間を動く」演出として検証・設計する",
+  "translations": {
+    "en": {
+      "content": "Generate the 60-second music video by splitting it into two 30-second parts, and carry over the final frame of the first half as the starting frame of the second half to create a pseudo one-shot sequence.  \nDesign and test the lyric (text) animation as a “moving through space” effect, so that the lyrics appear to travel within the scene."
+    },
+    "es": {
+      "content": "Un MV de 60 segundos se genera dividiéndolo en dos piezas de 30 segundos, y se logra un falso plano secuencia heredando el último frame de la primera mitad como el frame inicial de la segunda.  \nSe verifica y diseña la animación de la letra (texto) como una puesta en escena en la que la letra se “mueve por el espacio”, de modo que parezca desplazarse dentro del entorno."
+    },
+    "fr": {
+      "content": "Générer un clip MV de 60 secondes en le divisant en deux vidéos de 30 secondes, puis reprendre la dernière image de la première moitié comme image de départ de la seconde afin de créer un faux plan-séquence.  \nConcevoir et tester l’animation des paroles (texte) comme une mise en scène où les lyrics semblent se déplacer dans l’espace, de sorte que les paroles se déplacent à l’intérieur de l’espace."
+    },
+    "ko": {
+      "content": "60초 MV는 30초씩 2개로 나눠 생성하고, 전반부의 마지막 프레임을 후반부의 시작 프레임으로 이어받아 의사 원테이크처럼 만든다  \n가사가 공간 안을 이동하는 것처럼, lyric(텍스트) 애니메이션을 “공간을 움직이는” 연출로 검증·설계한다"
+    },
+    "pt": {
+      "content": "Um MV de 60 segundos é gerado dividido em dois vídeos de 30 segundos, e o último frame da primeira metade é herdado como o frame inicial da segunda metade, criando um pseudo one-shot.  \nPara que a letra pareça se mover pelo espaço, a animação da lyric (texto) é verificada e projetada como uma encenação em que ela “se move pelo espaço”."
+    },
+    "zh": {
+      "content": "将60秒的MV拆分为两段30秒分别生成，并将前半段的最终帧作为后半段的起始帧衔接起来，形成伪一镜到底效果  \n让歌词仿佛在空间中移动一样，将 lyric（文本）动画作为“在空间中移动”的演出进行验证与设计"
+    }
+  }
+}

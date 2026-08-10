@@ -1,0 +1,40 @@
+{
+  "id": "2086474223602794820",
+  "title": "Taking pictures of the scenery while walking down the street.",
+  "content": "Taking pictures of the scenery while walking down the street.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086473267117015040/img/9rj9tibmOmdcmMUl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086474223602794820.mp4",
+  "sourceLink": "https://x.com/LocalGhost97665/status/2086474223602794820",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "Local_Ghost",
+    "link": "https://x.com/LocalGhost97665"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "es": {
+      "content": "Tomando fotos del paisaje mientras camina por la calle."
+    },
+    "fr": {
+      "content": "Prendre des photos du paysage en marchant dans la rue."
+    },
+    "ja": {
+      "content": "通りを歩きながら景色を撮影する。"
+    },
+    "ko": {
+      "content": "거리에서 걸어가며 풍경을 사진으로 찍기."
+    },
+    "pt": {
+      "content": "Tirando fotos da paisagem enquanto caminha pela rua."
+    },
+    "zh": {
+      "content": "一边沿着街道走，一边拍摄风景。"
+    }
+  }
+}

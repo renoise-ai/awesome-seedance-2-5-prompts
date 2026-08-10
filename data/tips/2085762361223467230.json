@@ -1,0 +1,41 @@
+{
+  "id": "2085762361223467230",
+  "title": "Use Lovart’s workflow to create a Seedance 2.5 video: write the prompt →…",
+  "content": "Use Lovart’s workflow to create a Seedance 2.5 video: write the prompt → generate a storyboard → refine individual scenes → produce the final cinematic video with Seedance 2.5.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/hey_mujeebahmed/status/2085762361223467230",
+  "sourcePublishedAt": "2026-08-07",
+  "author": {
+    "name": "Mujeeb Ahmed",
+    "link": "https://x.com/hey_mujeebahmed"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Lovart’s workflow to create a Seedance 2.5 video: write the prompt → generate a storyboard → refine individual scenes → produce the final cinematic video with Seedance 2.5.",
+  "translations": {
+    "es": {
+      "content": "Usa el flujo de trabajo de Lovart para crear un video con Seedance 2.5: escribe el prompt → genera un storyboard → refina escenas individuales → produce el video cinematográfico final con Seedance 2.5."
+    },
+    "fr": {
+      "content": "Utilisez le workflow de Lovart pour créer une vidéo Seedance 2.5 : rédigez le prompt → générez un storyboard → affinez les scènes individuelles → produisez la vidéo cinématique finale avec Seedance 2.5."
+    },
+    "ja": {
+      "content": "Lovartのワークフローを使ってSeedance 2.5の動画を作成します。promptを作成 → storyboardを生成 → 各シーンを調整 → Seedance 2.5で最終的なcinematic動画を制作します。"
+    },
+    "ko": {
+      "content": "Lovart의 워크플로를 사용해 Seedance 2.5 비디오를 만드세요: prompt를 작성한 뒤 → storyboard를 생성하고 → 개별 장면을 다듬은 다음 → Seedance 2.5로 최종 cinematic 비디오를 제작합니다."
+    },
+    "pt": {
+      "content": "Use o fluxo de trabalho da Lovart para criar um vídeo com o Seedance 2.5: escreva o prompt → gere um storyboard → refine cenas individuais → produza o vídeo cinematográfico final com o Seedance 2.5."
+    },
+    "zh": {
+      "content": "使用 Lovart 的工作流创建 Seedance 2.5 视频：编写 prompt → 生成分镜脚本 → 优化单个场景 → 使用 Seedance 2.5 制作最终的 cinematic 视频。"
+    }
+  }
+}

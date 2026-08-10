@@ -1,0 +1,42 @@
+{
+  "id": "2086213614135103626",
+  "title": "PR TopviewのSeedance2.5でリップシンクする際は、リファレンスに画像とSunoで作った曲（音源）を指定して試す",
+  "content": "PR TopviewのSeedance2.5でリップシンクする際は、リファレンスに画像とSunoで作った曲（音源）を指定して試す",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086136332716511232/img/BOKPFYHkD3GQnTUe.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086213614135103626.mp4",
+  "sourceLink": "https://x.com/manaimovie/status/2086213614135103626",
+  "sourcePublishedAt": "2026-08-08",
+  "author": {
+    "name": "Mankyu | AI動画生成",
+    "link": "https://x.com/manaimovie"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "PR TopviewのSeedance2.5でリップシンクする際は、リファレンスに画像とSunoで作った曲（音源）を指定して試す",
+  "translations": {
+    "en": {
+      "content": "When doing lip sync with PR Topview’s Seedance 2.5, try specifying an image and a song (audio) created with Suno as the reference."
+    },
+    "es": {
+      "content": "Al hacer lip sync con Seedance2.5 de PR Topview, prueba especificando como referencia una imagen y una canción (audio) creada con Suno."
+    },
+    "fr": {
+      "content": "Lors de la synchronisation labiale avec Seedance 2.5 de PR Topview, essayez de définir comme références une image et une chanson (source audio) créée avec Suno."
+    },
+    "ko": {
+      "content": "PR Topview의 Seedance2.5로 립싱크할 때는, 리퍼런스로 이미지와 Suno로 만든 곡(음원)을 지정해서 시도해 보세요."
+    },
+    "pt": {
+      "content": "Ao fazer lip sync com o Seedance 2.5 do PR Topview, tente especificar como referência uma imagem e a música (áudio) criada no Suno."
+    },
+    "zh": {
+      "content": "在使用 PR Topview 的 Seedance2.5 进行口型同步时，建议将图片和用 Suno 制作的歌曲（音源）作为参考进行指定并尝试。"
+    }
+  }
+}

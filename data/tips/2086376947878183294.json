@@ -1,0 +1,42 @@
+{
+  "id": "2086376947878183294",
+  "title": "Seedance 2.5で剣戟シーンを作るときは、武器のぶつかり合いや回避動作など破綻しやすい動きを積極的に入れて検証すると、2.0より破綻が少ない仕上がりにな…",
+  "content": "Seedance 2.5で剣戟シーンを作るときは、武器のぶつかり合いや回避動作など破綻しやすい動きを積極的に入れて検証すると、2.0より破綻が少ない仕上がりになりやすい  \nSeedance 2.5で2Dアニメ調にしたい場合は、公開されている「神プロンプト」をベースにして2Dアニメ向けにアレンジして使う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086115621780242432/img/jFsTHiSIGZ68xDjV.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086376947878183294.mp4",
+  "sourceLink": "https://x.com/katana_jk_girl/status/2086376947878183294",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "なおすけ｜KATANA GiRL",
+    "link": "https://x.com/katana_jk_girl"
+  },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "Anime 2D",
+    "Fantasy",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5で剣戟シーンを作るときは、武器のぶつかり合いや回避動作など破綻しやすい動きを積極的に入れて検証すると、2.0より破綻が少ない仕上がりになりやすい  \nSeedance 2.5で2Dアニメ調にしたい場合は、公開されている「神プロンプト」をベースにして2Dアニメ向けにアレンジして使う",
+  "translations": {
+    "en": {
+      "content": "When creating sword-fighting scenes in Seedance 2.5, it tends to produce fewer glitches than 2.0 if you actively include movements that are prone to breaking, such as weapon clashes and evasive actions, and use them for testing.  \nIf you want a 2D anime style in Seedance 2.5, base it on the publicly available “god prompt” and adapt it for 2D anime use.\n\n--- QUOTED TWEET ---\nAs practice with Seedance 2.5, I adapted this wonderful prompt into a 2D anime style!\n\nMy impression is that 2.5 has far fewer glitches in sword-fighting scenes, like weapon clashes and dodging.  \nUp through 2.0, there were noticeable issues like weapons passing through bodies, but I feel those have been reduced quite a bit. Also, the effects look beautiful."
+    },
+    "es": {
+      "content": "Cuando crees escenas de combate con espadas en Seedance 2.5, si incorporas de forma activa movimientos propensos a fallos, como choques entre armas y acciones de esquiva, y los pruebas, es más probable que el resultado tenga menos errores que en 2.0.  \nSi quieres darle un estilo de animación 2D en Seedance 2.5, usa como base el “prompt divino” que se ha publicado y adáptalo para animación 2D.\n\n--- TWEET CITADO ---\n¡Aprovechando para practicar con Seedance 2.5, he tomado como referencia este excelente prompt y lo he adaptado a animación 2D!\n\nTengo la impresión de que en 2.5 han disminuido muchísimo los fallos en escenas de combate con espadas, como los choques entre armas o las partes de esquiva.  \nHasta 2.0 era bastante evidente que las armas atravesaban el cuerpo y aparecían varios errores, pero siento que eso se ha reducido bastante; además, los efectos se ven más bonitos."
+    },
+    "fr": {
+      "content": "Lorsque vous créez des scènes de combat à l’épée avec Seedance 2.5, il est utile d’intégrer activement des mouvements susceptibles de se casser, comme les chocs entre armes ou les esquives, afin de les tester ; le résultat a tendance à présenter moins d’artefacts qu’avec la version 2.0.  \nSi vous voulez obtenir un rendu en style anime 2D avec Seedance 2.5, partez d’un « prompt divin » déjà publié et adaptez-le pour l’anime 2D.\n\n--- TWEET CITÉ ---\nPour m’entraîner avec Seedance 2.5, j’ai repris ce superbe prompt et je l’ai adapté en anime 2D !\n\nJ’ai l’impression qu’en 2.5, les artefacts sont beaucoup moins fréquents dans les scènes de combat à l’épée, notamment au niveau des chocs entre armes ou des esquives.\n\nJusqu’en 2.0, on voyait souvent des armes traverser les corps et divers problèmes de cohérence, mais j’ai l’impression que tout cela a beaucoup diminué ; en plus, les effets sont très beaux."
+    },
+    "ko": {
+      "content": "Seedance 2.5로 검격 장면을 만들 때는, 무기의 충돌이나 회피 동작처럼 깨지기 쉬운 움직임을 적극적으로 넣어 검증하면 2.0보다 파손이 적은 결과물이 나오기 쉽다  \nSeedance 2.5에서 2D 애니메이션풍으로 만들고 싶다면, 공개된 “신 프롬프트”를 바탕으로 2D 애니메이션용으로 응용해 사용한다\n\n--- 인용된 트윗 ---\nSeedance 2.5 연습 삼아, 이 훌륭한 프롬프트를 참고해 2D 애니메이션으로 응용해 봤습니다!\n\n2.5는 검격 장면에서 무기가 부딪히는 부분이나 피하는 장면 같은 데서 깨짐이 훨씬 적어진 느낌이 있네요.\n2.0까지는 무기가 인체를 관통하거나 여러 가지 깨짐이 눈에 띄었는데, 꽤 줄어든 것 같고, 또 이펙트가 예쁩니다."
+    },
+    "pt": {
+      "content": "Ao criar cenas de combate com espadas no Seedance 2.5, vale a pena testar ativamente movimentos que tendem a quebrar, como o choque entre armas e os movimentos de esquiva; isso costuma resultar em um acabamento com menos falhas do que no 2.0.  \nSe você quiser um estilo de anime 2D no Seedance 2.5, use como base o “prompt divino” que foi publicado e adapte-o para anime 2D.\n\n--- QUOTED TWEET ---\nAproveitando para praticar no Seedance 2.5, adaptei para anime 2D com base neste prompt incrível!\n\nTenho a impressão de que, no 2.5, as falhas em cenas de combate com espadas — como o choque entre armas e as partes de esquiva — diminuíram bastante.\nAté o 2.0, era comum ver armas atravessando o corpo e vários outros erros, mas acho que isso reduziu bastante; além disso, os efeitos estão mais bonitos."
+    },
+    "zh": {
+      "content": "在使用 Seedance 2.5 制作剑戟场景时，如果主动加入武器碰撞、闪避动作等容易出错的动作进行测试，往往会比 2.0 得到更少崩坏的成品。  \n如果想在 Seedance 2.5 中做成 2D 动画风，可以以公开的“神 prompt”为基础，针对 2D 动画进行改写后使用。\n\n--- 引用推文 ---\n借着练习 Seedance 2.5，我参考了这条很棒的 prompt，并将其改编成了 2D 动画风！\n\n2.5 给我的印象是，剑戟场景里武器碰撞、闪避之类容易出错的部分，崩坏明显少了很多。  \n到 2.0 为止，武器穿过人体之类的各种崩坏都很明显，但感觉现在已经减少了不少，而且特效也更漂亮了。"
+    }
+  }
+}

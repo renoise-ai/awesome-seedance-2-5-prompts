@@ -1,0 +1,42 @@
+{
+  "id": "2086440329079918940",
+  "title": "Use PolloAI with Seedance 2.5 in text-to-video mode by prompting a scene…",
+  "content": "Use PolloAI with Seedance 2.5 in text-to-video mode by prompting a scene description that specifies duration (30 seconds), subject performance (an angry woman acting with varied facial expressions), and the setting/background (a park).",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086440240047443968/img/bDmtzTF_HvZqRHxl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086440329079918940.mp4",
+  "sourceLink": "https://x.com/ai_Tyler_no_bu/status/2086440329079918940",
+  "sourcePublishedAt": "2026-08-09",
+  "author": {
+    "name": "Nobu_cyan",
+    "link": "https://x.com/ai_Tyler_no_bu"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use PolloAI with Seedance 2.5 in text-to-video mode by prompting a scene description that specifies duration (30 seconds), subject performance (an angry woman acting with varied facial expressions), and the setting/background (a park).",
+  "translations": {
+    "en": {
+      "content": "Use PolloAI with Seedance 2.5 in text-to-video mode by prompting a scene description that specifies the duration (30 seconds), the subject’s performance (an angry woman acting with varied facial expressions), and the setting/background (a park)."
+    },
+    "es": {
+      "content": "Usa PolloAI con Seedance 2.5 en modo texto a video mediante un prompt que describa una escena y especifique la duración (30 segundos), la actuación del sujeto (una mujer enfadada actuando con expresiones faciales variadas) y el entorno/fondo (un parque)."
+    },
+    "fr": {
+      "content": "Utilisez PolloAI avec Seedance 2.5 en mode texte-vers-vidéo en formulant un prompt décrivant une scène qui précise la durée (30 secondes), la performance du sujet (une femme en colère jouant avec des expressions faciales variées) et le décor/arrière-plan (un parc)."
+    },
+    "ko": {
+      "content": "PolloAI를 Seedance 2.5와 함께 text-to-video 모드로 사용하여, 장면 설명을 프롬프트로 입력하세요. 이 설명에는 지속 시간(30초), 주인공의 연기(다양한 표정으로 분노를 표현하는 여성), 그리고 배경/설정(공원)을 명시해야 합니다."
+    },
+    "pt": {
+      "content": "Use o PolloAI com o Seedance 2.5 no modo texto para vídeo, inserindo um prompt com a descrição de uma cena que especifique a duração (30 segundos), a performance do sujeito (uma mulher irritada atuando com expressões faciais variadas) e o cenário/fundo (um parque)."
+    },
+    "zh": {
+      "content": "使用 PolloAI 搭配 Seedance 2.5 的文生视频模式，通过输入一段场景描述来指定时长（30 秒）、主体表演（一个愤怒的女人，带有丰富多变的面部表情）以及场景/背景（一个公园）。"
+    }
+  }
+}

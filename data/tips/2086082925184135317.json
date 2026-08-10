@@ -1,0 +1,42 @@
+{
+  "id": "2086082925184135317",
+  "title": "Use Seedance 2.5 to generate >30-second scenes while keeping the same face and…",
+  "content": "Use Seedance 2.5 to generate >30-second scenes while keeping the same face and consistent lighting from start to end  \nFeed Seedance up to 50 reference images to guide the output  \nDescribe the exact camera movement you want in the prompt to direct camera moves",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086081437921583104/img/XhsXAdhhUEsVk-iO.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086082925184135317.mp4",
+  "sourceLink": "https://x.com/runable_hq/status/2086082925184135317",
+  "sourcePublishedAt": "2026-08-08",
+  "author": {
+    "name": "Runable",
+    "link": "https://x.com/runable_hq"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 to generate >30-second scenes while keeping the same face and consistent lighting from start to end  \nFeed Seedance up to 50 reference images to guide the output  \nDescribe the exact camera movement you want in the prompt to direct camera moves",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 para generar escenas de más de 30 segundos manteniendo el mismo rostro y una iluminación coherente de principio a fin  \nProporciona a Seedance hasta 50 imágenes de referencia para guiar el resultado  \nDescribe en el prompt el movimiento exacto de cámara que quieres para dirigir los movimientos de cámara\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Comentario Runable y obtén 1000 créditos gratis para probarlo\n---"
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 pour générer des scènes de plus de 30 secondes tout en conservant le même visage et un éclairage cohérent du début à la fin  \nFournissez à Seedance jusqu’à 50 images de référence pour guider le rendu  \nDécrivez précisément le mouvement de caméra souhaité dans le prompt afin de diriger les déplacements de la caméra\n\n--- SUITE DU FIL ---\n[Fil 1] Comment Runable and get 1000 Free credits to try with"
+    },
+    "ja": {
+      "content": "Seedance 2.5 を使って、開始から終了まで同じ顔と一貫したライティングを保ちながら、30秒超のシーンを生成  \nSeedance に最大50枚の参照画像を入力して、出力をガイド  \nカメラの動きを指示するために、prompt で希望する正確なカメラ移動を記述する\n\n--- スレッドの続き ---\n[Thread 1] コメント Runable and get 1000 Free credits to try with"
+    },
+    "ko": {
+      "content": "Seedance 2.5를 사용하면 시작부터 끝까지 동일한 얼굴과 일관된 조명을 유지하면서 30초 이상의 장면을 생성할 수 있습니다.  \nSeedance에 최대 50장의 참고 이미지를 입력해 결과물을 가이드하세요.  \n원하는 정확한 카메라 움직임을 prompt에 설명해 카메라 무브를 지시하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Comment Runable and get 1000 Free credits to try with\n---"
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 para gerar cenas com mais de 30 segundos, mantendo o mesmo rosto e uma iluminação consistente do início ao fim  \nForneça ao Seedance até 50 imagens de referência para orientar o resultado  \nDescreva no prompt o movimento exato de câmera que você quer para direcionar os movimentos da câmera\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Comment Runable and get 1000 Free credits to try with"
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 生成超过 30 秒的场景，同时从头到尾保持同一张脸和一致的光照  \n向 Seedance 提供最多 50 张参考图像，以引导输出  \n在 prompt 中准确描述你想要的镜头运动，以指导 camera moves\n\n--- 线程续接 ---\n[Thread 1] 评论 Runable 并获得 1000 个免费 credits 供试用\n---"
+    }
+  }
+}

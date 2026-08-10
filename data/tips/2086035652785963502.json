@@ -1,0 +1,43 @@
+{
+  "id": "2086035652785963502",
+  "title": "ChatGPTで絵コンテ画像とVコンテ（各プロンプト含む）を作成し、Seedance 2.5の生成にそのまま使う",
+  "content": "ChatGPTで絵コンテ画像とVコンテ（各プロンプト含む）を作成し、Seedance 2.5の生成にそのまま使う  \n動画参照の動画生成が15秒上限なら、15秒×2本に分けて生成して合計30秒にする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086033541071245312/img/oLz793l-SjPZl-jN.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086035652785963502.mp4",
+  "sourceLink": "https://x.com/333mic999/status/2086035652785963502",
+  "sourcePublishedAt": "2026-08-08",
+  "author": {
+    "name": "mic",
+    "link": "https://x.com/333mic999"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "ChatGPTで絵コンテ画像とVコンテ（各プロンプト含む）を作成し、Seedance 2.5の生成にそのまま使う  \n動画参照の動画生成が15秒上限なら、15秒×2本に分けて生成して合計30秒にする",
+  "translations": {
+    "en": {
+      "content": "Create storyboard images and a V-conte in ChatGPT (including all prompts), then use them directly for generation in Seedance 2.5.  \nIf video generation using video references is limited to 15 seconds, split it into two 15-second clips to make a total of 30 seconds.\n\n--- THREAD CONTINUATION ---\n[Thread 1] The storyboard and V-conte I made in ChatGPT.  \nSince video generation using video references was limited to 15 seconds, I split it into two clips to make 30 seconds total. https://t.co/DVyzS3tMxV\n---"
+    },
+    "es": {
+      "content": "Crear imágenes de storyboard y un V-conte en ChatGPT (incluyendo cada prompt) y usarlos tal cual para la generación en Seedance 2.5  \nSi la generación de video con referencia de video tiene un límite máximo de 15 segundos, divídelo en 2 videos de 15 segundos para obtener un total de 30 segundos\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] El storyboard y el V-conte creados en ChatGPT.  \nComo la generación de video con referencia de video estaba limitada a 15 segundos, lo dividí en 2 partes para llegar a 30 segundos. https://t.co/DVyzS3tMxV\n---"
+    },
+    "fr": {
+      "content": "Créer des images de storyboard et un V-conte avec ChatGPT (y compris chaque prompt), puis les utiliser directement pour la génération dans Seedance 2.5  \nSi la génération vidéo à partir de références vidéo est limitée à 15 secondes, la diviser en 2 vidéos de 15 secondes pour obtenir un total de 30 secondes\n\n--- SUITE DU THREAD ---\n[Thread 1] Le storyboard et le V-conte créés avec ChatGPT.  \nComme la génération vidéo à partir de références vidéo était limitée à 15 secondes, je l’ai divisée en 2 vidéos pour atteindre 30 secondes. https://t.co/DVyzS3tMxV\n---"
+    },
+    "ko": {
+      "content": "ChatGPT로 콘티 이미지와 V콘티(각 프롬프트 포함)를 만들어 Seedance 2.5 생성에 그대로 사용  \n비디오 참조 기반 영상 생성이 15초 상한이라면, 15초짜리 2개로 나눠 생성해 총 30초로 만들기\n\n--- THREAD CONTINUATION ---\n[Thread 1] ChatGPT로 만든 콘티와 V콘티.\n비디오를 참조하는 영상 생성은 15초까지였기 때문에, 2개로 나눠 30초로 만들었습니다. https://t.co/DVyzS3tMxV\n---"
+    },
+    "pt": {
+      "content": "Criar imagens de storyboard e V-conte (incluindo cada prompt) no ChatGPT e usá-las diretamente na geração do Seedance 2.5  \nSe a geração de vídeo com referência de vídeo tiver limite de 15 segundos, divida em 2 vídeos de 15 segundos para totalizar 30 segundos\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Storyboard e V-conte criados no ChatGPT.  \nComo a geração de vídeo com referência de vídeo era limitada a 15 segundos, dividi em 2 partes para chegar a 30 segundos. https://t.co/DVyzS3tMxV\n---"
+    },
+    "zh": {
+      "content": "使用 ChatGPT 制作分镜图和 V 企划（包含各个 prompt），并直接用于 Seedance 2.5 的生成  \n如果参考视频的生成时长上限是 15 秒，就分成 15 秒 × 2 段来生成，总计 30 秒\n\n--- THREAD CONTINUATION ---\n[Thread 1] 这是用 ChatGPT 制作的分镜和 V 企划。  \n由于参考视频的生成最长只有 15 秒，所以我把它分成两段，做成了 30 秒。 https://t.co/DVyzS3tMxV\n---"
+    }
+  }
+}
