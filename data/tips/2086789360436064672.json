@@ -1,0 +1,42 @@
+{
+  "id": "2086789360436064672",
+  "title": "Combine Seedance 2.5 prompts with image reference inputs to improve results and…",
+  "content": "Combine Seedance 2.5 prompts with image reference inputs to improve results and prompt adherence.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086788927445463040/img/eHZl08tRs5qXFnML.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086789360436064672.mp4",
+  "sourceLink": "https://x.com/junwatu/status/2086789360436064672",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "DΞV",
+    "link": "https://x.com/junwatu"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Combine Seedance 2.5 prompts with image reference inputs to improve results and prompt adherence.",
+  "translations": {
+    "es": {
+      "content": "Combina los prompts de Seedance 2.5 con entradas de referencia de imagen para mejorar los resultados y la adherencia al prompt."
+    },
+    "fr": {
+      "content": "Combinez les prompts Seedance 2.5 avec des images de référence pour améliorer les résultats et le respect du prompt."
+    },
+    "ja": {
+      "content": "Seedance 2.5 の prompt と画像参照入力を組み合わせることで、結果と prompt への忠実度を向上させます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5 prompt를 이미지 레퍼런스 입력과 결합하여 결과와 prompt 준수도를 향상시키세요."
+    },
+    "pt": {
+      "content": "Combine prompts do Seedance 2.5 com entradas de referência de imagem para melhorar os resultados e a aderência ao prompt."
+    },
+    "zh": {
+      "content": "将 Seedance 2.5 prompts 与图像参考输入结合使用，以提升生成效果和对 prompt 的遵循度。"
+    }
+  }
+}

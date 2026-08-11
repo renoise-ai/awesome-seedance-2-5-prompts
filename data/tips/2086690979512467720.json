@@ -1,0 +1,42 @@
+{
+  "id": "2086690979512467720",
+  "title": "短いキャラクター動画を作成してそれを参照動画として固定（スタイルシート化）すると、Seedance2.5でキャラクター一貫性を保ちやすい",
+  "content": "短いキャラクター動画を作成してそれを参照動画として固定（スタイルシート化）すると、Seedance2.5でキャラクター一貫性を保ちやすい  \n実写系で3面図（ターンアラウンド）だけではキャラクターを固定できない場合、短いキャラクター動画を作って参照に使う方法を試す",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086690034221248512/img/qS2un-e_94adX0Hk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086690979512467720.mp4",
+  "sourceLink": "https://x.com/AwajiAqua/status/2086690979512467720",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "淡路✰アクア | AI Ponkotsu Works",
+    "link": "https://x.com/AwajiAqua"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "短いキャラクター動画を作成してそれを参照動画として固定（スタイルシート化）すると、Seedance2.5でキャラクター一貫性を保ちやすい  \n実写系で3面図（ターンアラウンド）だけではキャラクターを固定できない場合、短いキャラクター動画を作って参照に使う方法を試す",
+  "translations": {
+    "en": {
+      "content": "Creating a short character video and then locking it in as a reference video (turning it into a style sheet) makes it easier to maintain character consistency in Seedance 2.5.  \nIf a live-action-style character cannot be fixed using only a three-view turnaround, try creating a short character video and using that as the reference."
+    },
+    "es": {
+      "content": "Crear un video corto del personaje y fijarlo como video de referencia (convertirlo en una hoja de estilo) facilita mantener la consistencia del personaje en Seedance2.5.  \nSi en contenido de acción real no basta con una vista de tres ángulos (turnaround) para fijar al personaje, prueba a crear un video corto del personaje y usarlo como referencia."
+    },
+    "fr": {
+      "content": "Créer une courte vidéo du personnage, puis la fixer comme vidéo de référence (la transformer en style sheet), facilite le maintien de la cohérence du personnage avec Seedance2.5.  \nSi, dans un style réaliste, une simple vue à trois angles (turnaround) ne suffit pas à figer le personnage, essayez de créer une courte vidéo du personnage et de l’utiliser comme référence."
+    },
+    "ko": {
+      "content": "짧은 캐릭터 영상을 만들어 이를 참조 영상으로 고정(스타일시트화)하면 Seedance2.5에서 캐릭터 일관성을 유지하기 쉬워진다  \n실사 계열에서 3면도(턴어라운드)만으로는 캐릭터를 고정할 수 없는 경우, 짧은 캐릭터 영상을 만들어 참조로 사용하는 방법을 시도해본다"
+    },
+    "pt": {
+      "content": "Ao criar um vídeo curto do personagem e fixá-lo como vídeo de referência (transformando-o em uma espécie de style sheet), fica mais fácil manter a consistência do personagem no Seedance2.5.  \nSe, em conteúdos de live-action, um turnaround em 3 vistas por si só não conseguir fixar o personagem, tente criar um vídeo curto do personagem e usá-lo como referência."
+    },
+    "zh": {
+      "content": "制作一段短的角色视频，并将其作为参考视频固定下来（样式化），可以更容易在 Seedance2.5 中保持角色一致性。  \n如果仅靠写实风格的三视图（turnaround）仍无法固定角色，可以尝试先制作一段短的角色视频，再将其作为参考来使用。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2086792995953901718",
+  "title": "低解像度のダミーモデルでローカル生成した動画をプレビズとして作り、出来が良ければそのプレビズ動画をSeedance…",
+  "content": "低解像度のダミーモデルでローカル生成した動画をプレビズとして作り、出来が良ければそのプレビズ動画をSeedance 2.5に参照（読み込み）させて仕上げるワークフローを使う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086792843449040896/img/oqsssd_-Ii_EUZdX.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086792995953901718.mp4",
+  "sourceLink": "https://x.com/_3912657840/status/2086792995953901718",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "角煮星丸",
+    "link": "https://x.com/_3912657840"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "低解像度のダミーモデルでローカル生成した動画をプレビズとして作り、出来が良ければそのプレビズ動画をSeedance 2.5に参照（読み込み）させて仕上げるワークフローを使う",
+  "translations": {
+    "en": {
+      "content": "Use a workflow where you create a locally generated video with a low-resolution dummy model as a previs, and if it turns out well, feed that previs video into Seedance 2.5 for the final polish.\n\n--- QUOTED TWEET ---\nI’ve successfully done local generation with H3...\nI feel more at ease with this kind of UI than with ComfyUI,\nso I even had the UI built for me.\n\nI want to try making a low-resolution video locally with a dummy model like the one shown on the left, and if it comes out looking good, load it into Seedance 2.5 or something similar as a previs video... https://t.co/2UUOLvFhbm\n---"
+    },
+    "es": {
+      "content": "Usar un flujo de trabajo en el que se crea un video generado localmente con un modelo dummy de baja resolución como previz, y si el resultado es bueno, se hace que ese video de previz sea referenciado (cargado) por Seedance 2.5 para terminarlo.\n\n--- TWEET CITADO ---\nHe logrado la generación local con H3…\nEste tipo de UI me da más tranquilidad que ConfyUI, así que\nhasta me hicieron la UI\n\nQuería probar algo así: crear localmente un video de baja resolución con un modelo dummy como el que se ve a la izquierda, y si queda bien, cargarlo en Seedance 2.5, etc., como video de previz… https://t.co/2UUOLvFhbm"
+    },
+    "fr": {
+      "content": "Utiliser un workflow consistant à créer en local une vidéo avec un modèle factice en basse résolution comme préviz, puis, si le résultat est bon, faire référencer (charger) cette vidéo de préviz dans Seedance 2.5 pour la finaliser.\n\n--- TWEET CITÉ ---\nJ’ai réussi la génération locale avec H3…\nComme ce genre d’interface me met plus à l’aise que ConfyUI,\non m’a même fait l’UI\n\nJ’aimerais essayer de créer en local une vidéo basse résolution avec un modèle factice comme celui qu’on voit à gauche, et si le rendu est sympa, la charger ensuite dans Seedance2.5, etc., comme vidéo de préviz… https://t.co/2UUOLvFhbm"
+    },
+    "ko": {
+      "content": "저해상도 더미 모델로 로컬 생성한 영상을 프리비즈로 만들고, 결과가 좋으면 그 프리비즈 영상을 Seedance 2.5에 참조(로딩)시켜 마무리하는 워크플로를 사용한다\n\n--- QUOTED TWEET ---\nH3의 로컬 생성에 성공했는데요…\nConfyUI보다 이런 UI가 더 마음이 편해서\nUI까지 만들어 달라고 했습니다\n\n왼쪽에 보이는 것 같은 더미 모델로 저해상도 영상을 로컬에서 만들고, 괜찮게 나오면 그걸 프리비즈 영상으로 Seedance2.5 등에 불러와서 쓰는… 그런 걸 해보고 싶어서요 https://t.co/2UUOLvFhbm\n---"
+    },
+    "pt": {
+      "content": "Usar um workflow em que você cria, como previs, um vídeo gerado localmente com um modelo dummy de baixa resolução e, se o resultado ficar bom, faz esse vídeo de previs ser referenciado (carregado) no Seedance 2.5 para finalizar.\n\n--- QUOTED TWEET ---\nConsegui gerar localmente com o H3...\nComo esse tipo de UI me deixa mais tranquilo do que o ConfyUI,\naté fizeram a UI pra mim\n\nQuero testar fazer, localmente, um vídeo em baixa resolução com um modelo dummy como o que aparece à esquerda e, se ficar legal, carregá-lo como vídeo de previs no Seedance 2.5 e similares... https://t.co/2UUOLvFhbm\n---"
+    },
+    "zh": {
+      "content": "使用低分辨率的虚拟模型在本地生成视频，先把它做成预演（previs），如果效果不错，再让 Seedance 2.5 参考（读取）这段预演视频来完成最终成片的工作流。\n\n--- QUOTED TWEET ---\n已经成功在本地生成 H3 了……\n比起 ConfyUI，我更喜欢这种 UI，心情也更放松\n所以连 UI 都让人帮我做了\n\n我想试试：像左边画面里那样，用虚拟模型在本地制作低分辨率视频，如果做得不错，就把它作为预演视频导入 Seedance 2.5 等工具里……大概就是想这么玩一下 https://t.co/2UUOLvFhbm\n---"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2086806890080825781",
+  "title": "Upload a single reference image of your character, then describe the world in…",
+  "content": "Upload a single reference image of your character, then describe the world in the prompt and let Seedance 2.5 on Morphic generate the story/video from that setup.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086806861249232896/img/4qpbdpqt15DNZ3S7.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086806890080825781.mp4",
+  "sourceLink": "https://x.com/benyuls/status/2086806890080825781",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "ben.",
+    "link": "https://x.com/benyuls"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Upload a single reference image of your character, then describe the world in the prompt and let Seedance 2.5 on Morphic generate the story/video from that setup.",
+  "translations": {
+    "es": {
+      "content": "Sube una sola imagen de referencia de tu personaje, luego describe el mundo en el prompt y deja que Seedance 2.5 en Morphic genere la historia o el video a partir de esa configuración."
+    },
+    "fr": {
+      "content": "Téléchargez une seule image de référence de votre personnage, puis décrivez le monde dans le prompt et laissez Seedance 2.5 sur Morphic générer l’histoire/la vidéo à partir de cette configuration."
+    },
+    "ja": {
+      "content": "キャラクターの参照画像を1枚アップロードし、promptで世界観を説明してください。あとは、その設定をもとにMorphic上のSeedance 2.5がストーリー／動画を生成します。"
+    },
+    "ko": {
+      "content": "캐릭터의 단일 레퍼런스 이미지를 업로드한 다음, prompt에서 세계관을 설명하면 Morphic의 Seedance 2.5가 그 설정을 바탕으로 스토리/비디오를 생성합니다."
+    },
+    "pt": {
+      "content": "Envie uma única imagem de referência do seu personagem, depois descreva o mundo no prompt e deixe o Seedance 2.5 no Morphic gerar a história/vídeo a partir dessa configuração."
+    },
+    "zh": {
+      "content": "上传一张你角色的单张参考图，然后在 prompt 中描述世界观，让 Morphic 上的 Seedance 2.5 根据这个设定生成故事/视频。"
+    }
+  }
+}

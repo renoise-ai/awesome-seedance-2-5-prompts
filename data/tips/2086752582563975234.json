@@ -1,0 +1,42 @@
+{
+  "id": "2086752582563975234",
+  "title": "モーション参照にブレイキン動画を指定して、ダンスの動きをSeedance2.5の生成に反映させる",
+  "content": "モーション参照にブレイキン動画を指定して、ダンスの動きをSeedance2.5の生成に反映させる  \n参照用に深度マップ（depth map）のダンス動画を用意してモーション参照に使う  \nモーション参照に使う元動画自体もSeedance2.5で生成して、参照素材として再利用する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086752543464693760/img/vMpg1tcCrgWNgEE6.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086752582563975234.mp4",
+  "sourceLink": "https://x.com/ZetoGroovin/status/2086752582563975234",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "Zeto",
+    "link": "https://x.com/ZetoGroovin"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "モーション参照にブレイキン動画を指定して、ダンスの動きをSeedance2.5の生成に反映させる  \n参照用に深度マップ（depth map）のダンス動画を用意してモーション参照に使う  \nモーション参照に使う元動画自体もSeedance2.5で生成して、参照素材として再利用する",
+  "translations": {
+    "en": {
+      "content": "Specify a breaking video as the motion reference and reflect the dance movements in Seedance 2.5 generation.  \nPrepare a dance video with a depth map for reference and use it as the motion reference.  \nGenerate the source video used for motion reference itself in Seedance 2.5, and reuse it as reference material.\n\n--- THREAD CONTINUATION ---\n[Thread 1] This is the depth map dance video used as the reference.  \nThis source video was also generated with Seedance 2.5. https://t.co/bYCTAC8AoY\n---"
+    },
+    "es": {
+      "content": "Especificar un video de breakdance como referencia de movimiento para reflejar los movimientos de baile en la generación de Seedance2.5  \nPreparar un video de baile con depth map para usarlo como referencia de movimiento  \nGenerar con Seedance2.5 el video original que se usará como referencia de movimiento y reutilizarlo como material de referencia\n\n--- CONTINUACIÓN DEL THREAD ---\n[Thread 1] Este es el video de baile con depth map que se usó como referencia.\nEste video original también fue generado con Seedance2.5. https://t.co/bYCTAC8AoY\n---"
+    },
+    "fr": {
+      "content": "Spécifier une vidéo de breakdance comme référence de mouvement pour refléter les mouvements de danse dans la génération de Seedance2.5  \nPréparer une vidéo de danse avec une depth map pour l’utiliser comme référence de mouvement  \nGénérer aussi la vidéo source utilisée comme référence de mouvement avec Seedance2.5, puis la réutiliser comme matériau de référence\n\n--- SUITE DU THREAD ---\n[Thread 1] La vidéo de danse avec depth map utilisée comme référence est celle-ci.\nCette vidéo source a également été générée avec Seedance2.5. https://t.co/bYCTAC8AoY\n---"
+    },
+    "ko": {
+      "content": "모션 참조에 브레이킹 영상을 지정해, 댄스 동작을 Seedance2.5 생성에 반영한다  \n참조용으로 depth map이 적용된 댄스 영상을 준비해 모션 참조에 사용한다  \n모션 참조에 사용하는 원본 영상 자체도 Seedance2.5로 생성해, 참조 소재로 재활용한다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 참조에 사용한 것은 이 depth map 댄스 영상입니다.\n이 원본 영상도 Seedance2.5로 생성했습니다. https://t.co/bYCTAC8AoY\n---"
+    },
+    "pt": {
+      "content": "指定ar um vídeo de breakdance como referência de movimento e refletir os movimentos de dança na geração do Seedance2.5  \nPreparar um vídeo de dança com depth map para usar como referência de movimento  \nGerar com o próprio Seedance2.5 o vídeo original usado como referência de movimento e reutilizá-lo como material de referência\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Esta é o vídeo de dança com depth map usado como referência.\nEste vídeo original também foi gerado com o Seedance2.5. https://t.co/bYCTAC8AoY\n---"
+    },
+    "zh": {
+      "content": "将 breaking 视频指定为 motion reference，将舞蹈动作反映到 Seedance2.5 的生成中  \n准备带有 depth map 的舞蹈视频作为参考，用于 motion reference  \n用于 motion reference 的原始视频本身也用 Seedance2.5 生成，并作为参考素材再次利用\n\n--- THREAD CONTINUATION ---\n[Thread 1] 这里使用的参考素材是这段带有 depth map 的舞蹈视频。  \n这段原始视频也是用 Seedance2.5 生成的。 https://t.co/bYCTAC8AoY\n---"
+    }
+  }
+}

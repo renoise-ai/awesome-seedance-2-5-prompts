@@ -1,0 +1,43 @@
+{
+  "id": "2086701419860759004",
+  "title": "同じ画像と同じプロンプトを使い、Seedance 2.5/2.0（480P）、MiniMax H3（768P）、Pollo…",
+  "content": "同じ画像と同じプロンプトを使い、Seedance 2.5/2.0（480P）、MiniMax H3（768P）、Pollo 2.5（720P）など複数モデルを解像度込みで揃えて生成し、出力を比較する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086701233742786560/img/IpR-OjV_4mmVB71S.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086701419860759004.mp4",
+  "sourceLink": "https://x.com/iyamaita/status/2086701419860759004",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "やす",
+    "link": "https://x.com/iyamaita"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Model Showcase"
+  ],
+  "tips": "同じ画像と同じプロンプトを使い、Seedance 2.5/2.0（480P）、MiniMax H3（768P）、Pollo 2.5（720P）など複数モデルを解像度込みで揃えて生成し、出力を比較する",
+  "translations": {
+    "en": {
+      "content": "Use the same image and the same prompt, and generate with multiple models—such as Seedance 2.5/2.0 (480P), MiniMax H3 (768P), and Pollo 2.5 (720P)—matched by resolution, then compare the outputs."
+    },
+    "es": {
+      "content": "Usa la misma imagen y el mismo prompt, y genera con varios modelos — como Seedance 2.5/2.0 (480P), MiniMax H3 (768P) y Pollo 2.5 (720P) — ajustando también la resolución, para comparar los resultados."
+    },
+    "fr": {
+      "content": "Utiliser la même image et le même prompt, générer avec plusieurs modèles — comme Seedance 2.5/2.0 (480P), MiniMax H3 (768P), Pollo 2.5 (720P) — en harmonisant aussi la résolution, puis comparer les résultats."
+    },
+    "ko": {
+      "content": "같은 이미지와 같은 prompt를 사용해 Seedance 2.5/2.0(480P), MiniMax H3(768P), Pollo 2.5(720P) 등 여러 모델을 해상도까지 맞춰 생성하고, 결과를 비교한다"
+    },
+    "pt": {
+      "content": "Usando a mesma imagem e o mesmo prompt, gerar com vários modelos — como Seedance 2.5/2.0 (480P), MiniMax H3 (768P) e Pollo 2.5 (720P) — alinhando também a resolução, e comparar os resultados."
+    },
+    "zh": {
+      "content": "使用相同的图像和相同的 prompt，统一以包含分辨率的方式在多个模型中生成，例如 Seedance 2.5/2.0（480P）、MiniMax H3（768P）、Pollo 2.5（720P），并对输出进行比较"
+    }
+  }
+}

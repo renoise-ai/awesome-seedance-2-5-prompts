@@ -1,0 +1,42 @@
+{
+  "id": "2086786985306509578",
+  "title": "Define the target action (e.g., a pull-over on a bar) by splitting it into four…",
+  "content": "Define the target action (e.g., a pull-over on a bar) by splitting it into four key phases and explicitly specifying head, feet, and waist positions in each phase to improve Seedance2.5’s motion accuracy.",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086784225563566080/img/TASbY7Py_ZhRUOil.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086786985306509578.mp4",
+  "sourceLink": "https://x.com/pan_soramame_da/status/2086786985306509578",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "おまっめ🐱",
+    "link": "https://x.com/pan_soramame_da"
+  },
+  "tags": [
+    "Sports",
+    "Extreme",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Define the target action (e.g., a pull-over on a bar) by splitting it into four key phases and explicitly specifying head, feet, and waist positions in each phase to improve Seedance2.5’s motion accuracy.",
+  "translations": {
+    "en": {
+      "content": "Define the target action (e.g., a pull-over on a bar) by splitting it into four key phases and explicitly specifying the positions of the head, feet, and waist in each phase to improve Seedance2.5’s motion accuracy."
+    },
+    "es": {
+      "content": "Define la acción objetivo (por ejemplo, una dominada en barra) dividiéndola en cuatro fases clave y especificando explícitamente la posición de la cabeza, los pies y la cintura en cada fase para mejorar la precisión del movimiento de Seedance2.5."
+    },
+    "fr": {
+      "content": "Définissez l’action cible (par exemple, une traction à la barre) en la décomposant en quatre phases clés et en précisant explicitement la position de la tête, des pieds et de la taille à chaque phase afin d’améliorer la précision des mouvements de Seedance2.5."
+    },
+    "ko": {
+      "content": "대상 동작(예: 철봉에서의 풀오버)을 네 개의 핵심 단계로 나누고, 각 단계마다 머리, 발, 허리의 위치를 명확하게 지정하여 Seedance2.5의 동작 정확도를 향상시키세요."
+    },
+    "pt": {
+      "content": "Defina a ação-alvo (por exemplo, uma barra fixa) dividindo-a em quatro fases principais e especificando explicitamente as posições da cabeça, dos pés e da cintura em cada fase para melhorar a precisão do movimento do Seedance2.5."
+    },
+    "zh": {
+      "content": "通过将目标动作（例如单杠上的引体向上）拆分为四个关键阶段，并在每个阶段明确指定头部、脚部和腰部的位置，可以提升 Seedance2.5 的动作准确性。"
+    }
+  }
+}

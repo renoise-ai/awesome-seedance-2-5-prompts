@@ -1,0 +1,42 @@
+{
+  "id": "2086761547272249467",
+  "title": "NBPやIMG2では水着がNG判定になりやすいので、水着のリファレンス画像を使うと別人化しやすい前提でプロンプト／リファレンス設計をする",
+  "content": "NBPやIMG2では水着がNG判定になりやすいので、水着のリファレンス画像を使うと別人化しやすい前提でプロンプト／リファレンス設計をする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086760846261407744/img/Ctb32oYUWgjbmR9U.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086761547272249467.mp4",
+  "sourceLink": "https://x.com/Chihuahua_wa/status/2086761547272249467",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "Chihua-wan",
+    "link": "https://x.com/Chihuahua_wa"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "NBPやIMG2では水着がNG判定になりやすいので、水着のリファレンス画像を使うと別人化しやすい前提でプロンプト／リファレンス設計をする",
+  "translations": {
+    "en": {
+      "content": "Since swimsuits are often flagged as disallowed in NBP and IMG2, design your prompt/reference setup with the assumption that using swimsuit reference images can easily cause the subject to turn into a different person."
+    },
+    "es": {
+      "content": "En NBP y IMG2, los trajes de baño tienden a ser marcados como no permitidos, así que conviene diseñar el prompt y las referencias asumiendo que, si se usan imágenes de referencia con traje de baño, es fácil que el resultado termine pareciendo otra persona."
+    },
+    "fr": {
+      "content": "Dans NBP et IMG2, les maillots de bain sont souvent facilement classés comme non conformes, donc il faut concevoir le prompt et les références en partant du principe que l’utilisation d’images de référence en maillot de bain peut facilement faire dériver le résultat vers une autre personne."
+    },
+    "ko": {
+      "content": "NBP나 IMG2에서는 수영복이 NG 판정을 받기 쉬우므로, 수영복 레퍼런스 이미지를 사용하면 다른 사람처럼 변하기 쉬운 것을 전제로 프롬프트/레퍼런스 설계를 한다"
+    },
+    "pt": {
+      "content": "Como em NBP e IMG2 roupas de banho tendem a ser facilmente classificadas como NG, projete o prompt e os references considerando que, ao usar uma imagem de referência de roupa de banho, é mais fácil a pessoa ficar com aparência de outra pessoa."
+    },
+    "zh": {
+      "content": "由于在 NBP 和 IMG2 中，泳装很容易被判定为 NG，因此在设计 prompt / reference 时，要以“使用泳装参考图容易导致人物变成另一个人”为前提来进行。"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2086934372066750897",
+  "title": "Convert live-action footage to a depth map using Depth Anything v2, then use…",
+  "content": "Convert live-action footage to a depth map using Depth Anything v2, then use that depth map as conditioning in Seedance2.5 to generate a steampunk anime-style video.",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086934105984286720/img/RpWzXrv3eJ-2VIgN.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086934372066750897.mp4",
+  "sourceLink": "https://x.com/yachimat_manga/status/2086934372066750897",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "yachimat - AI Short Anime",
+    "link": "https://x.com/yachimat_manga"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Anime 2D",
+    "Fantasy",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Convert live-action footage to a depth map using Depth Anything v2, then use that depth map as conditioning in Seedance2.5 to generate a steampunk anime-style video.",
+  "translations": {
+    "en": {
+      "content": "Convert live-action footage into a depth map using Depth Anything v2, then use that depth map as conditioning in Seedance2.5 to generate a steampunk anime-style video.\n\n--- THREAD CONTINUATION ---\n[Thread 1] On Thursday, we’ll be doing a tutorial on how to use Seedance2.5 and H3!\nhttps://t.co/5jKjlZohNK\n---"
+    },
+    "es": {
+      "content": "Convierte metraje de acción real en un mapa de profundidad usando Depth Anything v2, y luego usa ese mapa de profundidad como condicionamiento en Seedance2.5 para generar un video con estilo anime steampunk.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] ¡El jueves haré un tutorial sobre cómo alternar entre Seedance2.5 y H3!\nhttps://t.co/5jKjlZohNK\n---"
+    },
+    "fr": {
+      "content": "Convertissez des images en prise de vue réelle en une carte de profondeur à l’aide de Depth Anything v2, puis utilisez cette carte de profondeur comme conditionnement dans Seedance2.5 pour générer une vidéo au style anime steampunk.\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Thread 1] 木曜日にはSeedance2.5とH3の使い分けについてチュートリアルします！\nhttps://t.co/5jKjlZohNK\n---"
+    },
+    "ko": {
+      "content": "Depth Anything v2를 사용해 실사 영상을 depth map으로 변환한 다음, 그 depth map을 Seedance2.5의 conditioning으로 사용해 스팀펑크 애니메이션 스타일의 영상을 생성합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 목요일에는 Seedance2.5와 H3의 활용 차이에 대해 튜토리얼을 진행합니다!\nhttps://t.co/5jKjlZohNK\n---"
+    },
+    "pt": {
+      "content": "Converta imagens em live-action em um mapa de profundidade usando o Depth Anything v2 e, em seguida, use esse mapa de profundidade como condicionamento no Seedance2.5 para gerar um vídeo em estilo anime steampunk.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Na quinta-feira, faremos um tutorial sobre como usar o Seedance2.5 e o H3 de forma adequada!\nhttps://t.co/5jKjlZohNK\n---"
+    },
+    "zh": {
+      "content": "使用 Depth Anything v2 将实拍素材转换为深度图，然后在 Seedance2.5 中将该深度图作为条件输入，生成一段蒸汽朋克动漫风格的视频。\n\n--- 线程续篇 ---\n[Thread 1] 木曜日にはSeedance2.5とH3の使い分けについてチュートリアルします！\nhttps://t.co/5jKjlZohNK\n---"
+    }
+  }
+}

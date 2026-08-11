@@ -1,0 +1,42 @@
+{
+  "id": "2086825581304295762",
+  "title": "Use an existing video link as a style reference by having AI analyze it and…",
+  "content": "Use an existing video link as a style reference by having AI analyze it and generate a Seedance prompt to recreate the look.  \nAdd your subjects (e.g., family members) into a reference image and use it in Seedance to match the characters in the generated clip.  \nSelect low quality when you want to conserve/stretch Seedance credits.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086825561507196928/img/vCvB_EMev1q9xHFe.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086825581304295762.mp4",
+  "sourceLink": "https://x.com/binzoboy/status/2086825581304295762",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "Derek Binnie",
+    "link": "https://x.com/binzoboy"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use an existing video link as a style reference by having AI analyze it and generate a Seedance prompt to recreate the look.  \nAdd your subjects (e.g., family members) into a reference image and use it in Seedance to match the characters in the generated clip.  \nSelect low quality when you want to conserve/stretch Seedance credits.",
+  "translations": {
+    "es": {
+      "content": "Usa un enlace de video existente como referencia de estilo, haciendo que la IA lo analice y genere un prompt de Seedance para recrear el aspecto.  \nAñade a tus sujetos (por ejemplo, miembros de la familia) en una imagen de referencia y úsala en Seedance para que los personajes coincidan con los del clip generado.  \nSelecciona baja calidad cuando quieras conservar/estirar tus créditos de Seedance."
+    },
+    "fr": {
+      "content": "Utilisez un lien vidéo existant comme référence de style en demandant à l’IA de l’analyser et de générer un prompt Seedance pour recréer le rendu.  \nAjoutez vos sujets (par exemple, des membres de votre famille) dans une image de référence et utilisez-la dans Seedance pour faire correspondre les personnages du clip généré.  \nSélectionnez une qualité faible lorsque vous souhaitez économiser/étirer vos crédits Seedance."
+    },
+    "ja": {
+      "content": "既存の動画リンクをスタイル参照として使用し、AIにそれを分析させて、その見た目を再現するためのSeedance promptを生成します。  \n被写体（例：家族）を参照画像に追加し、Seedanceで使用して、生成クリップ内のキャラクターを一致させます。  \nSeedanceクレジットを節約・延ばしたいときは、低品質を選択します。"
+    },
+    "ko": {
+      "content": "기존 비디오 링크를 스타일 레퍼런스로 사용해 AI가 이를 분석하고, 그 느낌을 재현할 Seedance prompt를 생성하게 하세요.  \n가족 구성원 등 원하는 피사체를 레퍼런스 이미지에 추가한 뒤, Seedance에서 이를 사용해 생성된 클립의 캐릭터와 맞추세요.  \nSeedance 크레딧을 아끼거나 더 오래 사용하고 싶을 때는 low quality를 선택하세요."
+    },
+    "pt": {
+      "content": "Use um link de vídeo existente como referência de estilo, fazendo com que a IA o analise e gere um prompt do Seedance para recriar a aparência.  \nAdicione seus sujeitos (por exemplo, membros da família) a uma imagem de referência e use-a no Seedance para corresponder aos personagens no clipe gerado.  \nSelecione baixa qualidade quando quiser economizar/estender os créditos do Seedance."
+    },
+    "zh": {
+      "content": "使用现有的视频链接作为风格参考，让 AI 分析它并生成一个 Seedance prompt，以重现这种视觉效果。  \n将你的主体（例如家庭成员）添加到参考图像中，并在 Seedance 中使用它，以匹配生成片段中的角色。  \n当你想节省/延长 Seedance credits 时，选择低质量。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2086964042674086356",
+  "title": "H3で作ったプレビズ動画をSeedance 2.5に参照として入れてアングル変更し、CapCutで編集して仕上げる（スマホ完結ワークフロー）",
+  "content": "H3で作ったプレビズ動画をSeedance 2.5に参照として入れてアングル変更し、CapCutで編集して仕上げる（スマホ完結ワークフロー）  \nサイドよりクォーターアングルの方が良い可能性があるので、Seedance 2.5で角度違いを複数生成して比較する  \n元動画との一致度を上げたい場合は、Seedance 2.5のプロンプトで内容・動き・構図を具体的に補強する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086963994133491712/img/Jagvy373cCDGqmy4.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086964042674086356.mp4",
+  "sourceLink": "https://x.com/_3912657840/status/2086964042674086356",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "角煮星丸",
+    "link": "https://x.com/_3912657840"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "H3で作ったプレビズ動画をSeedance 2.5に参照として入れてアングル変更し、CapCutで編集して仕上げる（スマホ完結ワークフロー）  \nサイドよりクォーターアングルの方が良い可能性があるので、Seedance 2.5で角度違いを複数生成して比較する  \n元動画との一致度を上げたい場合は、Seedance 2.5のプロンプトで内容・動き・構図を具体的に補強する",
+  "translations": {
+    "en": {
+      "content": "Use the previs video made in H3 as a reference in Seedance 2.5 to change the angle, then edit and finish it in CapCut (a smartphone-only workflow).  \nA quarter angle may be better than a side angle, so generate multiple angle variations in Seedance 2.5 and compare them.  \nIf you want to increase consistency with the original video, reinforce the content, motion, and composition more specifically in the Seedance 2.5 prompt.\n\n--- QUOTED TWEET ---\nIt wasn’t a video generated locally, but I tried using an H3 video as a simple reference in Seedance 2.5.  \nIt split the cuts on its own, but maybe it was filling in awkward gaps?\n\nI’m kind of feeling the potential here!\n\n@dreamina_ai #DreaminaCPP https://t.co/ISZLcXONuV"
+    },
+    "es": {
+      "content": "Usar el video de previs en H3 como referencia en Seedance 2.5, cambiar el ángulo y rematar la edición en CapCut (workflow completo en smartphone)  \nEs posible que un ángulo de tres cuartos sea mejor que uno lateral, así que conviene generar varias versiones con distintos ángulos en Seedance 2.5 y compararlas  \nSi quieres aumentar la similitud con el video original, refuerza de forma concreta el contenido, el movimiento y la composición en el prompt de Seedance 2.5\n\n--- QUOTED TWEET ---\nNo es un video generado localmente, pero probé a usar de forma sencilla el video de H3 como referencia en Seedance 2.5  \nMe cortó las tomas por su cuenta, pero quizá estaba rellenando esos huecos raros?\n\n¡Siento que tiene mucho potencial!\n\n@dreamina_ai #DreaminaCPP https://t.co/ISZLcXONuV\n---"
+    },
+    "fr": {
+      "content": "H3で作ったプレビズ動画をSeedance 2.5に参照として入れてアングル変更し、CapCutで編集して仕上げる（スマホ完結ワークフロー）  \nUtiliser la vidéo de prévisualisation réalisée avec H3 comme référence dans Seedance 2.5 pour changer l’angle, puis finaliser le montage dans CapCut (workflow entièrement sur smartphone)  \nサイドよりクォーターアングルの方が良い可能性があるので、Seedance 2.5で角度違いを複数生成して比較する  \nIl est possible qu’un quarter angle soit meilleur qu’un angle de côté, donc générer plusieurs variantes avec des angles différents dans Seedance 2.5 et les comparer  \n元動画との一致度を上げたい場合は、Seedance 2.5のプロンプトで内容・動き・構図を具体的に補強する  \nSi l’on veut augmenter la fidélité à la vidéo d’origine, renforcer de manière précise le contenu, le mouvement et la composition dans le prompt de Seedance 2.5\n\n--- QUOTED TWEET ---\nローカルで生成した動画ではないけど、H3の動画を簡易的にSeedance 2.5に参照してみた  \nCe n’est pas une vidéo générée en local, mais j’ai essayé de prendre la vidéo de H3 comme référence dans Seedance 2.5 de façon simple  \n勝手にカットを割られたけど、変な間を補完してくれた感じなのかな？\n\nなんか可能性感じちゃう！\n\n@dreamina_ai #DreaminaCPP https://t.co/ISZLcXONuV\nIl a découpé les plans de lui-même, mais j’ai l’impression qu’il a comblé les blancs un peu bizarres, non ?\n\nÇa donne vraiment envie d’y croire !\n\n@dreamina_ai #DreaminaCPP https://t.co/ISZLcXONuV\n---"
+    },
+    "ko": {
+      "content": "H3로 만든 프리비즈 영상을 Seedance 2.5에 레퍼런스로 넣어 앵글을 변경하고, CapCut에서 편집해 마무리하기(스마트폰 완결 워크플로우)  \n사이드보다 쿼터 앵글이 더 좋을 가능성이 있으므로, Seedance 2.5에서 각도가 다른 버전을 여러 개 생성해 비교하기  \n원본 영상과의 일치도를 높이고 싶다면, Seedance 2.5의 prompt에서 내용·동작·구도를 구체적으로 보강하기\n\n--- QUOTED TWEET ---\n로컬에서 생성한 영상은 아니지만, H3 영상을 간단히 Seedance 2.5에 레퍼런스로 넣어봤다  \n멋대로 컷이 나뉘긴 했지만, 이상한 텀을 보완해 준 느낌일까?\n\n뭔가 가능성을 느껴버린다!\n\n@dreamina_ai #DreaminaCPP https://t.co/ISZLcXONuV\n---"
+    },
+    "pt": {
+      "content": "Inserir o vídeo de previs em H3 como referência no Seedance 2.5, alterar o ângulo e finalizar a edição no CapCut (workflow completo no smartphone)  \nComo o quarter angle pode ser melhor do que o side angle, gerar várias versões com ângulos diferentes no Seedance 2.5 e comparar  \nSe quiser aumentar a semelhança com o vídeo original, reforçar no prompt do Seedance 2.5 detalhes de conteúdo, movimento e composição\n\n--- QUOTED TWEET ---\nNão foi um vídeo gerado localmente, mas testei de forma simples o vídeo do H3 como referência no Seedance 2.5  \nEle acabou cortando as cenas por conta própria, mas talvez tenha preenchido aqueles intervalos estranhos?\n\nSinto que isso tem bastante potencial!\n\n@dreamina_ai #DreaminaCPP https://t.co/ISZLcXONuV\n---"
+    },
+    "zh": {
+      "content": "将 H3 制作的预演视频作为参考输入到 Seedance 2.5 中，调整角度后再用 CapCut 编辑完成（手机端一站式工作流）  \n由于四分之三角度可能比侧面角度更好，所以可以在 Seedance 2.5 中生成多个不同角度版本进行比较  \n如果想提高与原视频的一致度，可以在 Seedance 2.5 的 prompt 中更具体地补充内容、动作和构图\n\n--- QUOTED TWEET ---\n虽然不是本地生成的视频，但我试着把 H3 的视频简单作为参考输入到了 Seedance 2.5  \n它擅自帮我切了镜头，不过感觉像是把那些奇怪的空隙补上了？\n\n总觉得有点可能性啊！\n\n@dreamina_ai #DreaminaCPP https://t.co/ISZLcXONuV\n---"
+    }
+  }
+}

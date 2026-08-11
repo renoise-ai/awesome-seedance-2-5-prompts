@@ -1,0 +1,40 @@
+{
+  "id": "2086875426824028304",
+  "title": "A 20 second desert caravan journey, glowing sun, rolling dunes, a mirage…",
+  "content": "A 20 second desert caravan journey, glowing sun, rolling dunes, a mirage resolving into a golden city.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2086875311090577408/pu/img/ImbwZDke0UuWOhBF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086875426824028304.mp4",
+  "sourceLink": "https://x.com/ContentStudioio/status/2086875426824028304",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "ContentStudio",
+    "link": "https://x.com/ContentStudioio"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Fantasy"
+  ],
+  "translations": {
+    "es": {
+      "content": "Un viaje de 20 segundos en caravana por el desierto, con un sol resplandeciente, dunas ondulantes y un espejismo que se transforma en una ciudad dorada."
+    },
+    "fr": {
+      "content": "Un voyage de caravane dans le désert de 20 secondes, sous un soleil éclatant, avec des dunes ondulantes et un mirage se transformant en une cité dorée."
+    },
+    "ja": {
+      "content": "---\n20秒の砂漠のキャラバンの旅。輝く太陽、うねる砂丘、蜃気楼が黄金の都市へと姿を現す。\n---"
+    },
+    "ko": {
+      "content": "황금빛 도시로 모습을 드러내는 신기루, 빛나는 태양, 굽이치는 모래언덕이 펼쳐진 20초짜리 사막 대상(캐러밴) 여정."
+    },
+    "pt": {
+      "content": "Uma jornada de 20 segundos de uma caravana no deserto, sol radiante, dunas ondulantes, uma miragem se transformando em uma cidade dourada."
+    },
+    "zh": {
+      "content": "一段 20 秒的沙漠商队旅程，炽热的太阳，起伏的沙丘，海市蜃楼逐渐显现为一座金色城市。"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2086769532836696386",
+  "title": "Gunakan storyboard 9-grid untuk merencanakan urutan scene dalam satu dunia…",
+  "content": "Gunakan storyboard 9-grid untuk merencanakan urutan scene dalam satu dunia sebelum mulai generate video di Seedance  \nBangun dulu “dunia” di 3D Director Stage dengan mengunci posisi kamera, layout lingkungan, hubungan antar objek, posisi karakter, dan spatial continuity, lalu baru generate cerita/scene dengan Seedance 2.5",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086701772492738560/img/4JERBgKDHi1n5vmA.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086769532836696386.mp4",
+  "sourceLink": "https://x.com/stellarprtcol/status/2086769532836696386",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "stellar protocol",
+    "link": "https://x.com/stellarprtcol"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Gunakan storyboard 9-grid untuk merencanakan urutan scene dalam satu dunia sebelum mulai generate video di Seedance  \nBangun dulu “dunia” di 3D Director Stage dengan mengunci posisi kamera, layout lingkungan, hubungan antar objek, posisi karakter, dan spatial continuity, lalu baru generate cerita/scene dengan Seedance 2.5",
+  "translations": {
+    "en": {
+      "content": "Use a 9-grid storyboard to plan the sequence of scenes within a single world before starting to generate video in Seedance  \nFirst build the “world” in 3D Director Stage by locking the camera position, environment layout, relationships between objects, character positions, and spatial continuity, then generate the story/scenes with Seedance 2.5"
+    },
+    "es": {
+      "content": "Usa un storyboard de 9 cuadros para planificar la secuencia de escenas en un mismo mundo antes de empezar a generar el video en Seedance  \nPrimero construye el “mundo” en 3D Director Stage, fijando la posición de la cámara, el layout del entorno, la relación entre objetos, la posición de los personajes y la continuidad espacial; luego genera la historia/escena con Seedance 2.5"
+    },
+    "fr": {
+      "content": "Utilisez un storyboard en grille 9 pour planifier la séquence des scènes dans un même univers avant de commencer à générer la vidéo dans Seedance  \nConstruisez d’abord le « monde » dans 3D Director Stage en verrouillant la position de la caméra, la disposition de l’environnement, les relations entre les objets, la position des personnages et la continuité spatiale, puis générez l’histoire/les scènes avec Seedance 2.5"
+    },
+    "ja": {
+      "content": "Seedanceで動画を生成し始める前に、9グリッドのストーリーボードを使って、1つの世界の中でシーンの流れを計画する  \nまずは3D Director Stageで「世界」を構築し、カメラ位置、環境レイアウト、オブジェクト同士の関係、キャラクターの位置、空間的な連続性を固定してから、Seedance 2.5でストーリー／シーンを生成する"
+    },
+    "ko": {
+      "content": "Seedance에서 비디오 생성을 시작하기 전에 9-grid 스토리보드를 사용해 하나의 세계 안에서 씬의 순서를 먼저 기획하세요.  \n먼저 3D Director Stage에서 카메라 위치, 환경 레이아웃, 오브젝트 간 관계, 캐릭터 위치, spatial continuity를 고정해 “세계”를 구축한 다음, Seedance 2.5로 스토리/씬을 생성하세요."
+    },
+    "pt": {
+      "content": "Use o storyboard em grade 9 para planejar a sequência de cenas em um único mundo antes de começar a gerar o vídeo no Seedance  \nPrimeiro, construa o “mundo” no 3D Director Stage, travando a posição da câmera, o layout do ambiente, as relações entre os objetos, a posição dos personagens e a continuidade espacial; só depois gere a história/cena com o Seedance 2.5"
+    },
+    "zh": {
+      "content": "在开始使用 Seedance 生成视频之前，先用 9 宫格 storyboard 规划同一世界中的场景顺序  \n先在 3D Director Stage 中搭建“世界”，锁定摄像机位置、环境布局、物体之间的关系、角色位置以及空间连续性，然后再用 Seedance 2.5 生成故事/场景"
+    }
+  }
+}

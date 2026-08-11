@@ -1,0 +1,42 @@
+{
+  "id": "2086724230553407867",
+  "title": "Seedance 2.5では最大10人分の参照を入れて生成できるので、複数人物シーンは参照人数を増やして作る",
+  "content": "Seedance 2.5では最大10人分の参照を入れて生成できるので、複数人物シーンは参照人数を増やして作る",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086449281159061504/img/NQhDqgcTUUYXglCy.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086724230553407867.mp4",
+  "sourceLink": "https://x.com/Bianca_AIart_mu/status/2086724230553407867",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "Bianca",
+    "link": "https://x.com/Bianca_AIart_mu"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5では最大10人分の参照を入れて生成できるので、複数人物シーンは参照人数を増やして作る",
+  "translations": {
+    "en": {
+      "content": "With Seedance 2.5, you can generate with up to 10 reference people, so for scenes with multiple characters, increase the number of references when creating them."
+    },
+    "es": {
+      "content": "En Seedance 2.5, puedes generar con hasta 10 referencias de personas, así que para escenas con varias personas, aumenta el número de referencias para crearlas."
+    },
+    "fr": {
+      "content": "Dans Seedance 2.5, il est possible de générer avec jusqu’à 10 références de personnes, donc pour les scènes avec plusieurs personnages, augmentez le nombre de personnes de référence pour les créer."
+    },
+    "ko": {
+      "content": "Seedance 2.5에서는 최대 10명분의 reference를 넣어 생성할 수 있으므로, 여러 인물이 나오는 장면은 reference 인원을 늘려서 만든다"
+    },
+    "pt": {
+      "content": "No Seedance 2.5, é possível gerar com até 10 referências de pessoas, então, para cenas com várias pessoas, aumente o número de referências usadas na criação."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中，最多可以加入 10 个人的参考图进行生成，因此多人场景可以通过增加参考人数来制作。"
+    }
+  }
+}

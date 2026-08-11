@@ -1,0 +1,42 @@
+{
+  "id": "2086804250785677400",
+  "title": "30秒の戦闘シーンとして生成し、複数回生成してから良いシーンだけをピックアップするワークフローで作る",
+  "content": "30秒の戦闘シーンとして生成し、複数回生成してから良いシーンだけをピックアップするワークフローで作る",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086802333422485505/img/V_NvINxMDa4UmT7W.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086804250785677400.mp4",
+  "sourceLink": "https://x.com/ItomakiRen/status/2086804250785677400",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "糸巻れん",
+    "link": "https://x.com/ItomakiRen"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "30秒の戦闘シーンとして生成し、複数回生成してから良いシーンだけをピックアップするワークフローで作る",
+  "translations": {
+    "en": {
+      "content": "Generate it as a 30-second battle scene, and use a workflow where you generate it multiple times and then pick out only the best scenes."
+    },
+    "es": {
+      "content": "Genera una escena de combate de 30 segundos y créala mediante un flujo de trabajo en el que se generen varias versiones y luego se seleccionen solo las mejores escenas."
+    },
+    "fr": {
+      "content": "Générer une scène de combat de 30 secondes, puis la créer selon un workflow consistant à générer plusieurs fois et à ne retenir que les meilleures scènes."
+    },
+    "ko": {
+      "content": "30초 분량의 전투 장면으로 생성하고, 여러 번 생성한 뒤 좋은 장면만 골라내는 워크플로우로 만든다"
+    },
+    "pt": {
+      "content": "Gerar como uma cena de combate de 30 segundos e criar um workflow em que você gera várias vezes e depois seleciona apenas as melhores cenas."
+    },
+    "zh": {
+      "content": "生成为一个30秒的战斗场景，并通过多次生成后只挑选出效果好的场景来制作的工作流程"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2086955371105599539",
+  "title": "Feed Seedance 2.5 with two image reference sheets (characters, weapons…",
+  "content": "Feed Seedance 2.5 with two image reference sheets (characters, weapons, environment) alongside your prompt to lock in consistent design elements.  \nGenerate multiple short clips (e.g., four 14s clips), then slice and rearrange them to build a cohesive story.  \nUse Hermes Agent’s built-in vision plus CLI tools to automate editing/stitching decisions across multiple Seedance 2.5 clips.  \nAutomate Seedance 2.5 generation inside a Hermes Agent “Studio” profile using custom fal CLI tool-calling.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086955322137026560/img/3AIn0qQLDNyv7_In.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086955371105599539.mp4",
+  "sourceLink": "https://x.com/GuideboardLabs/status/2086955371105599539",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "scanfi",
+    "link": "https://x.com/GuideboardLabs"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Feed Seedance 2.5 with two image reference sheets (characters, weapons, environment) alongside your prompt to lock in consistent design elements.  \nGenerate multiple short clips (e.g., four 14s clips), then slice and rearrange them to build a cohesive story.  \nUse Hermes Agent’s built-in vision plus CLI tools to automate editing/stitching decisions across multiple Seedance 2.5 clips.  \nAutomate Seedance 2.5 generation inside a Hermes Agent “Studio” profile using custom fal CLI tool-calling.",
+  "translations": {
+    "es": {
+      "content": "Alimenta Seedance 2.5 con dos hojas de referencia de imágenes (personajes, armas, entorno) junto con tu prompt para fijar elementos de diseño consistentes.  \nGenera varios clips cortos (p. ej., cuatro clips de 14 s) y luego córtalos y reordénalos para construir una historia cohesionada.  \nUsa la visión integrada de Hermes Agent, junto con herramientas CLI, para automatizar las decisiones de edición y ensamblado en múltiples clips de Seedance 2.5.  \nAutomatiza la generación de Seedance 2.5 dentro de un perfil “Studio” de Hermes Agent usando llamadas a herramientas CLI personalizadas de fal.\n\n--- TUIT CITADO ---\n@OpenAI Las hojas de referencia de imágenes 2 para personajes, armas y entorno son todo lo que se alimenta junto con el prompt a Seedance 2.5\n\nAutomatizando el proceso dentro de @NousResearch Hermes Agent, ejecutándose en un perfil Studio creado a mano con llamadas a herramientas CLI personalizadas de @fal\n\nHermes se va a Hollywood\n---"
+    },
+    "fr": {
+      "content": "Alimentez Seedance 2.5 avec deux planches de références d’images (personnages, armes, environnement) en plus de votre prompt afin de verrouiller des éléments de design cohérents.  \nGénérez plusieurs courts clips (par exemple, quatre clips de 14 s), puis découpez-les et réorganisez-les pour construire une histoire cohérente.  \nUtilisez la vision intégrée de Hermes Agent ainsi que des outils CLI pour automatiser les décisions de montage et d’assemblage sur plusieurs clips Seedance 2.5.  \nAutomatisez la génération Seedance 2.5 dans un profil « Studio » de Hermes Agent à l’aide d’un appel d’outils CLI fal personnalisé.\n\n--- TWEET CITÉ ---\n@OpenAI Deux planches de référence d’images pour les personnages, les armes et l’environnement sont tout ce qui est fourni avec le prompt à Seedance 2.5\n\nAutomatiser le processus dans @NousResearch Hermes Agent, exécuté dans un profil Studio conçu sur mesure avec un appel d’outils CLI @fal personnalisé\n\nHermes passe à Hollywood"
+    },
+    "ja": {
+      "content": "Seedance 2.5 に、2枚の画像リファレンスシート（キャラクター、武器、環境）を prompt とあわせて与えることで、一貫したデザイン要素を固定できます。  \n複数の短いクリップ（例：14秒のクリップを4本）を生成し、それらを切り出して再配置することで、まとまりのあるストーリーを構築します。  \nHermes Agent の内蔵ビジョンと CLI ツールを使って、複数の Seedance 2.5 クリップにまたがる編集／結合の判断を自動化します。  \nカスタムの fal CLI ツール呼び出しを使い、Hermes Agent の「Studio」プロファイル内で Seedance 2.5 の生成を自動化します。  \n\n--- 引用ツイート ---  \n@OpenAI 画像の2枚のリファレンスシート——キャラクター、武器、環境——を prompt とともに Seedance 2.5 に入力しています\n\n@NousResearch の Hermes Agent 内でこのプロセスを自動化し、手作りの Studio プロファイル上でカスタムの @fal CLI ツール呼び出しを実行しています\n\nHermes はハリウッドへ向かっている\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5에 두 장의 이미지 레퍼런스 시트(캐릭터, 무기, 환경)를 프롬프트와 함께 입력하면 일관된 디자인 요소를 고정할 수 있습니다.  \n여러 개의 짧은 클립(예: 14초짜리 클립 4개)을 생성한 뒤, 이를 잘라 재배열해 하나의 일관된 스토리를 구성하세요.  \nHermes Agent의 내장 비전 기능과 CLI 도구를 사용해 여러 Seedance 2.5 클립에 걸친 편집/스티칭 결정을 자동화하세요.  \n커스텀 fal CLI tool-calling을 사용해 Hermes Agent의 “Studio” 프로필 안에서 Seedance 2.5 생성을 자동화하세요.\n\n--- 인용된 트윗 ---\n@OpenAI 캐릭터, 무기, 환경에 대한 이미지 레퍼런스 시트 2장이 프롬프트와 함께 Seedance 2.5에 입력되는 전부입니다\n\n커스텀 @fal CLI tool calling을 사용하는 수작업 Studio 프로필에서 @NousResearch Hermes Agent 내부로 이 과정을 자동화함\n\nHermes가 할리우드로 간다"
+    },
+    "pt": {
+      "content": "Alimente o Seedance 2.5 com duas folhas de referência de imagem (personagens, armas, ambiente) junto com seu prompt para travar elementos de design consistentes.  \nGere vários clipes curtos (por exemplo, quatro clipes de 14s), depois corte e reorganize-os para construir uma história coesa.  \nUse a visão integrada do Hermes Agent, além de ferramentas de CLI, para automatizar decisões de edição/união entre vários clipes do Seedance 2.5.  \nAutomatize a geração no Seedance 2.5 dentro de um perfil “Studio” do Hermes Agent usando chamadas personalizadas da ferramenta CLI do fal.\n\n--- TWEET CITADO ---\n@OpenAI Duas folhas de referência de imagem para personagens, armas e ambiente são tudo o que é alimentado junto com o prompt para o Seedance 2.5\n\nAutomatizando o processo dentro do @NousResearch Hermes Agent, executando em um perfil Studio cuidadosamente criado com chamadas personalizadas da ferramenta CLI do @fal\n\nO Hermes está indo para Hollywood\n---"
+    },
+    "zh": {
+      "content": "将两张图像参考表（角色、武器、环境）与 prompt 一起输入 Seedance 2.5，以锁定一致的设计元素。  \n生成多个短片段（例如四个 14 秒的片段），然后将它们切分并重新排列，构建一个连贯的故事。  \n利用 Hermes Agent 内置的视觉能力以及 CLI 工具，自动化处理多个 Seedance 2.5 片段的剪辑/拼接决策。  \n在 Hermes Agent 的“Studio”配置文件中，通过自定义的 fal CLI 工具调用，自动化 Seedance 2.5 的生成流程。\n\n--- 引用推文 ---\n@OpenAI 角色、武器和环境的 2 张参考表，以及 prompt，就是输入到 Seedance 2.5 的全部内容\n\n在 @NousResearch Hermes Agent 内部自动化这一流程，运行于一个手工打造的 Studio 配置文件中，并通过自定义的 @fal CLI 工具调用\n\nHermes 正在进军好莱坞\n---"
+    }
+  }
+}

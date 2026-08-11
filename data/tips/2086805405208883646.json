@@ -1,0 +1,43 @@
+{
+  "id": "2086805405208883646",
+  "title": "Use an uploaded reference image as the exact and only source for the character…",
+  "content": "Use an uploaded reference image as the exact and only source for the character, and explicitly forbid importing any identity-related features from the scene description to maximize character fidelity.\n\nAdd a strict “no redesign/no changes” negative list (no outfit/hairstyle/accessory changes, no altered facial identity/body proportions, no missing/duplicated limbs, no extra characters, no text/logos/watermarks) to reduce common generation errors.\n\nSet Aspect ratio: 2:1 horizontal and compose the shot specifically for a wide 2:1 cinematic frame to control framing and composition.\n\nFor a high-speed chase look, prompt a dramatic ultra-wide rear chase shot positioned low and very close behind the subject, with strong radial motion blur on the environment while keeping the character and vehicle readable.\n\nWhen you need precise prop structure, specify exact counts and placements (e.g., divide the broom into exactly three clearly separated decorative sections with defined locations) to enforce consistent design.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/CuriousOne_01/status/2086805405208883646",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "Curious 1",
+    "link": "https://x.com/CuriousOne_01"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "POV",
+    "VFX"
+  ],
+  "tips": "Use an uploaded reference image as the exact and only source for the character, and explicitly forbid importing any identity-related features from the scene description to maximize character fidelity.\n\nAdd a strict “no redesign/no changes” negative list (no outfit/hairstyle/accessory changes, no altered facial identity/body proportions, no missing/duplicated limbs, no extra characters, no text/logos/watermarks) to reduce common generation errors.\n\nSet Aspect ratio: 2:1 horizontal and compose the shot specifically for a wide 2:1 cinematic frame to control framing and composition.\n\nFor a high-speed chase look, prompt a dramatic ultra-wide rear chase shot positioned low and very close behind the subject, with strong radial motion blur on the environment while keeping the character and vehicle readable.\n\nWhen you need precise prop structure, specify exact counts and placements (e.g., divide the broom into exactly three clearly separated decorative sections with defined locations) to enforce consistent design.",
+  "translations": {
+    "es": {
+      "content": "Usa una imagen de referencia subida como la fuente exacta y única para el personaje, y prohíbe explícitamente importar cualquier rasgo relacionado con la identidad desde la descripción de la escena para maximizar la fidelidad del personaje.\n\nAñade una lista negativa estricta de “sin rediseño/sin cambios” (sin cambios en la ropa/peinado/accesorios, sin alteraciones en la identidad facial/proporciones corporales, sin extremidades faltantes o duplicadas, sin personajes extra, sin texto/logotipos/marcas de agua) para reducir los errores comunes de generación.\n\nConfigura Aspect ratio: 2:1 horizontal y compón la toma específicamente para un encuadre cinematográfico amplio de 2:1 para controlar el framing y la composición.\n\nPara un look de persecución a alta velocidad, indica una dramática toma de persecución ultra gran angular desde atrás, situada baja y muy cerca detrás del sujeto, con un fuerte motion blur radial en el entorno mientras mantienes legibles al personaje y al vehículo.\n\nCuando necesites una estructura precisa de un prop, especifica conteos y ubicaciones exactas (por ejemplo, divide la escoba en exactamente tres secciones decorativas claramente separadas con ubicaciones definidas) para imponer un diseño consistente.\n\n--- TWEET CITADO ---\nPublicaré más tarde los prompts de generación de imagen y video. https://t.co/VMWTdw84SP\n---"
+    },
+    "fr": {
+      "content": "Utilisez une image de référence importée comme source exacte et unique pour le personnage, et interdisez explicitement l’importation de toute caractéristique liée à l’identité depuis la description de la scène afin de maximiser la fidélité du personnage.\n\nAjoutez une liste négative stricte « no redesign/no changes » (aucun changement de tenue/coiffure/accessoires, aucune modification de l’identité faciale/des proportions corporelles, aucun membre manquant ou dupliqué, aucun personnage supplémentaire, aucun texte/logo/watermark) afin de réduire les erreurs de génération courantes.\n\nDéfinissez Aspect ratio: 2:1 horizontal et composez la prise de vue spécifiquement pour un large cadre cinématographique 2:1 afin de contrôler le cadrage et la composition.\n\nPour un rendu de poursuite à grande vitesse, prompt un plan de poursuite arrière ultra-large et dramatique, placé bas et très près derrière le sujet, avec un fort motion blur radial sur l’environnement tout en gardant le personnage et le véhicule lisibles.\n\nLorsque vous avez besoin d’une structure précise d’accessoire, spécifiez des comptes et des placements exacts (par exemple, diviser le balai en exactement trois sections décoratives clairement séparées avec des emplacements définis) afin d’imposer une conception cohérente.\n\n--- TWEET CITÉ ---\nJe publierai plus tard les prompts de génération d’images et de vidéos. https://t.co/VMWTdw84SP\n---"
+    },
+    "ja": {
+      "content": "アップロードした参照画像を、キャラクターの唯一かつ正確なソースとして使用し、シーン説明からアイデンティティに関わる特徴を取り込まないよう明示的に禁止して、キャラクターの忠実度を最大化します。\n\n厳格な「再デザイン禁止／変更禁止」のネガティブリスト（服装・髪型・アクセサリーの変更なし、顔のアイデンティティや体の比率の変更なし、手足の欠落・重複なし、追加キャラクターなし、テキスト／ロゴ／ウォーターマークなし）を追加して、よくある生成エラーを減らします。\n\nAspect ratio を 2:1 の横長に設定し、ワイドな 2:1 の cinematic フレーム向けにショットを具体的に構成して、フレーミングと構図を制御します。\n\n高速チェイス風の見た目にしたい場合は、被写体の低く非常に近い後方に配置した、劇的な超広角の rear chase shot を prompt し、キャラクターと車両の判読性を保ちながら、環境には強い放射状の motion blur をかけます。\n\n正確な小道具の構造が必要な場合は、正確な個数と配置を指定し（例：ほうきを、明確に分かれた装飾セクション3つに、位置を定義して分割する）、一貫したデザインを強制します。\n\n--- 引用ツイート ---\n画像と動画の generation prompts は後で投稿します。 https://t.co/VMWTdw84SP\n---"
+    },
+    "ko": {
+      "content": "업로드한 참조 이미지를 캐릭터의 정확하고 유일한 소스로 사용하고, 장면 설명에서 신원 관련 특징이 유입되는 것을 명시적으로 금지하여 캐릭터의 일치도를 최대화하세요.\n\n엄격한 “no redesign/no changes” 네거티브 목록을 추가하세요(의상/헤어스타일/액세서리 변경 없음, 얼굴 정체성/신체 비율 변경 없음, 팔다리 누락/중복 없음, 추가 캐릭터 없음, 텍스트/로고/워터마크 없음) — 이를 통해 흔한 생성 오류를 줄일 수 있습니다.\n\nAspect ratio: 2:1 horizontal로 설정하고, 샷을 넓은 2:1 cinematic 프레임에 맞춰 구체적으로 구성하여 framing과 composition을 제어하세요.\n\n고속 추격 장면 느낌이 필요할 때는, 피사체 바로 뒤 낮고 매우 가까운 위치에서 촬영한 극적인 ultra-wide rear chase shot을 프롬프트하고, 캐릭터와 차량은 읽을 수 있게 유지하면서 배경에는 강한 radial motion blur를 적용하세요.\n\n정확한 소품 구조가 필요할 때는, 정확한 개수와 배치를 명시하세요(예: 빗자루를 위치가 명확히 구분되는 장식용 세 부분으로 정확히 나누기) — 이렇게 하면 일관된 디자인을 강제할 수 있습니다.\n\n--- 인용된 트윗 ---\n이미지와 비디오 생성 프롬프트는 나중에 올리겠습니다. https://t.co/VMWTdw84SP\n---"
+    },
+    "pt": {
+      "content": "Use uma imagem de referência enviada como a fonte exata e única para o personagem, e proíba explicitamente a importação de quaisquer características relacionadas à identidade a partir da descrição da cena para maximizar a fidelidade do personagem.\n\nAdicione uma lista negativa rígida de “sem redesign/sem alterações” (sem mudanças de roupa/penteado/acessórios, sem alterações na identidade facial/proporções corporais, sem membros faltando/duplicados, sem personagens extras, sem texto/logotipos/marcas d’água) para reduzir erros comuns de geração.\n\nDefina Aspect ratio: 2:1 horizontal e componha a cena especificamente para um enquadramento cinematográfico amplo em 2:1 para controlar o framing e a composição.\n\nPara um visual de perseguição em alta velocidade, use um prompt de tomada dramática ultra-wide de perseguição por trás, posicionado baixo e muito perto atrás do sujeito, com forte motion blur radial no ambiente, mantendo o personagem e o veículo legíveis.\n\nQuando precisar de uma estrutura precisa de um objeto, especifique contagens e posicionamentos exatos (por exemplo, dividir a vassoura em exatamente três seções decorativas claramente separadas com locais definidos) para impor um design consistente.\n\n--- TWEET CITADO ---\nVou postar os prompts de geração de imagem e vídeo mais tarde. https://t.co/VMWTdw84SP\n---"
+    },
+    "zh": {
+      "content": "使用上传的参考图像作为角色的唯一且精确来源，并明确禁止从场景描述中引入任何与身份相关的特征，以最大限度地保持角色一致性。\n\n添加一个严格的“禁止重新设计/禁止更改”负面列表（不更改服装/发型/配饰，不改变面部身份/身体比例，没有缺失或重复的肢体，没有额外角色，没有文字/Logo/水印），以减少常见的生成错误。\n\n设置画幅比例：2:1 横向，并专门为宽幅 2:1 电影感画框构图，以控制取景和构图。\n\n对于高速追逐效果，提示生成一个戏剧性的超广角后方追逐镜头，机位低且非常靠近主体后方，环境具有强烈的径向运动模糊，同时保持角色和载具清晰可辨。\n\n当你需要精确的道具结构时，请指定准确的数量和位置（例如，将扫帚分成恰好三个清晰分离的装饰部分，并定义其具体位置），以确保设计一致性。\n\n--- QUOTED TWEET ---\n我稍后会发布图像和视频生成 prompts。https://t.co/VMWTdw84SP\n---"
+    }
+  }
+}

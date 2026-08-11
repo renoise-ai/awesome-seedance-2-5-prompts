@@ -1,0 +1,42 @@
+{
+  "id": "2086670808144110037",
+  "title": "白いライトボックスのシーンでポスターを再現させたい場合、まずはポスター1枚だけを指定すると内容まで高精度に再現されやすい",
+  "content": "白いライトボックスのシーンでポスターを再現させたい場合、まずはポスター1枚だけを指定すると内容まで高精度に再現されやすい  \nポスターを複数（例：3枚）指定すると各ポスターは反映されるが細部がズレやすいので、精度重視なら枚数を減らすか分割生成して合成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086670651478482944/img/JEn9jVCsNjUrSkJ1.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086670808144110037.mp4",
+  "sourceLink": "https://x.com/KanaWorks_AI/status/2086670808144110037",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "KANA｜東京AI映像",
+    "link": "https://x.com/KanaWorks_AI"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "白いライトボックスのシーンでポスターを再現させたい場合、まずはポスター1枚だけを指定すると内容まで高精度に再現されやすい  \nポスターを複数（例：3枚）指定すると各ポスターは反映されるが細部がズレやすいので、精度重視なら枚数を減らすか分割生成して合成する",
+  "translations": {
+    "en": {
+      "content": "If you want to recreate a poster in a white lightbox scene, specifying just one poster first makes it easier to reproduce the content with high accuracy.  \nIf you specify multiple posters (e.g., three), each poster will be reflected, but the details are more likely to drift. So if accuracy is the priority, reduce the number of posters or generate them separately and composite them afterward.\n\n--- QUOTED TWEET ---\nWhite model + red line markings.  \nSeedance 2.5 is truly amazing 🐰  \nvideo: Seedance 2.0 on @capcutapp  \nPR capcutseedance25 capcutcpp https://t.co/brjJGbHqx3\n---"
+    },
+    "es": {
+      "content": "Si quieres reproducir un póster en una escena de lightbox blanca, lo más recomendable es especificar primero solo un póster; así es más probable que se reproduzca con gran precisión, incluso en el contenido.  \nSi especificas varios pósters (por ejemplo, 3), cada uno se reflejará, pero es más fácil que los detalles se desalineen; así que, si priorizas la precisión, conviene reducir la cantidad o generar por separado y luego componer.\n\n--- TWEET CITADO ---\nModelo blanco + marcado con líneas rojas.\nSeedance 2.5, de verdad es increíble 🐰\nvideo: Seedance 2.0 en @capcutapp\nPR capcutseedance25 capcutcpp https://t.co/brjJGbHqx3"
+    },
+    "fr": {
+      "content": "Si vous souhaitez reproduire une affiche dans une scène de lightbox blanche, il est préférable de ne spécifier qu’une seule affiche au départ, afin d’obtenir une reproduction très précise, jusque dans le contenu.  \nSi vous en spécifiez plusieurs (par exemple 3), chacune sera bien prise en compte, mais les détails risquent davantage de dévier ; si la précision est prioritaire, mieux vaut réduire le nombre d’affiches ou générer séparément puis composer le résultat.\n\n--- TWEET CITÉ ---\nModèle blanc + marquage en lignes rouges.  \nSeedance 2.5, c’est vraiment incroyable 🐰  \nvideo: Seedance 2.0 on @capcutapp  \nPR capcutseedance25 capcutcpp https://t.co/brjJGbHqx3"
+    },
+    "ko": {
+      "content": "화이트 라이트박스 장면에서 포스터를 재현하고 싶다면, 먼저 포스터 1장만 지정하는 것이 내용까지 고정밀로 재현되기 쉽다.  \n포스터를 여러 장(예: 3장) 지정하면 각 포스터는 반영되지만 세부가 어긋나기 쉬우므로, 정확도를 중시한다면 장수를 줄이거나 분할 생성 후 합성하는 편이 좋다.\n\n--- 인용 트윗 ---\n화이트 모델 + 빨간 선 마킹.\nSeedance 2.5, 정말 대단하다 🐰\nvideo: Seedance 2.0 on @capcutapp\nPR capcutseedance25 capcutcpp https://t.co/brjJGbHqx3"
+    },
+    "pt": {
+      "content": "Se você quiser reproduzir um pôster em uma cena de lightbox branca, primeiro especifique apenas um pôster; assim, o conteúdo tende a ser reproduzido com alta precisão.  \nSe você especificar vários pôsteres (por exemplo, 3), cada um será refletido, mas os detalhes tendem a ficar desalinhados; então, se a prioridade for precisão, reduza a quantidade ou gere em partes e depois componha.\n\n--- TWEET CITADO ---\nModelo branco + marcações em linha vermelha.\nSeedance 2.5, realmente incrível 🐰\nvideo: Seedance 2.0 on @capcutapp\nPR capcutseedance25 capcutcpp https://t.co/brjJGbHqx3\n---"
+    },
+    "zh": {
+      "content": "如果想在白色 lightbox 场景中还原海报，首先只指定 1 张海报，更容易连内容都高精度复现。  \n如果指定多张海报（例如 3 张），各张海报都会被反映出来，但细节更容易偏移；因此如果更重视精度，建议减少张数，或者分开生成后再合成。\n\n--- QUOTED TWEET ---\n白模特＋红线标记。  \nSeedance 2.5，真的太厉害了🐰  \nvideo: Seedance 2.0 on @capcutapp  \nPR capcutseedance25 capcutcpp https://t.co/brjJGbHqx3\n---"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2086768017283944676",
+  "title": "Seedance 2.0と2.5を比較する時は、同じプロンプトと同じアセットで同一題材（例：カップスタッキング）を生成して差分（滑らかさ・スピード感・忠実度）を…",
+  "content": "Seedance 2.0と2.5を比較する時は、同じプロンプトと同じアセットで同一題材（例：カップスタッキング）を生成して差分（滑らかさ・スピード感・忠実度）を確認する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086760354324062208/img/iETsDqJbwmkaGcgo.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086768017283944676.mp4",
+  "sourceLink": "https://x.com/aki__studio/status/2086768017283944676",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "あっきー｜ロカボ×AI×デザイン",
+    "link": "https://x.com/aki__studio"
+  },
+  "tags": [
+    "Sports",
+    "Other Competition",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.0と2.5を比較する時は、同じプロンプトと同じアセットで同一題材（例：カップスタッキング）を生成して差分（滑らかさ・スピード感・忠実度）を確認する",
+  "translations": {
+    "en": {
+      "content": "When comparing Seedance 2.0 and 2.5, generate the same subject matter (e.g., cup stacking) with the same prompt and the same assets, then check the differences in smoothness, sense of speed, and fidelity."
+    },
+    "es": {
+      "content": "Al comparar Seedance 2.0 y 2.5, genera el mismo tema (por ejemplo, cup stacking) con el mismo prompt y los mismos assets, y verifica las diferencias (suavidad, sensación de velocidad, fidelidad)."
+    },
+    "fr": {
+      "content": "Lorsque vous comparez Seedance 2.0 et 2.5, générez le même sujet (par exemple, du cup stacking) avec le même prompt et les mêmes assets, puis vérifiez les différences (fluidité, sensation de vitesse, fidélité)."
+    },
+    "ko": {
+      "content": "Seedance 2.0과 2.5를 비교할 때는, 같은 prompt와 같은 asset으로 동일한 소재(예: 컵 스태킹)를 생성해 차이점(부드러움, 속도감, 충실도)을 확인한다"
+    },
+    "pt": {
+      "content": "Ao comparar o Seedance 2.0 e o 2.5, gere o mesmo tema (por exemplo, cup stacking) com o mesmo prompt e os mesmos assets para verificar as diferenças (suavidade, sensação de velocidade e fidelidade)."
+    },
+    "zh": {
+      "content": "在比较 Seedance 2.0 和 2.5 时，使用相同的 prompt 和相同的素材生成同一题材（例如：杯子叠叠乐），并检查差异（流畅度、速度感、忠实度）。"
+    }
+  }
+}

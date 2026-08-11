@@ -1,0 +1,42 @@
+{
+  "id": "2086768895973814413",
+  "title": "Seedance 2.5では顔の個性を指定しないと同じような「Seedance顔」になりやすいので、プロンプトで顔の特徴（例：目・鼻・輪郭・年齢感など）を明示し…",
+  "content": "Seedance 2.5では顔の個性を指定しないと同じような「Seedance顔」になりやすいので、プロンプトで顔の特徴（例：目・鼻・輪郭・年齢感など）を明示して差別化する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086768700502499328/img/Rhbd2N6sk16vD562.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086768895973814413.mp4",
+  "sourceLink": "https://x.com/Chihuahua_wa/status/2086768895973814413",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "Chihua-wan",
+    "link": "https://x.com/Chihuahua_wa"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5では顔の個性を指定しないと同じような「Seedance顔」になりやすいので、プロンプトで顔の特徴（例：目・鼻・輪郭・年齢感など）を明示して差別化する",
+  "translations": {
+    "en": {
+      "content": "In Seedance 2.5, if you don’t specify facial individuality, it tends to produce the same kind of “Seedance face,” so you should clearly differentiate it in the prompt by explicitly describing facial features (e.g., eyes, nose, face shape, age impression, etc.).\n\n--- QUOTED TWEET ---\nTest ver\nWith NBP and IMG2, swimsuits themselves are not allowed, so even creating a reference is difficult — it ends up becoming a different person.\nWhen I searched, I thought there were a lot of unfashionable swimsuits, but then I learned that high-waisted styles are trending 😄\nSeedance2.5 https://t.co/74zUs7Ceo6"
+    },
+    "es": {
+      "content": "En Seedance 2.5, si no especificas la individualidad del rostro, es fácil que termine con un “rostro Seedance” muy parecido; por eso conviene diferenciarlo dejando claras en el prompt las características faciales (por ejemplo: ojos, nariz, contorno del rostro, apariencia de edad, etc.).\n\n--- TWEET CITADO ---\nVersión de prueba\nEn NBP e IMG2, el traje de baño en sí suele ser un no-go, así que incluso crear una referencia cuesta trabajo = termina siendo otra persona.\nAl buscar, pensé que había muchos trajes de baño feos, pero luego supe que los de cintura alta están de moda 😄\nSeedance2.5 https://t.co/74zUs7Ceo6\n---"
+    },
+    "fr": {
+      "content": "Dans Seedance 2.5, si l’on ne précise pas les traits du visage, on obtient facilement un visage « Seedance » assez similaire ; il faut donc différencier le personnage en indiquant clairement dans le prompt les caractéristiques du visage (par ex. les yeux, le nez, le contour du visage, l’impression d’âge, etc.).\n\n--- TWEET CITÉ ---\nVersion de test\nNBP et IMG2 n’acceptent pas les maillots de bain eux-mêmes, donc même créer une référence est difficile = on finit par obtenir une autre personne\nEn cherchant, je me suis dit qu’il y avait beaucoup de maillots de bain moches, puis j’ai appris que les tailles hautes étaient à la mode 😄\nSeedance2.5 https://t.co/74zUs7Ceo6"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서는 얼굴의 개성을 지정하지 않으면 비슷한 ‘Seedance 얼굴’이 되기 쉬우므로, prompt에서 얼굴 특징(예: 눈, 코, 윤곽, 나이감 등)을 명확히 적어 차별화한다\n\n--- 인용 트윗 ---\n테스트 Ver\nNBP나 IMG2는 수영복 자체가 NG가 되기 때문에 reference를 만드는 것조차 힘들다 = 다른 사람이 되어버린다\n검색해 보니 촌스러운 수영복이 많다고 생각했는데, 하이웨스트가 유행이라는 걸 알게 됨😄\nSeedance2.5 https://t.co/74zUs7Ceo6\n---"
+    },
+    "pt": {
+      "content": "No Seedance 2.5, se você não especificar a individualidade do rosto, ele tende a ficar com um “rosto Seedance” parecido; por isso, é importante diferenciar no prompt as características faciais (por exemplo: olhos, nariz, contorno do rosto, aparência etária etc.).\n\n--- TWEET CITADO ---\nVersão de teste\nNo NBP e no IMG2, roupa de banho em si já é proibida, então até criar uma referência dá trabalho = acaba virando outra pessoa\nQuando achei que havia muitos maiôs cafonas na busca, descobri que cintura alta está na moda 😄\nSeedance2.5 https://t.co/74zUs7Ceo6\n---"
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中，如果不指定脸部个性，很容易生成类似的“Seedance脸”，所以需要在 prompt 里明确写出脸部特征（例如：眼睛、鼻子、轮廓、年龄感等）来做区分\n\n--- QUOTED TWEET ---\n测试版\nNBP 和 IMG2 甚至连泳装本身都不行，所以连做 reference 都很费劲＝会变成另一个人\n搜索时觉得丑泳装很多，结果才知道高腰款正流行😄\nSeedance2.5 https://t.co/74zUs7Ceo6\n---"
+    }
+  }
+}

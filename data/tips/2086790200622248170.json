@@ -1,0 +1,42 @@
+{
+  "id": "2086790200622248170",
+  "title": "多人数の戦闘シーンは描写が雑になりやすいので、登場人物数を抑えるか人数指定を明確にしてプロンプトを工夫する",
+  "content": "多人数の戦闘シーンは描写が雑になりやすいので、登場人物数を抑えるか人数指定を明確にしてプロンプトを工夫する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086789212700020736/img/6MP36go1Rc-sYYb5.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086790200622248170.mp4",
+  "sourceLink": "https://x.com/aigeboku/status/2086790200622248170",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "AI様の下僕",
+    "link": "https://x.com/aigeboku"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "多人数の戦闘シーンは描写が雑になりやすいので、登場人物数を抑えるか人数指定を明確にしてプロンプトを工夫する",
+  "translations": {
+    "en": {
+      "content": "Multi-character battle scenes tend to become sloppy in their depiction, so keep the number of characters low or specify the number clearly and refine the prompt accordingly."
+    },
+    "es": {
+      "content": "Las escenas de combate con muchas personas tienden a quedar descritas de forma imprecisa, así que conviene reducir el número de personajes o especificar claramente la cantidad de personas para ajustar mejor el prompt."
+    },
+    "fr": {
+      "content": "Les scènes de combat avec de nombreux personnages ont tendance à être décrites de manière approximative ; il est donc préférable de limiter le nombre de personnages ou de préciser clairement le nombre de personnes dans le prompt afin de l’optimiser."
+    },
+    "ko": {
+      "content": "다수 인물이 등장하는 전투 장면은 묘사가 대충 처리되기 쉬우므로, 등장인물 수를 줄이거나 인원 수를 명확히 지정해 prompt를 정교하게 구성한다."
+    },
+    "pt": {
+      "content": "Cenas de combate com muitas pessoas tendem a ficar mal descritas, então reduza o número de personagens ou especifique claramente a quantidade de pessoas para ajustar o prompt."
+    },
+    "zh": {
+      "content": "多人战斗场景容易描写得比较粗糙，因此应尽量控制登场人物数量，或者明确指定人数，并通过优化 prompt 来进行调整。"
+    }
+  }
+}

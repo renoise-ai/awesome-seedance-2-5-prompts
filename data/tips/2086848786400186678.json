@@ -1,0 +1,45 @@
+{
+  "id": "2086848786400186678",
+  "title": "Tek seferde üretmesi zor bir fikir için önce Blender’da ~1 saatlik blockout…",
+  "content": "Tek seferde üretmesi zor bir fikir için önce Blender’da ~1 saatlik blockout taslak hazırlayıp Seedance 2.5’e referans olarak kullan.  \nKamera kontrolü, akış ve zamanlamayı yönlendirmek için Blender blockout yöntemini kullan; uzun promptlarla bunu çözmeye çalışmak yerine sahneyi önceden kurgula.",
+  "language": "tr",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086846810748813312/img/Ju1P_VgY33N2UfM6.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086848786400186678.mp4",
+  "sourceLink": "https://x.com/halukturken/status/2086848786400186678",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "Haluk",
+    "link": "https://x.com/halukturken"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Tek seferde üretmesi zor bir fikir için önce Blender’da ~1 saatlik blockout taslak hazırlayıp Seedance 2.5’e referans olarak kullan.  \nKamera kontrolü, akış ve zamanlamayı yönlendirmek için Blender blockout yöntemini kullan; uzun promptlarla bunu çözmeye çalışmak yerine sahneyi önceden kurgula.",
+  "translations": {
+    "en": {
+      "content": "For an idea that’s difficult to generate in a single shot, first prepare about a 1-hour blockout draft in Blender and use it as a reference for Seedance 2.5.  \nUse the Blender blockout method to guide camera control, flow, and timing; instead of trying to solve this with long prompts, pre-compose the scene in advance."
+    },
+    "es": {
+      "content": "Para una idea difícil de generar de una sola vez, primero prepara en Blender un blockout de aproximadamente 1 hora y úsalo como referencia para Seedance 2.5.  \nUsa el método de blockout en Blender para guiar el control de cámara, el flujo y el timing; en lugar de intentar resolverlo con prompts largos, estructura la escena de antemano."
+    },
+    "fr": {
+      "content": "Pour une idée difficile à générer en une seule fois, prépare d’abord dans Blender un blockout d’environ 1 heure, puis utilise-le comme référence pour Seedance 2.5.  \nUtilise la méthode de blockout dans Blender pour guider le contrôle de la caméra, le flow et le timing ; au lieu d’essayer de résoudre cela avec de longs prompts, mets la scène en place à l’avance."
+    },
+    "ja": {
+      "content": "一度で生成するのが難しいアイデアなら、まずBlenderで約1時間のblockoutスケッチを作成し、それをSeedance 2.5の参照として使う。  \nカメラコントロール、流れ、タイミングを指示するためにBlenderのblockout手法を活用し、長いpromptで解決しようとするのではなく、あらかじめシーンを組み立てておく。"
+    },
+    "ko": {
+      "content": "한 번에 생성하기 어려운 아이디어라면, 먼저 Blender에서 약 1시간 정도의 blockout 스케치를 만들어 Seedance 2.5의 reference로 사용하세요.  \n카메라 컨트롤, 흐름, 타이밍을 조정하기 위해 Blender blockout 방식을 활용하세요. 긴 prompt로 해결하려고 하기보다, 장면을 미리 구성해 두는 것이 좋습니다."
+    },
+    "pt": {
+      "content": "Para uma ideia difícil de gerar de uma só vez, primeiro prepare um blockout rascunho de cerca de 1 hora no Blender e use-o como referência no Seedance 2.5.  \nUse o método de blockout no Blender para orientar o controle de câmera, o fluxo e o timing; em vez de tentar resolver isso com prompts longos, estruture a cena com antecedência."
+    },
+    "zh": {
+      "content": "对于一个一次性生成起来比较困难的创意，先在 Blender 里花大约 1 小时做一个 blockout 草图，然后把它作为 Seedance 2.5 的参考。  \n使用 Blender blockout 方法来引导 camera control、镜头流动和 timing；与其试图用冗长的 prompt 来解决，不如先把场景预先搭建好。"
+    }
+  }
+}

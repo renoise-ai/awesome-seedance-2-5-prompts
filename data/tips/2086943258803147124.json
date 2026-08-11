@@ -1,0 +1,42 @@
+{
+  "id": "2086943258803147124",
+  "title": "キャラクターシートだけを参照にして、Seedance2.5でテンプレな30秒シーンを生成する",
+  "content": "キャラクターシートだけを参照にして、Seedance2.5でテンプレな30秒シーンを生成する  \nSeedance2.5に渡すプロンプトで解像度を480P、アスペクト比を4:3（横長）、尺を30秒に指定して生成する  \n最初のセリフとして「今日もお見合いの申し込みが大量にきてます」を指定して生成する  \nCapCut上でSeedance2.5生成を行う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086943213550768128/img/eMcHkbYoXsW2Ugkl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086943258803147124.mp4",
+  "sourceLink": "https://x.com/z933TfmXkaISSVc/status/2086943258803147124",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "咲山(AIイラスト・AI動画垢)",
+    "link": "https://x.com/z933TfmXkaISSVc"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "キャラクターシートだけを参照にして、Seedance2.5でテンプレな30秒シーンを生成する  \nSeedance2.5に渡すプロンプトで解像度を480P、アスペクト比を4:3（横長）、尺を30秒に指定して生成する  \n最初のセリフとして「今日もお見合いの申し込みが大量にきてます」を指定して生成する  \nCapCut上でSeedance2.5生成を行う",
+  "translations": {
+    "en": {
+      "content": "Generate a standard 30-second scene in Seedance2.5 using only the character sheet as reference.  \nIn the prompt passed to Seedance2.5, specify a resolution of 480P, an aspect ratio of 4:3 (landscape), and a duration of 30 seconds.  \nGenerate it with the first line of dialogue set to: “Today, we’ve also received a huge number of marriage proposal applications.”  \nPerform the Seedance2.5 generation in CapCut.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Here’s the previous discussion (I forgot to quote it)\n---"
+    },
+    "es": {
+      "content": "Generar una escena plantilla de 30 segundos en Seedance2.5 tomando como referencia únicamente la hoja de personaje  \nEn el prompt que se le pasa a Seedance2.5, especificar una resolución de 480P, una relación de aspecto de 4:3 (horizontal) y una duración de 30 segundos para generar el contenido  \nEspecificar como primera línea de diálogo: 「今日もお見合いの申し込みが大量にきてます」 y generar  \nRealizar la generación de Seedance2.5 en CapCut\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] La conversación anterior está aquí (se me olvidó citarla)\n---"
+    },
+    "fr": {
+      "content": "Générer, en se basant uniquement sur la character sheet, une scène type de 30 secondes avec Seedance2.5  \nDans le prompt transmis à Seedance2.5, spécifier une résolution de 480P, un format d’image 4:3 (horizontal) et une durée de 30 secondes pour la génération  \nSpécifier comme première réplique : « 今日もお見合いの申し込みが大量にきてます » et générer  \nEffectuer la génération Seedance2.5 dans CapCut\n\n--- SUITE DU THREAD ---\n[Thread 1] Voici le message précédent (j’ai oublié de le citer)\n---"
+    },
+    "ko": {
+      "content": "캐릭터 시트만을 참고하여 Seedance2.5로 템플릿 같은 30초 시퀀스를 생성한다  \nSeedance2.5에 전달할 prompt에서 해상도를 480P, aspect ratio를 4:3(가로형), 길이를 30초로 지정해 생성한다  \n첫 대사로 「오늘도 맞선 신청이 엄청나게 들어오고 있습니다」를 지정해 생성한다  \nCapCut에서 Seedance2.5 생성을 진행한다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 지난번 이야기는 여기(인용하는 걸 잊었네)\n---"
+    },
+    "pt": {
+      "content": "Gerar uma cena padrão de 30 segundos no Seedance2.5 usando apenas a character sheet como referência  \nNo prompt enviado ao Seedance2.5, especificar resolução de 480P, proporção de aspecto 4:3 (horizontal) e duração de 30 segundos para a geração  \nDefinir como primeira fala: “Hoje também chegaram muitos pedidos de casamento” e gerar  \nRealizar a geração do Seedance2.5 no CapCut\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] A conversa anterior está aqui (esqueci de citar)\n---"
+    },
+    "zh": {
+      "content": "仅参考角色设定表，在 Seedance2.5 中生成一个模板化的 30 秒场景  \n在传给 Seedance2.5 的 prompt 中指定分辨率为 480P、宽高比为 4:3（横向）、时长为 30 秒并进行生成  \n将“今日もお見合いの申し込みが大量にきてます”指定为第一句台词并生成  \n在 CapCut 上进行 Seedance2.5 生成\n\n--- THREAD CONTINUATION ---\n[Thread 1] 上次的内容在这里（忘记引用了）\n---"
+    }
+  }
+}

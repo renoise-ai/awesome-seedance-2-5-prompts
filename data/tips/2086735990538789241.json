@@ -1,0 +1,42 @@
+{
+  "id": "2086735990538789241",
+  "title": "Lock spatial consistency by first building the scene in Newtake’s 9 Panel…",
+  "content": "Lock spatial consistency by first building the scene in Newtake’s 9 Panel Storyboard + Director Stage, then move the camera through the constructed space instead of regenerating each shot from scratch.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086735928140140544/img/i4mlwd23yQNpyCQi.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086735990538789241.mp4",
+  "sourceLink": "https://x.com/Hailey4AI/status/2086735990538789241",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "Hailey AI",
+    "link": "https://x.com/Hailey4AI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Lock spatial consistency by first building the scene in Newtake’s 9 Panel Storyboard + Director Stage, then move the camera through the constructed space instead of regenerating each shot from scratch.",
+  "translations": {
+    "es": {
+      "content": "Bloquea la consistencia espacial construyendo primero la escena en el Storyboard de 9 Paneles + Director Stage de Newtake, y luego mueve la cámara a través del espacio construido en lugar de regenerar cada toma desde cero."
+    },
+    "fr": {
+      "content": "Verrouillez la cohérence spatiale en construisant d’abord la scène dans le 9 Panel Storyboard + Director Stage de Newtake, puis déplacez la caméra à travers l’espace ainsi construit au lieu de régénérer chaque plan à partir de zéro."
+    },
+    "ja": {
+      "content": "まず Newtake の 9 Panel Storyboard と Director Stage でシーンを構築し、空間の一貫性を固定します。そのうえで、各ショットをゼロから再生成するのではなく、構築済みの空間の中をカメラで移動させます。"
+    },
+    "ko": {
+      "content": "먼저 Newtake의 9 Panel Storyboard + Director Stage에서 장면을 구성해 공간적 일관성을 고정한 다음, 각 샷을 처음부터 다시 생성하는 대신 구축된 공간 안에서 카메라를 이동시키세요."
+    },
+    "pt": {
+      "content": "Trave a consistência espacial construindo primeiro a cena no 9 Panel Storyboard + Director Stage do Newtake e, em seguida, mova a câmera pelo espaço construído em vez de regenerar cada tomada do zero."
+    },
+    "zh": {
+      "content": "通过先在 Newtake 的 9 Panel Storyboard + Director Stage 中搭建场景，再让镜头在已构建的空间中移动，而不是从头重新生成每个镜头，从而锁定空间一致性。"
+    }
+  }
+}

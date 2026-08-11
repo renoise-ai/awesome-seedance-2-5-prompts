@@ -1,0 +1,42 @@
+{
+  "id": "2086628613127098615",
+  "title": "同じプロンプトを流用してMiniMax H3（ローカル）でも30秒広告動画を作る（前半15秒をImage to Video、後半15秒をReference…",
+  "content": "同じプロンプトを流用してMiniMax H3（ローカル）でも30秒広告動画を作る（前半15秒をImage to Video、後半15秒をReference to Videoで分ける）  \nReference to Videoでは参照画像を3枚入れて15秒生成する  \nRTX 4070 Ti SUPER 16GB / RAM 64GB環境で、Turboなし＋軽量化ありの場合の目安としてImage to Video 15秒は約11分、Reference to Video（参照画像3枚）15秒は約30分かかる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086628031402270720/img/wu4fB4yDw5k--WhG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086628613127098615.mp4",
+  "sourceLink": "https://x.com/tiyyyyyyyok/status/2086628613127098615",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "かるびぃ",
+    "link": "https://x.com/tiyyyyyyyok"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "同じプロンプトを流用してMiniMax H3（ローカル）でも30秒広告動画を作る（前半15秒をImage to Video、後半15秒をReference to Videoで分ける）  \nReference to Videoでは参照画像を3枚入れて15秒生成する  \nRTX 4070 Ti SUPER 16GB / RAM 64GB環境で、Turboなし＋軽量化ありの場合の目安としてImage to Video 15秒は約11分、Reference to Video（参照画像3枚）15秒は約30分かかる",
+  "translations": {
+    "en": {
+      "content": "Reuse the same prompt to create a 30-second ad video in MiniMax H3 (local), splitting it into two parts: the first 15 seconds as Image to Video and the second 15 seconds as Reference to Video.  \nIn Reference to Video, generate 15 seconds using three reference images.  \nAs a rough estimate in an RTX 4070 Ti SUPER 16GB / RAM 64GB environment, with Turbo off and lightweight optimization enabled, Image to Video for 15 seconds takes about 11 minutes, while Reference to Video (3 reference images) for 15 seconds takes about 30 minutes.\n\n--- QUOTED TWEET ---\nSeedance2.5 is getting a lot of attention, and it’s insanely good. What is this quality... Full prompt 공개↓ https://t.co/SzIiZrz126\n\n--- THREAD CONTINUATION ---\n[Thread 1] Spectrum\nSage\nSol"
+    },
+    "es": {
+      "content": "Aprovechar el mismo prompt para crear también un video publicitario de 30 segundos en MiniMax H3 (local) (dividiendo los primeros 15 segundos en Image to Video y los últimos 15 segundos en Reference to Video)  \nEn Reference to Video, se introducen 3 imágenes de referencia para generar 15 segundos  \nEn un entorno RTX 4070 Ti SUPER 16GB / RAM 64GB, como referencia cuando no se usa Turbo y sí hay optimización ligera, Image to Video de 15 segundos tarda aproximadamente 11 minutos, y Reference to Video (3 imágenes de referencia) de 15 segundos tarda aproximadamente 30 minutos\n\n--- TWEET CITADO ---\nSe está hablando mucho de Seedance2.5, pero es increíble de verdad. Qué calidad es esta... prompt completo 공개↓ https://t.co/SzIiZrz126\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Spectrum\nSage\nSol"
+    },
+    "fr": {
+      "content": "Réutiliser le même prompt pour créer aussi une vidéo publicitaire de 30 secondes avec MiniMax H3 (en local)  \n(diviser les 15 premières secondes en Image to Video, puis les 15 secondes suivantes en Reference to Video)  \nEn Reference to Video, on ajoute 3 images de référence pour générer 15 secondes  \nDans un environnement RTX 4070 Ti SUPER 16GB / RAM 64GB, à titre indicatif, sans Turbo et avec allègement activé, Image to Video 15 secondes prend environ 11 minutes, et Reference to Video (3 images de référence) 15 secondes prend environ 30 minutes\n\n--- TWEET CITÉ ---\nSeedance2.5 fait beaucoup parler de lui, et c’est vraiment impressionnant. Quelle qualité… prompt entièrement 공개↓ https://t.co/SzIiZrz126\n\n--- SUITE DU THREAD ---\n[Thread 1] Spectrum\nSage\nSol"
+    },
+    "ko": {
+      "content": "같은 prompt를 활용해 MiniMax H3(로컬)에서도 30초 광고 영상을 만든다(전반 15초는 Image to Video, 후반 15초는 Reference to Video로 분리)  \nReference to Video에서는 참조 이미지를 3장 넣어 15초를 생성한다  \nRTX 4070 Ti SUPER 16GB / RAM 64GB 환경에서, Turbo 없음 + 경량화 적용 시 기준으로 Image to Video 15초는 약 11분, Reference to Video(참조 이미지 3장) 15초는 약 30분이 걸린다\n\n--- QUOTED TWEET ---\nSeedance2.5가 화제가 되고 있지만, 정말 엄청나다. 이게 무슨 퀄리티야… prompt 전부 공개↓ https://t.co/SzIiZrz126\n\n--- THREAD CONTINUATION ---\n[Thread 1] Spectrum\nSage\nSol"
+    },
+    "pt": {
+      "content": "Usar o mesmo prompt também no MiniMax H3 (local) para criar um vídeo publicitário de 30 segundos (dividindo os primeiros 15 segundos em Image to Video e os 15 segundos finais em Reference to Video)  \nNo Reference to Video, inserir 3 imagens de referência e gerar 15 segundos  \nComo referência de tempo em um ambiente com RTX 4070 Ti SUPER 16GB / RAM 64GB, sem Turbo e com otimizações de leveza, o Image to Video de 15 segundos leva cerca de 11 minutos, e o Reference to Video (3 imagens de referência) de 15 segundos leva cerca de 30 minutos\n\n--- TWEET CITADO ---\nO Seedance2.5 está dando o que falar, mas é simplesmente absurdo. Que qualidade é essa... prompt completo 공개↓ https://t.co/SzIiZrz126\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Spectrum\nSage\nSol"
+    },
+    "zh": {
+      "content": "使用同一个 prompt 也可以在 MiniMax H3（本地）中制作 30 秒广告视频（前 15 秒用 Image to Video，后 15 秒用 Reference to Video 分开生成）  \n在 Reference to Video 中，加入 3 张参考图生成 15 秒  \n以 RTX 4070 Ti SUPER 16GB / RAM 64GB 环境为例，在无 Turbo 且已做轻量化的情况下，Image to Video 15 秒大约需要 11 分钟，Reference to Video（3 张参考图）15 秒大约需要 30 分钟\n\n--- QUOTED TWEET ---\nSeedance2.5 现在很火，但真的太强了。这是什么级别的画质……prompt 全部公开↓ https://t.co/SzIiZrz126\n\n--- THREAD CONTINUATION ---\n[Thread 1] Spectrum\nSage\nSol"
+    }
+  }
+}

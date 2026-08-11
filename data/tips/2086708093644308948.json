@@ -1,0 +1,42 @@
+{
+  "id": "2086708093644308948",
+  "title": "Codexで音楽ファイルを分割して参照素材として用意し、音楽参照＋キャラ参照のみで動画を作る",
+  "content": "Codexで音楽ファイルを分割して参照素材として用意し、音楽参照＋キャラ参照のみで動画を作る  \nSeedance2.5で音楽ファイル参照を使うとSeedance2.0同様に音源が変わることがあるので、生成後に編集で音を調整する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086708048043933696/img/AOyrmdbOIyxplZum.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086708093644308948.mp4",
+  "sourceLink": "https://x.com/YaReYaRu30Life/status/2086708093644308948",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "ヤレヤル",
+    "link": "https://x.com/YaReYaRu30Life"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Codexで音楽ファイルを分割して参照素材として用意し、音楽参照＋キャラ参照のみで動画を作る  \nSeedance2.5で音楽ファイル参照を使うとSeedance2.0同様に音源が変わることがあるので、生成後に編集で音を調整する",
+  "translations": {
+    "en": {
+      "content": "Prepare music files by splitting them in Codex and use them as reference material to create videos using only music reference + character reference.\n\nWhen using music file references in Seedance 2.5, the audio source may change, just like in Seedance 2.0, so adjust the sound in editing after generation."
+    },
+    "es": {
+      "content": "Preparar archivos de música divididos en Codex como material de referencia y crear un video usando solo referencia musical + referencia de personaje.  \nAl usar la referencia de archivo de música en Seedance2.5, como en Seedance2.0, a veces la fuente de audio puede cambiar, así que después de la generación ajusta el sonido en la edición."
+    },
+    "fr": {
+      "content": "Préparer des fichiers audio découpés dans Codex comme素材 de référence, puis créer une vidéo en utilisant uniquement une référence musicale + une référence de personnage.  \nLorsque l’on utilise une référence de fichier audio avec Seedance 2.5, la source sonore peut parfois changer, comme avec Seedance 2.0 ; il faut donc ajuster le son en post-production après la génération."
+    },
+    "ko": {
+      "content": "Codex에서 음악 파일을 분할해 참고 소재로 준비하고, 음악 참조 + 캐릭터 참조만으로 영상을 만든다  \nSeedance2.5에서 음악 파일 참조를 사용하면 Seedance2.0과 마찬가지로 음원이 바뀌는 경우가 있으므로, 생성 후 편집에서 음성을 조정한다"
+    },
+    "pt": {
+      "content": "Divida o arquivo de música no Codex e prepare-o como material de referência para criar vídeos usando apenas referência musical + referência de personagem.  \nAo usar a referência de arquivo de música no Seedance 2.5, assim como no Seedance 2.0, a fonte de áudio pode mudar; por isso, após a geração, ajuste o som na edição."
+    },
+    "zh": {
+      "content": "使用 Codex 将音乐文件拆分并准备为参考素材，仅通过音乐参考 + 角色参考来制作视频  \n在 Seedance2.5 中使用音乐文件参考时，和 Seedance2.0 一样，音源有时会发生变化，因此生成后需要在编辑中调整音频。"
+    }
+  }
+}

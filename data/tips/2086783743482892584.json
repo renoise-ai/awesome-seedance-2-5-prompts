@@ -1,0 +1,42 @@
+{
+  "id": "2086783743482892584",
+  "title": "TOPVIEW AIでSeedance 2.5を使うときはCanvasでキャラクター・舞台・シーン構成を整理してから生成に進む",
+  "content": "TOPVIEW AIでSeedance 2.5を使うときはCanvasでキャラクター・舞台・シーン構成を整理してから生成に進む  \nCanvasにキャラクター画像と設定、ストーリーを入力し、参照素材も追加してシーンごとのプロンプトを自動作成させ、そのまま動画生成まで進める  \n生成した動画から音声だけを抽出して再利用する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086781166091407360/img/Lmbif6snmAmRJCi3.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086783743482892584.mp4",
+  "sourceLink": "https://x.com/os_shim/status/2086783743482892584",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "Shim",
+    "link": "https://x.com/os_shim"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "TOPVIEW AIでSeedance 2.5を使うときはCanvasでキャラクター・舞台・シーン構成を整理してから生成に進む  \nCanvasにキャラクター画像と設定、ストーリーを入力し、参照素材も追加してシーンごとのプロンプトを自動作成させ、そのまま動画生成まで進める  \n生成した動画から音声だけを抽出して再利用する",
+  "translations": {
+    "en": {
+      "content": "When using Seedance 2.5 in TOPVIEW AI, first organize the character, setting, and scene structure in Canvas before moving on to generation.  \nEnter the character images, settings, and story into Canvas, add reference materials as well, and have it automatically create prompts for each scene, then proceed directly to video generation.  \nExtract only the audio from the generated video and reuse it.\n\n--- THREAD CONTINUATION ---\n[Thread 1] This is what the Canvas used this time looked like.\n\nWhen you provide the character images, settings, and story, it creates scene-by-scene prompts while incorporating reference materials, and then takes you straight through to video generation.\n\nBeing able to extract only the audio from the generated video was also surprisingly useful.\n\n@TopviewAIJP https://t.co/a8obQkUtLj\n---"
+    },
+    "es": {
+      "content": "Cuando uses Seedance 2.5 en TOPVIEW AI, organiza primero en Canvas los personajes, el escenario y la composición de las escenas antes de pasar a la generación  \nIntroduce en Canvas las imágenes y la configuración de los personajes, la historia, y añade también material de referencia para que se generen automáticamente prompts por escena, y luego continúa directamente hasta la generación del video  \nExtrae solo el audio del video generado y reutilízalo\n\n--- CONTINUACIÓN DEL THREAD ---\n[Thread 1] Así es como se veía el Canvas que usé esta vez.\n\nCuando le pasas las imágenes y la configuración de los personajes, además de la historia, crea prompts por escena mientras incorpora material de referencia, y te lleva directamente hasta la generación del video.\n\nTambién resultó bastante útil poder extraer solo el audio del video generado.\n\n@TopviewAIJP https://t.co/a8obQkUtLj\n---"
+    },
+    "fr": {
+      "content": "Lorsque vous utilisez Seedance 2.5 dans TOPVIEW AI, commencez par organiser les personnages, le décor et la structure des scènes dans Canvas avant de lancer la génération  \nSaisissez dans Canvas les images et les informations des personnages, ainsi que l’histoire, puis ajoutez aussi des éléments de référence pour faire générer automatiquement des prompts pour chaque scène, et poursuivez directement jusqu’à la génération de la vidéo  \nExtraire uniquement l’audio de la vidéo générée pour le réutiliser\n\n--- THREAD CONTINUATION ---\n[Thread 1] Voici à quoi ressemblait le Canvas utilisé cette fois-ci.\n\nQuand on lui transmet les images et les informations des personnages, ainsi que l’histoire, il crée des prompts pour chaque scène tout en intégrant des éléments de référence, puis va directement jusqu’à la génération de la vidéo.\n\nLe fait de pouvoir extraire uniquement l’audio de la vidéo générée était aussi discrètement très pratique.\n\n@TopviewAIJP https://t.co/a8obQkUtLj\n---"
+    },
+    "ko": {
+      "content": "TOPVIEW AI에서 Seedance 2.5를 사용할 때는 Canvas에서 캐릭터·무대·씬 구성을 정리한 뒤 생성으로 진행한다  \nCanvas에 캐릭터 이미지와 설정, 스토리를 입력하고 참조 소재도 추가해 씬별 prompt를 자동으로 만들게 한 다음, 그대로 영상 생성까지 진행한다  \n생성한 영상에서 음성만 추출해 재활용한다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 이번에 사용한 Canvas는 이런 느낌.\n\n캐릭터 이미지와 설정, 스토리를 전달하면 참조 소재를 넣으면서 씬별 prompt를 만들어 주고, 그대로 영상 생성까지 진행해 줍니다.\n\n생성한 영상에서 음성만 추출할 수 있는 것도 은근히 편리했습니다.\n\n@TopviewAIJP https://t.co/a8obQkUtLj\n---"
+    },
+    "pt": {
+      "content": "Ao usar o Seedance 2.5 no TOPVIEW AI, organize primeiro os personagens, o cenário e a composição das cenas no Canvas antes de seguir para a geração  \nInsira no Canvas as imagens e configurações dos personagens, a história e também materiais de referência, para que ele crie automaticamente prompts por cena e siga direto para a geração do vídeo  \nExtraia apenas o áudio do vídeo gerado para reutilizá-lo\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] O Canvas que usei desta vez é mais ou menos assim.\n\nQuando você informa as imagens e configurações dos personagens, além da história, ele cria prompts por cena enquanto adiciona materiais de referência e já avança direto para a geração do vídeo.\n\nTambém achei bem útil poder extrair só o áudio do vídeo gerado.\n\n@TopviewAIJP https://t.co/a8obQkUtLj\n---"
+    },
+    "zh": {
+      "content": "在 TOPVIEW AI 中使用 Seedance 2.5 时，先在 Canvas 里整理角色、舞台和场景构成，再进入生成  \n在 Canvas 中输入角色图片与设定、故事，并添加参考素材，让它自动为每个场景生成 prompt，然后直接继续进行视频生成  \n还可以从生成的视频中只提取音频并重复利用\n\n--- THREAD CONTINUATION ---\n[Thread 1] 这次使用的 Canvas 大概就是这样的。\n\n只要提供角色图片与设定、故事，它就会在加入参考素材的同时，为每个场景生成 prompt，并直接推进到视频生成。\n\n还能从生成的视频里单独提取音频，这点也挺实用的。\n\n@TopviewAIJP https://t.co/a8obQkUtLj\n---"
+    }
+  }
+}

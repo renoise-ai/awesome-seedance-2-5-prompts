@@ -1,0 +1,41 @@
+{
+  "id": "2086714526624362522",
+  "title": "Use JSON prompts in Seedance 2.5 to improve results; structured prompts produce…",
+  "content": "Use JSON prompts in Seedance 2.5 to improve results; structured prompts produce better outputs.  \nFor short/simple videos, use a visual storyboard to maintain consistency.  \nAvoid single generations beyond ~15 seconds; coherence degrades after that length.  \nFor 30–60+ second videos, split the project into 7–10 second scenes and edit them together.  \nCreate a strong reference image for every scene, intentionally setting composition, characters, objects, and camera position.  \nTo increase perceived realism, prompt for a lo-fi camera look (e.g., iPhone 5 aesthetic) instead of perfect cinematic footage.  \nUse a planning pipeline: story → storyboard → reference images → JSON prompts → generate individual scenes.  \nIn Claude, convert your ChatGPT-built workflow into a reusable skill, load the Seedance 2.5 docs, and iteratively refine the process.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/philkyprianou/status/2086714526624362522",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "Phil Kyprianou 💀☕️",
+    "link": "https://x.com/philkyprianou"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use JSON prompts in Seedance 2.5 to improve results; structured prompts produce better outputs.  \nFor short/simple videos, use a visual storyboard to maintain consistency.  \nAvoid single generations beyond ~15 seconds; coherence degrades after that length.  \nFor 30–60+ second videos, split the project into 7–10 second scenes and edit them together.  \nCreate a strong reference image for every scene, intentionally setting composition, characters, objects, and camera position.  \nTo increase perceived realism, prompt for a lo-fi camera look (e.g., iPhone 5 aesthetic) instead of perfect cinematic footage.  \nUse a planning pipeline: story → storyboard → reference images → JSON prompts → generate individual scenes.  \nIn Claude, convert your ChatGPT-built workflow into a reusable skill, load the Seedance 2.5 docs, and iteratively refine the process.",
+  "translations": {
+    "es": {
+      "content": "Usa prompts JSON en Seedance 2.5 para mejorar los resultados; los prompts estructurados producen mejores salidas.  \nPara videos cortos o simples, usa un storyboard visual para mantener la coherencia.  \nEvita generaciones únicas de más de ~15 segundos; la coherencia se degrada después de esa duración.  \nPara videos de 30–60+ segundos, divide el proyecto en escenas de 7–10 segundos y edítalas juntas.  \nCrea una imagen de referencia sólida para cada escena, definiendo intencionalmente la composición, los personajes, los objetos y la posición de la cámara.  \nPara aumentar la sensación de realismo, pide un aspecto de cámara lo-fi (por ejemplo, una estética de iPhone 5) en lugar de un metraje cinematográfico perfecto.  \nUsa un flujo de planificación: historia → storyboard → imágenes de referencia → prompts JSON → generar escenas individuales.  \nEn Claude, convierte tu flujo de trabajo creado en ChatGPT en una skill reutilizable, carga la documentación de Seedance 2.5 e itera para refinar el proceso."
+    },
+    "fr": {
+      "content": "Utilisez des prompts JSON dans Seedance 2.5 pour améliorer les résultats ; les prompts structurés produisent de meilleures sorties.  \nPour les vidéos courtes/simples, utilisez un storyboard visuel afin de maintenir la cohérence.  \nÉvitez les générations uniques au-delà d’environ 15 secondes ; la cohérence se dégrade au-delà de cette durée.  \nPour des vidéos de 30 à 60 secondes et plus, découpez le projet en scènes de 7 à 10 secondes et montez-les ensemble.  \nCréez une image de référence solide pour chaque scène, en définissant intentionnellement la composition, les personnages, les objets et la position de la caméra.  \nPour augmenter le réalisme perçu, demandez un rendu de caméra lo-fi (par ex. esthétique iPhone 5) plutôt qu’un footage cinématographique parfait.  \nUtilisez un pipeline de planification : histoire → storyboard → images de référence → prompts JSON → génération de scènes individuelles.  \nDans Claude, transformez votre workflow construit dans ChatGPT en une skill réutilisable, chargez la documentation Seedance 2.5, et affinez le processus de manière itérative."
+    },
+    "ja": {
+      "content": "Seedance 2.5ではJSONプロンプトを使うことで結果を改善できます。構造化されたプロンプトのほうが、より良い出力を生みます。  \n短い／シンプルな動画では、一貫性を保つためにビジュアル・ストーリーボードを使いましょう。  \n単発生成で約15秒を超えるのは避けてください。それ以上になると、整合性が低下します。  \n30〜60秒以上の動画では、プロジェクトを7〜10秒のシーンに分割し、それらを編集でつなぎ合わせます。  \n各シーンごとに強い参照画像を作成し、構図、キャラクター、オブジェクト、カメラ位置を意図的に設定します。  \nリアリズムの知覚を高めるには、完璧なシネマティック映像ではなく、ローファイなカメラの見た目（例：iPhone 5風の美学）をプロンプトで指定します。  \n計画パイプラインを使いましょう：ストーリー → ストーリーボード → 参照画像 → JSONプロンプト → 個別シーンの生成。  \nClaudeでは、ChatGPTで構築したワークフローを再利用可能なスキルに変換し、Seedance 2.5のドキュメントを読み込んで、プロセスを反復的に洗練させます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서는 JSON prompt를 사용해 결과를 개선하세요. 구조화된 prompt가 더 나은 출력을 만듭니다.  \n짧고 단순한 영상에는 시각적 storyboard를 사용해 일관성을 유지하세요.  \n단일 생성은 약 15초를 넘기지 마세요. 그 이후에는 coherence가 떨어집니다.  \n30~60초 이상의 영상은 프로젝트를 7~10초 길이의 scene으로 나누고, 이를 편집해 하나로 합치세요.  \n각 scene마다 강력한 reference image를 만들고, composition, characters, objects, camera position을 의도적으로 설정하세요.  \n현실감을 높이려면 완벽한 cinematic footage보다 lo-fi camera look(예: iPhone 5 aesthetic)을 prompt하세요.  \nplanning pipeline을 사용하세요: story → storyboard → reference images → JSON prompts → individual scenes 생성.  \nClaude에서는 ChatGPT로 만든 workflow를 재사용 가능한 skill로 변환하고, Seedance 2.5 문서를 불러온 뒤, 과정을 반복적으로 다듬으세요."
+    },
+    "pt": {
+      "content": "Use prompts em JSON no Seedance 2.5 para melhorar os resultados; prompts estruturados geram saídas melhores.  \nPara vídeos curtos/simples, use um storyboard visual para manter a consistência.  \nEvite gerações únicas com mais de ~15 segundos; a coerência se degrada após esse tempo.  \nPara vídeos de 30–60+ segundos, divida o projeto em cenas de 7 a 10 segundos e edite-as juntas.  \nCrie uma imagem de referência forte para cada cena, definindo intencionalmente composição, personagens, objetos e posição da câmera.  \nPara aumentar a percepção de realismo, peça um visual de câmera lo-fi (por exemplo, estética de iPhone 5) em vez de filmagem cinematográfica perfeita.  \nUse um pipeline de planejamento: história → storyboard → imagens de referência → prompts em JSON → gerar cenas individuais.  \nNo Claude, converta o fluxo de trabalho que você construiu no ChatGPT em uma skill reutilizável, carregue a documentação do Seedance 2.5 e refine o processo iterativamente."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中使用 JSON prompts 以提升结果；结构化提示通常能产生更好的输出。  \n对于简短/简单的视频，使用视觉分镜来保持一致性。  \n避免单次生成超过约 15 秒；超过这个时长后连贯性会下降。  \n对于 30–60 秒及以上的视频，将项目拆分为 7–10 秒的场景，并将它们剪辑在一起。  \n为每个场景创建一张强参考图，刻意设定构图、角色、物体和镜头位置。  \n为了提高感知真实感，提示使用 lo-fi 的相机风格（例如 iPhone 5 美学），而不是完美的 cinematic 画面。  \n使用规划流程：故事 → 分镜 → 参考图 → JSON prompts → 生成单个场景。  \n在 Claude 中，将你用 ChatGPT 搭建的工作流转换为可复用的 skill，加载 Seedance 2.5 文档，并迭代优化该流程。"
+    }
+  }
+}

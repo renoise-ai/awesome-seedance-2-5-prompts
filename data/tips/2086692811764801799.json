@@ -1,0 +1,42 @@
+{
+  "id": "2086692811764801799",
+  "title": "編集モードで参照動画を指定し、人物や動作を維持したままプロンプトで服装だけを変更する",
+  "content": "編集モードで参照動画を指定し、人物や動作を維持したままプロンプトで服装だけを変更する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086691264385392640/img/iTCzE0qlmpQpSRXh.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086692811764801799.mp4",
+  "sourceLink": "https://x.com/omukare_wanwan/status/2086692811764801799",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "オムレツくん",
+    "link": "https://x.com/omukare_wanwan"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Fashion",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "編集モードで参照動画を指定し、人物や動作を維持したままプロンプトで服装だけを変更する",
+  "translations": {
+    "en": {
+      "content": "In edit mode, specify a reference video and use a prompt to change only the clothing while preserving the person and their movements."
+    },
+    "es": {
+      "content": "En el modo de edición, especifica un video de referencia y cambia solo la ropa mediante un prompt, manteniendo a la persona y sus movimientos."
+    },
+    "fr": {
+      "content": "En mode édition, spécifiez une vidéo de référence et modifiez uniquement les vêtements via le prompt, tout en conservant la personne et ses mouvements."
+    },
+    "ko": {
+      "content": "편집 모드에서 참조 영상을 지정하고, 인물과 동작은 유지한 채 prompt로 의상만 변경한다"
+    },
+    "pt": {
+      "content": "No modo de edição, especifique o vídeo de referência e, mantendo a pessoa e os movimentos, altere apenas a roupa por meio do prompt."
+    },
+    "zh": {
+      "content": "在编辑模式下指定参考视频，并在保持人物和动作不变的情况下，通过 prompt 仅更改服装。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2086826584074498425",
+  "title": "開発中のアプリのファイルをCodexに読ませてSeedance用プロンプトを作らせると、アプリのコンセプトを逐一説明せずにプロモPV向けのプロンプトを用意できる",
+  "content": "開発中のアプリのファイルをCodexに読ませてSeedance用プロンプトを作らせると、アプリのコンセプトを逐一説明せずにプロモPV向けのプロンプトを用意できる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086824947561996289/img/ifNvE7mY2i0KtOgY.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086826584074498425.mp4",
+  "sourceLink": "https://x.com/aigeboku/status/2086826584074498425",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "AI様の下僕",
+    "link": "https://x.com/aigeboku"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "開発中のアプリのファイルをCodexに読ませてSeedance用プロンプトを作らせると、アプリのコンセプトを逐一説明せずにプロモPV向けのプロンプトを用意できる",
+  "translations": {
+    "en": {
+      "content": "If you have Codex read the files of the app you’re developing and have it generate a Seedance prompt, you can prepare a prompt for a promotional PV without having to explain the app’s concept in detail every time.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Having Codex read the files I’m developing and think up the prompt for me was convenient because I didn’t have to explain the app’s concept over and over.\n---"
+    },
+    "es": {
+      "content": "Si haces que Codex lea los archivos de la app en desarrollo y le pides que genere un prompt para Seedance, puedes preparar un prompt para un PV promocional sin tener que explicar el concepto de la app paso a paso.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Hacer que Codex lea los archivos que estoy desarrollando y le pida que piense el prompt fue cómodo, porque no hace falta transmitirle el concepto de la app una y otra vez.\n---"
+    },
+    "fr": {
+      "content": "Si vous faites lire à Codex les fichiers de l’application en cours de développement pour lui faire générer un prompt Seedance, vous pouvez préparer un prompt pour une vidéo promotionnelle sans avoir à expliquer le concept de l’application en détail à chaque fois.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Faire lire à Codex les fichiers sur lesquels je travaille pour qu’il réfléchisse au prompt était pratique, car je n’avais pas besoin de lui expliquer le concept de l’application à chaque fois.\n---"
+    },
+    "ko": {
+      "content": "개발 중인 앱의 파일을 Codex에 읽게 해서 Seedance용 prompt를 만들게 하면, 앱의 콘셉트를 일일이 설명하지 않아도 프로모 PV용 prompt를 준비할 수 있다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 개발 중인 파일을 Codex에 읽게 해서 prompt를 생각하게 하면, 앱의 콘셉트를 하나하나 전달하지 않아도 돼서 편했다.\n---"
+    },
+    "pt": {
+      "content": "Ao fazer o Codex ler os arquivos do app em desenvolvimento e gerar um prompt para o Seedance, dá para preparar um prompt para um PV promocional sem precisar explicar o conceito do app passo a passo.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Quando deixei o Codex ler os arquivos em desenvolvimento e pensar no prompt, foi prático não precisar explicar o conceito do app toda vez.\n---"
+    },
+    "zh": {
+      "content": "让 Codex 读取正在开发中的应用文件并生成用于 Seedance 的 prompt，就可以不用逐一说明应用的概念，也能准备好适合宣传 PV 的 prompt\n\n--- THREAD CONTINUATION ---\n[Thread 1] 让 Codex 读取正在开发的文件并让它构思 prompt，不用一一传达应用的概念，这一点很省事。\n---"
+    }
+  }
+}

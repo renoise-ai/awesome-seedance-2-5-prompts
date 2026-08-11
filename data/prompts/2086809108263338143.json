@@ -1,0 +1,42 @@
+{
+  "id": "2086809108263338143",
+  "title": "It flies swiftly over the landscape at high speed. No music, ASMR sound.",
+  "content": "It flies swiftly over the landscape at high speed. No music, ASMR sound.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086806367747096576/img/gBZxewJbcIkCCr-Z.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086809108263338143.mp4",
+  "sourceLink": "https://x.com/hedo_ist/status/2086809108263338143",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "hedoήist",
+    "link": "https://x.com/hedo_ist"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Nature",
+    "Photoreal",
+    "Realistic World",
+    "FPV & Aerial",
+    "ASMR"
+  ],
+  "translations": {
+    "es": {
+      "content": "Vuela rápidamente sobre el paisaje a gran velocidad. Sin música, sonido ASMR.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Usé a propósito un prompt muy simple para probar la capacidad interpretativa del procesador.\n\nComo no obtuve el resultado que esperaba con Seedance, añadí un segundo prompt indicándole que volara sobre las cascadas y el río.\n\nprompt:\n\nVuela rápidamente sobre el paisaje a gran velocidad. Sin música, sonido ASMR.\n\n[Hilo 2] @grok ha superado a Seedance 2.5 en esta prueba. ¿Qué opinas?\n\n¿Has mejorado las conversaciones en tu nueva versión?\n\n[Hilo 3] 2.0 solo se ha implementado para imágenes, no para video.\n\nPor lo tanto, es Grok 1.5 el que ha superado a Seedance en esta prueba. 😮"
+    },
+    "fr": {
+      "content": "---\nIl vole rapidement au-dessus du paysage à grande vitesse. Pas de musique, son ASMR.\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Thread 1] J’ai volontairement utilisé un prompt très simple pour tester la capacité d’interprétation du processeur.\n\nComme je n’ai pas obtenu le résultat attendu avec Seedance, j’ai ajouté un deuxième prompt lui demandant de survoler les cascades et la rivière.\n\nprompt:\n\nIt flies swiftly over the landscape at high speed. No music, ASMR sound.\n\n[Thread 2] @grok a surpassé Seedance 2.5 dans ce test. Qu’en pensez-vous ?\n\nAvez-vous amélioré les conversations dans votre nouvelle version ?\n\n[Thread 3] 2.0 n’a été implémenté que pour les images, pas pour la vidéo.\n\nPar conséquent, c’est Grok 1.5 qui a surpassé Seedance dans ce test. 😮\n---"
+    },
+    "ja": {
+      "content": "それは風景の上を高速で素早く飛びます。音楽なし、ASMR音なし。\n\n--- スレッドの続き ---\n[Thread 1] プロセッサーの解釈能力をテストするために、あえてとてもシンプルな prompt を使いました。\n\nSeedance で期待していた結果が得られなかったので、滝や川の上を飛ぶように指示する 2 つ目の prompt を追加しました。\n\nprompt:\n\nそれは風景の上を高速で素早く飛びます。音楽なし、ASMR音なし。\n\n[Thread 2] このテストでは @grok が Seedance 2.5 を上回りました。どう思いますか？\n\n新しいバージョンでは会話が改善されていますか？\n\n[Thread 3] 2.0 は画像にのみ実装されており、動画には実装されていません。\n\nしたがって、このテストで Seedance を上回ったのは Grok 1.5 です。😮"
+    },
+    "ko": {
+      "content": "그것은 고속으로 풍경 위를 빠르게 날아간다. 음악 없음, ASMR 사운드 없음.\n\n--- 스레드 계속 ---\n[Thread 1] 나는 프로세서의 해석 능력을 테스트하기 위해 일부러 아주 단순한 prompt를 사용했다.\n\nSeedance에서 기대한 결과가 나오지 않았기 때문에, 폭포와 강 위를 날아가라는 두 번째 prompt를 추가했다.\n\nprompt:\n\nIt flies swiftly over the landscape at high speed. No music, ASMR sound.\n\n[Thread 2] @grok가 이 테스트에서 Seedance 2.5보다 더 좋은 성능을 보였다. 어떻게 생각하나요?\n\n새 버전에서 대화 기능을 개선했나요?\n\n[Thread 3] 2.0은 이미지에만 적용되었고, 비디오에는 적용되지 않았다.\n\n따라서 이 테스트에서 Seedance를 앞선 것은 Grok 1.5이다. 😮"
+    },
+    "pt": {
+      "content": "Ele voa rapidamente sobre a paisagem em alta velocidade. Sem música, som ASMR.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Usei um prompt bem simples de propósito para testar a capacidade interpretativa do processador.\n\nComo não obtive o resultado que eu esperava com o Seedance, adicionei um segundo prompt dizendo para ele voar sobre as cachoeiras e o rio.\n\nprompt:\n\nIt flies swiftly over the landscape at high speed. No music, ASMR sound.\n\n[Thread 2] @grok superou o Seedance 2.5 neste teste. O que você acha?\n\nVocê melhorou as conversas na sua nova versão?\n\n[Thread 3] O 2.0 foi implementado apenas para imagens, não para vídeo.\n\nPortanto, foi o Grok 1.5 que superou o Seedance neste teste. 😮"
+    },
+    "zh": {
+      "content": "它以高速迅速掠过风景。没有音乐，ASMR 声音。\n\n--- 线程续接 ---\n[Thread 1] 我故意用了一个非常简单的 prompt，来测试处理器的理解能力。\n\n由于我在 Seedance 中没有得到预期的结果，我又加了第二个 prompt，告诉它飞过瀑布和河流。\n\nprompt:\n\nIt flies swiftly over the landscape at high speed. No music, ASMR sound.\n\n[Thread 2] @grok 在这次测试中表现优于 Seedance 2.5。你怎么看？\n\n你们在新版本中改进了对话吗？\n\n[Thread 3] 2.0 只应用于图像，没有应用于视频。\n\n因此，在这次测试中表现优于 Seedance 的其实是 Grok 1.5。😮"
+    }
+  }
+}

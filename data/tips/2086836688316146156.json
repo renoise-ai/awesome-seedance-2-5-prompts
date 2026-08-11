@@ -1,0 +1,42 @@
+{
+  "id": "2086836688316146156",
+  "title": "Use Newtake’s 9-panel storyboard and 3D Director Stage to establish the…",
+  "content": "Use Newtake’s 9-panel storyboard and 3D Director Stage to establish the environment’s spatial relationships first, then generate each shot/scene around that layout to maintain consistent spatial logic across a sequence with Seedance 2.5 support.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086836609110900736/img/71-GTo3K3l8iHEkV.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2086836688316146156.mp4",
+  "sourceLink": "https://x.com/EmmaUsesAi/status/2086836688316146156",
+  "sourcePublishedAt": "2026-08-10",
+  "author": {
+    "name": "Emma Uses AI",
+    "link": "https://x.com/EmmaUsesAi"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Newtake’s 9-panel storyboard and 3D Director Stage to establish the environment’s spatial relationships first, then generate each shot/scene around that layout to maintain consistent spatial logic across a sequence with Seedance 2.5 support.",
+  "translations": {
+    "es": {
+      "content": "Usa el storyboard de 9 paneles de Newtake y el 3D Director Stage para establecer primero las relaciones espaciales del entorno, y luego genera cada plano/escena en torno a esa disposición para mantener una lógica espacial coherente a lo largo de toda la secuencia con compatibilidad para Seedance 2.5."
+    },
+    "fr": {
+      "content": "Utilisez le storyboard à 9 cases et la 3D Director Stage de Newtake pour établir d’abord les relations spatiales de l’environnement, puis générez chaque plan/scène autour de cette mise en page afin de maintenir une logique spatiale cohérente tout au long de la séquence avec la prise en charge de Seedance 2.5."
+    },
+    "ja": {
+      "content": "Newtakeの9パネル・ストーリーボードと3D Director Stageを使って、まず環境内の空間関係を把握し、そのレイアウトに基づいて各ショット／シーンを生成することで、Seedance 2.5対応のシーケンス全体で一貫した空間ロジックを維持します。"
+    },
+    "ko": {
+      "content": "Newtake의 9패널 스토리보드와 3D Director Stage를 활용해 먼저 환경의 공간 관계를 설정한 다음, 그 레이아웃을 바탕으로 각 샷/장면을 생성하여 Seedance 2.5 지원과 함께 시퀀스 전반에 걸쳐 일관된 공간 논리를 유지하세요."
+    },
+    "pt": {
+      "content": "Use o storyboard de 9 painéis e o 3D Director Stage da Newtake para estabelecer primeiro as relações espaciais do ambiente e, em seguida, gere cada plano/cena com base nesse layout para manter uma lógica espacial consistente ao longo de uma sequência com suporte ao Seedance 2.5."
+    },
+    "zh": {
+      "content": "先使用 Newtake 的 9 宫格分镜和 3D Director Stage 来建立环境中的空间关系，然后再围绕该布局生成每个镜头/场景，以在支持 Seedance 2.5 的情况下保持整个序列中一致的空间逻辑。"
+    }
+  }
+}
