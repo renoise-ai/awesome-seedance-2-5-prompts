@@ -1,0 +1,43 @@
+{
+  "id": "2087116945984192577",
+  "title": "Use Seedance 2.5’s multi-reference feature with 3 reference inputs to animate a…",
+  "content": "Use Seedance 2.5’s multi-reference feature with 3 reference inputs to animate a fighting game interface while keeping the visuals consistent across the video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2087116918134038528/pu/img/PsjP4Dos0gqQ1yqU.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087116945984192577.mp4",
+  "sourceLink": "https://x.com/CharaspowerAI/status/2087116945984192577",
+  "sourcePublishedAt": "2026-08-11",
+  "author": {
+    "name": "Pierrick Chevallier | IA",
+    "link": "https://x.com/CharaspowerAI"
+  },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "3D Animation",
+    "Realistic World",
+    "Game UI",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5’s multi-reference feature with 3 reference inputs to animate a fighting game interface while keeping the visuals consistent across the video.",
+  "translations": {
+    "es": {
+      "content": "Usa la función de multi-reference de Seedance 2.5 con 3 inputs de referencia para animar una interfaz de juego de lucha, manteniendo la coherencia visual a lo largo del video."
+    },
+    "fr": {
+      "content": "Utilisez la fonctionnalité multi-références de Seedance 2.5 avec 3 entrées de référence pour animer une interface de jeu de combat tout en conservant une cohérence visuelle tout au long de la vidéo."
+    },
+    "ja": {
+      "content": "Seedance 2.5のマルチリファレンス機能を使い、3つの参照入力で、映像全体を通してビジュアルの一貫性を保ちながら、格闘ゲームのインターフェースをアニメーション化する。"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 multi-reference 기능을 3개의 reference input과 함께 사용해, 영상 전반에서 비주얼의 일관성을 유지하면서 격투 게임 인터페이스를 애니메이션으로 구현하세요."
+    },
+    "pt": {
+      "content": "Use o recurso de múltiplas referências do Seedance 2.5 com 3 entradas de referência para animar uma interface de jogo de luta, mantendo os visuais consistentes ao longo do vídeo."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 的多参考功能，结合 3 个参考输入，为格斗游戏界面制作动画，同时保持整个视频中的视觉效果一致。"
+    }
+  }
+}

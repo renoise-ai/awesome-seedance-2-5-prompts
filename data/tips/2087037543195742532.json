@@ -1,0 +1,43 @@
+{
+  "id": "2087037543195742532",
+  "title": "Use a workflow of Image/Concept → Custom GPT Image 2.0 storyboard → Seedance…",
+  "content": "Use a workflow of Image/Concept → Custom GPT Image 2.0 storyboard → Seedance 2.5 prompt to turn an idea into a structured storyboard and then a Seedance-ready prompt.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2086901034451120128/img/N1lmW2Tj37Q3u-Jg.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087037543195742532.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2087037543195742532",
+  "sourcePublishedAt": "2026-08-11",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use a workflow of Image/Concept → Custom GPT Image 2.0 storyboard → Seedance 2.5 prompt to turn an idea into a structured storyboard and then a Seedance-ready prompt.",
+  "translations": {
+    "es": {
+      "content": "Usa un flujo de trabajo de Imagen/Concepto → storyboard de Custom GPT Image 2.0 → prompt de Seedance 2.5 para convertir una idea en un storyboard estructurado y luego en un prompt listo para Seedance."
+    },
+    "fr": {
+      "content": "Utilisez un workflow allant de Image/Concept → storyboard Custom GPT Image 2.0 → prompt Seedance 2.5 pour transformer une idée en storyboard structuré, puis en un prompt prêt pour Seedance."
+    },
+    "ja": {
+      "content": "Image/Concept → Custom GPT Image 2.0 storyboard → Seedance 2.5 prompt というワークフローを使って、アイデアを構造化されたストーリーボードに落とし込み、さらに Seedance で使える prompt に変換します。"
+    },
+    "ko": {
+      "content": "이미지/컨셉 → Custom GPT Image 2.0 스토리보드 → Seedance 2.5 prompt 워크플로를 사용해 아이디어를 구조화된 스토리보드로 만든 다음, Seedance에 바로 사용할 수 있는 prompt로 변환하세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho de Image/Concept → Custom GPT Image 2.0 storyboard → Seedance 2.5 prompt para transformar uma ideia em um storyboard estruturado e, em seguida, em um prompt pronto para o Seedance."
+    },
+    "zh": {
+      "content": "使用 Image/Concept → Custom GPT Image 2.0 storyboard → Seedance 2.5 prompt 的工作流程，将一个创意转化为结构化分镜，然后生成可直接用于 Seedance 的 prompt。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2087101727589695981",
+  "title": "編集込みでほぼ自動化するには、Claude Codeでコンテ作成→プロンプト設計を行い、Seedance…",
+  "content": "編集込みでほぼ自動化するには、Claude Codeでコンテ作成→プロンプト設計を行い、Seedance 2.5で動画生成し、HyperFrameでテロップ追加と編集まで回すワークフローにする  \n生成尺が長いSeedance 2.5では、最初に参照画像を設計してから生成するとキャラクターや画の一貫性を出しやすい",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087042955207114752/img/WCTIH5iS_WSe_Vv3.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087101727589695981.mp4",
+  "sourceLink": "https://x.com/doerstokyo342/status/2087101727589695981",
+  "sourcePublishedAt": "2026-08-11",
+  "author": {
+    "name": "こば@AIBridge Lab",
+    "link": "https://x.com/doerstokyo342"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "編集込みでほぼ自動化するには、Claude Codeでコンテ作成→プロンプト設計を行い、Seedance 2.5で動画生成し、HyperFrameでテロップ追加と編集まで回すワークフローにする  \n生成尺が長いSeedance 2.5では、最初に参照画像を設計してから生成するとキャラクターや画の一貫性を出しやすい",
+  "translations": {
+    "ko": {
+      "content": "편집까지 포함해 거의 자동화하려면, Claude Code로 콘티 작성 → prompt 설계를 진행하고, Seedance 2.5로 영상 생성한 뒤, HyperFrame에서 자막 추가와 편집까지 처리하는 워크플로로 구성한다.  \n생성 길이가 긴 Seedance 2.5에서는 먼저 참조 이미지를 설계한 다음 생성하면 캐릭터와 화면의 일관성을 더 쉽게 확보할 수 있다"
+    },
+    "en": {
+      "content": "To automate almost everything, including editing, set up a workflow where you create the storyboard in Claude Code, design the prompt, generate the video in Seedance 2.5, and then use HyperFrame to add captions and handle the editing.\n\nWith Seedance 2.5, which supports longer generation lengths, it’s easier to maintain character and visual consistency if you first design the reference images before generating."
+    },
+    "es": {
+      "content": "Para automatizar casi por completo, incluyendo la edición, conviene montar un workflow en el que primero se haga la creación del storyboard y el diseño del prompt con Claude Code, luego se genere el video con Seedance 2.5, y después se añadan los subtítulos y se realice la edición en HyperFrame.\n\nEn Seedance 2.5, que permite generar clips más largos, es más fácil lograr consistencia en los personajes y en la imagen si primero diseñas una imagen de referencia y luego generas a partir de ella."
+    },
+    "fr": {
+      "content": "Pour automatiser presque entièrement, y compris le montage, il faut mettre en place un workflow où l’on crée le storyboard avec Claude Code, puis on conçoit le prompt, on génère la vidéo avec Seedance 2.5, et on enchaîne avec HyperFrame pour ajouter les sous-titres et effectuer le montage.\n\nAvec Seedance 2.5, qui permet des séquences plus longues, il est plus facile d’obtenir une cohérence des personnages et de l’image si l’on conçoit d’abord une image de référence avant de lancer la génération."
+    },
+    "pt": {
+      "content": "Para automatizar quase tudo, incluindo a edição, o fluxo de trabalho é fazer a criação do storyboard e o design do prompt no Claude Code, gerar o vídeo no Seedance 2.5 e, depois, usar o HyperFrame para adicionar legendas e fazer a edição.\n\nNo Seedance 2.5, que gera vídeos mais longos, é mais fácil manter a consistência dos personagens e das imagens se você primeiro definir a imagem de referência e só depois gerar o conteúdo."
+    },
+    "zh": {
+      "content": "要实现几乎连剪辑都自动化的流程，可以用 Claude Code 先进行分镜制作 → prompt 设计，再用 Seedance 2.5 生成视频，最后通过 HyperFrame 完成字幕添加和剪辑的工作流。  \n在生成时长较长的 Seedance 2.5 中，先设计参考图再进行生成，更容易保持角色和画面的统一性。"
+    }
+  }
+}

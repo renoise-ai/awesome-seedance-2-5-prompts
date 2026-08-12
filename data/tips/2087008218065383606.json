@@ -1,0 +1,42 @@
+{
+  "id": "2087008218065383606",
+  "title": "Seedance 2.5では秒単位のタイミング指定が効くので、プロンプトに「3秒でフタ、6秒で粉末、9秒でお湯、12秒で閉じる」のように各動作を秒数付きで指示し…",
+  "content": "Seedance 2.5では秒単位のタイミング指定が効くので、プロンプトに「3秒でフタ、6秒で粉末、9秒でお湯、12秒で閉じる」のように各動作を秒数付きで指示して工程のタイミングを揃える",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087003540728471552/img/XCZxiLOy2X5GXYCo.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087008218065383606.mp4",
+  "sourceLink": "https://x.com/RBLabQ/status/2087008218065383606",
+  "sourcePublishedAt": "2026-08-11",
+  "author": {
+    "name": "🗯️RelaxBeatsLab™︎",
+    "link": "https://x.com/RBLabQ"
+  },
+  "tags": [
+    "Food",
+    "Cooking",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5では秒単位のタイミング指定が効くので、プロンプトに「3秒でフタ、6秒で粉末、9秒でお湯、12秒で閉じる」のように各動作を秒数付きで指示して工程のタイミングを揃える",
+  "translations": {
+    "en": {
+      "content": "With Seedance 2.5, second-by-second timing instructions work effectively, so you can align the timing of each step by specifying actions in the prompt with timestamps, such as “lid at 3 seconds, powder at 6 seconds, hot water at 9 seconds, close at 12 seconds.”\n\n--- THREAD CONTINUATION ---\n[Thread 1] 👉 Right now, SD2.5 generation costs are 50% OFF\nhttps://t.co/LpClRMos3F\n---"
+    },
+    "es": {
+      "content": "En Seedance 2.5, la especificación de tiempos en segundos funciona, así que puedes indicar en el prompt cada acción con su tiempo, por ejemplo: “3 seconds for the lid, 6 seconds for the powder, 9 seconds for the hot water, 12 seconds to close it”, para sincronizar el timing del proceso.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 👉Ahora mismo, el coste de generación de SD2.5 tiene un 50% de descuento\nhttps://t.co/LpClRMos3F\n---"
+    },
+    "fr": {
+      "content": "Avec Seedance 2.5, le timing à la seconde près fonctionne, donc dans le prompt, indiquez chaque action avec un repère temporel, par exemple : « 3 secondes : mettre le couvercle, 6 secondes : la poudre, 9 secondes : l’eau chaude, 12 secondes : fermer », afin d’aligner le timing des différentes étapes.\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Thread 1] 👉En ce moment, le coût de génération de SD2.5 est à -50 %\nhttps://t.co/LpClRMos3F\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서는 초 단위 타이밍 지정이 효과적이므로, prompt에 “3초에 뚜껑, 6초에 분말, 9초에 뜨거운 물, 12초에 닫기”처럼 각 동작을 초 단위로 지시해 공정의 타이밍을 맞춘다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 👉지금 SD2.5 생성 비용이 50% OFF입니다\nhttps://t.co/LpClRMos3F\n---"
+    },
+    "pt": {
+      "content": "No Seedance 2.5, a especificação de timing em segundos funciona, então, no prompt, você pode alinhar o timing do processo instruindo cada ação com o número de segundos, como: “3 seconds to put on the lid, 6 seconds for the powder, 9 seconds for the hot water, 12 seconds to close it”.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] 👉Agora, o custo de geração do SD2.5 está com 50% de desconto\nhttps://t.co/LpClRMos3F\n---"
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中，可以按秒指定时间点，因此在 prompt 里像“3秒盖上盖子、6秒加入粉末、9秒倒入热水、12秒合上”这样，为每个动作附上秒数进行指示，就能让各个步骤的时机保持一致\n\n--- THREAD CONTINUATION ---\n[Thread 1] 👉现在 SD2.5 的生成成本可享 50% OFF\nhttps://t.co/LpClRMos3F\n---"
+    }
+  }
+}

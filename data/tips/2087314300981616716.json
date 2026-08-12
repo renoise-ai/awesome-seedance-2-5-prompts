@@ -1,0 +1,42 @@
+{
+  "id": "2087314300981616716",
+  "title": "キャラシート1枚を参照画像として指定して、同一キャラのまま15秒の紹介動画を生成する",
+  "content": "キャラシート1枚を参照画像として指定して、同一キャラのまま15秒の紹介動画を生成する  \n表紙→本を開く→世界観を見せる→キャラ登場のように、カット割り（ショット順）を文章で具体的にプロンプト指定して構成をコントロールする  \n動画編集前に、作りたいカット割りを言葉で先に設計してからSeedanceに生成させる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087314232006369280/img/bdi2QvyTBi9D4-9f.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087314300981616716.mp4",
+  "sourceLink": "https://x.com/KITAcore1203/status/2087314300981616716",
+  "sourcePublishedAt": "2026-08-11",
+  "author": {
+    "name": "KITAcore",
+    "link": "https://x.com/KITAcore1203"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "キャラシート1枚を参照画像として指定して、同一キャラのまま15秒の紹介動画を生成する  \n表紙→本を開く→世界観を見せる→キャラ登場のように、カット割り（ショット順）を文章で具体的にプロンプト指定して構成をコントロールする  \n動画編集前に、作りたいカット割りを言葉で先に設計してからSeedanceに生成させる",
+  "translations": {
+    "en": {
+      "content": "Specify a single character sheet as the reference image, and generate a 15-second intro video featuring the same character throughout.\n\nControl the structure by explicitly specifying the shot sequence in the prompt with a detailed written breakdown, such as: cover → open the book → reveal the world setting → character appears.\n\nBefore editing the video, first design the shot sequence you want in words, then have Seedance generate it.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Membership is here.\nhttps://t.co/9pV2VZudcY\n---"
+    },
+    "es": {
+      "content": "Especifica una sola hoja de character sheet como imagen de referencia y genera un video de presentación de 15 segundos manteniendo al mismo personaje.  \nControla la composición indicando de forma concreta en el prompt, con texto, el corte de planos (orden de shots), por ejemplo: portada → abrir el libro → mostrar el mundo → aparición del personaje.  \nAntes de editar el video, diseña primero con palabras el corte de planos que quieres crear y luego deja que Seedance lo genere.\n\n--- CONTINUACIÓN DEL THREAD ---\n[Thread 1] La membresía está aquí.\nhttps://t.co/9pV2VZudcY\n---"
+    },
+    "fr": {
+      "content": "指定er une seule feuille de character sheet comme image de référence et générer une vidéo de présentation de 15 secondes en conservant le même personnage  \nContrôler la composition en spécifiant précisément dans le prompt, sous forme de texte, le découpage des plans (ordre des shots), par exemple : couverture → ouverture du livre → présentation de l’univers → apparition du personnage  \nAvant le montage vidéo, concevoir d’abord en mots le découpage des plans que l’on veut créer, puis laisser Seedance les générer\n\n--- SUITE DU THREAD ---\n[Thread 1] L’adhésion est ici.\nhttps://t.co/9pV2VZudcY\n---"
+    },
+    "ko": {
+      "content": "캐릭터 시트 1장을 참조 이미지로 지정해, 동일한 캐릭터 그대로 15초짜리 소개 영상을 생성한다  \n표지 → 책을 펼치기 → 세계관을 보여주기 → 캐릭터 등장, 이런 식으로 컷 구성(샷 순서)을 문장으로 구체적으로 프롬프트에 지정해 구성을 컨트롤한다  \n영상 편집 전에, 만들고 싶은 컷 구성을 말로 먼저 설계한 뒤 Seedance에 생성시키는 것\n\n--- THREAD CONTINUATION ---\n[Thread 1] 멤버십은 여기입니다.\nhttps://t.co/9pV2VZudcY\n---"
+    },
+    "pt": {
+      "content": "指定ar uma única character sheet como imagem de referência e gerar um vídeo de apresentação de 15 segundos mantendo o mesmo personagem  \nControlar a composição especificando em prompt, de forma concreta e em texto, a divisão de cortes (ordem dos shots), como: capa → abrir o livro → mostrar o universo da obra → entrada do personagem  \nAntes da edição do vídeo, desenhe primeiro em palavras a sequência de cortes que você quer criar e depois deixe o Seedance gerar\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] A membresia está aqui.\nhttps://t.co/9pV2VZudcY\n---"
+    },
+    "zh": {
+      "content": "指定一张角色设定图作为参考图，在保持同一角色不变的前提下生成一段 15 秒的介绍视频  \n通过文字具体指定分镜（镜头顺序）来控制构成，例如：封面 → 翻开书本 → 展示世界观 → 角色登场  \n在视频剪辑之前，先用语言把想要的分镜设计好，再让 Seedance 生成\n\n--- THREAD CONTINUATION ---\n[Thread 1] 会员请点这里。\nhttps://t.co/9pV2VZudcY\n---"
+    }
+  }
+}

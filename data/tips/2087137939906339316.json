@@ -1,0 +1,42 @@
+{
+  "id": "2087137939906339316",
+  "title": "先生成一个人物角色卡片，再把角色卡片作为参考图配合提示词生成简短人物口播视频，台词可任意替换",
+  "content": "先生成一个人物角色卡片，再把角色卡片作为参考图配合提示词生成简短人物口播视频，台词可任意替换  \n如果人脸审核/识别通不过，改用手绘风格生成，或使用三视图参考图来提高通过率  \n用 Seedance 2.5 生成 30 秒口播视频",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087137561999474688/img/6CIrHvTObY47-MMf.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087137939906339316.mp4",
+  "sourceLink": "https://x.com/Adam38363368936/status/2087137939906339316",
+  "sourcePublishedAt": "2026-08-11",
+  "author": {
+    "name": "Adam也叫吉米",
+    "link": "https://x.com/Adam38363368936"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "先生成一个人物角色卡片，再把角色卡片作为参考图配合提示词生成简短人物口播视频，台词可任意替换  \n如果人脸审核/识别通不过，改用手绘风格生成，或使用三视图参考图来提高通过率  \n用 Seedance 2.5 生成 30 秒口播视频",
+  "translations": {
+    "en": {
+      "content": "First generate a character card, then use the character card as a reference image together with a prompt to generate a short talking-head video. The dialogue can be freely replaced.  \nIf face review/recognition fails, switch to a hand-drawn style, or use a three-view reference image to improve the approval rate.  \nUse Seedance 2.5 to generate a 30-second talking-head video."
+    },
+    "es": {
+      "content": "Primero genera una ficha de personaje, y luego usa esa ficha como imagen de referencia junto con el prompt para generar un breve video de presentación con voz en off del personaje; el diálogo puede sustituirse libremente.  \nSi la revisión/reconocimiento facial no pasa, cambia a un estilo dibujado a mano para generarlo, o usa una imagen de referencia en tres vistas para aumentar la tasa de aprobación.  \nUsa Seedance 2.5 para generar un video de presentación de 30 segundos."
+    },
+    "fr": {
+      "content": "Générez d’abord une fiche de personnage, puis utilisez cette fiche comme image de référence, avec un prompt, pour produire une courte vidéo de prise de parole du personnage ; le texte peut être remplacé librement.  \nSi la vérification/reconnaissance du visage ne passe pas, passez à un style dessin à la main, ou utilisez une image de référence en trois vues pour augmenter le taux de validation.  \nUtilisez Seedance 2.5 pour générer une vidéo de prise de parole de 30 secondes."
+    },
+    "ja": {
+      "content": "---\nFirst, generate a character card, then use the character card as a reference image together with a prompt to generate a short talking-head video. The dialogue can be freely replaced.  \nIf face review/recognition does not pass, switch to a hand-drawn style, or use a three-view reference image to improve the approval rate.  \nUse Seedance 2.5 to generate a 30-second talking-head video\n---"
+    },
+    "ko": {
+      "content": "먼저 인물 캐릭터 카드를 생성한 다음, 그 캐릭터 카드를 참고 이미지로 사용해 prompt와 함께 짧은 인물 립싱크 영상을 생성한다. 대사는 자유롭게 바꿔도 된다.  \n얼굴 심사/인식이 통과되지 않으면, 손그림 스타일로 생성하거나 3면도 참고 이미지를 사용해 통과율을 높인다.  \nSeedance 2.5로 30초 립싱크 영상을 생성한다."
+    },
+    "pt": {
+      "content": "Primeiro, gere um card de personagem e, em seguida, use esse card como imagem de referência, junto com o prompt, para gerar um vídeo curto de fala do personagem; o texto pode ser substituído livremente.  \nSe a revisão/reconhecimento facial não passar, mude para um estilo de ilustração à mão ou use uma imagem de referência em três vistas para aumentar a taxa de aprovação.  \nUse o Seedance 2.5 para gerar um vídeo de fala de 30 segundos."
+    }
+  }
+}

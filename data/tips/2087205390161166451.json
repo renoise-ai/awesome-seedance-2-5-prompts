@@ -1,0 +1,42 @@
+{
+  "id": "2087205390161166451",
+  "title": "Use only a character reference for initial Seedance 2.5 combat tests, then…",
+  "content": "Use only a character reference for initial Seedance 2.5 combat tests, then iteratively refine your prompt to add effects and dial in pacing and camera angles.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087204853156069376/img/ehA3THhzkVa2OU_Q.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087205390161166451.mp4",
+  "sourceLink": "https://x.com/NightwayFantasy/status/2087205390161166451",
+  "sourcePublishedAt": "2026-08-11",
+  "author": {
+    "name": "Nightway Fantasy",
+    "link": "https://x.com/NightwayFantasy"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use only a character reference for initial Seedance 2.5 combat tests, then iteratively refine your prompt to add effects and dial in pacing and camera angles.",
+  "translations": {
+    "pt": {
+      "content": "Use apenas uma referência de personagem para os testes iniciais de combate do Seedance 2.5 e, em seguida, refine iterativamente seu prompt para adicionar efeitos e ajustar o ritmo e os ângulos de câmera."
+    },
+    "es": {
+      "content": "Usa solo una referencia de personaje para las pruebas iniciales de combate de Seedance 2.5, y luego refina iterativamente tu prompt para añadir efectos y ajustar el ritmo y los ángulos de cámara."
+    },
+    "fr": {
+      "content": "Utilisez uniquement une référence de personnage pour les premiers tests de combat avec Seedance 2.5, puis affinez progressivement votre prompt pour ajouter des effets et ajuster le rythme ainsi que les angles de caméra."
+    },
+    "ja": {
+      "content": "初期のSeedance 2.5の戦闘テストでは、キャラクターリファレンスのみを使用し、その後、効果を追加しながらpromptを反復的に洗練し、テンポやカメラアングルを調整してください。"
+    },
+    "ko": {
+      "content": "초기 Seedance 2.5 전투 테스트에는 캐릭터 레퍼런스만 사용하고, 이후 prompt를 반복적으로 다듬어 효과를 추가하고 페이싱과 카메라 앵글을 조정하세요."
+    },
+    "zh": {
+      "content": "初始的 Seedance 2.5 战斗测试只使用角色参考，然后逐步优化你的 prompt，加入特效并调整节奏和镜头角度。"
+    }
+  }
+}

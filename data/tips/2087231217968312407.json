@@ -1,0 +1,44 @@
+{
+  "id": "2087231217968312407",
+  "title": "Use a reference image to lock the heroine’s identity (using the reference image…",
+  "content": "Use a reference image to lock the heroine’s identity (using the reference image as the heroine) while generating the video.  \nSpecify exact duration in the prompt (Create a 30-second sequence) to control clip length.  \nDirect the camera style explicitly (one continuous cinematic handheld shot with an IMAX-scale feel) to enforce a single-take, handheld look.  \nInclude a clear beat-by-beat action timeline (raise hand → eyes glow → shout “Henshin!” → crystal shatters → armor forms → stance → lightning blade → dash impact) to guide coherent transformation progression.  \nCall out specific VFX elements and materials (red smoke, blue lightning, golden particles, realistic materials, physically believable particles) to increase realism and effect fidelity.  \nDescribe the environment and lighting in detail (apocalyptic wasteland, smoky gray-blue sky, ruins/ash, cinematic lighting) to stabilize scene consistency and mood.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087231084291612672/img/eNdufWCWtR5ETZXl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087231217968312407.mp4",
+  "sourceLink": "https://x.com/Naiknelofar788/status/2087231217968312407",
+  "sourcePublishedAt": "2026-08-11",
+  "author": {
+    "name": "simeon-sanai",
+    "link": "https://x.com/Naiknelofar788"
+  },
+  "tags": [
+    "Action",
+    "Superpower",
+    "Photoreal",
+    "Fantasy",
+    "VFX",
+    "Transformation",
+    "Tutorial"
+  ],
+  "tips": "Use a reference image to lock the heroine’s identity (using the reference image as the heroine) while generating the video.  \nSpecify exact duration in the prompt (Create a 30-second sequence) to control clip length.  \nDirect the camera style explicitly (one continuous cinematic handheld shot with an IMAX-scale feel) to enforce a single-take, handheld look.  \nInclude a clear beat-by-beat action timeline (raise hand → eyes glow → shout “Henshin!” → crystal shatters → armor forms → stance → lightning blade → dash impact) to guide coherent transformation progression.  \nCall out specific VFX elements and materials (red smoke, blue lightning, golden particles, realistic materials, physically believable particles) to increase realism and effect fidelity.  \nDescribe the environment and lighting in detail (apocalyptic wasteland, smoky gray-blue sky, ruins/ash, cinematic lighting) to stabilize scene consistency and mood.",
+  "translations": {
+    "es": {
+      "content": "Usa una imagen de referencia para fijar la identidad de la heroína (usando la imagen de referencia como la heroína) mientras se genera el video.  \nEspecifica la duración exacta en el prompt (Create a 30-second sequence) para controlar la longitud del clip.  \nDirige explícitamente el estilo de cámara (one continuous cinematic handheld shot with an IMAX-scale feel) para imponer un look de plano único y cámara en mano.  \nIncluye una línea de tiempo clara de acciones beat by beat (raise hand → eyes glow → shout “Henshin!” → crystal shatters → armor forms → stance → lightning blade → dash impact) para guiar una progresión de transformación coherente.  \nSeñala elementos específicos de VFX y materiales (red smoke, blue lightning, golden particles, realistic materials, physically believable particles) para aumentar el realismo y la fidelidad del efecto.  \nDescribe el entorno y la iluminación en detalle (apocalyptic wasteland, smoky gray-blue sky, ruins/ash, cinematic lighting) para estabilizar la coherencia de la escena y el ambiente."
+    },
+    "fr": {
+      "content": "Utilisez une image de référence pour verrouiller l’identité de l’héroïne (en utilisant l’image de référence comme l’héroïne) pendant la génération de la vidéo.  \nPrécisez la durée exacte dans le prompt (Create a 30-second sequence) afin de contrôler la longueur du clip.  \nIndiquez explicitement le style de caméra (one continuous cinematic handheld shot with an IMAX-scale feel) pour imposer un rendu en plan-séquence, à l’épaule.  \nIncluez une chronologie claire des actions, battement par battement (raise hand → eyes glow → shout “Henshin!” → crystal shatters → armor forms → stance → lightning blade → dash impact) pour guider une progression de transformation cohérente.  \nMentionnez des éléments VFX et des matériaux précis (red smoke, blue lightning, golden particles, realistic materials, physically believable particles) afin d’augmenter le réalisme et la fidélité des effets.  \nDécrivez l’environnement et l’éclairage en détail (apocalyptic wasteland, smoky gray-blue sky, ruins/ash, cinematic lighting) pour stabiliser la cohérence de la scène et l’ambiance."
+    },
+    "ja": {
+      "content": "---\n動画生成時には、参照画像を使ってヒロインのアイデンティティを固定する（参照画像の人物をヒロインとして使用する）。  \nプロンプト内で正確な尺を指定する（Create a 30-second sequence）ことで、クリップの長さを制御する。  \nカメラスタイルを明確に指示する（one continuous cinematic handheld shot with an IMAX-scale feel）ことで、ワンテイクの手持ちカメラ風ルックを強制する。  \n一連の動作をビートごとに明確に記述する（raise hand → eyes glow → shout “Henshin!” → crystal shatters → armor forms → stance → lightning blade → dash impact）ことで、変身の流れが一貫するように導く。  \n具体的なVFX要素と素材感を挙げる（red smoke, blue lightning, golden particles, realistic materials, physically believable particles）ことで、リアリズムとエフェクトの忠実度を高める。  \n環境とライティングを詳細に描写する（apocalyptic wasteland, smoky gray-blue sky, ruins/ash, cinematic lighting）ことで、シーンの一貫性とムードを安定させる。\n---"
+    },
+    "ko": {
+      "content": "비디오를 생성할 때 reference image를 사용해 주인공의 정체성을 고정하세요(주인공으로 reference image를 사용).  \nprompt에 정확한 길이를 명시하세요(Create a 30-second sequence) — 클립 길이를 제어하기 위해서입니다.  \n카메라 스타일을 명확하게 지시하세요(one continuous cinematic handheld shot with an IMAX-scale feel) — 단일 테이크의 handheld 느낌을 강제하기 위해서입니다.  \n명확한 비트 단위 액션 타임라인을 포함하세요(raise hand → eyes glow → shout “Henshin!” → crystal shatters → armor forms → stance → lightning blade → dash impact) — 일관된 변신 진행을 유도하기 위해서입니다.  \n구체적인 VFX 요소와 재질을 언급하세요(red smoke, blue lightning, golden particles, realistic materials, physically believable particles) — 사실감과 효과의 충실도를 높이기 위해서입니다.  \n환경과 조명을 자세히 묘사하세요(apocalyptic wasteland, smoky gray-blue sky, ruins/ash, cinematic lighting) — 장면의 일관성과 분위기를 안정시키기 위해서입니다."
+    },
+    "pt": {
+      "content": "Use uma imagem de referência para travar a identidade da heroína (usando a imagem de referência como a heroína) enquanto gera o vídeo.  \nEspecifique a duração exata no prompt (Crie uma sequência de 30 segundos) para controlar o comprimento do clipe.  \nDirecione explicitamente o estilo de câmera (um único plano cinematográfico contínuo em handheld com sensação em escala IMAX) para impor um visual de tomada única e câmera na mão.  \nInclua uma linha do tempo clara de ação, beat a beat (levanta a mão → olhos brilham → grita “Henshin!” → cristal se despedaça → armadura se forma → pose → espada de relâmpago → impacto do dash) para guiar uma progressão de transformação coerente.  \nMencione elementos específicos de VFX e materiais (fumaça vermelha, relâmpagos azuis, partículas douradas, materiais realistas, partículas fisicamente críveis) para aumentar o realismo e a fidelidade do efeito.  \nDescreva o ambiente e a iluminação em detalhes (deserto apocalíptico, céu cinza-azulado enevoado, ruínas/cinzas, iluminação cinematográfica) para estabilizar a consistência da cena e o clima."
+    },
+    "zh": {
+      "content": "使用参考图像来锁定女主角的身份（将参考图像中的人物作为女主角）并生成视频。  \n在提示词中明确指定准确时长（Create a 30-second sequence），以控制片段长度。  \n明确指定镜头风格（one continuous cinematic handheld shot with an IMAX-scale feel），以强化单镜头、手持拍摄的效果。  \n加入清晰的逐拍动作时间线（raise hand → eyes glow → shout “Henshin!” → crystal shatters → armor forms → stance → lightning blade → dash impact），以引导连贯的变身过程。  \n点明具体的 VFX 元素和材质（red smoke, blue lightning, golden particles, realistic materials, physically believable particles），以提升真实感和效果还原度。  \n详细描述环境与光照（apocalyptic wasteland, smoky gray-blue sky, ruins/ash, cinematic lighting），以稳定场景一致性和氛围。"
+    }
+  }
+}

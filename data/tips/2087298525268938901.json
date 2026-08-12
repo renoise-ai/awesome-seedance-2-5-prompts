@@ -1,0 +1,42 @@
+{
+  "id": "2087298525268938901",
+  "title": "在本地部署的 Minimax H3 中可直接使用 Seedance 2.5 的视频提示词来生成长视频",
+  "content": "在本地部署的 Minimax H3 中可直接使用 Seedance 2.5 的视频提示词来生成长视频  \n在提示词里明确指定时长与结构，例如写 15秒、7个场景、航拍新疆 来让模型按多场景生成  \n选择 720P、15秒 的输出设置可在约 20 分钟内完成生成（本地运行）  \n用 Cinematic aerial drone footage + 地点 + 光照（golden-hour/crisp daylight）+ 分镜开场描述（如 Opening: a misty emerald lake at dawn）来提升航拍风光视频的镜头感与可控性",
+  "language": "zh",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/PixelAigc/status/2087298525268938901",
+  "sourcePublishedAt": "2026-08-11",
+  "author": {
+    "name": "PixelAIGC",
+    "link": "https://x.com/PixelAigc"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Nature",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "FPV & Aerial"
+  ],
+  "tips": "在本地部署的 Minimax H3 中可直接使用 Seedance 2.5 的视频提示词来生成长视频  \n在提示词里明确指定时长与结构，例如写 15秒、7个场景、航拍新疆 来让模型按多场景生成  \n选择 720P、15秒 的输出设置可在约 20 分钟内完成生成（本地运行）  \n用 Cinematic aerial drone footage + 地点 + 光照（golden-hour/crisp daylight）+ 分镜开场描述（如 Opening: a misty emerald lake at dawn）来提升航拍风光视频的镜头感与可控性",
+  "translations": {
+    "en": {
+      "content": "In locally deployed Minimax H3, you can directly use Seedance 2.5 video prompts to generate long videos.  \nIn the prompt, explicitly specify the duration and structure—for example, write “15 seconds, 7 scenes, aerial footage of Xinjiang” so the model generates multiple scenes accordingly.  \nChoosing 720P, 15-second output settings can complete generation in about 20 minutes (running locally).  \nUsing “Cinematic aerial drone footage” + location + lighting (“golden-hour/crisp daylight”) + an opening shot description (e.g., “Opening: a misty emerald lake at dawn”) can improve the cinematic feel and controllability of aerial landscape videos.\n\n--- QUOTED TWEET ---\nAerial landscape photographers are doomed!\n\nThis high-definition landscape photography video was made on a computer. I’ve never even been to Xinjiang—I simply told my local large model: 15 seconds, 7 scenes, aerial footage of Xinjiang. And then it produced a video like this. 720P, 15 seconds, and it only took about 20 minutes in total. It’s amazing! It looks better than any video I’ve shot myself. At this rate, what are landscape filmmakers and aerial photographers supposed to do?"
+    },
+    "es": {
+      "content": "En Minimax H3 desplegado localmente, se pueden usar directamente los prompts de video de Seedance 2.5 para generar videos largos.  \nEn el prompt, especifica claramente la duración y la estructura; por ejemplo, escribe 15 segundos, 7 escenas, aerial photography of Xinjiang para que el modelo genere múltiples escenas.  \nElegir una configuración de salida de 720P y 15 segundos puede completar la generación en unos 20 minutos (ejecución local).  \nUsar Cinematic aerial drone footage + ubicación + iluminación (golden-hour/crisp daylight) + una descripción de apertura tipo storyboard (por ejemplo, Opening: a misty emerald lake at dawn) ayuda a mejorar la sensación cinematográfica y la controlabilidad de los videos de paisajes aéreos.\n\n--- QUOTED TWEET ---\n¡Los fotógrafos de paisajes aéreos están acabados!\n\nEste video de fotografía de paisajes en alta definición se hizo en una computadora; ni siquiera he ido a Xinjiang. Simplemente le dije a mi modelo local: 15 segundos, 7 escenas, aerial photography of Xinjiang. Y entonces produjo un video como este. 720P, 15 segundos, y en total solo tardó unos 20 minutos. ¡Es increíble! Se ve mejor que cualquiera de los videos que yo mismo he filmado. Entonces, si esto sigue así, ¿qué van a hacer esos fotógrafos de paisajes y de tomas aéreas?"
+    },
+    "fr": {
+      "content": "Dans Minimax H3 déployé en local, on peut utiliser directement les prompts vidéo de Seedance 2.5 pour générer des vidéos longues  \nDans le prompt, précisez clairement la durée et la structure, par exemple : 15 secondes, 7 scènes, prise de vue aérienne du Xinjiang, afin que le modèle génère plusieurs scènes  \nEn choisissant les paramètres de sortie 720P, 15 secondes, la génération peut être terminée en environ 20 minutes (en local)  \nUtiliser Cinematic aerial drone footage + lieu + éclairage (golden-hour/crisp daylight) + description d’ouverture en storyboard (par ex. Opening: a misty emerald lake at dawn) permet d’améliorer le rendu cinématographique et la contrôlabilité des vidéos de paysages en vue aérienne\n\n--- QUOTED TWEET ---\nLes photographes de paysages en drone sont foutus !\n\nCette vidéo de paysage en haute définition a été réalisée sur ordinateur ; je ne suis même jamais allé au Xinjiang. J’ai simplement dit à mon modèle local : 15 secondes, 7 scènes, prise de vue aérienne du Xinjiang. Puis il a produit une vidéo comme celle-ci. En 720P et 15 secondes, le tout a pris à peine une vingtaine de minutes. C’est incroyable ! C’est plus beau que n’importe quel film que j’ai moi-même tourné. Alors, si ça continue comme ça, que vont faire les photographes de paysages et les vidéastes aériens ?"
+    },
+    "ja": {
+      "content": "ローカルにデプロイした Minimax H3 では、Seedance 2.5 の動画プロンプトをそのまま使って長尺動画を生成できます。  \nプロンプト内で長さと構成を明確に指定します。たとえば「15秒、7シーン、Xinjiang の空撮」と書くことで、モデルに複数シーンで生成させます。  \n出力設定を 720P、15秒 にすると、ローカル実行で約20分以内に生成を完了できます。  \nCinematic aerial drone footage + 場所 + 光の条件（golden-hour/crisp daylight）+ 絵コンテ風の冒頭描写（例: Opening: a misty emerald lake at dawn）を組み合わせることで、空撮風景動画の画作りと制御性を高められます。\n\n--- QUOTED TWEET ---\n空撮風景写真家はもう終わりだ！\n\nこの高精細な風景空撮動画はコンピュータ上で作ったものです。私は新疆にすら行ったことがありません。ただローカルの大規模モデルに「15秒、7シーン、Xinjiang の空撮」と伝えただけです。すると、こんな動画を作ってくれました。720Pで15秒、合計の所要時間も20分ちょっと。あまりにもすごい！ これは私が自分で撮ったどんな作品よりも美しいです。こうなっていくと、風景作品を撮る人や空撮のカメラマンはどうすればいいのでしょうか？"
+    },
+    "ko": {
+      "content": "在本地部署的 Minimax H3 中可直接使用 Seedance 2.5 的视频 prompt 来生成长视频  \n在 prompt 里明确指定时长与结构，例如写 15秒、7个场景、航拍新疆，让模型按多场景生成  \n选择 720P、15秒 的输出设置可在约 20 分钟内完成生成（本地运行）  \n用 Cinematic aerial drone footage + 地点 + 光照（golden-hour/crisp daylight）+ 分镜开场描述（如 Opening: a misty emerald lake at dawn）来提升航拍风光视频的镜头感与可控性\n\n--- QUOTED TWEET ---\n항공 촬영 풍경 사진작가들 다 끝났다!\n\n이 고화질 풍경 영상은 컴퓨터로 만든 거예요. 저는 심지어 신장에 가본 적도 없고, 그냥 제 로컬 대형 모델에게 “15초, 7개 장면, 신장 항공 촬영”이라고 한마디 했을 뿐입니다. 그러자 이런 영상을 만들어냈어요. 720P 15초짜리였고, 총 걸린 시간도 20분 정도밖에 안 됐습니다. 정말 놀랍네요! 이건 제가 직접 찍은 어떤 작품보다도 더 멋집니다. 이렇게 계속된다면, 풍경 영상을 찍는 사람들, 항공 촬영하는 사진가들은 어떻게 해야 할까요?"
+    },
+    "pt": {
+      "content": "No Minimax H3 implantado localmente, você pode usar diretamente os prompts de vídeo do Seedance 2.5 para gerar vídeos longos  \nNo prompt, especifique claramente a duração e a estrutura, por exemplo: escreva 15 segundos, 7 cenas, aerial photography of Xinjiang, para fazer o modelo gerar em múltiplas cenas  \nSelecionar as configurações de saída 720P, 15 segundos pode concluir a geração em cerca de 20 minutos (execução local)  \nUse Cinematic aerial drone footage + local + iluminação (golden-hour/crisp daylight) + descrição da abertura em storyboard (por exemplo, Opening: a misty emerald lake at dawn) para aumentar a sensação cinematográfica e a controlabilidade dos vídeos de paisagem em aerial photography\n\n--- QUOTED TWEET ---\nOs fotógrafos de paisagens em aerial photography estão ferrados!\n\nEsse vídeo em alta definição de fotografia de paisagem foi feito no computador; eu nem sequer fui a Xinjiang. Eu simplesmente disse ao meu modelo local: 15 segundos, 7 cenas, aerial photography of Xinjiang. E então ele produziu um vídeo assim, 720P, 15 segundos, e o tempo total gasto foi de cerca de 20 minutos. É incrível! Ficou mais bonito do que qualquer vídeo que eu mesmo tenha filmado. Então me diga: seguindo assim, o que vão fazer aqueles fotógrafos que fazem filmes de paisagem e aerial photography?"
+    }
+  }
+}

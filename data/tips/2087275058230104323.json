@@ -1,0 +1,42 @@
+{
+  "id": "2087275058230104323",
+  "title": "Generate a 6-panel horizontal storyboard image first, then use it as a…",
+  "content": "Generate a 6-panel horizontal storyboard image first, then use it as a storyboard reference in Seedance 2.5 by prompting Use @[image] as storyboard reference for cinematic sequence and specifying which panel is the first shot (e.g., use as first shot 01).\n\nIf your storyboard image contains frames/borders/numbers (film strip/grid), explicitly instruct Seedance to ignore the grid layout and output seamless full-screen shots only (e.g., Absolutely NO frames, borders, film strips, numbers, UI, or text; Ignore grid layout completely).\n\nLock visual continuity by adding strict consistency constraints in the video prompt (e.g., Preserve exact color palette, lighting, and atmospheric details; seamless day-to-night transition; consistent anime aesthetic; glowing fireflies throughout).\n\nControl pacing and continuity by breaking the 15s video into timed shots mapped to storyboard panels (e.g., Shot 1 0–3s = Panel 1, Shot 2 3–6s = Panel 2, etc.) and describing the camera move per shot (push in, glide, pull back).",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/churvikv/status/2087275058230104323",
+  "sourcePublishedAt": "2026-08-11",
+  "author": {
+    "name": "Viki",
+    "link": "https://x.com/churvikv"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Anime 2D",
+    "Fantasy",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Generate a 6-panel horizontal storyboard image first, then use it as a storyboard reference in Seedance 2.5 by prompting Use @[image] as storyboard reference for cinematic sequence and specifying which panel is the first shot (e.g., use as first shot 01).\n\nIf your storyboard image contains frames/borders/numbers (film strip/grid), explicitly instruct Seedance to ignore the grid layout and output seamless full-screen shots only (e.g., Absolutely NO frames, borders, film strips, numbers, UI, or text; Ignore grid layout completely).\n\nLock visual continuity by adding strict consistency constraints in the video prompt (e.g., Preserve exact color palette, lighting, and atmospheric details; seamless day-to-night transition; consistent anime aesthetic; glowing fireflies throughout).\n\nControl pacing and continuity by breaking the 15s video into timed shots mapped to storyboard panels (e.g., Shot 1 0–3s = Panel 1, Shot 2 3–6s = Panel 2, etc.) and describing the camera move per shot (push in, glide, pull back).",
+  "translations": {
+    "es": {
+      "content": "Genera primero una imagen de storyboard horizontal de 6 paneles y luego úsala como referencia de storyboard en Seedance 2.5 indicando Use @[image] as storyboard reference for cinematic sequence y especificando qué panel es la primera toma (por ejemplo, use as first shot 01).\n\nSi tu imagen de storyboard contiene marcos/bordes/números (film strip/grid), indica explícitamente a Seedance que ignore el diseño de la cuadrícula y que genere solo tomas continuas a pantalla completa (por ejemplo, Absolutely NO frames, borders, film strips, numbers, UI, or text; Ignore grid layout completely).\n\nBloquea la continuidad visual añadiendo restricciones estrictas de consistencia en el prompt del video (por ejemplo, Preserve exact color palette, lighting, and atmospheric details; seamless day-to-night transition; consistent anime aesthetic; glowing fireflies throughout).\n\nControla el ritmo y la continuidad dividiendo el video de 15 s en tomas temporizadas mapeadas a los paneles del storyboard (por ejemplo, Shot 1 0–3s = Panel 1, Shot 2 3–6s = Panel 2, etc.) y describiendo el movimiento de cámara por toma (push in, glide, pull back)."
+    },
+    "fr": {
+      "content": "Générez d’abord une image de storyboard horizontale en 6 panneaux, puis utilisez-la comme référence de storyboard dans Seedance 2.5 en indiquant Use @[image] as storyboard reference for cinematic sequence et en précisant quel panneau correspond au premier plan (par ex. use as first shot 01).\n\nSi votre image de storyboard contient des cadres/bordures/numéros (film strip/grille), demandez explicitement à Seedance d’ignorer la disposition en grille et de produire uniquement des plans plein écran continus (par ex. Absolutely NO frames, borders, film strips, numbers, UI, or text; Ignore grid layout completely).\n\nVerrouillez la continuité visuelle en ajoutant des contraintes strictes de cohérence dans le prompt vidéo (par ex. Preserve exact color palette, lighting, and atmospheric details; seamless day-to-night transition; consistent anime aesthetic; glowing fireflies throughout).\n\nContrôlez le rythme et la continuité en découpant la vidéo de 15 s en plans chronométrés, mappés aux panneaux du storyboard (par ex. Shot 1 0–3s = Panel 1, Shot 2 3–6s = Panel 2, etc.) et en décrivant le mouvement de caméra pour chaque plan (push in, glide, pull back)."
+    },
+    "ja": {
+      "content": "まず6パネルの横長ストーリーボード画像を生成し、その後、Seedance 2.5 でそれをストーリーボード参照として使用します。プロンプトでは Use @[image] as storyboard reference for cinematic sequence と指定し、どのパネルが最初のショットかを明記します（例: use as first shot 01）。\n\nストーリーボード画像にフレーム／枠／番号（フィルムストリップ／グリッド）が含まれている場合は、Seedance に対してグリッドレイアウトを無視し、シームレスなフルスクリーンショットのみを出力するよう明示的に指示します（例: Absolutely NO frames, borders, film strips, numbers, UI, or text; Ignore grid layout completely）。\n\n動画プロンプトに厳密な一貫性の制約を追加して、ビジュアルの連続性を固定します（例: Preserve exact color palette, lighting, and atmospheric details; seamless day-to-night transition; consistent anime aesthetic; glowing fireflies throughout）。\n\n15秒の動画をストーリーボードの各パネルに対応する時間指定ショットに分割し（例: Shot 1 0–3s = Panel 1, Shot 2 3–6s = Panel 2, etc.）、各ショットごとのカメラ移動（push in, glide, pull back）を記述して、テンポと連続性を制御します。"
+    },
+    "ko": {
+      "content": "먼저 6패널 가로형 스토리보드 이미지를 생성한 다음, 이를 Seedance 2.5에서 스토리보드 레퍼런스로 사용하세요. 이를 위해 Use @[image] as storyboard reference for cinematic sequence라고 프롬프트에 입력하고, 어떤 패널이 첫 번째 샷인지 지정합니다(예: use as first shot 01).\n\n스토리보드 이미지에 프레임/테두리/번호(필름 스트립/그리드)가 포함되어 있다면, Seedance에 그리드 레이아웃을 무시하고 경계 없는 전체 화면 샷만 출력하도록 명시적으로 지시하세요(예: Absolutely NO frames, borders, film strips, numbers, UI, or text; Ignore grid layout completely).\n\n비디오 프롬프트에 엄격한 일관성 제약을 추가해 시각적 연속성을 고정하세요(예: Preserve exact color palette, lighting, and atmospheric details; seamless day-to-night transition; consistent anime aesthetic; glowing fireflies throughout).\n\n스토리보드 패널에 맞춰 15초 비디오를 시간별 샷으로 나누고, 각 샷의 카메라 움직임을 설명하여 페이싱과 연속성을 제어하세요(예: Shot 1 0–3s = Panel 1, Shot 2 3–6s = Panel 2, etc.)(push in, glide, pull back)."
+    },
+    "pt": {
+      "content": "Gere primeiro uma imagem de storyboard horizontal com 6 painéis e, em seguida, use-a como referência de storyboard no Seedance 2.5, solicitando Use @[image] as storyboard reference for cinematic sequence e especificando qual painel é o primeiro plano (por exemplo, use as first shot 01).\n\nSe a imagem do storyboard contiver quadros/bordas/números (film strip/grid), instrua explicitamente o Seedance a ignorar o layout em grade e a gerar apenas planos contínuos em tela cheia (por exemplo, Absolutely NO frames, borders, film strips, numbers, UI, or text; Ignore grid layout completely).\n\nTrave a continuidade visual adicionando restrições rígidas de consistência no prompt de vídeo (por exemplo, Preserve exact color palette, lighting, and atmospheric details; seamless day-to-night transition; consistent anime aesthetic; glowing fireflies throughout).\n\nControle o ritmo e a continuidade dividindo o vídeo de 15s em planos cronometrados mapeados aos painéis do storyboard (por exemplo, Shot 1 0–3s = Panel 1, Shot 2 3–6s = Panel 2, etc.) e descrevendo o movimento de câmera de cada plano (push in, glide, pull back)."
+    },
+    "zh": {
+      "content": "先生成一张 6 分镜的横向分镜图，然后在 Seedance 2.5 中将其用作分镜参考，提示词为 Use @[image] as storyboard reference for cinematic sequence，并指定哪一格是第一镜头（例如，use as first shot 01）。\n\n如果你的分镜图包含画格/边框/编号（film strip/grid），请明确指示 Seedance 忽略网格布局，只输出无缝的全屏镜头（例如，Absolutely NO frames, borders, film strips, numbers, UI, or text; Ignore grid layout completely）。\n\n通过在视频提示词中加入严格的一致性约束来锁定视觉连贯性（例如，Preserve exact color palette, lighting, and atmospheric details; seamless day-to-night transition; consistent anime aesthetic; glowing fireflies throughout）。\n\n通过将 15 秒视频拆分为与分镜格对应的定时镜头来控制节奏和连贯性（例如，Shot 1 0–3s = Panel 1, Shot 2 3–6s = Panel 2, etc.），并为每个镜头描述相机运动（push in, glide, pull back）。"
+    }
+  }
+}

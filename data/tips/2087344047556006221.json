@@ -1,0 +1,42 @@
+{
+  "id": "2087344047556006221",
+  "title": "TopView Film Studioでは用意されているSkillを使ってプロンプトを改良してからSeedanceで生成する",
+  "content": "TopView Film Studioでは用意されているSkillを使ってプロンプトを改良してからSeedanceで生成する  \nTopViewのCanvasでエージェントにCloud Fable5を選び、Seedance2.5向けに最適化したプロンプト作成を依頼する  \nちびキャラダンス×テキストモーション比較では、BGMやキャラの動き込み重視ならSeedance2.5側のBGMを適用して試す",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087343997262221312/img/O1C9Z5qRgbJThg0Z.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087344047556006221.mp4",
+  "sourceLink": "https://x.com/YaReYaRu30Life/status/2087344047556006221",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "ヤレヤル",
+    "link": "https://x.com/YaReYaRu30Life"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "TopView Film Studioでは用意されているSkillを使ってプロンプトを改良してからSeedanceで生成する  \nTopViewのCanvasでエージェントにCloud Fable5を選び、Seedance2.5向けに最適化したプロンプト作成を依頼する  \nちびキャラダンス×テキストモーション比較では、BGMやキャラの動き込み重視ならSeedance2.5側のBGMを適用して試す",
+  "translations": {
+    "en": {
+      "content": "In TopView Film Studio, refine the prompt using the available Skills before generating with Seedance.  \nIn TopView’s Canvas, select Cloud Fable5 for the agent and ask it to create a prompt optimized for Seedance 2.5.  \nFor the chibi character dance × text motion comparison, if you want to emphasize the BGM and the character’s movement, try applying the Seedance 2.5 BGM side.\n\n--- QUOTED TWEET ---\n[PR] Using TopView’s Canvas\nto compare Seedance 2.5 and MiniMax H3\nfor chibi character dance × text motion\n\nOne nice thing about TopView’s Canvas is that it offers a wide range of LLMs to choose from in the agent. This time, I asked Cloud Fable5 to create prompts optimized for each model.\n\nI thought H3 was stronger for text motion, but once you factor in the BGM and the character’s movement, I’m starting to think Seedance 2.5 might be better.\n(This time, the BGM from Seedance 2.5 was applied.)\n\nI heard Wan 3.0 will also be released on TopView soon, so once it’s available, I’d like to try another new comparison!\n---"
+    },
+    "es": {
+      "content": "En TopView Film Studio, se mejora el prompt usando las Skills disponibles antes de generar con Seedance.  \nEn el Canvas de TopView, se le pide al agente que elija Cloud Fable5 y que cree un prompt optimizado para Seedance2.5.  \nEn la comparación de chibi dance × text motion, si se prioriza el BGM y los movimientos del personaje, conviene probar aplicando el BGM del lado de Seedance2.5.\n\n--- TWEET CITADO ---\n【PR】Usando el Canvas de TopView\ncomparé el chibi dance × text motion de\nSeedance2.5 y MiniMaxH3\n\nEl Canvas de TopView\ntambién destaca por la gran variedad de LLM que se pueden elegir en el agente; esta vez\npedí a Cloud Fable5 que creara prompts optimizados para cada uno.\n\nPensaba que text motion era más fuerte en H3, pero\ncuando se incluyen el BGM y los movimientos del personaje, ¿no será mejor Seedance2.5? Eso es lo que he empezado a pensar.\n(En esta ocasión, el BGM aplicado es el de Seedance2.5)\n\nParece que pronto TopView también publicará Wan3.0, así que, en cuanto esté disponible, ¡me gustaría hacer otra comparación nueva!\n---"
+    },
+    "fr": {
+      "content": "Dans TopView Film Studio, utilisez les Skill disponibles pour améliorer le prompt avant de générer avec Seedance.  \nDans le Canvas de TopView, sélectionnez Cloud Fable5 dans l’agent et demandez-lui de créer un prompt optimisé pour Seedance2.5.  \nDans la comparaison « chibi character dance × text motion », si vous privilégiez la musique de fond et les mouvements du personnage, essayez d’appliquer le BGM côté Seedance2.5.\n\n--- TWEET CITÉ ---\n【PR】En utilisant le Canvas de TopView\nComparer le chibi character dance × text motion\nentre Seedance2.5 et MiniMaxH3\n\nLe Canvas de TopView a aussi l’avantage d’offrir un large choix de LLM sélectionnables via l’agent.  \nCette fois, j’ai demandé à Cloud Fable5 de créer des prompts optimisés pour chacun.\n\nJe pensais que le text motion était plus fort du côté de H3, mais en tenant compte du BGM et des mouvements du personnage, je commence à me dire que Seedance2.5 est peut-être meilleur.  \n(Pour cette fois, le BGM de Seedance2.5 a été appliqué.)\n\nIl paraît que Wan3.0 sera bientôt disponible sur TopView, donc dès sa sortie, j’aimerais refaire une nouvelle comparaison !  \n---"
+    },
+    "ko": {
+      "content": "TopView Film Studio에서는 준비된 Skill을 사용해 프롬프트를 다듬은 뒤 Seedance로 생성한다  \nTopView의 Canvas에서 에이전트로 Cloud Fable5를 선택하고, Seedance2.5에 맞게 최적화된 프롬프트 작성을 요청한다  \n치비 캐릭터 댄스 × 텍스트 모션 비교에서는 BGM이나 캐릭터의 움직임까지 포함해 중시한다면 Seedance2.5 쪽 BGM을 적용해 테스트해 본다\n\n--- QUOTED TWEET ---\n【PR】TopView의 Canvas를 사용해\nSeedance2.5와 MiniMaxH3의\n치비 캐릭터 댄스 × 텍스트 모션을 비교\n\nTopView의 Canvas는\n에이전트에서 선택할 수 있는 LLM이 풍부한 점도 반가운 부분인데, 이번에는\nCloud Fable5에 각각에 최적화되도록 프롬프트를 작성해 달라고 요청했습니다.\n\n텍스트 모션은 H3 쪽이 더 강하다고 생각했는데\nBGM이나 캐릭터의 움직임까지 포함하면 Seedance2.5 쪽이 더 좋지 않나? 하고 생각하기 시작했습니다.\n(이번 BGM은 Seedance2.5 쪽을 적용했습니다)\n\nTopView에서는 곧 Wan3.0도 공개된다고 하니, 공개되는 대로 또 새로운 비교를 해보고 싶습니다!\n---"
+    },
+    "pt": {
+      "content": "No TopView Film Studio, use os Skills disponíveis para refinar o prompt antes de gerar no Seedance.  \nNo Canvas do TopView, selecione Cloud Fable5 no agente e peça para criar um prompt otimizado para o Seedance2.5.  \nNa comparação entre chibi dance × text motion, se você priorizar o BGM e os movimentos do personagem, vale testar aplicando o BGM da versão Seedance2.5.\n\n--- QUOTED TWEET ---\n【PR】Usando o Canvas do TopView,\ncomparando o chibi dance × text motion\nentre Seedance2.5 e MiniMaxH3\n\nUma das coisas boas do Canvas do TopView\né a variedade de LLMs que podem ser escolhidos no agente.\nDesta vez, pedi ao Cloud Fable5 para criar prompts otimizados para cada um.\n\nEu achava que o text motion era mais forte no H3,\nmas, quando inclui BGM e os movimentos do personagem, estou começando a achar que o Seedance2.5 é melhor.\n(O BGM usado nesta vez foi o do Seedance2.5.)\n\nPelo que ouvi, o Wan3.0 também será lançado em breve no TopView, então, assim que for publicado, quero fazer novas comparações!\n---"
+    },
+    "zh": {
+      "content": "在 TopView Film Studio 中，先使用已准备好的 Skill 优化 prompt，再用 Seedance 生成  \n在 TopView 的 Canvas 里，让 agent 选择 Cloud Fable5，并请求其生成针对 Seedance2.5 优化的 prompt  \n在 chibi 角色舞蹈 × text motion 的对比中，如果更重视 BGM 和角色动作，建议应用 Seedance2.5 侧的 BGM 进行测试\n\n--- QUOTED TWEET ---\n【PR】使用 TopView 的 Canvas\n对比 Seedance2.5 和 MiniMaxH3 的\nchibi 角色舞蹈 × text motion\n\nTopView 的 Canvas\n让人高兴的一点是，agent 可选的 LLM 很丰富。这次我\n请 Cloud Fable5 分别生成了适配各自模型的 prompt。\n\n原本我以为 text motion 是 H3 更强，\n但如果加上 BGM 和角色动作的话，开始觉得 Seedance2.5 可能更好？\n（这次使用的是 Seedance2.5 的 BGM）\n\n据说 TopView 近期还会公开 Wan3.0，\n等上线后我也想再做一次新的对比！\n---"
+    }
+  }
+}

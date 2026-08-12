@@ -1,0 +1,41 @@
+{
+  "id": "2087173723002741207",
+  "title": "Seedance2.5で背景の室内イメージ1枚＋登場人物4名のキャラクターシート各1枚（計5枚）を添付して、15秒動画を一発生成する",
+  "content": "Seedance2.5で背景の室内イメージ1枚＋登場人物4名のキャラクターシート各1枚（計5枚）を添付して、15秒動画を一発生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087167180052008961/img/n87tPEHQDg81fOOW.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087173723002741207.mp4",
+  "sourceLink": "https://x.com/ponsuke_otowa/status/2087173723002741207",
+  "sourcePublishedAt": "2026-08-11",
+  "author": {
+    "name": "音羽ぽんすけ",
+    "link": "https://x.com/ponsuke_otowa"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "tips": "Seedance2.5で背景の室内イメージ1枚＋登場人物4名のキャラクターシート各1枚（計5枚）を添付して、15秒動画を一発生成する",
+  "translations": {
+    "fr": {
+      "content": "Générer en une seule fois une vidéo de 15 secondes en joignant, avec Seedance2.5, 1 image d’ambiance intérieure en arrière-plan + 1 character sheet pour chacun des 4 personnages principaux (soit 5 images au total)."
+    },
+    "en": {
+      "content": "Generate a 15-second video in one shot by attaching one background interior image and one character sheet image for each of the four characters in Seedance 2.5, for a total of five images."
+    },
+    "es": {
+      "content": "Generar de una sola vez un video de 15 segundos en Seedance 2.5 adjuntando 1 imagen del interior como fondo + 1 character sheet de cada uno de los 4 personajes que aparecen (5 imágenes en total)."
+    },
+    "ko": {
+      "content": "Seedance2.5에서 배경용 실내 이미지 1장 + 등장인물 4명의 캐릭터 시트 각 1장(총 5장)을 첨부해 15초 영상을 한 번에 생성하기"
+    },
+    "pt": {
+      "content": "Gerar um vídeo de 15 segundos de uma só vez, anexando 1 imagem de ambiente interno de fundo + 1 character sheet de cada um dos 4 personagens (total de 5 imagens) no Seedance2.5."
+    },
+    "zh": {
+      "content": "使用 Seedance2.5，附上 1 张背景室内场景图 + 4 名登场人物各 1 张角色设定图（共 5 张），一键生成 15 秒视频"
+    }
+  }
+}

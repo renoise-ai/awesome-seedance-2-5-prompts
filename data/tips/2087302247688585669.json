@@ -1,0 +1,42 @@
+{
+  "id": "2087302247688585669",
+  "title": "ショット規定（ショットの指定）と動作ルールだけを先に決めてプロンプトに入れると、Seedance2.5で演出を細かく書かなくても動きが出やすい",
+  "content": "ショット規定（ショットの指定）と動作ルールだけを先に決めてプロンプトに入れると、Seedance2.5で演出を細かく書かなくても動きが出やすい  \nキャラクターデザインとの相性で動きやすさが変わるため、動きが弱い場合はデザイン（形状・ディテール量など）を変えて検証する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087301724877062144/img/4HS6pcAtmrmDNbMg.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087302247688585669.mp4",
+  "sourceLink": "https://x.com/nbykos/status/2087302247688585669",
+  "sourcePublishedAt": "2026-08-11",
+  "author": {
+    "name": "NOBU",
+    "link": "https://x.com/nbykos"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "ショット規定（ショットの指定）と動作ルールだけを先に決めてプロンプトに入れると、Seedance2.5で演出を細かく書かなくても動きが出やすい  \nキャラクターデザインとの相性で動きやすさが変わるため、動きが弱い場合はデザイン（形状・ディテール量など）を変えて検証する",
+  "translations": {
+    "en": {
+      "content": "If you first define only the shot specifications (shot designation) and motion rules and put them into the prompt, Seedance 2.5 is more likely to produce movement even without writing out the direction in detail.  \nBecause ease of motion varies depending on how well it matches the character design, if the movement is weak, change the design (shape, amount of detail, etc.) and test again."
+    },
+    "es": {
+      "content": "Si primero defines solo las especificaciones de plano (la indicación del shot) y las reglas de movimiento, y las incluyes en el prompt, en Seedance2.5 es más fácil que aparezca movimiento sin necesidad de detallar tanto la dirección.  \nComo la facilidad de movimiento cambia según la compatibilidad con el diseño del personaje, si el movimiento es débil, conviene modificar el diseño (forma, cantidad de detalle, etc.) y comprobarlo."
+    },
+    "fr": {
+      "content": "Si l’on définit d’abord uniquement les règles de cadrage (spécification des shots) et les règles de mouvement dans le prompt, il devient plus facile d’obtenir du mouvement avec Seedance2.5, même sans décrire la mise en scène en détail.  \nComme l’aisance du mouvement varie selon l’adéquation avec le character design, si le mouvement est faible, il faut modifier le design (forme, niveau de détail, etc.) et tester à nouveau."
+    },
+    "ko": {
+      "content": "샷 규정(샷 지정)과 동작 규칙만 먼저 정해 프롬프트에 넣으면, Seedance2.5에서는 연출을 세세하게 쓰지 않아도 움직임이 잘 나오기 쉽다  \n캐릭터 디자인과의 궁합에 따라 움직임의 잘 나옴 정도가 달라지므로, 움직임이 약한 경우에는 디자인(형태, 디테일 양 등)을 바꿔가며 검증한다"
+    },
+    "pt": {
+      "content": "Ao definir primeiro apenas as especificações de shot (a indicação do shot) e as regras de movimento no prompt, o Seedance2.5 tende a gerar movimento com mais facilidade, mesmo sem descrever a direção em detalhes.  \nComo a facilidade de movimento varia conforme a compatibilidade com o design do personagem, se o movimento estiver fraco, teste alterando o design (forma, quantidade de detalhes etc.)."
+    },
+    "zh": {
+      "content": "如果先只确定镜头规定（镜头指定）和动作规则并写入 prompt，Seedance2.5 即使不细写演出，也更容易生成出动作。  \n由于动作表现会因角色设计的适配性而变化，如果动作较弱，就需要通过调整设计（形状、细节量等）来进行验证。"
+    }
+  }
+}

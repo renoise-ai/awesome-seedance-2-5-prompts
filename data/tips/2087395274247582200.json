@@ -1,0 +1,42 @@
+{
+  "id": "2087395274247582200",
+  "title": "背景画像と人物1名の画像を添付してSeedance2.5で生成する",
+  "content": "背景画像と人物1名の画像を添付してSeedance2.5で生成する  \nドラム演奏の動きはプロンプトでかなり詳細に記述して生成する  \n登場人物は4人以内に抑えてSeedance2.5で生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087394089092435968/img/TUet7tfbNH5mCA9M.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087395274247582200.mp4",
+  "sourceLink": "https://x.com/ponsuke_otowa/status/2087395274247582200",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "音羽ぽんすけ",
+    "link": "https://x.com/ponsuke_otowa"
+  },
+  "tags": [
+    "Music & Dance",
+    "Concert",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "背景画像と人物1名の画像を添付してSeedance2.5で生成する  \nドラム演奏の動きはプロンプトでかなり詳細に記述して生成する  \n登場人物は4人以内に抑えてSeedance2.5で生成する",
+  "translations": {
+    "en": {
+      "content": "Generate with Seedance 2.5 by attaching a background image and an image of one person.  \nDescribe the drum performance movements in the prompt in considerable detail when generating.  \nKeep the number of characters to four or fewer when generating with Seedance 2.5."
+    },
+    "es": {
+      "content": "Adjunta una imagen de fondo y una imagen de una persona para generar con Seedance2.5.  \nDescribe con bastante detalle en el prompt los movimientos de la interpretación de batería para generar el resultado.  \nMantén el número de personajes en cuatro o menos al generar con Seedance2.5."
+    },
+    "fr": {
+      "content": "Générer avec Seedance2.5 en joignant une image d’arrière-plan et une image d’une seule personne  \nDécrire en détail dans le prompt les mouvements de la performance de batterie pour la génération  \nLimiter le nombre de personnages à 4 maximum et générer avec Seedance2.5"
+    },
+    "ko": {
+      "content": "---\n배경 이미지와 인물 1명의 이미지를 첨부하여 Seedance2.5로 생성한다  \n드럼 연주의 움직임은 prompt에서 상당히 상세하게 기술하여 생성한다  \n등장인물은 4명 이내로 제한하여 Seedance2.5로 생성한다\n---"
+    },
+    "pt": {
+      "content": "Anexe uma imagem de fundo e a imagem de uma pessoa para gerar no Seedance2.5  \nDescreva com bastante detalhe, no prompt, os movimentos da performance de bateria para a geração  \nMantenha o número de personagens em até 4 e gere no Seedance2.5"
+    },
+    "zh": {
+      "content": "---\n附上背景图像和一张包含 1 名人物的图像，用 Seedance2.5 生成  \n鼓演奏的动作要在 prompt 中尽可能详细地描述后再生成  \n将登场人物控制在 4 人以内，用 Seedance2.5 生成\n---"
+    }
+  }
+}

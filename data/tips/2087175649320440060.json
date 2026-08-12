@@ -1,0 +1,41 @@
+{
+  "id": "2087175649320440060",
+  "title": "Use prompt clauses to add hyper-realistic UGC details like skin texture with…",
+  "content": "Use prompt clauses to add hyper-realistic UGC details like skin texture with visible pores, natural handheld camera drift, imperfect/unbalanced lighting, and lived-in room props (e.g., a charger cable on the nightstand).",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/adriansolarzz/status/2087175649320440060",
+  "sourcePublishedAt": "2026-08-11",
+  "author": {
+    "name": "Adrian Solarz",
+    "link": "https://x.com/adriansolarzz"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use prompt clauses to add hyper-realistic UGC details like skin texture with visible pores, natural handheld camera drift, imperfect/unbalanced lighting, and lived-in room props (e.g., a charger cable on the nightstand).",
+  "translations": {
+    "ja": {
+      "content": "プロンプトの句を使って、毛穴が見える肌の質感、自然な手持ちカメラの揺れ、完璧ではない不均一なライティング、そして使い込まれた部屋の小物（例：ナイトスタンドの上の充電ケーブル）といった、超リアルなUGCのディテールを加えます。"
+    },
+    "es": {
+      "content": "Usa cláusulas de prompt para añadir detalles UGC hiperrealistas, como textura de piel con poros visibles, un ligero movimiento natural de cámara en mano, iluminación imperfecta o desigual y accesorios de habitación con aspecto vivido (por ejemplo, un cable de cargador sobre la mesita de noche)."
+    },
+    "fr": {
+      "content": "Utilisez des clauses de prompt pour ajouter des détails UGC hyperréalistes comme une texture de peau avec des pores visibles, une légère dérive naturelle de la caméra à main levée, un éclairage imparfait/déséquilibré et des accessoires de pièce vécue (par ex. un câble de chargeur sur la table de nuit)."
+    },
+    "ko": {
+      "content": "프롬프트 절을 활용해, 보이는 모공이 있는 피부 질감, 자연스러운 핸드헬드 카메라 드리프트, 완벽하지 않고 균형이 맞지 않는 조명, 그리고 생활감 있는 방 소품(예: 침대 옆 탁자 위의 충전 케이블) 같은 하이퍼리얼리틱 UGC 디테일을 추가하세요."
+    },
+    "pt": {
+      "content": "Use cláusulas de prompt para adicionar detalhes de UGC hiper-realistas, como textura da pele com poros visíveis, leve tremor natural de câmera na mão, iluminação imperfeita/desequilibrada e objetos de cena de um ambiente vivido (por exemplo, um cabo de carregador na mesa de cabeceira)."
+    },
+    "zh": {
+      "content": "使用 prompt 语句添加超写实的 UGC 细节，例如带有可见毛孔的皮肤纹理、自然的手持相机漂移、不完美/不均衡的光线，以及有生活气息的房间道具（例如床头柜上的充电线）。"
+    }
+  }
+}
