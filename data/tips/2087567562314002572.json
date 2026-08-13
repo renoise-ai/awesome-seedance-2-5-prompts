@@ -1,0 +1,42 @@
+{
+  "id": "2087567562314002572",
+  "title": "Use Seedance 2.5’s native up-to-30-second generation to create a continuous…",
+  "content": "Use Seedance 2.5’s native up-to-30-second generation to create a continuous story instead of stitching five separate clips.  \nAdd timestamped instructions in your prompt to place specific actions and story beats at defined times across the 30-second sequence.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087567522417803264/img/VppZHGBN8cEfdrQr.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087567562314002572.mp4",
+  "sourceLink": "https://x.com/thetripathi58/status/2087567562314002572",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "Chidanand Tripathi",
+    "link": "https://x.com/thetripathi58"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5’s native up-to-30-second generation to create a continuous story instead of stitching five separate clips.  \nAdd timestamped instructions in your prompt to place specific actions and story beats at defined times across the 30-second sequence.",
+  "translations": {
+    "es": {
+      "content": "Usa la generación nativa de Seedance 2.5 de hasta 30 segundos para crear una historia continua en lugar de unir cinco clips separados.  \nAñade instrucciones con marca de tiempo en tu prompt para situar acciones específicas y momentos narrativos en tiempos definidos a lo largo de la secuencia de 30 segundos."
+    },
+    "fr": {
+      "content": "Utilisez la génération native jusqu’à 30 secondes de Seedance 2.5 pour créer une histoire continue au lieu d’assembler cinq clips séparés.  \nAjoutez dans votre prompt des instructions horodatées pour placer des actions spécifiques et des moments clés de l’histoire à des instants définis tout au long de la séquence de 30 secondes."
+    },
+    "ja": {
+      "content": "Seedance 2.5 のネイティブな最大30秒生成を使って、5つの別々のクリップをつなぎ合わせるのではなく、ひとつながりのストーリーを作成します。  \nprompt にタイムスタンプ付きの指示を加え、30秒のシーケンス全体で、特定のアクションやストーリービートを指定した時間に配置します。"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 네이티브 최대 30초 생성 기능을 사용해, 다섯 개의 개별 클립을 이어 붙이는 대신 하나의 연속적인 스토리를 만들어 보세요.  \nprompt에 타임스탬프가 포함된 지시를 추가해, 30초 시퀀스 전반의 특정 시점에 구체적인 동작과 스토리 비트를 배치하세요."
+    },
+    "pt": {
+      "content": "Use a geração nativa de até 30 segundos do Seedance 2.5 para criar uma história contínua, em vez de juntar cinco clipes separados.  \nAdicione instruções com marcação de tempo no seu prompt para posicionar ações específicas e pontos da narrativa em momentos definidos ao longo da sequência de 30 segundos."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 原生最长 30 秒的生成能力，来创作一个连续的故事，而不是把五个独立片段拼接在一起。  \n在你的 prompt 中加入带时间戳的指令，在 30 秒序列中的指定时间安排具体动作和故事节拍。"
+    }
+  }
+}

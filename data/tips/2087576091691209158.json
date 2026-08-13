@@ -1,0 +1,43 @@
+{
+  "id": "2087576091691209158",
+  "title": "Use ~10 reference images as per-frame guides to control scene transformations…",
+  "content": "Use ~10 reference images as per-frame guides to control scene transformations (e.g., gravity shifts, inverted streets, floating architecture) while maintaining cinematic continuity across the sequence.\n\nAssemble the guided frames into a single ~30-second Seedance 2.5 sequence to turn a concept into a continuous visual journey.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087547014192168960/img/S9mlEZxKLANNRwD8.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087576091691209158.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2087576091691209158",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Sci-Fi",
+    "Transformation",
+    "Tutorial"
+  ],
+  "tips": "Use ~10 reference images as per-frame guides to control scene transformations (e.g., gravity shifts, inverted streets, floating architecture) while maintaining cinematic continuity across the sequence.\n\nAssemble the guided frames into a single ~30-second Seedance 2.5 sequence to turn a concept into a continuous visual journey.",
+  "translations": {
+    "es": {
+      "content": "Usa ~10 imágenes de referencia como guías por fotograma para controlar las transformaciones de la escena (p. ej., cambios de gravedad, calles invertidas, arquitectura flotante) mientras mantienes la continuidad cinematográfica a lo largo de la secuencia.\n\nEnsambla los fotogramas guiados en una sola secuencia de Seedance 2.5 de ~30 segundos para convertir un concepto en un viaje visual continuo."
+    },
+    "fr": {
+      "content": "Utilisez environ 10 images de référence comme guides image par image pour contrôler les transformations de scène (par exemple, changements de gravité, rues inversées, architecture flottante) tout en conservant une continuité cinématique tout au long de la séquence.\n\nAssemblez les images guidées en une seule séquence Seedance 2.5 d’environ 30 secondes pour transformer un concept en un voyage visuel continu."
+    },
+    "ja": {
+      "content": "約10枚の参考画像をフレームごとのガイドとして使用し、シーンの変化（例：重力の変化、上下反転した街並み、浮遊する建築物）をコントロールしながら、シーケンス全体でcinematicな連続性を維持します。\n\nガイド付きのフレームを1つの約30秒のSeedance 2.5シーケンスにまとめ、コンセプトを途切れのないビジュアルジャーニーへと変換します。"
+    },
+    "ko": {
+      "content": "약 10장의 reference image를 프레임별 가이드로 사용해, 시퀀스 전반의 cinematic continuity를 유지하면서 장면 변환(예: 중력 변화, 뒤집힌 거리, 공중에 떠 있는 건축물)을 제어합니다.\n\n가이드된 프레임들을 하나의 약 30초 분량 Seedance 2.5 시퀀스로 구성해, 콘셉트를 하나의 연속적인 visual journey로 완성합니다."
+    },
+    "pt": {
+      "content": "Use cerca de 10 imagens de referência como guias quadro a quadro para controlar as transformações da cena (por exemplo, mudanças de gravidade, ruas invertidas, arquitetura flutuante), mantendo a continuidade cinematográfica ao longo da sequência.\n\nMonte os quadros guiados em uma única sequência de cerca de 30 segundos no Seedance 2.5 para transformar um conceito em uma jornada visual contínua."
+    },
+    "zh": {
+      "content": "使用约 10 张参考图作为逐帧引导，控制场景变化（例如重力变化、街道倒置、建筑悬浮），同时在整个序列中保持 cinematic 连贯性。\n\n将这些受引导的帧整合为一个约 30 秒的 Seedance 2.5 序列，把一个概念转化为一段连续的视觉旅程。"
+    }
+  }
+}

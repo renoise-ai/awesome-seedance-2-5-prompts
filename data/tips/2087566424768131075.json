@@ -1,0 +1,42 @@
+{
+  "id": "2087566424768131075",
+  "title": "Usa solo un audio como referencia (pista o voz) para que Seedance 2.5 corte el…",
+  "content": "Usa solo un audio como referencia (pista o voz) para que Seedance 2.5 corte el vídeo al ritmo y aplique lip sync automáticamente.  \nCambia el flujo de trabajo a sonido primero y luego imagen: define el audio de referencia antes de escribir el prompt visual.  \nEn Morphic, ajusta elementos puntuales (ropa, luz, fondo) sin regenerar todo el vídeo para mantener cámara y pacing intactos.",
+  "language": "es",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087566284196089856/img/2q9cq9ONY78mA819.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087566424768131075.mp4",
+  "sourceLink": "https://x.com/igus_ai/status/2087566424768131075",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "gus",
+    "link": "https://x.com/igus_ai"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Usa solo un audio como referencia (pista o voz) para que Seedance 2.5 corte el vídeo al ritmo y aplique lip sync automáticamente.  \nCambia el flujo de trabajo a sonido primero y luego imagen: define el audio de referencia antes de escribir el prompt visual.  \nEn Morphic, ajusta elementos puntuales (ropa, luz, fondo) sin regenerar todo el vídeo para mantener cámara y pacing intactos.",
+  "translations": {
+    "en": {
+      "content": "Use only one audio reference (track or voice) so Seedance 2.5 cuts the video to the beat and applies lip sync automatically.  \nShift the workflow to sound first and then image: define the reference audio before writing the visual prompt.  \nIn Morphic, adjust specific elements (clothing, lighting, background) without regenerating the entire video to keep the camera and pacing intact.\n\n--- THREAD CONTINUATION ---\n[Thread 1] The detail almost nobody is looking at:\n\nyou can pass in just one audio reference.\n\n→ you give it a track or a voice\n→ the video cuts to the beat\n→ and lip sync comes included\n\nThat changes the entire workflow order.\n\nFirst sound, then image.\n\n[Thread 2] Real production time:\n\n→ choosing references: a couple of minutes\n→ writing the prompt: one\n→ generating: the model working\n→ adjustments with Morphic’s quick actions\n\nWithout leaving the tab. Without installing anything.\n\n[Thread 3] And if something doesn’t feel right, you don’t repeat the whole generation.\n\nYou change just one thing.\n\nClothing, lighting, background.\n\nCamera and pacing intact.\n\n[Thread 4] Seedance 2.5 is now available in Morphic.\n\nMake one tonight and show it to me.\n\nLink below\n\n[Thread 5] https://t.co/A08M2VQv2N\n---"
+    },
+    "fr": {
+      "content": "Utilisez uniquement un audio comme référence (piste ou voix) pour que Seedance 2.5 découpe la vidéo au rythme et applique automatiquement le lip sync.  \nPassez le flux de travail en mode son d’abord, puis image : définissez l’audio de référence avant d’écrire le prompt visuel.  \nDans Morphic, ajustez des éléments précis (vêtements, lumière, arrière-plan) sans régénérer toute la vidéo afin de conserver la caméra et le pacing intacts.\n\n--- SUITE DU THREAD ---\n[Thread 1] Le détail que presque personne ne regarde :\n\nvous pouvez lui passer uniquement un audio comme référence.\n\n→ vous lui donnez une piste ou une voix\n→ la vidéo se découpe au rythme\n→ et le lip sync est inclus\n\nCela change complètement l’ordre de travail. \n\nD’abord le son, puis l’image.\n\n[Thread 2] Temps réel de production :\n\n→ choisir les références : quelques minutes\n→ écrire le prompt : une minute\n→ générer : le modèle travaille\n→ ajustements avec les actions rapides de Morphic\n\nSans quitter l’onglet. Sans rien installer.\n\n[Thread 3] Et si quelque chose ne vous convient pas, vous ne relancez pas toute la génération.\n\nVous changez une seule chose.\n\nVêtements, lumière, arrière-plan.\n\nCaméra et pacing intacts.\n\n[Thread 4] Seedance 2.5 est déjà disponible dans Morphic.\n\nFaites-en un ce soir et montrez-le-moi.\n\nLien ci-dessous\n\n[Thread 5] https://t.co/A08M2VQv2N\n---"
+    },
+    "ja": {
+      "content": "Seedance 2.5 では、参照として 1 つの音声（トラックまたは声）だけを使って、動画をリズムに合わせてカットし、lip sync を自動適用できます。  \nワークフローを「音声ファースト、映像はその後」に切り替えましょう。ビジュアルの prompt を書く前に、まず参照音声を定義します。  \nMorphic では、動画全体を再生成せずに、服装・光・背景などの個別要素を調整できるため、カメラや pacing をそのまま維持できます。\n\n--- THREAD CONTINUATION ---\n[Thread 1] ほとんど誰も見ていないポイント:\n\n参照として音声だけを渡せます。\n\n→ トラックや声を与える\n→ 動画がリズムに合わせてカットされる\n→ lip sync も自動で付く\n\nこれで作業の順番が完全に変わります。 \n\nまず音、次に映像。\n\n[Thread 2] 実制作の所要時間:\n\n→ 参照を選ぶ: 数分\n→ prompt を書く: 1 分\n→ 生成: モデルが処理中\n→ Morphic のクイックアクションで調整\n\nタブを離れずに完結。何もインストール不要。\n\n[Thread 3] もし何かがしっくりこなければ、生成を最初からやり直す必要はありません。\n\n1 つだけ変えればいい。\n\n服装、光、背景。\n\nカメラと pacing はそのまま。\n\n[Thread 4] Seedance 2.5 はすでに Morphic で利用できます。\n\n今夜ひとつ作って、見せてください。\n\nリンクは下\n\n[Thread 5] https://t.co/A08M2VQv2N\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5가 비디오를 리듬에 맞춰 컷 편집하고 lip sync를 자동으로 적용하도록, 오디오 하나만 레퍼런스로 사용하세요(트랙 또는 음성).  \n작업 흐름을 소리 우선, 이미지 후순위로 바꾸세요: 비주얼 prompt를 쓰기 전에 먼저 레퍼런스 오디오를 정의합니다.  \nMorphic에서는 카메라와 pacing을 그대로 유지한 채, 비디오 전체를 다시 생성하지 않고도 의상, 조명, 배경 같은 특정 요소를 조정할 수 있습니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 거의 아무도 주목하지 않는 디테일:\n\n오디오 하나만 레퍼런스로 넘길 수 있습니다.\n\n→ 트랙이나 음성을 넣으면\n→ 비디오가 리듬에 맞춰 컷 편집되고\n→ lip sync도 함께 적용됩니다\n\n이게 작업 순서 전체를 바꿉니다. \n\n먼저 소리, 그다음 이미지.\n\n[Thread 2] 실시간 제작 흐름:\n\n→ 레퍼런스 선택: 몇 분\n→ prompt 작성: 1분\n→ 생성: 모델이 작업 중\n→ Morphic의 빠른 액션으로 조정\n\n탭을 벗어나지 않아도 됩니다. 아무것도 설치할 필요도 없습니다.\n\n[Thread 3] 그리고 뭔가 마음에 들지 않으면, 전체 생성을 다시 할 필요가 없습니다.\n\n한 가지만 바꾸면 됩니다.\n\n의상, 조명, 배경.\n\n카메라와 pacing은 그대로 유지됩니다.\n\n[Thread 4] Seedance 2.5가 이제 Morphic에서 사용 가능합니다.\n\n오늘 밤 하나 만들어서 보여주세요.\n\n아래 링크\n\n[Thread 5] https://t.co/A08M2VQv2N"
+    },
+    "pt": {
+      "content": "Use apenas um áudio como referência (faixa ou voz) para que o Seedance 2.5 corte o vídeo no ritmo e aplique lip sync automaticamente.  \nMude o fluxo de trabalho para primeiro o som e depois a imagem: defina o áudio de referência antes de escrever o prompt visual.  \nNo Morphic, ajuste elementos pontuais (roupa, luz, fundo) sem regenerar todo o vídeo para manter a câmera e o pacing intactos.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] O detalhe que quase ninguém está olhando:\n\nvocê pode passar apenas um áudio como referência.\n\n→ você dá uma faixa ou uma voz\n→ o vídeo corta no ritmo\n→ e o lip sync já vem incluído\n\nIsso muda toda a ordem de trabalho. \n\nPrimeiro o som, depois a imagem.\n\n[Thread 2] Tempo real de produção:\n\n→ escolher referências: alguns minutos\n→ escrever o prompt: um\n→ gerar: o modelo trabalhando\n→ ajustes com as ações rápidas do Morphic\n\nSem sair da aba. Sem instalar nada.\n\n[Thread 3] E se algo não ficar como você quer, você não repete a geração inteira.\n\nVocê muda só uma coisa.\n\nRoupa, luz, fundo.\n\nCâmera e pacing intactos.\n\n[Thread 4] O Seedance 2.5 já está disponível no Morphic.\n\nFaça um hoje à noite e me mostre.\n\nLink abaixo\n\n[Thread 5] https://t.co/A08M2VQv2N"
+    },
+    "zh": {
+      "content": "只需使用一段音频作为参考（音轨或人声），Seedance 2.5 就会按节奏剪辑视频，并自动应用 lip sync。  \n把工作流程改成先声音、后画面：在写视觉 prompt 之前，先确定参考音频。  \n在 Morphic 中，可以只调整局部元素（服装、光线、背景），而无需重新生成整个视频，从而保持镜头和 pacing 不变。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 几乎没人注意到的细节：\n\n你可以只给它一段音频作为参考。\n\n→ 给它一段音轨或人声  \n→ 视频会按节奏剪辑  \n→ 还会自带 lip sync\n\n这会彻底改变整个工作顺序。 \n\n先声音，后画面。\n\n[Thread 2] 实时制作流程：\n\n→ 选择参考：几分钟  \n→ 写 prompt：1 分钟  \n→ 生成：模型在运行  \n→ 用 Morphic 的快速操作进行调整\n\n无需离开标签页。无需安装任何东西。\n\n[Thread 3] 如果有哪里不对，你也不用重新生成整个视频。\n\n只改一处就行。\n\n服装、光线、背景。\n\n镜头和 pacing 保持不变。\n\n[Thread 4] Seedance 2.5 现已在 Morphic 中可用。\n\n今晚做一个给我看看。\n\n链接在下方\n\n[Thread 5] https://t.co/A08M2VQv2N\n---"
+    }
+  }
+}

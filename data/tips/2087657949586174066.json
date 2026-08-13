@@ -1,0 +1,42 @@
+{
+  "id": "2087657949586174066",
+  "title": "In Seedance 2.5, try maintaining fight-scene consistency using only prompts…",
+  "content": "In Seedance 2.5, try maintaining fight-scene consistency using only prompts plus image references instead of relying on a depth map.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087657898310762496/img/-JeWaKDnc_p8MrFZ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087657949586174066.mp4",
+  "sourceLink": "https://x.com/junwatu/status/2087657949586174066",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "DΞV",
+    "link": "https://x.com/junwatu"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "In Seedance 2.5, try maintaining fight-scene consistency using only prompts plus image references instead of relying on a depth map.",
+  "translations": {
+    "es": {
+      "content": "En Seedance 2.5, intenta mantener la consistencia de las escenas de pelea usando solo prompts y referencias de imagen, en lugar de depender de un mapa de profundidad."
+    },
+    "fr": {
+      "content": "Dans Seedance 2.5, essayez de maintenir la cohérence des scènes de combat en utilisant uniquement des prompts et des références d’image, plutôt qu’en vous appuyant sur une depth map."
+    },
+    "ja": {
+      "content": "Seedance 2.5では、depth mapに頼るのではなく、promptと画像参照だけを使って、戦闘シーンの一貫性を維持してみてください。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서는 depth map에 의존하지 않고, prompt와 이미지 reference만 사용해 격투 장면의 일관성을 유지해 보세요."
+    },
+    "pt": {
+      "content": "No Seedance 2.5, tente manter a consistência de cenas de luta usando apenas prompts e referências de imagem, em vez de depender de um mapa de profundidade."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中，尝试仅使用 prompt 加上图像参考来保持打斗场景的一致性，而不是依赖深度图。"
+    }
+  }
+}

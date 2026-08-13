@@ -1,0 +1,42 @@
+{
+  "id": "2087360557724909580",
+  "title": "Use Seedance 2.5 with short, simple, natural-language prompts (avoid long…",
+  "content": "Use Seedance 2.5 with short, simple, natural-language prompts (avoid long, overly complicated LLM-written prompts) for better results, especially in action scenes.  \nPrompt each specific action/move explicitly (in simple natural language) to improve action coherence and reduce randomness.  \nTo preserve quality across shots, take frames from a generated video and reuse them as keyframes for the next shot to extend the sequence without gradual degradation (Seedance 2.5).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087360155717713920/img/zVzddQEEZop-NQkQ.jpg",
+  "videoUrl": "https://video.twimg.com/amplify_video/2087360155717713920/vid/avc1/1920x1080/3ql_c7LFiNqIxRd9.mp4",
+  "sourceLink": "https://x.com/sithdaddyx/status/2087360557724909580",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "Sith Daddy",
+    "link": "https://x.com/sithdaddyx"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 with short, simple, natural-language prompts (avoid long, overly complicated LLM-written prompts) for better results, especially in action scenes.  \nPrompt each specific action/move explicitly (in simple natural language) to improve action coherence and reduce randomness.  \nTo preserve quality across shots, take frames from a generated video and reuse them as keyframes for the next shot to extend the sequence without gradual degradation (Seedance 2.5).",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 con prompts cortos, simples y en lenguaje natural (evita prompts largos y demasiado complicados escritos por un LLM) para obtener mejores resultados, especialmente en escenas de acción.  \nIndica explícitamente cada acción o movimiento específico (en lenguaje natural simple) para mejorar la coherencia de la acción y reducir la aleatoriedad.  \nPara preservar la calidad entre planos, toma fotogramas de un video generado y reutilízalos como keyframes para el siguiente plano, de modo que puedas extender la secuencia sin una degradación gradual (Seedance 2.5)."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 avec des prompts courts, simples et en langage naturel (évitez les prompts longs et trop complexes rédigés par un LLM) pour obtenir de meilleurs résultats, surtout dans les scènes d’action.  \nDécrivez explicitement chaque action/mouvement spécifique dans le prompt (en langage naturel simple) afin d’améliorer la cohérence des actions et de réduire l’aléatoire.  \nPour préserver la qualité d’un plan à l’autre, extrayez des frames d’une vidéo générée et réutilisez-les comme keyframes pour le plan suivant afin d’étendre la séquence sans dégradation progressive (Seedance 2.5)."
+    },
+    "ja": {
+      "content": "Seedance 2.5では、短く、シンプルで、自然な言語のpromptを使うと、より良い結果が得られます。特にアクションシーンでは、長くて複雑すぎるLLM生成のpromptは避けてください。  \n各アクションや動きは、必ず個別に、明確に（シンプルな自然言語で）promptしてください。そうすることで、アクションの一貫性が向上し、ランダム性を抑えられます。  \nショット間で品質を保つには、生成した動画からフレームを取り出し、それを次のショットのキーフレームとして再利用して、徐々に劣化することなくシーケンスを延長します（Seedance 2.5）。"
+    },
+    "ko": {
+      "content": "더 나은 결과를 위해, 특히 액션 장면에서는 Seedance 2.5에 짧고 단순한 자연어 prompt를 사용하세요(길고 지나치게 복잡한 LLM 작성 prompt는 피하세요).  \n액션의 일관성을 높이고 랜덤성을 줄이기 위해, 각 구체적인 동작/움직임을 간단한 자연어로 명시적으로 prompt하세요.  \n샷 전반의 품질을 유지하려면, 생성된 비디오에서 프레임을 추출해 다음 샷의 keyframe으로 재사용하여 점진적인 품질 저하 없이 시퀀스를 확장하세요(Seedance 2.5)."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 com prompts curtos, simples e em linguagem natural (evite prompts longos e excessivamente complicados, escritos por LLM) para obter melhores resultados, especialmente em cenas de ação.  \nDescreva explicitamente cada ação/movimento específico (em linguagem natural simples) para melhorar a coerência da ação e reduzir a aleatoriedade.  \nPara preservar a qualidade entre os takes, capture frames de um vídeo gerado e reutilize-os como keyframes para o take seguinte, a fim de estender a sequência sem degradação gradual (Seedance 2.5)."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 时，建议使用简短、简单、自然语言的 prompts（避免冗长、过于复杂的 LLM 风格 prompts），这样能获得更好的效果，尤其是在动作场景中。  \n针对每个具体动作/移动都要明确地进行 prompt（用简单自然语言），以提升动作连贯性并减少随机性。  \n为了在不同镜头之间保持质量，可以从生成的视频中截取帧，并将其作为下一个镜头的 keyframes 复用，从而在不逐渐降质的情况下延长序列（Seedance 2.5）。"
+    }
+  }
+}

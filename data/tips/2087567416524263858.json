@@ -1,0 +1,43 @@
+{
+  "id": "2087567416524263858",
+  "title": "Use Seedance 2.5 to create a one-take continuous shot by prompting for a single…",
+  "content": "Use Seedance 2.5 to create a one-take continuous shot by prompting for a single continuous camera move (no cuts, no compositing) through a consistent location while the scene rewinds/ages over time.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087565976359620608/img/2bsLhVptVIb_nNzW.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087567416524263858.mp4",
+  "sourceLink": "https://x.com/PerluAgency/status/2087567416524263858",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "Perlu Agency",
+    "link": "https://x.com/PerluAgency"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "Use Seedance 2.5 to create a one-take continuous shot by prompting for a single continuous camera move (no cuts, no compositing) through a consistent location while the scene rewinds/ages over time.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 para crear un plano secuencia continuo, indicando un único movimiento de cámara continuo (sin cortes ni compositing) a través de una ubicación coherente mientras la escena se rebobina o envejece con el tiempo."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 pour créer un plan-séquence en une seule prise en demandant un mouvement de caméra continu unique (sans coupe, sans compositing) dans un lieu cohérent, tandis que la scène remonte le temps / vieillit au fil du temps."
+    },
+    "ja": {
+      "content": "Seedance 2.5 を使って、シーンが時間の経過とともに巻き戻る／老いていく中で、一貫したロケーションを通して単一の連続したカメラ移動（カットなし、合成なし）を指示し、ワンテイクの連続ショットを作成します。"
+    },
+    "ko": {
+      "content": "Seedance 2.5를 사용해, 하나의 연속적인 카메라 움직임(컷 없음, 합성 없음)으로 일관된 장소를 따라가며 장면이 시간의 흐름에 따라 되감기되거나 노화되는 원테이크 연속 샷을 생성하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 para criar um plano-sequência contínuo, solicitando um único movimento de câmera contínuo (sem cortes, sem composição) por um local consistente enquanto a cena retrocede/envelhece ao longo do tempo."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5，通过提示一个单一、连续的镜头运动（无剪切、无合成），在一个一致的场景中拍摄一镜到底的连续镜头，同时让场景随着时间倒放/老化。"
+    }
+  }
+}

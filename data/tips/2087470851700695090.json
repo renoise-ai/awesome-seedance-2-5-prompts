@@ -1,0 +1,42 @@
+{
+  "id": "2087470851700695090",
+  "title": "Canvasの3D Shot Composerで基本図形を配置して構図（例：冒頭カット）を先に作ってからSeedance 2.5で生成する",
+  "content": "Canvasの3D Shot Composerで基本図形を配置して構図（例：冒頭カット）を先に作ってからSeedance 2.5で生成する  \n30秒動画は一発生成せず、5〜15秒の短尺クリップを複数生成して編集で繋いで作る  \n欲しいカット内容をエージェントに具体的に伝えて、その指示ごとに動画クリップを生成させる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087469512442724352/img/zuHiDMmKEsA8crfl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087470851700695090.mp4",
+  "sourceLink": "https://x.com/BeamManP/status/2087470851700695090",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "ビームマンＰ ver40",
+    "link": "https://x.com/BeamManP"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Canvasの3D Shot Composerで基本図形を配置して構図（例：冒頭カット）を先に作ってからSeedance 2.5で生成する  \n30秒動画は一発生成せず、5〜15秒の短尺クリップを複数生成して編集で繋いで作る  \n欲しいカット内容をエージェントに具体的に伝えて、その指示ごとに動画クリップを生成させる",
+  "translations": {
+    "en": {
+      "content": "Create the composition first in Canvas’s 3D Shot Composer by placing basic shapes, then generate it with Seedance 2.5  \nFor a 30-second video, don’t generate it in one shot; instead, create multiple short clips of 5–15 seconds and stitch them together in editing  \nTell the agent exactly what kind of shot you want, and have it generate a video clip for each instruction\n\n--- THREAD CONTINUATION ---\n[Thread 1] What is 3D Shot Composer!\n\nIt’s a feature that lets you quickly build a composition by placing basic shapes like this! (for opening shots, etc.)\n\nIt’s actually really useful https://t.co/rDYv2wLSnQ\n\n[Thread 2] This video was created by generating multiple clips ranging from 5 to 15 seconds and then editing them together.\n\nWhen I told the agent, “I want a shot like this!”, it generated the video at a pretty nice pace.\n\n@TopviewAIJP https://t.co/Bla19htZfN"
+    },
+    "es": {
+      "content": "Crear primero la composición con formas básicas en el 3D Shot Composer de Canvas y luego generar con Seedance 2.5  \nNo generar un video de 30 segundos de una sola vez; crear varios clips cortos de 5 a 15 segundos y unirlos en la edición  \nIndicarle al agente de forma concreta el contenido de la toma que quieres y hacer que genere un clip de video para cada instrucción\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] ¡Qué es 3D Shot Composer!\n\n¡Es una función que permite crear rápidamente la composición colocando formas básicas así! (como la toma inicial)\n\nDe verdad es útil https://t.co/rDYv2wLSnQ\n\n[Hilo 2] Este video se creó generando varios videos de 5 a 15 segundos y luego editándolos.\n\nDecirle al agente algo como: «¡Quiero una toma así!» y que se genere el video tiene un ritmo bastante bueno.\n\n@TopviewAIJP https://t.co/Bla19htZfN"
+    },
+    "fr": {
+      "content": "Créer d’abord la composition avec des formes de base dans le 3D Shot Composer de Canvas, puis générer avec Seedance 2.5  \nNe pas générer une vidéo de 30 secondes en une seule fois ; créer plusieurs clips courts de 5 à 15 secondes, puis les assembler au montage  \nDécrire précisément à l’agent le type de plan souhaité, et lui faire générer un clip vidéo pour chaque instruction\n\n--- SUITE DU THREAD ---\n[Thread 1] Qu’est-ce que le 3D Shot Composer !\n\nC’est une fonctionnalité qui permet de créer rapidement une composition en plaçant des formes de base comme ceci ! (par exemple, un plan d’ouverture)\n\nTrès pratique en vrai https://t.co/rDYv2wLSnQ\n\n[Thread 2] Pour cette vidéo, nous avons généré plusieurs vidéos de 5 à 15 secondes, puis les avons assemblées au montage.\n\nLe fait de dire à l’agent : « Je veux un plan comme ça ! » et de voir la vidéo se générer avait un rythme vraiment agréable.\n\n@TopviewAIJP https://t.co/Bla19htZfN"
+    },
+    "ko": {
+      "content": "Canvas의 3D Shot Composer에서 기본 도형을 배치해 구도(예: 오프닝 샷)를 먼저 만든 뒤 Seedance 2.5로 생성한다  \n30초짜리 영상은 한 번에 생성하지 않고, 5~15초의 짧은 클립을 여러 개 생성해 편집으로 이어 붙여 만든다  \n원하는 컷 내용을 에이전트에게 구체적으로 전달하고, 그 지시마다 영상 클립을 생성하게 한다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 3D Shot Composer란!\n\n이런 식으로 기본 도형을 배치해서 구도를 간단하게 만들 수 있는 기능이다! (오프닝 샷 같은 것들)\n\n실제로 꽤 유용하다 https://t.co/rDYv2wLSnQ\n\n[Thread 2] 이번 영상은 5초에서 15초 길이의 영상을 여러 개 생성해 편집해서 만들었습니다.\n\n에이전트에게 “이런 컷이 필요한데!”라고 말하면 영상이 생성되는 흐름이 꽤 좋은 템포감이었습니다.\n\n@TopviewAIJP https://t.co/Bla19htZfN"
+    },
+    "pt": {
+      "content": "Canvas no 3D Shot Composer, posicione formas básicas para montar a composição (por exemplo, o plano de abertura) antes de gerar com o Seedance 2.5  \nNão gere um vídeo de 30 segundos de uma vez; crie vários clipes curtos de 5 a 15 segundos e depois una tudo na edição  \nExplique de forma específica ao agente o tipo de cena que você quer e faça com que ele gere um clipe de vídeo para cada instrução\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] O que é o 3D Shot Composer!\n\nÉ um recurso que permite montar rapidamente a composição posicionando formas básicas desse jeito! (como o plano de abertura)\n\nNa prática, é muito útil https://t.co/rDYv2wLSnQ\n\n[Thread 2] Neste vídeo, foram gerados vários vídeos de 5 a 15 segundos e depois tudo foi editado para a versão final.\n\nQuando eu dizia ao agente algo como: “Quero um plano assim!”, o vídeo era gerado — e o ritmo disso ficou bem legal.\n\n@TopviewAIJP https://t.co/Bla19htZfN"
+    },
+    "zh": {
+      "content": "在 Canvas 的 3D Shot Composer 中先摆放基本图形来搭建构图（例如开场镜头），再用 Seedance 2.5 生成  \n30 秒视频不要一次性生成，而是生成多个 5～15 秒的短片段，再通过剪辑拼接完成  \n把你想要的镜头内容具体告诉 agent，让它根据每条指示生成对应的视频片段\n\n--- THREAD CONTINUATION ---\n[Thread 1] 3D Shot Composer 是什么！\n\n就是像这样通过摆放基本图形，快速搭建构图的功能！（比如开场镜头之类）\n\n实际用起来很方便 https://t.co/rDYv2wLSnQ\n\n[Thread 2] 这次的视频是生成了多个 5 秒到 15 秒的视频，再通过剪辑制作完成的。\n\n只要对 agent 说“我想要这样的镜头！”它就会生成视频，节奏感相当不错。\n\n@TopviewAIJP https://t.co/Bla19htZfN"
+    }
+  }
+}

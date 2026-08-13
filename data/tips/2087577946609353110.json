@@ -1,0 +1,42 @@
+{
+  "id": "2087577946609353110",
+  "title": "Use Seedance 2.5 (instead of 2.0) when generating from storyboard/shot…",
+  "content": "Use Seedance 2.5 (instead of 2.0) when generating from storyboard/shot reference images to get higher adherence to the storyboard.  \nIf your reference/storyboard image has flaws you don’t want reproduced, fix/clean the reference first—Seedance 2.5 may copy the flaw directly.  \nIf your reference/storyboard image is square-ish but you need a vertical output, set the output aspect ratio to 9:16.",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087572105483239424/img/W_l4n0P-g_wa-8cH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087577946609353110.mp4",
+  "sourceLink": "https://x.com/MrLarus/status/2087577946609353110",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "Larus Canus",
+    "link": "https://x.com/MrLarus"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 (instead of 2.0) when generating from storyboard/shot reference images to get higher adherence to the storyboard.  \nIf your reference/storyboard image has flaws you don’t want reproduced, fix/clean the reference first—Seedance 2.5 may copy the flaw directly.  \nIf your reference/storyboard image is square-ish but you need a vertical output, set the output aspect ratio to 9:16.",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2.5 (instead of 2.0) when generating from storyboard/shot reference images to get higher adherence to the storyboard.  \nIf your reference/storyboard image has flaws you don’t want reproduced, fix/clean the reference first—Seedance 2.5 may copy the flaw directly.  \nIf your reference/storyboard image is square-ish but you need a vertical output, set the output aspect ratio to 9:16.\n\n--- QUOTED TWEET ---\n🤯So realistic it’s almost absurd!\nI used ChatGPT + Seedance to build a “real iPhone photo album + Vlog” workflow, and the results were insane! 💥\n\nI generated: a Barcelona couple travel Vlog\nGrain, blur, shaky hands, wind-tousled hair, mid-motion candid shots…\nThat authentic, casually captured everyday feel is so much like a real photo album!\n\nThe key is that this method is fully universal:\nIt works for couples / solo / best friends / parents and kids, and you can swap in any city you want—it can even generate Vlog videos with one click!\n\nCheck the comments for the full workflow + prompts 👇\n---"
+    },
+    "es": {
+      "content": "Usa Seedance 2.5 (en lugar de 2.0) al generar a partir de imágenes de storyboard/referencia de planos para lograr una mayor fidelidad al storyboard.  \nSi tu imagen de referencia/storyboard tiene defectos que no quieres que se reproduzcan, corrige/limpia primero la referencia: Seedance 2.5 puede copiar el defecto directamente.  \nSi tu imagen de referencia/storyboard es casi cuadrada pero necesitas una salida vertical, configura la relación de aspecto de salida en 9:16.\n\n--- TUIT CITADO ---\n🤯¡Realista hasta el absurdo!\nUsé ChatGPT+Seedance para crear un flujo de trabajo de «álbum realista de iPhone + Vlog» y el resultado fue brutal. 💥\n\nGeneré: un Vlog de viaje de una pareja en Barcelona\nGrano, desenfoque, temblor de mano, pelo despeinado por el viento, capturas en mid-motion…\n¡Esa sensación de vida real, como si se hubiera tomado por casualidad, se siente exactamente como un álbum real de una persona!\n\nLo importante es que este método es totalmente universal:\nsirve para parejas/una sola persona/mejores amigas/familia con niños; puedes cambiar de ciudad libremente y también generar videos Vlog con un solo clic.\n\nFlujo de trabajo completo + prompt en los comentarios 👇\n---"
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 (au lieu de 2.0) lors de la génération à partir d’images de storyboard/de référence de plans afin d’obtenir une meilleure fidélité au storyboard.  \nSi votre image de référence/storyboard comporte des défauts que vous ne souhaitez pas reproduire, corrigez/nettoyez d’abord la référence — Seedance 2.5 peut copier le défaut directement.  \nSi votre image de référence/storyboard est plutôt carrée mais que vous avez besoin d’une sortie verticale, réglez le format de sortie sur 9:16.\n\n--- TWEET CITÉ ---\n🤯 Réaliste à un point absurde !\nJ’ai utilisé ChatGPT + Seedance pour créer un workflow « album photo iPhone réaliste + Vlog » et le résultat est complètement dingue ! 💥\n\nJ’ai généré : un Vlog de voyage en couple à Barcelone\nGrain, flou, tremblement de main, cheveux ébouriffés par le vent, captures mid-motion…\nCette sensation de vraie vie, prise sur le vif, ressemble tellement à un album photo réel !\n\nLe plus important, c’est que cette méthode est totalement universelle :\nelle prend en charge les couples / les solos / les meilleures amies / les parents et enfants, fonctionne pour n’importe quelle ville, et peut même générer une vidéo Vlog en un clic !\n\nWorkflow complet + prompt à voir dans les commentaires 👇"
+    },
+    "ja": {
+      "content": "Seedance 2.5（2.0ではなく）を、ストーリーボード／ショット参照画像から生成する際に使うと、ストーリーボードへの忠実度がより高くなります。  \n参照／ストーリーボード画像に再現してほしくない欠点がある場合は、先に参照画像を修正・クリーンアップしてください。Seedance 2.5 はその欠点まで直接コピーしてしまうことがあります。  \n参照／ストーリーボード画像がほぼ正方形で、縦長の出力が必要な場合は、出力のアスペクト比を 9:16 に設定してください。\n\n--- 引用ツイート ---\n🤯リアルすぎてヤバい！\nChatGPT+Seedance で「iPhoneのリアル写真アルバム＋Vlog」ワークフローを一式作ったら、仕上がりがめちゃくちゃすごかった！💥\n\n生成したのは：バルセロナのカップル旅行Vlog\n粒子感、ピンぼけ、手ブレ、風で乱れる髪、mid-motion のスナップショット…\nちょうど何気なく撮られたようなリアルな生活感で、本当にリアル写真アルバムみたい！\n\nポイントは、この方法が完全に汎用的なこと：\nカップル／一人／親友同士／親子に対応、都市を変えてもそのまま使えて、Vlog動画もワンクリックで生成できます！\n\n完全なワークフロー＋プロンプトはコメント欄へ👇\n---"
+    },
+    "ko": {
+      "content": "스토리보드/샷 레퍼런스 이미지에서 생성할 때는 Seedance 2.0 대신 Seedance 2.5를 사용하면 스토리보드에 더 높은 수준으로 맞출 수 있습니다.  \n참조/스토리보드 이미지에 재현하고 싶지 않은 결함이 있다면, 먼저 레퍼런스를 수정/정리하세요. Seedance 2.5는 그 결함까지 그대로 복사할 수 있습니다.  \n참조/스토리보드 이미지가 정사각형에 가깝지만 세로형 출력이 필요하다면, 출력 aspect ratio를 9:16으로 설정하세요.\n\n--- 인용된 트윗 ---\n🤯너무 현실적이라 말이 안 됨!\nChatGPT+Seedance로 「iPhone 실사 앨범 + Vlog」 워크플로를 하나 만들었는데, 결과가 정말 대박이었어요! 💥\n\n제가 생성한 것: 바르셀로나 커플 여행 Vlog\n입자감, 초점 이탈, 손떨림, 바람에 흐트러진 머리카락, mid-motion 스냅샷…\n마치 막 아무렇게나 찍힌 듯한 진짜 일상감이 너무 실사 앨범 같아요!\n\n핵심은 이 방법이 완전히 범용적이라는 점:\n커플/솔로/절친/가족 모두 지원하고, 도시만 바꿔도 그대로 쓸 수 있으며, Vlog 영상도 원클릭으로 생성할 수 있어요!\n\n전체 워크플로 + prompt는 댓글에서 확인👇"
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 (em vez do 2.0) ao gerar a partir de imagens de storyboard/referência de cena para obter maior aderência ao storyboard.  \nSe a sua imagem de referência/storyboard tiver falhas que você não quer reproduzir, corrija/limpe a referência primeiro — o Seedance 2.5 pode copiar a falha diretamente.  \nSe a sua imagem de referência/storyboard for mais quadrada, mas você precisar de uma saída vertical, defina a proporção de aspecto de saída para 9:16.\n\n--- TWEET CITADO ---\n🤯真实到离谱！\nEu usei ChatGPT+Seedance para criar um workflow de “álbum real de iPhone + Vlog” e o resultado ficou insano! 💥\n\nGerei: um Vlog de viagem de um casal em Barcelona\nGranulado, fora de foco, tremor de mão, cabelo bagunçado pelo vento, captura em mid-motion…\nAquele clima de vida real, como se tivesse sido fotografado por acaso, ficou muito parecido com um álbum de fotos de verdade!\n\nO mais importante é que esse método é totalmente universal:\nFunciona para casal/solo/melhores amigas/família com filhos, dá para trocar de cidade à vontade e ainda gerar vídeos de Vlog com um clique!\n\nWorkflow completo + prompt na seção de comentários👇\n---"
+    }
+  }
+}

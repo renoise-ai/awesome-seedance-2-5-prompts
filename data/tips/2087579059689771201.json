@@ -1,0 +1,42 @@
+{
+  "id": "2087579059689771201",
+  "title": "Prepare multi-angle product shots and a real in-use demo as source assets…",
+  "content": "Prepare multi-angle product shots and a real in-use demo as source assets before generating in Seedance 2.5 to improve usability for niche products  \nPrioritize improving source assets (more/better reference shots and demos) rather than writing longer prompts when Seedance struggles to depict a product in use",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087578922917752832/img/v5z-PLtf_jcuKbVS.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087579059689771201.mp4",
+  "sourceLink": "https://x.com/AmberPromptai/status/2087579059689771201",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "Curry Amber",
+    "link": "https://x.com/AmberPromptai"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Prepare multi-angle product shots and a real in-use demo as source assets before generating in Seedance 2.5 to improve usability for niche products  \nPrioritize improving source assets (more/better reference shots and demos) rather than writing longer prompts when Seedance struggles to depict a product in use",
+  "translations": {
+    "es": {
+      "content": "Prepara tomas del producto desde múltiples ángulos y una demostración real en uso como assets de origen antes de generar en Seedance 2.5 para mejorar la usabilidad de productos de nicho  \nPrioriza mejorar los assets de origen (más/mejores tomas de referencia y demostraciones) en lugar de escribir prompts más largos cuando a Seedance le cuesta representar un producto en uso"
+    },
+    "fr": {
+      "content": "Préparez des prises de vue produit sous plusieurs angles ainsi qu’une démonstration réelle en situation comme assets sources avant de générer dans Seedance 2.5 afin d’améliorer l’utilisabilité pour les produits de niche  \nPrivilégiez l’amélioration des assets sources (davantage de prises de vue de référence et de meilleures démonstrations) plutôt que la rédaction de prompts plus longs lorsque Seedance a du mal à représenter un produit en usage"
+    },
+    "ja": {
+      "content": "Seedance 2.5で生成する前に、マルチアングルの商品ショットと実使用デモをソース素材として用意しておくと、ニッチな製品でも使いやすさが向上します  \nSeedanceが製品の使用シーンをうまく描写できない場合は、長いpromptを書くよりも、ソース素材（より多くの／より良い参考ショットやデモ）の改善を優先してください"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 생성하기 전에 멀티 앵글 제품 샷과 실제 사용 데모를 소스 에셋으로 준비하면, 틈새 제품의 활용성을 높이는 데 도움이 됩니다.  \nSeedance가 제품의 사용 장면을 잘 표현하지 못할 때는 더 긴 prompt를 쓰기보다 소스 에셋(더 많고 더 좋은 reference shots와 demos)을 개선하는 데 우선순위를 두세요."
+    },
+    "pt": {
+      "content": "Prepare imagens do produto em múltiplos ângulos e uma demonstração real em uso como assets de origem antes de gerar no Seedance 2.5 para melhorar a usabilidade de produtos de nicho  \nPriorize melhorar os assets de origem (mais/melhores imagens de referência e demonstrações) em vez de escrever prompts mais longos quando o Seedance tiver dificuldade para retratar um produto em uso"
+    },
+    "zh": {
+      "content": "在使用 Seedance 2.5 生成之前，先准备多角度产品镜头和真实使用场景演示作为源素材，以提升小众产品的可用性  \n当 Seedance 难以呈现产品的实际使用场景时，应优先改进源素材（提供更多/更好的参考镜头和演示），而不是写更长的 prompt"
+    }
+  }
+}

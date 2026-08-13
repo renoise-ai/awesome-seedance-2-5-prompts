@@ -1,0 +1,42 @@
+{
+  "id": "2087564727190769838",
+  "title": "Use timestamp instructions in your Seedance prompt to block the scene in beats…",
+  "content": "Use timestamp instructions in your Seedance prompt to block the scene in beats (establish space → introduce action → shift camera → land the reveal), assigning actions/camera changes to specific seconds.  \nGenerate up to 30 seconds natively in Seedance 2.5 to keep the sequence connected and let story beats unfold over time within one clip.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087563497269768192/img/nN0akX-gXXuOXUhb.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087564727190769838.mp4",
+  "sourceLink": "https://x.com/GesoraMeshack/status/2087564727190769838",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "Orikan",
+    "link": "https://x.com/GesoraMeshack"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use timestamp instructions in your Seedance prompt to block the scene in beats (establish space → introduce action → shift camera → land the reveal), assigning actions/camera changes to specific seconds.  \nGenerate up to 30 seconds natively in Seedance 2.5 to keep the sequence connected and let story beats unfold over time within one clip.",
+  "translations": {
+    "es": {
+      "content": "Usa instrucciones de timestamp en tu prompt de Seedance para bloquear la escena en beats (establecer el espacio → introducir la acción → mover la cámara → llegar a la revelación), asignando acciones/cambios de cámara a segundos específicos.  \nGenera hasta 30 segundos de forma nativa en Seedance 2.5 para mantener la secuencia conectada y permitir que los beats de la historia se desarrollen con el tiempo dentro de un solo clip."
+    },
+    "fr": {
+      "content": "Utilisez des instructions de timestamp dans votre prompt Seedance pour structurer la scène en temps forts (établir l’espace → introduire l’action → déplacer la caméra → révéler le plan final), en attribuant les actions et les changements de caméra à des secondes précises.  \nGénérez jusqu’à 30 secondes en natif dans Seedance 2.5 afin de conserver la continuité de la séquence et de laisser les temps forts narratifs se déployer au fil du temps dans un seul clip."
+    },
+    "ja": {
+      "content": "Seedanceのpromptでは、timestampの指示を使ってシーンをビートごとにブロックしてください（空間を確立する → アクションを導入する → カメラを切り替える → リビールで着地する）。各アクションやカメラの変化を特定の秒数に割り当てます。  \nSeedance 2.5では、最大30秒までネイティブに生成して、シーケンスのつながりを保ちながら、1本のクリップ内でストーリーのビートを時間とともに展開させましょう。"
+    },
+    "ko": {
+      "content": "Seedance prompt에서 타임스탬프 지시를 사용해 장면을 비트 단위로 블로킹하세요(공간 설정 → 액션 도입 → 카메라 전환 → 리빌에 착지), 그리고 특정 초에 액션/카메라 변화를 할당하세요.  \n시퀀스의 연결성을 유지하고 하나의 클립 안에서 스토리 비트가 시간에 따라 전개되도록, Seedance 2.5에서 최대 30초까지 네이티브로 생성하세요."
+    },
+    "pt": {
+      "content": "Use instruções de timestamp no seu prompt do Seedance para bloquear a cena em beats (estabelecer o espaço → introduzir a ação → mover a câmera → revelar o desfecho), atribuindo ações e mudanças de câmera a segundos específicos.  \nGere até 30 segundos nativamente no Seedance 2.5 para manter a sequência conectada e permitir que os beats da história se desenrolem ao longo do tempo em um único clipe."
+    },
+    "zh": {
+      "content": "在你的 Seedance prompt 中使用时间戳指令，按节拍来分镜场景（建立空间 → 引入动作 → 切换镜头 → 落点揭示），并将动作/镜头变化分配到具体秒数。  \n在 Seedance 2.5 中可原生生成最长 30 秒，以保持序列连贯，并让故事节拍在一个片段内随时间展开。"
+    }
+  }
+}

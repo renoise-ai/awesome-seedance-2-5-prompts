@@ -1,0 +1,42 @@
+{
+  "id": "2087433626426519816",
+  "title": "Use Seedance 2.5 to generate a ~30-second battle scene by supplying reference…",
+  "content": "Use Seedance 2.5 to generate a ~30-second battle scene by supplying reference images: a rough black-and-white storyboard (絵コンテ), character sheets for two characters, and a background image.  \nIf you don’t have a storyboard, generate the video by providing reference images (two character sheets + background image) and add a text prompt to guide the action.",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087432241718968320/img/jtc4-6Nu0X0yAZV9.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087433626426519816.mp4",
+  "sourceLink": "https://x.com/by2lGwfvhOkrAV2/status/2087433626426519816",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "Tkool",
+    "link": "https://x.com/by2lGwfvhOkrAV2"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 to generate a ~30-second battle scene by supplying reference images: a rough black-and-white storyboard (絵コンテ), character sheets for two characters, and a background image.  \nIf you don’t have a storyboard, generate the video by providing reference images (two character sheets + background image) and add a text prompt to guide the action.",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2.5 to generate a ~30-second battle scene by supplying reference images: a rough black-and-white storyboard (絵コンテ), character sheets for two characters, and a background image.  \nIf you don’t have a storyboard, generate the video by providing reference images (two character sheets + background image) and add a text prompt to guide the action.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/1RTuZcIieT\n\n[Thread 2] I created the video using reference images (without a black-and-white storyboard): character sheets for two characters, a background image, and a prompt. https://t.co/InZCKiA4ru"
+    },
+    "es": {
+      "content": "Usa Seedance 2.5 para generar una escena de batalla de ~30 segundos proporcionando imágenes de referencia: un storyboard en blanco y negro aproximado (絵コンテ), hojas de personaje para dos personajes y una imagen de fondo.  \nSi no tienes un storyboard, genera el video proporcionando imágenes de referencia (dos hojas de personaje + una imagen de fondo) y añade un prompt de texto para guiar la acción.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/1RTuZcIieT\n\n[Hilo 2] Se creó un video con imágenes de referencia (sin storyboard en blanco y negro), dos hojas de personaje y una imagen de fondo, junto con un prompt. https://t.co/InZCKiA4ru"
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 pour générer une scène de bataille d’environ 30 secondes en fournissant des images de référence : un storyboard grossier en noir et blanc (絵コンテ), des fiches de personnages pour deux personnages, et une image de fond.  \nSi vous n’avez pas de storyboard, générez la vidéo en fournissant des images de référence (deux fiches de personnages + une image de fond) et ajoutez un prompt textuel pour guider l’action.\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Fil 1] https://t.co/1RTuZcIieT\n\n[Fil 2] Vidéo créée avec des images de référence (sans storyboard noir et blanc), deux fiches de personnages et une image de fond, ainsi qu’un prompt. https://t.co/InZCKiA4ru\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5를 사용해 참조 이미지를 제공하여 약 30초 분량의 전투 장면을 생성하세요: 대략적인 흑백 스토리보드(絵コンテ), 두 캐릭터의 캐릭터 시트, 그리고 배경 이미지입니다.  \n스토리보드가 없다면, 참조 이미지(캐릭터 시트 2장 + 배경 이미지)를 제공하고 텍스트 프롬프트를 추가해 동작을 안내하여 영상을 생성하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/1RTuZcIieT\n\n[Thread 2] 흑백 스토리보드 없이, 두 캐릭터의 캐릭터 시트와 배경 이미지, 그리고 프롬프트를 사용해 영상을 제작했습니다. https://t.co/InZCKiA4ru"
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 para gerar uma cena de batalha de ~30 segundos fornecendo imagens de referência: um storyboard em preto e branco rudimentar (絵コンテ), fichas de personagem para dois personagens e uma imagem de fundo.  \nSe você não tiver um storyboard, gere o vídeo fornecendo imagens de referência (duas fichas de personagem + imagem de fundo) e adicione um prompt de texto para orientar a ação.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] https://t.co/1RTuZcIieT\n\n[Thread 2] Vídeo criado com imagens de referência (sem storyboard em preto e branco), com fichas de personagem para 2 personagens, imagem de fundo e prompt. https://t.co/InZCKiA4ru\n---"
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5，通过提供参考图像来生成一个约 30 秒的战斗场景：一份粗略的黑白分镜脚本（絵コンテ）、两位角色的角色设定图，以及一张背景图。  \n如果你没有分镜脚本，也可以通过提供参考图像（两张角色设定图 + 一张背景图）并添加文本 prompt 来引导动作，生成视频。\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/1RTuZcIieT\n\n[Thread 2] 使用参考图像（没有黑白分镜）——两位角色的角色设定图、背景图和 prompt 制作了视频。 https://t.co/InZCKiA4ru\n---"
+    }
+  }
+}

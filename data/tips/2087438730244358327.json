@@ -1,0 +1,42 @@
+{
+  "id": "2087438730244358327",
+  "title": "歌詞と曲調からMVの構成（シーン割り）を先に設計してからSeedanceで生成する",
+  "content": "歌詞と曲調からMVの構成（シーン割り）を先に設計してからSeedanceで生成する  \n三面図（キャラクター/衣装の正面・側面・背面）＋Storyboard＋音源を用意してSeedanceの生成素材として使う  \n詳細Promptを先に作り、その内容をStoryboardに落とし込み、Storyboardを元に最終Promptへ落とし込む（詳細Prompt → Storyboard → 最終Prompt）  \nMV用の音源はフル曲から必要尺（例：29秒）だけ切り出してSeedanceの映像生成に合わせる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087438431890923520/img/OPEX6Y8-Xm5MeT0O.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087438730244358327.mp4",
+  "sourceLink": "https://x.com/Topmediai_JP/status/2087438730244358327",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "Topmediai_JP",
+    "link": "https://x.com/Topmediai_JP"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "歌詞と曲調からMVの構成（シーン割り）を先に設計してからSeedanceで生成する  \n三面図（キャラクター/衣装の正面・側面・背面）＋Storyboard＋音源を用意してSeedanceの生成素材として使う  \n詳細Promptを先に作り、その内容をStoryboardに落とし込み、Storyboardを元に最終Promptへ落とし込む（詳細Prompt → Storyboard → 最終Prompt）  \nMV用の音源はフル曲から必要尺（例：29秒）だけ切り出してSeedanceの映像生成に合わせる",
+  "translations": {
+    "en": {
+      "content": "Design the MV structure (scene breakdown) in advance based on the lyrics and the song’s mood, then generate it with Seedance.  \nPrepare a three-view character sheet (front/side/back of the character and outfit) + storyboard + audio, and use them as source materials for Seedance generation.  \nCreate a detailed prompt first, then translate that content into a storyboard, and finally refine it into the final prompt based on the storyboard (detailed prompt → storyboard → final prompt).  \nFor the MV audio, cut only the needed length from the full track (e.g., 29 seconds) and match it to Seedance’s video generation.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 📝 Here are the actual prompts and storyboard we used, plus a detailed breakdown of how we made it 👇  \nWe’ve organized the process step by step, from making the song to completing the 30-second MV!\n\nhttps://t.co/jKYnVAjuE1\n\n[Thread 2] By the way, this song was made with AI a little while ago 🎵  \nThis time, we only cut out 29 seconds for the MV!  \nYou can listen to the full version here 👇\n\nhttps://t.co/1PR2NWqB67\n\n[Thread 3] The generation site is here https://t.co/3xjmbjxOYT"
+    },
+    "es": {
+      "content": "Diseñar primero la estructura del MV (división por escenas) a partir de la letra y el estilo de la canción, y luego generarlo con Seedance  \nPreparar vistas en tres ángulos (frontal, lateral y posterior del personaje/vestuario) + Storyboard + audio, y usarlos como materiales de entrada para la generación en Seedance  \nCrear primero un Prompt detallado, volcar su contenido en un Storyboard y, a partir de ese Storyboard, convertirlo en el Prompt final (Prompt detallado → Storyboard → Prompt final)  \nPara el audio del MV, recortar solo la duración necesaria del tema completo (por ejemplo, 29 segundos) y ajustarla a la generación de video en Seedance\n\n--- CONTINUACIÓN DEL HILO ---\n[Thread 1] 📝 Aquí puedes ver el Prompt y el Storyboard que realmente usé, además de una explicación detallada de cómo lo hice👇  ¡He resumido el proceso paso a paso, desde la creación de la canción hasta completar un MV de 30 segundos!\n\nhttps://t.co/jKYnVAjuE1\n\n[Thread 2] Por cierto, esta canción la hice con IA hace un tiempo🎵\n¡Esta vez recorté solo 29 segundos para usarla en el MV!\nPuedes escuchar la versión completa aquí👇\n\nhttps://t.co/1PR2NWqB67\n\n[Thread 3] El sitio de generación es este https://t.co/3xjmbjxOYT\n---"
+    },
+    "fr": {
+      "content": "Concevoir d’abord la structure du MV (découpage des scènes) à partir des paroles et de l’ambiance musicale, puis le générer avec Seedance  \nPréparer des vues à trois angles (personnage / costume de face, de profil et de dos) + un storyboard + la source audio, puis les utiliser comme matériaux de génération pour Seedance  \nCréer d’abord un prompt détaillé, le décliner en storyboard, puis le transformer en prompt final à partir du storyboard (prompt détaillé → storyboard → prompt final)  \nPour l’audio du MV, extraire uniquement la durée nécessaire à partir du morceau complet (par ex. 29 secondes) et l’aligner sur la génération vidéo de Seedance\n\n--- SUITE DU THREAD ---\n[Thread 1] 📝 Voici le prompt et le storyboard réellement utilisés, ainsi que la méthode détaillée 👇  J’ai tout résumé étape par étape, de la création de la chanson jusqu’à la réalisation d’un MV de 30 secondes !\n\nhttps://t.co/jKYnVAjuE1\n\n[Thread 2] Au fait, cette chanson a été créée avec l’IA il y a quelque temps 🎵\nCette fois, j’ai extrait seulement 29 secondes pour l’utiliser dans le MV !\nVous pouvez écouter la version complète ici 👇\n\nhttps://t.co/1PR2NWqB67\n\n[Thread 3] Voici le site de génération https://t.co/3xjmbjxOYT"
+    },
+    "ko": {
+      "content": "歌詞와 곡 분위기부터 MV의 구성(씬 분할)을 먼저 설계한 뒤 Seedance로 생성한다  \n삼면도(캐릭터/의상의 정면·측면·후면) + Storyboard + 음원을 준비해 Seedance의 생성 소재로 사용한다  \n상세 Prompt를 먼저 만들고, 그 내용을 Storyboard에 반영한 뒤, Storyboard를 바탕으로 최종 Prompt로 정리한다 (상세 Prompt → Storyboard → 최종 Prompt)  \nMV용 음원은 풀곡에서 필요한 길이(예: 29초)만 잘라 Seedance의 영상 생성에 맞춘다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 📝 실제로 사용한 Prompt와 Storyboard, 자세한 제작 방법은 여기👇  곡 제작부터 30초 MV 완성까지, 단계별로 정리했습니다!\n\nhttps://t.co/jKYnVAjuE1\n\n[Thread 2] 참고로, 이 곡은 조금 전에 AI로 만든 것입니다🎵\n이번에는 MV용으로 29초만 잘라서 사용했습니다!\n풀버전은 여기서 들을 수 있어요👇\n\nhttps://t.co/1PR2NWqB67\n\n[Thread 3] 생성 사이트는 여기입니다 https://t.co/3xjmbjxOYT"
+    },
+    "pt": {
+      "content": "歌詞と曲調からMVの構成（シーン割り）を先に設計してからSeedanceで生成する  \n三面図（キャラクター/衣装の正面・側面・背面）＋Storyboard＋音源を用意してSeedanceの生成素材として使う  \n詳細Promptを先に作り、その内容をStoryboardに落とし込み、Storyboardを元に最終Promptへ落とし込む（詳細Prompt → Storyboard → 最終Prompt）  \nMV用の音源はフル曲から必要尺（例：29秒）だけ切り出してSeedanceの映像生成に合わせる\n\n--- THREAD CONTINUATION ---\n[Thread 1] 📝 Os prompts e storyboards realmente usados, além do passo a passo detalhado, estão aqui👇  Organizei tudo por etapas, desde a criação da música até a finalização de um MV de 30 segundos!\n\nhttps://t.co/jKYnVAjuE1\n\n[Thread 2] Aliás, essa música foi feita com IA há algum tempo🎵\nDesta vez, cortei apenas 29 segundos para usar no MV!\nA versão completa pode ser ouvida aqui👇\n\nhttps://t.co/1PR2NWqB67\n\n[Thread 3] O site de geração é este https://t.co/3xjmbjxOYT\n---"
+    },
+    "zh": {
+      "content": "先根据歌词和曲风设计 MV 的结构（分镜），再用 Seedance 生成  \n准备三视图（角色/服装的正面、侧面、背面）＋Storyboard＋音源，作为 Seedance 的生成素材使用  \n先制作详细 Prompt，再将其内容整理进 Storyboard，最后基于 Storyboard 生成最终 Prompt（详细 Prompt → Storyboard → 最终 Prompt）  \nMV 用音源从完整歌曲中只截取所需时长（例如 29 秒），以配合 Seedance 的视频生成\n\n--- THREAD CONTINUATION ---\n[Thread 1] 📝 实际使用的 Prompt 和 Storyboard，以及详细制作方法都在这里👇  从作曲到完成 30 秒 MV 的步骤，我已经按流程整理好了！\n\nhttps://t.co/jKYnVAjuE1\n\n[Thread 2] 顺便说一下，这首歌是前段时间用 AI 制作的🎵  \n这次为了 MV 只截取了 29 秒来使用！  \n完整版可以在这里收听👇\n\nhttps://t.co/1PR2NWqB67\n\n[Thread 3] 生成网站在这里 https://t.co/3xjmbjxOYT"
+    }
+  }
+}

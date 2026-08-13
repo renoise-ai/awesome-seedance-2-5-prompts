@@ -1,0 +1,42 @@
+{
+  "id": "2087522113263726811",
+  "title": "セリフ（台詞）を指定しないと意図しない言語（例：中国語）が出ることがあるため、発話させたい場合はセリフを明示して生成する",
+  "content": "セリフ（台詞）を指定しないと意図しない言語（例：中国語）が出ることがあるため、発話させたい場合はセリフを明示して生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087521362344906752/img/wQIEjDXHxmTOfQos.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087522113263726811.mp4",
+  "sourceLink": "https://x.com/kanachi0707/status/2087522113263726811",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "kanachi",
+    "link": "https://x.com/kanachi0707"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "セリフ（台詞）を指定しないと意図しない言語（例：中国語）が出ることがあるため、発話させたい場合はセリフを明示して生成する",
+  "translations": {
+    "en": {
+      "content": "If you don’t specify dialogue, unintended languages (e.g., Chinese) may appear, so if you want the subject to speak, explicitly include the lines when generating.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 【New MV！🎵】\n\nkanachi - “Waiting” Music Video https://t.co/nwA4jZEHuy via @YouTube \n\n#suno #AImusic\n#kanachi\n\n[Thread 2] “Waiting” Behind the scenes-style footage https://t.co/IfkdVV0GAl via @YouTube\n---"
+    },
+    "es": {
+      "content": "Si no se especifican los diálogos, puede aparecer un idioma no deseado (por ejemplo, chino), así que, si quieres que hable, debes indicar explícitamente las líneas de diálogo al generar el contenido\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] 【¡Nuevo MV!🎵】\n\nkanachi - \"まってる\" Music Video https://t.co/nwA4jZEHuy vía @YouTube \n\n#suno #AImusic\n#kanachi\n\n[Hilo 2] “まってる” Behind the scenes estilo making-of https://t.co/IfkdVV0GAl vía @YouTube\n---"
+    },
+    "fr": {
+      "content": "Si vous ne spécifiez pas les répliques (dialogues), une langue non souhaitée (par exemple le chinois) peut parfois apparaître ; si vous voulez faire parler le sujet, indiquez explicitement les répliques lors de la génération.\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Fil 1] 【Nouveau MV ! 🎵】\n\nkanachi - « まってる » Music Video https://t.co/nwA4jZEHuy via @YouTube\n\n#suno #AImusic\n#kanachi\n\n[Fil 2] Vidéo de type « Behind the scenes » de “まってる” https://t.co/IfkdVV0GAl via @YouTube\n---"
+    },
+    "ko": {
+      "content": "대사(세리프)를 지정하지 않으면 의도하지 않은 언어(예: 중국어)가 나올 수 있으므로, 말을 하게 하고 싶다면 대사를 명시해서 생성한다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 【New MV！🎵】\n\nkanachi - \"まってる\" Music Video https://t.co/nwA4jZEHuy via @YouTube \n\n#suno #AImusic\n#kanachi\n\n[Thread 2] “まってる” Behind the scenes 풍 영상 https://t.co/IfkdVV0GAl @YouTube에서\n---"
+    },
+    "pt": {
+      "content": "Como, se você não especificar as falas (diálogos), pode acabar saindo um idioma indesejado (por exemplo, chinês), então, se quiser que haja fala, deixe as falas explícitas ao gerar.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] 【Novo MV！🎵】\n\nkanachi - \"まってる\" Music Video https://t.co/nwA4jZEHuy via @YouTube \n\n#suno #AImusic\n#kanachi\n\n[Thread 2] “まってる” Behind the scenes em estilo de vídeo https://t.co/IfkdVV0GAl via @YouTube\n---"
+    },
+    "zh": {
+      "content": "如果不指定台词（对白），有时会出现非预期的语言（例如中文），因此如果想让角色说话，请明确写出台词后再生成。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 【新 MV！🎵】\n\nkanachi - “まってる” Music Video https://t.co/nwA4jZEHuy via @YouTube \n\n#suno #AImusic\n#kanachi\n\n[Thread 2] “まってる” Behind the scenes 风格影像 https://t.co/IfkdVV0GAl 来自 @YouTube\n---"
+    }
+  }
+}

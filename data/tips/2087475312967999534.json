@@ -1,0 +1,42 @@
+{
+  "id": "2087475312967999534",
+  "title": "Use Seedance 2.5’s 30-second single-pass generation to expand expressive range…",
+  "content": "Use Seedance 2.5’s 30-second single-pass generation to expand expressive range in the output video.  \nIn your prompt, describe movements and emotions in fine detail to get more faithful action and facial/emotional performance.  \nAdd a clear story/character setup (e.g., “a protagonist seeking revenge after losing something important”) to drive stronger emotion and motivation in the action.",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087472240061509632/img/EtAN3VrxC2rYUffT.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087475312967999534.mp4",
+  "sourceLink": "https://x.com/TSuga5795/status/2087475312967999534",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "tsuga@AIイラスト企画の人",
+    "link": "https://x.com/TSuga5795"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5’s 30-second single-pass generation to expand expressive range in the output video.  \nIn your prompt, describe movements and emotions in fine detail to get more faithful action and facial/emotional performance.  \nAdd a clear story/character setup (e.g., “a protagonist seeking revenge after losing something important”) to drive stronger emotion and motivation in the action.",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2.5’s 30-second single-pass generation to expand the expressive range of the output video.  \nIn your prompt, describe movements and emotions in fine detail to get more faithful action and facial/emotional performance.  \nAdd a clear story/character setup (e.g., “a protagonist seeking revenge after losing something important”) to drive stronger emotion and motivation in the action.\n\n--- QUOTED TWEET ---\n#KenmimonWantsToGetStronger\n\nHello everyone, Chinchikool ✋✨💕  \nAt last, I’ve also made my 30-second video debut with Seedance 2.5㊗🎉🎊\n\nAs expected, generating the full 30 seconds in one go really expands the range of expression 😆\n\nI thought Seedance 2.5 might be tricky in terms of prompt structure, but if you describe the movements and emotions in detail, it seems to reproduce them quite faithfully 😯\n\nThis time, instead of just action, I built the prompt around the setup of  \n“a protagonist burning with revenge after having something precious taken away,”  \nand I think it did a great job of expressing the character fighting by turning anger into technique and power 😯✨\n\nOriginally, I wanted the enemy to transform into digital code and vanish, but that part didn’t work out very well, so I still have more to learn 💦"
+    },
+    "es": {
+      "content": "Usa la generación de un solo paso de 30 segundos de Seedance 2.5 para ampliar el rango expresivo en el video de salida.  \nEn tu prompt, describe los movimientos y las emociones con mucho detalle para obtener una interpretación de la acción y de las expresiones faciales/emocionales más fiel.  \nAñade una configuración clara de historia/personaje (por ejemplo, “un protagonista que busca venganza tras perder algo importante”) para impulsar una emoción y una motivación más intensas en la acción.\n\n--- TWEET CITADO ---\n#剣美門は強くなりたい\n\n皆さんチンチコール✋✨💕\n¡Por fin yo también debuté con un video de 30 segundos en Seedance2.5㊗🎉🎊\n\nComo era de esperar, con la generación unificada de 30 segundos se amplía el rango de expresividad 😆\n\nPensé que la estructura del prompt en Seedance2.5 podría ser difícil, pero siento que si describes los movimientos y las emociones con detalle, lo reproduce de forma bastante fiel 😯\n\nEsta vez, en lugar de una simple acción,\nincluí en el prompt la configuración de\n“un protagonista que arde en deseos de venganza tras perder algo importante”,\ny creo que la forma de expresar cómo convierte su ira en técnica y fuerza para luchar quedó muy bien 😯✨\n\nEn realidad quería que el enemigo se transformara en código digital y desapareciera, pero eso no me salió muy bien, así que todavía tengo que seguir aprendiendo 💦"
+    },
+    "fr": {
+      "content": "Utilisez la génération en un seul passage de 30 secondes de Seedance 2.5 pour élargir la palette expressive de la vidéo de sortie.  \nDans votre prompt, décrivez les mouvements et les émotions avec un grand niveau de détail afin d’obtenir une action et une performance faciale/émotionnelle plus fidèles.  \nAjoutez une mise en place claire de l’histoire et du personnage (par exemple, « un protagoniste en quête de vengeance après avoir perdu quelque chose d’important ») pour renforcer l’émotion et la motivation dans l’action.\n\n--- TWEET CITÉ ---\n#剣美門は強くなりたい\n\n皆さんチンチコール✋✨💕\nEnfin, moi aussi, j’ai fait mes débuts en vidéo de 30 secondes avec Seedance2.5㊗🎉🎊\n\nComme on pouvait s’y attendre, la génération en une seule fois sur 30 secondes élargit vraiment la gamme d’expression 😆\n\nJe pensais que la composition du prompt avec Seedance2.5 serait difficile, mais j’ai l’impression que si l’on décrit les mouvements et les émotions avec précision, il reproduit les choses de manière assez fidèle 😯\n\nCette fois, au lieu d’une simple action,\nj’ai intégré dans le prompt la configuration suivante :\n« un protagoniste consumé par la vengeance après s’être fait voler quelque chose d’important »\net je trouve que l’expression d’un combat où la colère se transforme en technique et en force est ressortie très clairement 😯✨\n\nEn réalité, je voulais que l’ennemi se transforme en code numérique puis disparaisse, mais cela n’a pas très bien fonctionné de ce côté-là, donc il faut encore que j’apprenne davantage 💦"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 30초 단일 패스 생성을 활용해 출력 영상의 표현 범위를 넓혀보세요.  \n프롬프트에서는 움직임과 감정을 세밀하게 묘사해 더 충실한 액션과 얼굴/감정 연기를 이끌어내세요.  \n“중요한 것을 잃고 복수에 불타는 주인공”처럼 분명한 스토리/캐릭터 설정을 추가하면 액션에 더 강한 감정과 동기를 부여할 수 있습니다.\n\n--- 인용된 트윗 ---\n#剣美門は強くなりたい\n\n여러분, 칭치콜✋✨💕  \n드디어 저도 Seedance2.5로 30초 영상 데뷔㊗🎉🎊\n\n역시 30초 일괄 생성으로 하니 표현력의 폭이 넓어지네요😆\n\nSeedance2.5는 프롬프트 구성하기가 어렵지 않을까 생각했는데, 움직임과 감정을 세세하게 표현해주면 꽤 충실하게 재현해주는 것 같아요😯\n\n이번에는 단순한 액션이 아니라,  \n“소중한 것을 빼앗겨 복수에 불타는 주인공”  \n이라는 설정을 프롬프트에 넣어봤는데, 분노를 기술과 힘으로 바꿔 싸우는 표현이 잘 나온 것 같아요😯✨\n\n사실은 적이 디지털 코드로 변해 소멸하는 식으로 만들고 싶었는데, 이건 좀처럼 잘 되지 않아서 더 공부해야겠네요💦"
+    },
+    "pt": {
+      "content": "Use a geração em passagem única de 30 segundos do Seedance 2.5 para ampliar a faixa expressiva no vídeo de saída.  \nNo seu prompt, descreva movimentos e emoções com bastante detalhe para obter uma performance de ação e facial/emocional mais fiel.  \nAdicione uma configuração clara de história/personagem (por exemplo, “um protagonista em busca de vingança após perder algo importante”) para impulsionar uma emoção e motivação mais fortes na ação.\n\n--- TWEET CITADO ---\n#剣美門は強くなりたい\n\nPessoal, チンチコール✋✨💕  \nFinalmente eu também estreiei em vídeo de 30 segundos com o Seedance 2.5㊗🎉🎊\n\nComo esperado, com a geração em lote único de 30 segundos, a amplitude da expressividade realmente aumenta 😆\n\nAchei que a estruturação do prompt no Seedance 2.5 poderia ser difícil, mas, quando você detalha bem os movimentos e a expressão das emoções, sinto que ele reproduz tudo de forma bem fiel 😯\n\nDesta vez, em vez de ser apenas uma ação,\nincluí no prompt a configuração de\n“um protagonista tomado pela vingança depois de ter algo importante roubado”\ne acho que a expressão de transformar a raiva em técnica e força para lutar ficou muito boa 😯✨\n\nNa verdade, eu queria fazer com que o inimigo se transformasse em código digital e desaparecesse, mas isso não funcionou muito bem, então ainda tenho muito a estudar 💦"
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 的 30 秒单次生成，扩展输出视频中的表现力范围。  \n在你的 prompt 中，细致描述动作和情绪，以获得更忠实的动作表现以及面部/情感演绎。  \n加入清晰的故事/角色设定（例如：“一位在失去重要之物后寻求复仇的主角”），以推动动作中更强烈的情绪和动机。\n\n--- 引用推文 ---\n#剣美門は強くなりたい\n\n大家チンチコール✋✨💕\n我终于也用 Seedance2.5 正式开启了 30 秒视频出道㊗🎉🎊\n\n果然，30 秒一括生成会让表现力的范围更广呢😆\n\n我原本以为 Seedance2.5 的 prompt 构成可能会比较难，但如果把动作和情绪细节描述得更充分，它似乎能相当忠实地还原出来😯\n\n这次我没有只做普通的动作场面，\n而是在 prompt 里加入了\n“一个在失去重要之物后燃起复仇之火的主角”\n这样的设定，结果我觉得“把愤怒转化为招式与力量来战斗”的表现效果相当不错😯✨\n\n本来我还想让敌人变成数字代码并消失湮灭，但这个部分一直不太顺利，所以还得继续学习呢💦"
+    }
+  }
+}

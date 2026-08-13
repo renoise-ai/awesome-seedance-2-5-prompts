@@ -1,0 +1,42 @@
+{
+  "id": "2087417025199030381",
+  "title": "Use 4 reference images to improve Seedance 2.5 output quality when generating a…",
+  "content": "Use 4 reference images to improve Seedance 2.5 output quality when generating a consistent “in-universe” scene.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087416034147901440/img/yAwsQywJs9XC50-C.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087417025199030381.mp4",
+  "sourceLink": "https://x.com/AnvilAIArt/status/2087417025199030381",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "Anvil",
+    "link": "https://x.com/AnvilAIArt"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use 4 reference images to improve Seedance 2.5 output quality when generating a consistent “in-universe” scene.",
+  "translations": {
+    "es": {
+      "content": "Usa 4 imágenes de referencia para mejorar la calidad de salida de Seedance 2.5 al generar una escena coherente “dentro del universo”."
+    },
+    "fr": {
+      "content": "Utilisez 4 images de référence pour améliorer la qualité de sortie de Seedance 2.5 lors de la génération d’une scène cohérente « in-universe »."
+    },
+    "ja": {
+      "content": "Seedance 2.5 の出力品質を向上させるために、4 枚の参照画像を使用して、一貫性のある「in-universe」シーンを生成します。"
+    },
+    "ko": {
+      "content": "일관된 “in-universe” 장면을 생성할 때 4장의 레퍼런스 이미지를 사용해 Seedance 2.5의 출력 품질을 향상시키세요."
+    },
+    "pt": {
+      "content": "Use 4 imagens de referência para melhorar a qualidade da saída do Seedance 2.5 ao gerar uma cena consistente “in-universe”."
+    },
+    "zh": {
+      "content": "使用 4 张参考图像，在生成一致的“in-universe”场景时提升 Seedance 2.5 的输出质量。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2087480132504297816",
+  "title": "If faces (ogres/people) look too similar in Seedance 2.5 text-to-video, add…",
+  "content": "If faces (ogres/people) look too similar in Seedance 2.5 text-to-video, add clearer, more specific instructions describing distinct facial features for each character to increase variation.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087478117925548032/img/-iVmbk1aFl0H2920.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087480132504297816.mp4",
+  "sourceLink": "https://x.com/renataro9/status/2087480132504297816",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "meropan",
+    "link": "https://x.com/renataro9"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "If faces (ogres/people) look too similar in Seedance 2.5 text-to-video, add clearer, more specific instructions describing distinct facial features for each character to increase variation.",
+  "translations": {
+    "es": {
+      "content": "Si los rostros (ogros/personas) se ven demasiado similares en Seedance 2.5 text-to-video, añade instrucciones más claras y específicas que describan rasgos faciales distintos para cada personaje para aumentar la variación."
+    },
+    "fr": {
+      "content": "Si les visages (ogres/personnes) se ressemblent trop dans Seedance 2.5 text-to-video, ajoutez des instructions plus claires et plus précises décrivant des traits du visage distincts pour chaque personnage afin d’augmenter la variation."
+    },
+    "ja": {
+      "content": "Seedance 2.5 の text-to-video で顔（オーガ／人間）があまりにも似通って見える場合は、各キャラクターの明確で具体的な顔の特徴を説明する、よりはっきりした指示を追加して、バリエーションを増やしてください。"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 text-to-video에서 얼굴(오우거/사람)이 너무 비슷하게 보인다면, 각 캐릭터의 뚜렷한 얼굴 특징을 더 명확하고 구체적으로 설명하는 지시를 추가해 다양성을 높이세요."
+    },
+    "pt": {
+      "content": "Se os rostos (ogros/pessoas) estiverem muito parecidos no text-to-video do Seedance 2.5, adicione instruções mais claras e específicas descrevendo características faciais distintas de cada personagem para aumentar a variação."
+    },
+    "zh": {
+      "content": "如果在 Seedance 2.5 文生视频中，面孔（食人魔/人物）看起来过于相似，可以添加更清晰、更具体的指令，描述每个角色各自独特的面部特征，以增加差异性。"
+    }
+  }
+}

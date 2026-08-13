@@ -1,0 +1,42 @@
+{
+  "id": "2087683875896238509",
+  "title": "Design your concept first (e.g., a sporty-looking Tesla), then storyboard the…",
+  "content": "Design your concept first (e.g., a sporty-looking Tesla), then storyboard the shots before generating anything in Seedance.  \nGenerate still image frames with ChatGPT Image 2 and use them as the visual basis for Seedance 2.5 video generation.  \nUse Seedance 2.5 to turn your storyboard/image frames into videos, leveraging its camera control for shot movement.  \nComposite and finish the Seedance outputs in After Effects for a polished final ad-style sequence.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087683562724352000/img/6oFkX_X_I966Wj42.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087683875896238509.mp4",
+  "sourceLink": "https://x.com/Marcus_Byrne/status/2087683875896238509",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "Marcus Byrne",
+    "link": "https://x.com/Marcus_Byrne"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Design your concept first (e.g., a sporty-looking Tesla), then storyboard the shots before generating anything in Seedance.  \nGenerate still image frames with ChatGPT Image 2 and use them as the visual basis for Seedance 2.5 video generation.  \nUse Seedance 2.5 to turn your storyboard/image frames into videos, leveraging its camera control for shot movement.  \nComposite and finish the Seedance outputs in After Effects for a polished final ad-style sequence.",
+  "translations": {
+    "es": {
+      "content": "Diseña primero tu concepto (por ejemplo, un Tesla de aspecto deportivo) y luego haz un storyboard de las tomas antes de generar nada en Seedance.  \nGenera fotogramas de imagen fija con ChatGPT Image 2 y úsalos como base visual para la generación de video en Seedance 2.5.  \nUsa Seedance 2.5 para convertir tu storyboard/fotogramas de imagen en videos, aprovechando su control de cámara para el movimiento de las tomas.  \nCompón y finaliza las salidas de Seedance en After Effects para lograr una secuencia final pulida, con estilo publicitario."
+    },
+    "fr": {
+      "content": "Concevez d’abord votre concept (par exemple, une Tesla au look sportif), puis storyboardez les plans avant de générer quoi que ce soit dans Seedance.  \nGénérez des images fixes avec ChatGPT Image 2 et utilisez-les comme base visuelle pour la génération vidéo dans Seedance 2.5.  \nUtilisez Seedance 2.5 pour transformer votre storyboard et vos images en vidéos, en exploitant son contrôle de caméra pour le mouvement des plans.  \nComposez et finalisez les rendus de Seedance dans After Effects pour obtenir une séquence publicitaire finale soignée."
+    },
+    "ja": {
+      "content": "まずコンセプトを設計します（例：スポーティな見た目のTesla）。そのうえで、Seedanceで何かを生成する前にショットの絵コンテを作成します。  \nChatGPT Image 2で静止画フレームを生成し、それをSeedance 2.5の動画生成のビジュアルベースとして使用します。  \nSeedance 2.5を使って、絵コンテ／画像フレームを動画に変換し、カメラコントロールを活用してショットの動きを付けます。  \n最後に、Seedanceの出力をAfter Effectsで合成・仕上げし、洗練された最終的な広告風シーケンスに仕上げます。"
+    },
+    "ko": {
+      "content": "먼저 콘셉트를 설계하세요(예: 스포티한 느낌의 Tesla). 그런 다음 Seedance에서 아무것도 생성하기 전에 샷을 스토리보드로 구성하세요.  \nChatGPT Image 2로 정지 이미지 프레임을 생성하고, 이를 Seedance 2.5 비디오 생성의 시각적 기반으로 사용하세요.  \nSeedance 2.5를 사용해 스토리보드/이미지 프레임을 비디오로 변환하고, 샷 이동을 위한 camera control을 활용하세요.  \nSeedance 출력물을 After Effects에서 합성하고 마무리해, 세련된 최종 광고 스타일 시퀀스로 완성하세요."
+    },
+    "pt": {
+      "content": "Desenhe seu conceito primeiro (por exemplo, um Tesla com visual esportivo), depois faça o storyboard das cenas antes de gerar qualquer coisa no Seedance.  \nGere frames de imagem estática com o ChatGPT Image 2 e use-os como base visual para a geração de vídeo no Seedance 2.5.  \nUse o Seedance 2.5 para transformar seu storyboard/frames de imagem em vídeos, aproveitando o controle de câmera para o movimento das cenas.  \nFaça a composição e o acabamento dos resultados do Seedance no After Effects para obter uma sequência final polida, no estilo de anúncio."
+    },
+    "zh": {
+      "content": "先设计你的概念（例如，一辆运动风格的 Tesla），然后在 Seedance 中生成任何内容之前，先把镜头分镜脚本画出来。  \n使用 ChatGPT Image 2 生成静态图像帧，并将其作为 Seedance 2.5 视频生成的视觉基础。  \n使用 Seedance 2.5 将你的分镜/图像帧转换为视频，并利用其 camera control 来实现镜头运动。  \n在 After Effects 中对 Seedance 的输出进行合成和润色，打造出精致的最终广告风格序列。"
+    }
+  }
+}

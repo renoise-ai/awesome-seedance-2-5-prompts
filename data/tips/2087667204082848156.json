@@ -1,0 +1,41 @@
+{
+  "id": "2087667204082848156",
+  "title": "Use a reference photo token ([ref_image]) to lock facial identity (bald head…",
+  "content": "Use a reference photo token ([ref_image]) to lock facial identity (bald head, dense beard, eye shape, head structure) while explicitly instructing the model to ignore the reference image’s clothing and background.\n\nPrompt a single continuous camera move by specifying a 30-second smooth rightward tracking shot and reiterating “Camera tracks with him / continues tracking” at each beat.\n\nStructure long-form video prompts with timestamped segments (e.g., 0–4s, 4–11s, etc.) and describe exact actions/props per segment to control pacing and continuity.\n\nForce an edit by explicitly calling for one hard cut at the end, then define the post-cut shot (close-up of hands opening newspaper).\n\nIncrease text legibility by specifying “large clear English text” for on-screen writing in the final close-up.\n\nLock the aesthetic by stating a specific film look (slightly grainy late-80s/early-90s), lighting (warm practical), and color grade (natural), plus audio constraints (no dialogue, light ambient morning sounds only).",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/techhalla/status/2087667204082848156",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "TechHalla",
+    "link": "https://x.com/techhalla"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Retro Film",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a reference photo token ([ref_image]) to lock facial identity (bald head, dense beard, eye shape, head structure) while explicitly instructing the model to ignore the reference image’s clothing and background.\n\nPrompt a single continuous camera move by specifying a 30-second smooth rightward tracking shot and reiterating “Camera tracks with him / continues tracking” at each beat.\n\nStructure long-form video prompts with timestamped segments (e.g., 0–4s, 4–11s, etc.) and describe exact actions/props per segment to control pacing and continuity.\n\nForce an edit by explicitly calling for one hard cut at the end, then define the post-cut shot (close-up of hands opening newspaper).\n\nIncrease text legibility by specifying “large clear English text” for on-screen writing in the final close-up.\n\nLock the aesthetic by stating a specific film look (slightly grainy late-80s/early-90s), lighting (warm practical), and color grade (natural), plus audio constraints (no dialogue, light ambient morning sounds only).",
+  "translations": {
+    "es": {
+      "content": "Usa un token de foto de referencia ([ref_image]) para fijar la identidad facial (cabeza calva, barba densa, forma de los ojos, estructura de la cabeza) mientras indicas explícitamente al modelo que ignore la ropa y el fondo de la imagen de referencia.\n\nSolicita un único movimiento continuo de cámara especificando un travelling suave hacia la derecha de 30 segundos y reiterando “Camera tracks with him / continues tracking” en cada compás.\n\nEstructura los prompts de video de formato largo con segmentos con marca de tiempo (por ejemplo, 0–4s, 4–11s, etc.) y describe las acciones/props exactos por segmento para controlar el ritmo y la continuidad.\n\nFuerza un corte indicando explícitamente un único hard cut al final y luego define la toma posterior al corte (primer plano de las manos abriendo un periódico).\n\nAumenta la legibilidad del texto especificando “large clear English text” para el texto en pantalla en el primer plano final.\n\nFija la estética indicando un look cinematográfico específico (ligeramente granulado de finales de los 80/principios de los 90), iluminación (warm practical) y corrección de color (natural), además de restricciones de audio (sin diálogo, solo sonidos ambientales suaves de la mañana)."
+    },
+    "fr": {
+      "content": "Utilisez un jeton de photo de référence ([ref_image]) pour verrouiller l’identité faciale (crâne chauve, barbe dense, forme des yeux, structure de la tête), tout en indiquant explicitement au modèle d’ignorer les vêtements et l’arrière-plan de l’image de référence.\n\nDemandez un mouvement de caméra unique et continu en spécifiant un travelling fluide vers la droite de 30 secondes, et en répétant « Camera tracks with him / continues tracking » à chaque temps fort.\n\nStructurez les prompts vidéo longs avec des segments horodatés (par ex. 0–4 s, 4–11 s, etc.) et décrivez les actions/objets exacts par segment afin de नियंत्रler le rythme et la continuité.\n\nForcez un montage en demandant explicitement un seul hard cut à la fin, puis définissez le plan post-cut (gros plan des mains ouvrant le journal).\n\nAméliorez la lisibilité du texte en spécifiant « large clear English text » pour les écritures à l’écran dans le gros plan final.\n\nVerrouillez l’esthétique en indiquant un look film précis (légèrement granuleux, fin des années 80 / début des années 90), l’éclairage (warm practical) et l’étalonnage couleur (natural), ainsi que les contraintes audio (aucun dialogue, seulement de légers sons d’ambiance matinaux)."
+    },
+    "ja": {
+      "content": "参照写真トークン（[ref_image]）を使用して、顔のアイデンティティ（禿げ頭、濃いひげ、目の形、頭部の構造）を固定しつつ、参照画像の服装と背景は無視するようモデルに明示的に指示する。\n\n30秒の滑らかな右方向トラッキングショットを指定し、各ビートで「Camera tracks with him / continues tracking」と繰り返して、単一の連続したカメラ移動をプロンプトする。\n\n長尺の動画プロンプトは、タイムスタンプ付きのセグメント（例：0–4s、4–11s など）で構成し、各セグメントごとに正確な動作や小道具を記述して、テンポと連続性をコントロールする。\n\n最後に1回のハードカットを明示的に指定して編集を強制し、その後のショット（新聞を開く手のクローズアップ）を定義する。\n\n最終のクローズアップで画面上の文字を「large clear English text」と指定し、テキストの判読性を高める。\n\n特定のフィルムルック（やや粒状の80年代後半〜90年代初頭）、ライティング（暖かい実用光）、カラーグレーディング（ナチュラル）を明記し、さらに音声条件（セリフなし、軽い朝の環境音のみ）を加えて、美的統一感を固定する。"
+    },
+    "ko": {
+      "content": "참조 사진 토큰([ref_image])을 사용해 얼굴 정체성(대머리, густ은 수염, 눈매, 머리 구조)을 고정하되, 참조 이미지의 의상과 배경은 무시하도록 모델에 명시적으로 지시합니다.\n\n30초 동안 부드럽게 오른쪽으로 따라가는 트래킹 샷을 지정하고, 각 비트마다 “Camera tracks with him / continues tracking”을 반복해 단일한 연속 카메라 움직임을 프롬프트합니다.\n\n장문형 비디오 프롬프트는 타임스탬프가 표시된 세그먼트(예: 0–4s, 4–11s 등)로 구성하고, 각 세그먼트마다 정확한 동작/소품을 설명해 페이싱과 연속성을 제어합니다.\n\n끝부분에 반드시 한 번의 하드 컷을 명시적으로 요청한 뒤, 컷 이후의 샷(신문을 여는 손의 클로즈업)을 정의해 편집을 강제합니다.\n\n마지막 클로즈업에서 화면 속 글씨는 “large clear English text”로 지정해 텍스트 가독성을 높입니다.\n\n특정 필름 룩(약간 거친 80년대 후반/90년대 초반), 조명(warm practical), 색보정(natural)을 명시하고, 오디오 제약(대사 없음, 가벼운 아침 주변음만)을 추가해 미학을 고정합니다."
+    },
+    "pt": {
+      "content": "Use um token de foto de referência ([ref_image]) para travar a identidade facial (cabeça careca, barba densa, formato dos olhos, estrutura da cabeça), enquanto instrui explicitamente o modelo a ignorar as roupas e o fundo da imagem de referência.\n\nSolicite um único movimento contínuo de câmera especificando um travelling suave para a direita de 30 segundos e reiterando “Camera tracks with him / continues tracking” em cada batida.\n\nEstruture prompts de vídeo em formato longo com segmentos marcados por timestamp (por exemplo, 0–4s, 4–11s etc.) e descreva ações/props exatos por segmento para controlar o ritmo e a continuidade.\n\nForce uma edição chamando explicitamente por um hard cut no final e, em seguida, defina a tomada pós-corte (close-up das mãos abrindo o jornal).\n\nAumente a legibilidade do texto especificando “large clear English text” para a escrita na tela no close-up final.\n\nTrave a estética indicando um visual cinematográfico específico (levemente granulado, fim dos anos 80/início dos 90), iluminação (warm practical) e color grade (natural), além de restrições de áudio (sem diálogo, apenas sons ambientes leves da manhã)."
+    },
+    "zh": {
+      "content": "使用参考照片 token（[ref_image]）来锁定面部身份特征（光头、浓密胡须、眼型、头部结构），同时明确指示模型忽略参考图中的服装和背景。\n\n通过指定一个 30 秒、平滑向右的跟拍镜头，并在每个节拍重复“Camera tracks with him / continues tracking”，来提示一个单一连续的运镜。\n\n将长篇视频 prompt 结构化为带时间戳的分段（例如 0–4s、4–11s 等），并为每个分段描述精确的动作/道具，以控制节奏和连贯性。\n\n通过明确要求在结尾处进行一次 hard cut 来强制剪辑，然后定义剪切后的镜头（手部特写，打开报纸）。\n\n通过为画面文字指定“large clear English text”来提高文字可读性。\n\n通过说明具体的电影风格（略带颗粒感的 80 年代末/90 年代初）、光线（warm practical）以及色彩分级（natural），再加上音频限制（no dialogue, light ambient morning sounds only），来锁定整体美学。"
+    }
+  }
+}

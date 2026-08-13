@@ -1,0 +1,42 @@
+{
+  "id": "2087732038107558322",
+  "title": "Generate up to 30-second videos in a single Seedance 2.5 generation run.",
+  "content": "Generate up to 30-second videos in a single Seedance 2.5 generation run.  \nUse up to 50 media references in Seedance 2.5 to improve control, consistency, and cinematic storytelling.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087731724667244544/img/BLZGt3G90fP4pwPE.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087732038107558322.mp4",
+  "sourceLink": "https://x.com/Caden_Flux/status/2087732038107558322",
+  "sourcePublishedAt": "2026-08-13",
+  "author": {
+    "name": "Caden Flux",
+    "link": "https://x.com/Caden_Flux"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate up to 30-second videos in a single Seedance 2.5 generation run.  \nUse up to 50 media references in Seedance 2.5 to improve control, consistency, and cinematic storytelling.",
+  "translations": {
+    "es": {
+      "content": "Genera videos de hasta 30 segundos en una sola ejecución de generación de Seedance 2.5.  \nUsa hasta 50 referencias de medios en Seedance 2.5 para mejorar el control, la consistencia y la narrativa cinematográfica."
+    },
+    "fr": {
+      "content": "Générez des vidéos allant jusqu’à 30 secondes en une seule exécution de génération Seedance 2.5.  \nUtilisez jusqu’à 50 références média dans Seedance 2.5 pour améliorer le contrôle, la cohérence et la narration cinématographique."
+    },
+    "ja": {
+      "content": "Seedance 2.5 の1回の生成で、最大30秒の動画を生成できます。  \nSeedance 2.5 では最大50件のメディア参照を使用して、制御性、一貫性、そして cinematic なストーリーテリングを向上させることができます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5 생성 한 번으로 최대 30초 길이의 비디오를 생성하세요.  \nSeedance 2.5에서 최대 50개의 미디어 레퍼런스를 사용해 제어력, 일관성, 그리고 cinematic 스토리텔링을 향상시킬 수 있습니다."
+    },
+    "pt": {
+      "content": "Gere vídeos de até 30 segundos em uma única execução de geração do Seedance 2.5.  \nUse até 50 referências de mídia no Seedance 2.5 para melhorar o controle, a consistência e a narrativa cinematográfica."
+    },
+    "zh": {
+      "content": "在一次 Seedance 2.5 生成运行中，可生成最长 30 秒的视频。  \n在 Seedance 2.5 中最多可使用 50 个媒体参考，以提升控制力、一致性和 cinematic 叙事效果。"
+    }
+  }
+}

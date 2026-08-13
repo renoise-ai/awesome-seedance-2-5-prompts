@@ -1,0 +1,42 @@
+{
+  "id": "2087509915372020127",
+  "title": "キャラクターシートの3面図で別人の身体パーツを混ぜると、肩などに残った別キャラ要素（例：ピンク髪）がSeedance2.5に補完されて混入するので、参照画像は別…",
+  "content": "キャラクターシートの3面図で別人の身体パーツを混ぜると、肩などに残った別キャラ要素（例：ピンク髪）がSeedance2.5に補完されて混入するので、参照画像は別人要素が一切残らないようにトリミング／消去してから使う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087508549895331841/img/K6Il2IAoKmBLfrgi.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087509915372020127.mp4",
+  "sourceLink": "https://x.com/h64g_/status/2087509915372020127",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "h64g",
+    "link": "https://x.com/h64g_"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "キャラクターシートの3面図で別人の身体パーツを混ぜると、肩などに残った別キャラ要素（例：ピンク髪）がSeedance2.5に補完されて混入するので、参照画像は別人要素が一切残らないようにトリミング／消去してから使う",
+  "translations": {
+    "en": {
+      "content": "When mixing body parts from different people in a three-view character sheet, any leftover elements from the other character—such as pink hair on the shoulders—may be filled in and blended into Seedance 2.5. So make sure to crop or erase the reference images so that no elements from the other person remain at all before using them."
+    },
+    "es": {
+      "content": "Al mezclar partes del cuerpo de otra persona en una vista de tres ángulos de una character sheet, elementos del otro personaje que queden en zonas como los hombros (por ejemplo, cabello rosa) serán completados e incorporados por Seedance2.5, así que usa las imágenes de referencia solo después de recortarlas o borrar cualquier rastro de elementos de otra persona para que no quede absolutamente nada."
+    },
+    "fr": {
+      "content": "Lorsque l’on mélange des parties du corps d’une autre personne dans une vue à trois angles d’une character sheet, les éléments du personnage d’origine qui subsistent sur les épaules, etc. (par exemple, des cheveux roses) risquent d’être complétés par Seedance 2.5 et de se retrouver mélangés au résultat ; il faut donc recadrer ou effacer l’image de référence de manière à ce qu’aucun élément de l’autre personne n’y subsiste avant de l’utiliser."
+    },
+    "ko": {
+      "content": "캐릭터 시트의 3면도에서 다른 인물의 신체 파츠를 섞으면, 어깨 등에 남아 있는 다른 캐릭터 요소(예: 분홍색 머리)가 Seedance2.5에 의해 보완되어 섞여 들어가므로, 참조 이미지는 다른 인물 요소가 전혀 남지 않도록 트리밍/삭제한 뒤 사용한다"
+    },
+    "pt": {
+      "content": "Ao misturar partes do corpo de outra pessoa em uma folha de personagem com vista em 3 ângulos, elementos de outro personagem que permaneçam, como nos ombros, por exemplo (ex.: cabelo rosa), podem ser complementados pelo Seedance 2.5 e acabar sendo incorporados. Por isso, use a imagem de referência somente depois de recortá-la e/ou apagar qualquer elemento de outra pessoa para que não reste absolutamente nada."
+    },
+    "zh": {
+      "content": "在角色设定图的三视图中混入其他人物的身体部件时，肩膀等位置残留的其他角色元素（例如粉色头发）会被 Seedance2.5 补全并混入，因此参考图在使用前要先裁剪／擦除，确保不残留任何其他人物元素。"
+    }
+  }
+}

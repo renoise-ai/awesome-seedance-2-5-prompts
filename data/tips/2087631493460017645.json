@@ -1,0 +1,43 @@
+{
+  "id": "2087631493460017645",
+  "title": "SeeDance2.5でMV向けトランジションを作るなら、720p・15秒設定で生成する",
+  "content": "SeeDance2.5でMV向けトランジションを作るなら、720p・15秒設定で生成する  \nリファレンスはキャラクターシートのみを使って、キャラの見た目を固定して生成する  \nグリッチ感を強めたい場合は、7000文字超の長文プロンプトを使う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087630223345111040/img/Wc-1faEoOkExzKfF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087631493460017645.mp4",
+  "sourceLink": "https://x.com/RockzAiLab/status/2087631493460017645",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "Rockzheart.AI.ART",
+    "link": "https://x.com/RockzAiLab"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "SeeDance2.5でMV向けトランジションを作るなら、720p・15秒設定で生成する  \nリファレンスはキャラクターシートのみを使って、キャラの見た目を固定して生成する  \nグリッチ感を強めたい場合は、7000文字超の長文プロンプトを使う",
+  "translations": {
+    "en": {
+      "content": "If you’re making transitions for an MV in SeeDance2.5, generate them at 720p with a 15-second setting.  \nUse only a character sheet as the reference to keep the character’s appearance consistent.  \nIf you want to intensify the glitchy feel, use a long prompt of over 7,000 characters.\n\n--- QUOTED TWEET ---\nMV transition test\nModel: @Vtuber7144\n\nSeeDance2.5 / 720p / 15 sec\nReference: character sheet only\nPrompt: 7,000+ characters\n*The prompt is posted in the replies\n\n#capcutcpp\n@capcutapp_jp https://t.co/xhuPUUbEon\n---"
+    },
+    "es": {
+      "content": "Si vas a crear transiciones para un MV con SeeDance2.5, genera con la configuración de 720p y 15 segundos.  \nUsa solo la character sheet como referencia para fijar el aspecto del personaje al generar.  \nSi quieres potenciar el efecto glitch, usa un prompt largo de más de 7000 caracteres.\n\n--- TWEET CITADO ---\nPrueba de transición para MV  \nModelo: @Vtuber7144\n\nSeeDance2.5 / 720p / 15 sec  \nReferencia: solo character sheet  \nPrompt: más de 7000  \n*El prompt está publicado en la respuesta*\n\n#capcutcpp  \n@capcutapp_jp https://t.co/xhuPUUbEon"
+    },
+    "fr": {
+      "content": "Si vous voulez créer des transitions pour un MV avec SeeDance2.5, générez en 720p avec une durée de 15 secondes.  \nUtilisez uniquement une character sheet comme référence afin de figer l’apparence du personnage lors de la génération.  \nSi vous voulez accentuer l’effet glitch, utilisez un prompt long de plus de 7000 caractères.\n\n--- TWEET CITÉ ---\nTest de transition pour MV  \nModèle : @Vtuber7144\n\nSeeDance2.5 / 720p / 15 sec  \nRéférence : character sheet uniquement  \nPrompt : plus de 7000 caractères  \n※ Le prompt est publié en réponse\n\n#capcutcpp  \n@capcutapp_jp https://t.co/xhuPUUbEon"
+    },
+    "ko": {
+      "content": "SeeDance2.5로 MV용 트랜지션을 만들려면 720p·15초 설정으로 생성한다  \n레퍼런스는 캐릭터 시트만 사용해 캐릭터의 외형을 고정한 상태로 생성한다  \n글리치 느낌을 더 강하게 하고 싶다면 7000자 이상의 장문 prompt를 사용한다\n\n--- QUOTED TWEET ---\nMV용 트랜지션 테스트\nModel : @Vtuber7144 \n\nSeeDance2.5 / 720p / 15 sec\n레퍼런스: 캐릭터 시트만\nprompt: 7000자 이상\n※ prompt는 리플에 게재\n\n#capcutcpp\n@capcutapp_jp https://t.co/xhuPUUbEon"
+    },
+    "pt": {
+      "content": "Se for criar transições para MV com o SeeDance2.5, gere com configuração de 720p e 15 segundos.  \nUse apenas a character sheet como referência para fixar a aparência do personagem na geração.  \nSe quiser intensificar a sensação de glitch, use um prompt longo com mais de 7000 caracteres.\n\n--- TWEET CITADO ---\nTeste de transição para MV  \nModelo: @Vtuber7144\n\nSeeDance2.5 / 720p / 15 s  \nReferência: apenas character sheet  \nPrompt: mais de 7000  \n※ O prompt está publicado na resposta\n\n#capcutcpp\n@capcutapp_jp https://t.co/xhuPUUbEon\n---"
+    },
+    "zh": {
+      "content": "如果要用 SeeDance2.5 制作面向 MV 的转场，建议使用 720p、15 秒的设置进行生成。  \n参考图只使用角色设定图，以固定角色外观来生成。  \n如果想强化 glitch 感，可以使用超过 7000 字的长篇 prompt。\n\n--- QUOTED TWEET ---\n面向 MV 的转场测试  \nModel : @Vtuber7144 \n\nSeeDance2.5 / 720p / 15 sec  \n参考：仅角色设定图  \nPrompt：7000 字以上  \n※ prompt 已发布在回复中\n\n#capcutcpp  \n@capcutapp_jp https://t.co/xhuPUUbEon\n---"
+    }
+  }
+}

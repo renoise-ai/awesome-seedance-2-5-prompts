@@ -1,0 +1,42 @@
+{
+  "id": "2087575721522909351",
+  "title": "Use timestamp instructions in Seedance 2.5 to place specific story beats across…",
+  "content": "Use timestamp instructions in Seedance 2.5 to place specific story beats across the sequence (e.g., 00:00 establish the world, 00:03 introduce movement, 00:06 reveal new information, 00:09 land the story beat) instead of relying only on visual adjectives.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087575633278947332/img/HeKHpdBGjbutCTVX.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087575721522909351.mp4",
+  "sourceLink": "https://x.com/Polanco_IA/status/2087575721522909351",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "Polanco | IA",
+    "link": "https://x.com/Polanco_IA"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use timestamp instructions in Seedance 2.5 to place specific story beats across the sequence (e.g., 00:00 establish the world, 00:03 introduce movement, 00:06 reveal new information, 00:09 land the story beat) instead of relying only on visual adjectives.",
+  "translations": {
+    "es": {
+      "content": "Usa instrucciones de timestamp en Seedance 2.5 para colocar beats narrativos específicos a lo largo de la secuencia (por ejemplo, 00:00 establecer el mundo, 00:03 introducir movimiento, 00:06 revelar nueva información, 00:09 cerrar el beat narrativo) en lugar de depender solo de adjetivos visuales."
+    },
+    "fr": {
+      "content": "Utilisez les instructions de timestamp dans Seedance 2.5 pour placer des moments narratifs précis tout au long de la séquence (par exemple, 00:00 établir le monde, 00:03 introduire le mouvement, 00:06 révéler une nouvelle information, 00:09 conclure le moment narratif) au lieu de vous appuyer uniquement sur des adjectifs visuels."
+    },
+    "ja": {
+      "content": "Seedance 2.5では、timestampの指示を使って、シーケンス全体にわたって特定のストーリービートを配置します（例：00:00 で世界観を確立し、00:03 で動きを導入し、00:06 で新しい情報を明かし、00:09 でストーリービートを着地させる）— 視覚的な形容詞だけに頼らないようにします。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 timestamp 지시어를 사용해 시퀀스 전반에 걸쳐 특정 스토리 비트를 배치하세요(예: 00:00 세계관 설정, 00:03 움직임 도입, 00:06 새로운 정보 공개, 00:09 스토리 비트 마무리). 시각적 형용사에만 의존하지 마세요."
+    },
+    "pt": {
+      "content": "Use instruções de timestamp no Seedance 2.5 para posicionar beats específicos da história ao longo da sequência (por exemplo, 00:00 estabelecer o mundo, 00:03 introduzir movimento, 00:06 revelar novas informações, 00:09 fechar o beat da história) em vez de depender apenas de adjetivos visuais."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中使用时间戳指令，将特定的故事节奏分布到整个序列中（例如，00:00 建立世界观，00:03 引入动作，00:06 揭示新信息，00:09 落下故事节拍），而不是只依赖视觉形容词。"
+    }
+  }
+}

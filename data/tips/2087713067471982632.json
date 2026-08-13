@@ -1,0 +1,42 @@
+{
+  "id": "2087713067471982632",
+  "title": "狭い室内シーンは、室内の背景画像＋プリビズ（previz）をSeedance2.5に渡して背景を近づけると違和感の少ない動画化ができる",
+  "content": "狭い室内シーンは、室内の背景画像＋プリビズ（previz）をSeedance2.5に渡して背景を近づけると違和感の少ない動画化ができる  \nカメラのパンが激しくないショットにすると、背景画像＋プリビズ参照の効果が出やすい  \n音声参照を併用して動画化する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087712399319339008/img/RiswfNt3J09717ha.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087713067471982632.mp4",
+  "sourceLink": "https://x.com/Toshi_nyaruo_AI/status/2087713067471982632",
+  "sourcePublishedAt": "2026-08-13",
+  "author": {
+    "name": "Toshi@ニャルオAI",
+    "link": "https://x.com/Toshi_nyaruo_AI"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "狭い室内シーンは、室内の背景画像＋プリビズ（previz）をSeedance2.5に渡して背景を近づけると違和感の少ない動画化ができる  \nカメラのパンが激しくないショットにすると、背景画像＋プリビズ参照の効果が出やすい  \n音声参照を併用して動画化する",
+  "translations": {
+    "en": {
+      "content": "For narrow indoor scenes, passing the background image plus previz to Seedance 2.5 and bringing the background closer can produce a video with less visual awkwardness.  \nIf you use shots with less intense camera pans, the effect of referencing the background image plus previz is more likely to come through.  \nUse audio reference as well when generating the video."
+    },
+    "es": {
+      "content": "Las escenas en interiores estrechos pueden convertirse en video con menos sensación de extrañeza si se pasa a Seedance2.5 una imagen de fondo del interior + previz (previz) para acercar el fondo.  \nSi se usan tomas con un paneo de cámara no demasiado intenso, es más fácil que se note el efecto de la referencia de imagen de fondo + previz.  \nCombinarlo con una referencia de audio para generar el video."
+    },
+    "fr": {
+      "content": "Les scènes d’intérieur étroites peuvent être transformées en vidéo avec moins d’incohérences en fournissant à Seedance2.5 une image d’arrière-plan intérieure + un previz (prévisualisation) afin de rapprocher le fond.  \nSi vous choisissez un plan avec un camera pan peu marqué, l’effet de la référence d’image d’arrière-plan + previz ressort plus facilement.  \nUtiliser également une référence audio pour générer la vidéo."
+    },
+    "ko": {
+      "content": "좁은 실내 장면은 실내 배경 이미지 + 프리비즈(previz)를 Seedance2.5에 전달해 배경을 맞춰주면 이질감이 적은 영상화가 가능하다  \n카메라 pan이 심하지 않은 샷으로 하면 배경 이미지 + 프리비즈 참조의 효과가 더 잘 나타난다  \n음성 참조를 함께 사용해 영상화한다"
+    },
+    "pt": {
+      "content": "Cenas em ambientes internos estreitos podem ser transformadas em vídeo com menos estranhamento se você passar para o Seedance2.5 uma imagem de fundo do ambiente interno + previz e aproximar o fundo.  \nAo usar um shot em que o camera pan não seja muito intenso, o efeito da referência de imagem de fundo + previz tende a aparecer com mais facilidade.  \nCombine com referência de áudio para gerar o vídeo."
+    },
+    "zh": {
+      "content": "狭窄的室内场景中，将室内背景图像 + 预演（previz）传给 Seedance2.5，并让背景更贴近参考内容，可以生成违和感更少的视频。  \n如果选择镜头平移不太剧烈的 shot，背景图像 + 预演参考的效果会更容易体现出来。  \n同时结合音频参考进行视频生成。"
+    }
+  }
+}

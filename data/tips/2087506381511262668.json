@@ -1,0 +1,42 @@
+{
+  "id": "2087506381511262668",
+  "title": "Start with a character reference and a storyboard, then use Seedance 2.5 to…",
+  "content": "Start with a character reference and a storyboard, then use Seedance 2.5 to generate the full 30-second video from that plan.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087505622518353920/img/exR0HUp-lZaWrGJ8.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087506381511262668.mp4",
+  "sourceLink": "https://x.com/MonetizationDon/status/2087506381511262668",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "LAPTOP LIFESTYLE BLOGGER",
+    "link": "https://x.com/MonetizationDon"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Start with a character reference and a storyboard, then use Seedance 2.5 to generate the full 30-second video from that plan.",
+  "translations": {
+    "es": {
+      "content": "Comienza con una referencia de personaje y un storyboard, y luego usa Seedance 2.5 para generar el video completo de 30 segundos a partir de ese plan."
+    },
+    "fr": {
+      "content": "Commencez par une référence de personnage et un storyboard, puis utilisez Seedance 2.5 pour générer la vidéo complète de 30 secondes à partir de ce plan."
+    },
+    "ja": {
+      "content": "まずキャラクターリファレンスとストーリーボードを作成し、そのプランをもとに Seedance 2.5 を使って30秒の動画全体を生成します。"
+    },
+    "ko": {
+      "content": "캐릭터 레퍼런스와 스토리보드로 시작한 다음, 그 계획을 바탕으로 Seedance 2.5를 사용해 전체 30초 영상을 생성하세요."
+    },
+    "pt": {
+      "content": "Comece com uma referência de personagem e um storyboard, depois use o Seedance 2.5 para gerar o vídeo completo de 30 segundos a partir desse plano."
+    },
+    "zh": {
+      "content": "先从角色参考和分镜脚本开始，然后使用 Seedance 2.5 根据该方案生成完整的 30 秒视频。"
+    }
+  }
+}

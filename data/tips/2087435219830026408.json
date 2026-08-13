@@ -1,0 +1,43 @@
+{
+  "id": "2087435219830026408",
+  "title": "Create a storyboard with visual direction for each scene before generating so…",
+  "content": "Create a storyboard with visual direction for each scene before generating so you can reuse established scene guidance instead of starting from scratch each time  \nSet the story and character first, then use Seedance 2.5 to animate the storyboarded shots (story first, generation second)",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087435190973149184/img/JPLXLEB1bdJI2Z1k.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087435219830026408.mp4",
+  "sourceLink": "https://x.com/alifcoder/status/2087435219830026408",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "Alif Hossain",
+    "link": "https://x.com/alifcoder"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Create a storyboard with visual direction for each scene before generating so you can reuse established scene guidance instead of starting from scratch each time  \nSet the story and character first, then use Seedance 2.5 to animate the storyboarded shots (story first, generation second)",
+  "translations": {
+    "es": {
+      "content": "Crea un storyboard con dirección visual para cada escena antes de generar, así podrás reutilizar la guía de escena ya establecida en lugar de empezar desde cero cada vez  \nDefine primero la historia y el personaje, y luego usa Seedance 2.5 para animar los planos del storyboard (primero la historia, después la generación)"
+    },
+    "fr": {
+      "content": "Créez un storyboard avec une direction visuelle pour chaque scène avant la génération afin de pouvoir réutiliser des indications de scène déjà établies au lieu de repartir de zéro à chaque fois  \nDéfinissez d’abord l’histoire et les personnages, puis utilisez Seedance 2.5 pour animer les plans du storyboard (l’histoire d’abord, la génération ensuite)"
+    },
+    "ja": {
+      "content": "生成する前に、各シーンのビジュアルディレクションを含むストーリーボードを作成しておくことで、毎回ゼロから始めるのではなく、確立したシーン指示を再利用できます。  \nまずストーリーとキャラクターを決め、その後 Seedance 2.5 を使ってストーリーボード化したショットをアニメーション化します（ストーリーを先に、生成は後に）"
+    },
+    "ko": {
+      "content": "생성하기 전에 각 장면에 대한 비주얼 디렉션이 포함된 스토리보드를 만들어 두면, 매번 처음부터 시작하지 않고도 이미 정립된 장면 가이드를 재사용할 수 있습니다.  \n먼저 스토리와 캐릭터를 설정한 다음, Seedance 2.5를 사용해 스토리보드로 구성한 샷들을 애니메이션하세요(스토리가 먼저, 생성은 그다음)."
+    },
+    "pt": {
+      "content": "Crie um storyboard com direção visual para cada cena antes de gerar, para que você possa reutilizar orientações de cena já estabelecidas em vez de começar do zero a cada vez  \nDefina primeiro a história e os personagens, depois use o Seedance 2.5 para animar os planos do storyboard (história primeiro, geração depois)"
+    },
+    "zh": {
+      "content": "在生成之前，先为每个场景创建带有视觉指导的分镜脚本，这样你就可以复用已有的场景指导，而不必每次都从头开始。  \n先确定故事和角色，然后使用 Seedance 2.5 将分镜中的镜头动画化（先故事，后生成）"
+    }
+  }
+}

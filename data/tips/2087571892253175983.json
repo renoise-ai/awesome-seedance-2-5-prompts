@@ -1,0 +1,42 @@
+{
+  "id": "2087571892253175983",
+  "title": "Use Reference Images alongside Text-to-Video in Seedance 2.5 to significantly…",
+  "content": "Use Reference Images alongside Text-to-Video in Seedance 2.5 to significantly improve environment accuracy and character consistency.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087571493563600896/img/3c1obkK4AL3SroT5.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087571892253175983.mp4",
+  "sourceLink": "https://x.com/MaAyyoub/status/2087571892253175983",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "Ayyoub Ai",
+    "link": "https://x.com/MaAyyoub"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Reference Images alongside Text-to-Video in Seedance 2.5 to significantly improve environment accuracy and character consistency.",
+  "translations": {
+    "es": {
+      "content": "Usa imágenes de referencia junto con Text-to-Video en Seedance 2.5 para mejorar significativamente la precisión del entorno y la consistencia de los personajes."
+    },
+    "fr": {
+      "content": "Utilisez des images de référence en complément du Text-to-Video dans Seedance 2.5 pour améliorer considérablement la précision de l’environnement et la cohérence des personnages."
+    },
+    "ja": {
+      "content": "Seedance 2.5 では、Reference Images を Text-to-Video と併用することで、環境の正確性とキャラクターの一貫性を大幅に向上させることができます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 Text-to-Video와 함께 Reference Images를 사용하면 환경의 정확도와 캐릭터 일관성을 크게 향상시킬 수 있습니다."
+    },
+    "pt": {
+      "content": "Use imagens de referência junto com Text-to-Video no Seedance 2.5 para melhorar significativamente a precisão do ambiente e a consistência dos personagens."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中，将参考图像与 Text-to-Video 结合使用，可显著提升环境准确性和角色一致性。"
+    }
+  }
+}

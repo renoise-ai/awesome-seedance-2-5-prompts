@@ -1,0 +1,42 @@
+{
+  "id": "2087486450564489658",
+  "title": "Edit your reference images’ lighting (e.g., convert to moonlight/night) to…",
+  "content": "Edit your reference images’ lighting (e.g., convert to moonlight/night) to force Seedance 2.5 to generate the desired time-of-day/setting, since it follows references very strongly.  \nUse GPT to relight your reference images to moonlight/night before generating to get a night-time look with the same prompt.  \nManually relight reference images by lowering brightness and increasing blue tint to achieve a moonlit/night setting in the resulting Seedance 2.5 video.  \nRun ~3 generations per attempt when testing changes to confirm the effect isn’t just a lucky break.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087486200718217216/img/-ZDrqvWoXCd8QnAs.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087486450564489658.mp4",
+  "sourceLink": "https://x.com/Wigglenator/status/2087486450564489658",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "⚔️🎮💫Wigglenator💫🎮⚔️",
+    "link": "https://x.com/Wigglenator"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Edit your reference images’ lighting (e.g., convert to moonlight/night) to force Seedance 2.5 to generate the desired time-of-day/setting, since it follows references very strongly.  \nUse GPT to relight your reference images to moonlight/night before generating to get a night-time look with the same prompt.  \nManually relight reference images by lowering brightness and increasing blue tint to achieve a moonlit/night setting in the resulting Seedance 2.5 video.  \nRun ~3 generations per attempt when testing changes to confirm the effect isn’t just a lucky break.",
+  "translations": {
+    "es": {
+      "content": "Edita la iluminación de tus imágenes de referencia (por ejemplo, conviértelas a luz de luna/noche) para forzar a Seedance 2.5 a generar la hora del día/escenario deseado, ya que sigue las referencias con mucha fidelidad.  \nUsa GPT para reiluminar tus imágenes de referencia a luz de luna/noche antes de generar, y así obtener un aspecto nocturno con el mismo prompt.  \nReilumina manualmente las imágenes de referencia reduciendo el brillo y aumentando el tinte azul para lograr un entorno iluminado por la luna/noche en el video resultante de Seedance 2.5.  \nEjecuta unas ~3 generaciones por intento al probar cambios para confirmar que el efecto no sea solo un golpe de suerte.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Las imágenes editadas están aquí. Usé GPT para ajustar la iluminación a luz de luna nocturna. Pero probablemente se puede lograr el mismo efecto bajando el brillo y aumentando el tinte azul de la imagen. https://t.co/3YbScB6rDO\n---"
+    },
+    "fr": {
+      "content": "Modifiez l’éclairage de vos images de référence (par exemple, transformez-les en clair de lune / nuit) pour forcer Seedance 2.5 à générer l’heure de la journée / le décor souhaités, puisqu’il suit les références de très près.  \nUtilisez GPT pour rééclairer vos images de référence en clair de lune / nuit avant la génération afin d’obtenir un rendu nocturne avec le même prompt.  \nRééclairez manuellement les images de référence en diminuant la luminosité et en augmentant la teinte bleue pour obtenir un décor éclairé par la lune / nocturne dans la vidéo Seedance 2.5 résultante.  \nLancez environ 3 générations par tentative lors des tests de modifications afin de confirmer que l’effet n’est pas simplement dû à un coup de chance.\n\n--- SUITE DU FIL ---\n[Thread 1] Les images modifiées sont ici. J’ai utilisé GPT pour régler l’éclairage sur un clair de lune nocturne. Mais on peut probablement obtenir le même effet en baissant la luminosité et en augmentant la teinte bleue de l’image. https://t.co/3YbScB6rDO\n---"
+    },
+    "ja": {
+      "content": "参照画像のライティングを編集し（例：月明かり／夜に変換する）、Seedance 2.5 に望む時間帯・設定を生成させます。Seedance 2.5 は参照画像への追従が非常に強いためです。  \n生成前に GPT を使って参照画像を月明かり／夜にリライトすると、同じ prompt でも夜の雰囲気を得やすくなります。  \n参照画像を手動でリライトする場合は、明るさを下げて青みを強めることで、結果として Seedance 2.5 の動画に月夜／夜の設定を反映させられます。  \n変更の効果を検証する際は、偶然の当たりではないことを確認するため、1 回の試行につき約 3 回生成を実行してください。\n\n--- スレッドの続き ---\n[Thread 1] 編集した画像はこちらです。GPT を使ってライティングを月明かりの夜に設定しました。ただし、おそらく画像の明るさを下げて青みを強めるだけでも、同じ効果は得られるでしょう。 https://t.co/3YbScB6rDO\n---"
+    },
+    "ko": {
+      "content": "참조 이미지의 조명을 편집하세요(예: 달빛/밤으로 변환). 그러면 Seedance 2.5가 원하는 시간대/배경을 생성하도록 강제할 수 있습니다. 이 모델은 참조를 매우 강하게 따르기 때문입니다.  \n생성 전에 GPT를 사용해 참조 이미지를 달빛/밤 분위기로 리라이팅하면, 같은 prompt로도 밤 장면 느낌을 얻을 수 있습니다.  \n참조 이미지를 수동으로 리라이팅할 때는 밝기를 낮추고 파란색 톤을 더해, 결과로 나오는 Seedance 2.5 영상에서 달빛/밤 설정을 구현하세요.  \n변경 사항을 테스트할 때는 시도당 약 3회 생성해 보고, 효과가 단순한 운이 아닌지 확인하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 편집한 이미지는 여기 있습니다. 저는 GPT를 사용해 조명을 달빛 밤 분위기로 설정했습니다. 하지만 이미지의 밝기를 낮추고 파란색 톤을 더하는 것만으로도 아마 같은 효과를 얻을 수 있을 것입니다. https://t.co/3YbScB6rDO\n---"
+    },
+    "pt": {
+      "content": "Edite a iluminação das suas imagens de referência (por exemplo, converta para luz da lua/noite) para forçar o Seedance 2.5 a gerar o horário/ambiente desejado, já que ele segue as referências com muita fidelidade.  \nUse o GPT para reluzir suas imagens de referência para luz da lua/noite antes de gerar, a fim de obter um visual noturno com o mesmo prompt.  \nReluza manualmente as imagens de referência reduzindo o brilho e aumentando o tom azulado para alcançar um cenário iluminado pela lua/noite no vídeo resultante do Seedance 2.5.  \nExecute cerca de 3 gerações por tentativa ao testar mudanças para confirmar que o efeito não é apenas sorte.\n\n--- CONTINUAÇÃO DO THREAD ---  \n[Thread 1] As imagens editadas estão aqui. Usei o GPT para ajustar a iluminação para luz da lua à noite. Mas provavelmente o mesmo efeito pode ser obtido diminuindo o brilho e aumentando o tom azulado da imagem. https://t.co/3YbScB6rDO  \n---"
+    },
+    "zh": {
+      "content": "编辑参考图像的光照（例如，转换为月光/夜晚），以强制 Seedance 2.5 生成所需的时间段/场景，因为它对参考图的遵循非常强。  \n在生成前使用 GPT 将参考图像重新打光为月光/夜晚，这样就能用同一个 prompt 得到夜景效果。  \n也可以手动重新打光参考图像：降低亮度并增加蓝色调，从而在生成的 Seedance 2.5 视频中实现月光/夜晚场景。  \n在测试修改时，每次尝试运行大约 3 次生成，以确认效果不是偶然的。\n\n--- 线程续接 ---\n[Thread 1] 编辑后的图片在这里。我用 gpt 把光照设成了月光夜晚。不过，可能只要把图片亮度调低并增加蓝色调，也能得到同样的效果。 https://t.co/3YbScB6rDO\n---"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2087504783129358364",
+  "title": "Seedance 2.5で20秒尺に設定して生成する",
+  "content": "Seedance 2.5で20秒尺に設定して生成する  \n男性キャラを最後まで画面に出さず、女性の表情と声だけで感情を伝える構成にする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087504613268496385/img/NLplrSihbhXU4EVY.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087504783129358364.mp4",
+  "sourceLink": "https://x.com/KITAcore1203/status/2087504783129358364",
+  "sourcePublishedAt": "2026-08-12",
+  "author": {
+    "name": "KITAcore",
+    "link": "https://x.com/KITAcore1203"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "tips": "Seedance 2.5で20秒尺に設定して生成する  \n男性キャラを最後まで画面に出さず、女性の表情と声だけで感情を伝える構成にする",
+  "translations": {
+    "en": {
+      "content": "Generate with Seedance 2.5 set to a 20-second duration.  \nKeep the male character off-screen until the very end, and structure the piece so that emotion is conveyed only through the woman’s expressions and voice."
+    },
+    "es": {
+      "content": "Generar con Seedance 2.5 configurado a una duración de 20 segundos  \nDiseñar la estructura para no mostrar al personaje masculino en pantalla hasta el final, y transmitir la emoción solo a través de la expresión y la voz de la mujer"
+    },
+    "fr": {
+      "content": "Générer avec Seedance 2.5 en réglant la durée à 20 secondes  \nNe pas montrer le personnage masculin à l’écran jusqu’à la fin, et construire la scène de manière à transmettre l’émotion uniquement à travers l’expression et la voix de la femme"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 20초 길이로 설정해 생성하기  \n남성 캐릭터는 끝까지 화면에 등장시키지 않고, 여성의 표정과 목소리만으로 감정을 전달하는 구성으로 한다"
+    },
+    "pt": {
+      "content": "Gerar no Seedance 2.5 com duração de 20 segundos  \nEstruturar a cena para não mostrar o personagem masculino até o final, transmitindo a emoção apenas pela expressão e pela voz da personagem feminina"
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 设置为 20 秒时长进行生成  \n不要让男性角色在画面中出现到最后，通过女性的表情和声音来传达情感的构成"
+    }
+  }
+}
