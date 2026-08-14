@@ -1,0 +1,42 @@
+{
+  "id": "2087921484597493955",
+  "title": "Carga la imagen de tu producto en Flova AI y genera un render realista con…",
+  "content": "Carga la imagen de tu producto en Flova AI y genera un render realista con modelo en un escenario personalizado (estudio o carrusel) usando Seedance 2.5.  \nIntroduce el texto publicitario en japonés/coreano/italiano/inglés para que Flova genere automáticamente un video con sincronización labial natural del modelo alineada con la locución.  \nGuarda modelos, outfits y fondos en la Asset Library y convierte esa configuración en una Skill reutilizable para intercambiar productos o textos y lanzar nuevas variantes publicitarias rápidamente.",
+  "language": "es",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087921216623370240/img/rikJnvdGbIDQqvmP.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087921484597493955.mp4",
+  "sourceLink": "https://x.com/ElCopyMaster/status/2087921484597493955",
+  "sourcePublishedAt": "2026-08-13",
+  "author": {
+    "name": "Rafa Gonzalez | IA",
+    "link": "https://x.com/ElCopyMaster"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Carga la imagen de tu producto en Flova AI y genera un render realista con modelo en un escenario personalizado (estudio o carrusel) usando Seedance 2.5.  \nIntroduce el texto publicitario en japonés/coreano/italiano/inglés para que Flova genere automáticamente un video con sincronización labial natural del modelo alineada con la locución.  \nGuarda modelos, outfits y fondos en la Asset Library y convierte esa configuración en una Skill reutilizable para intercambiar productos o textos y lanzar nuevas variantes publicitarias rápidamente.",
+  "translations": {
+    "en": {
+      "content": "Upload your product image to Flova AI and generate a realistic render with a model in a customized setting (studio or carousel) using Seedance 2.5.  \nEnter the ad copy in Japanese/Korean/Italian/English so Flova can automatically generate a video with natural lip-sync from the model, aligned with the voiceover.  \nSave models, outfits, and backgrounds in the Asset Library, and turn that setup into a reusable Skill so you can swap products or text and quickly launch new ad variations."
+    },
+    "fr": {
+      "content": "Charge l’image de votre produit dans Flova AI et génère un rendu réaliste avec un modèle dans un décor personnalisé (studio ou carrousel) en utilisant Seedance 2.5.  \nSaisissez le texte publicitaire en japonais/coréen/italien/anglais afin que Flova génère automatiquement une vidéo avec une synchronisation labiale naturelle du modèle, alignée sur la voix off.  \nEnregistrez les modèles, tenues et arrière-plans dans l’Asset Library et transformez cette configuration en une Skill réutilisable pour remplacer des produits ou des textes et lancer rapidement de nouvelles variantes publicitaires."
+    },
+    "ja": {
+      "content": "Flova AIに商品画像をアップロードし、Seedance 2.5を使って、カスタムシーン（スタジオまたはカルーセル）内のモデルによるリアルなレンダリングを生成します。  \n日本語／韓国語／イタリア語／英語の広告テキストを入力すると、Flovaがナレーションに合わせて、モデルの自然なリップシンク付き動画を自動生成します。  \nモデル、衣装、背景をAsset Libraryに保存し、その設定を再利用可能なSkillに変換することで、商品やテキストを差し替えて新しい広告バリエーションをすばやく展開できます。"
+    },
+    "ko": {
+      "content": "Flova AI에 제품 이미지를 업로드하고, Seedance 2.5를 사용해 맞춤형 시나리오(스튜디오 또는 캐러셀)에서 모델이 포함된 사실적인 렌더를 생성하세요.  \n일본어/한국어/이탈리아어/영어로 광고 문구를 입력하면, Flova가 내레이션과 맞춰 모델의 자연스러운 립싱크가 적용된 영상을 자동으로 생성합니다.  \n모델, 의상, 배경을 Asset Library에 저장하고, 그 구성을 재사용 가능한 Skill로 전환해 제품이나 텍스트만 바꿔 빠르게 새로운 광고 버전을 출시하세요."
+    },
+    "pt": {
+      "content": "Carregue a imagem do seu produto no Flova AI e gere um render realista com modelo em um cenário personalizado (estúdio ou carrossel) usando o Seedance 2.5.  \nInsira o texto publicitário em japonês/coreano/italianoინგlês para que o Flova gere automaticamente um vídeo com sincronização labial natural do modelo, alinhada à locução.  \nSalve modelos, roupas e fundos na Asset Library e transforme essa configuração em uma Skill reutilizável para trocar produtos ou textos e lançar rapidamente novas variações publicitárias."
+    },
+    "zh": {
+      "content": "将你的产品图片上传到 Flova AI，并使用 Seedance 2.5 在自定义场景（工作室或轮播）中生成带模特的逼真渲染图。  \n输入日语/韩语/意大利语/英语的广告文案，让 Flova 自动生成视频，并让模特的自然口型同步与配音保持一致。  \n将模特、服装和背景保存到 Asset Library 中，并把这套配置转换为可复用的 Skill，以便快速替换产品或文案，迅速推出新的广告变体。"
+    }
+  }
+}

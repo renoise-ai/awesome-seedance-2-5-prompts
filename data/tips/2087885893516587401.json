@@ -1,0 +1,44 @@
+{
+  "id": "2087885893516587401",
+  "title": "Seedance 2.5で大人数シーンを作るときは、女の子キャラ＋背景など合計30枚以上の参照素材を読み込ませてから30秒動画を一発生成する",
+  "content": "Seedance 2.5で大人数シーンを作るときは、女の子キャラ＋背景など合計30枚以上の参照素材を読み込ませてから30秒動画を一発生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087880167515643904/img/pUvwilKcdTwPxz6j.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087885893516587401.mp4",
+  "sourceLink": "https://x.com/yori03617/status/2087885893516587401",
+  "sourcePublishedAt": "2026-08-13",
+  "author": {
+    "name": "ゟ(yori)",
+    "link": "https://x.com/yori03617"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5で大人数シーンを作るときは、女の子キャラ＋背景など合計30枚以上の参照素材を読み込ませてから30秒動画を一発生成する",
+  "translations": {
+    "en": {
+      "content": "When creating large-cast scenes in Seedance 2.5, load in more than 30 reference assets in total—such as girl characters plus backgrounds—before generating a 30-second video in one shot."
+    },
+    "es": {
+      "content": "Cuando crees escenas con muchas personas en Seedance 2.5, carga primero más de 30素材 de referencia en total, como una chica personaje + el fondo, y luego genera de una sola vez un video de 30 segundos."
+    },
+    "fr": {
+      "content": "Pour créer des scènes avec beaucoup de personnages dans Seedance 2.5, chargez d’abord plus de 30 images de référence au total, par exemple un personnage de fille + des arrière-plans, puis générez d’un seul coup une vidéo de 30 secondes."
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 대인원 장면을 만들 때는, 여자 캐릭터 + 배경 등 총 30장 이상의 참조 소재를 불러온 뒤 30초짜리 영상을 한 번에 생성한다"
+    },
+    "pt": {
+      "content": "Ao criar cenas com muitas pessoas no Seedance 2.5, carregue mais de 30 materiais de referência no total, como personagem feminina + fundo, e então gere o vídeo de 30 segundos de uma só vez."
+    },
+    "zh": {
+      "content": "在使用 Seedance 2.5 制作多人场景时，先加载女孩角色＋背景等总计 30 张以上的参考素材，然后一次性生成 30 秒视频。"
+    }
+  }
+}

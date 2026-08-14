@@ -1,0 +1,42 @@
+{
+  "id": "2087878719331553349",
+  "title": "7秒のダンス動画はSeedance2.5で約154クレジット程度なので、短尺（7秒前後）にするとクレジット消費を抑えて使いやすい",
+  "content": "7秒のダンス動画はSeedance2.5で約154クレジット程度なので、短尺（7秒前後）にするとクレジット消費を抑えて使いやすい  \n音源（7秒）＋女性3人のキャラクターシート＋背景画像を用意し、プロンプトでフォーメーションダンスの動きや配置を制御する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087877084341542912/img/zZV886zhmrB92sfZ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087878719331553349.mp4",
+  "sourceLink": "https://x.com/junyait/status/2087878719331553349",
+  "sourcePublishedAt": "2026-08-13",
+  "author": {
+    "name": "海澤純 AI CREATIVE",
+    "link": "https://x.com/junyait"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "7秒のダンス動画はSeedance2.5で約154クレジット程度なので、短尺（7秒前後）にするとクレジット消費を抑えて使いやすい  \n音源（7秒）＋女性3人のキャラクターシート＋背景画像を用意し、プロンプトでフォーメーションダンスの動きや配置を制御する",
+  "translations": {
+    "en": {
+      "content": "A 7-second dance video on Seedance 2.5 costs about 154 credits, so keeping it short (around 7 seconds) helps reduce credit usage and makes it easier to use.  \nPrepare the audio source (7 seconds), character sheets for three women, and a background image, then use the prompt to control the formation dance movements and positioning."
+    },
+    "es": {
+      "content": "Un video de baile de 7 segundos en Seedance2.5 consume aproximadamente 154 créditos, así que usar una duración corta (alrededor de 7 segundos) ayuda a reducir el consumo de créditos y facilita su uso.  \nPrepara una pista de audio (7 segundos) + una hoja de personaje de 3 mujeres + una imagen de fondo, y controla mediante el prompt los movimientos y la disposición de la coreografía en formación."
+    },
+    "fr": {
+      "content": "Une vidéo de danse de 7 secondes coûte environ 154 crédits avec Seedance2.5, donc en la gardant courte (autour de 7 secondes), on réduit la consommation de crédits et elle devient plus facile à utiliser.  \nPréparez une source audio (7 secondes), une character sheet de trois femmes et une image de fond, puis contrôlez les mouvements et la disposition de la formation de danse via le prompt."
+    },
+    "ko": {
+      "content": "7초짜리 댄스 영상은 Seedance2.5에서 약 154 크레딧 정도이므로, 짧은 길이(약 7초)로 만들면 크레딧 소모를 줄여 더 쉽게 활용할 수 있다  \n음원(7초) + 여성 3명의 캐릭터 시트 + 배경 이미지를 준비하고, prompt로 포메이션 댄스의 동작과 배치를 제어한다"
+    },
+    "pt": {
+      "content": "Um vídeo de dança de 7 segundos no Seedance 2.5 consome cerca de 154 créditos, então, ao usar um formato curto (em torno de 7 segundos), é possível reduzir o consumo de créditos e facilitar o uso.  \nPrepare a trilha sonora (7 segundos) + um character sheet de 3 mulheres + uma imagem de fundo, e use o prompt para controlar os movimentos e o posicionamento da dança em formação."
+    },
+    "zh": {
+      "content": "7秒的舞蹈视频在 Seedance2.5 中大约需要154个 credit 左右，因此将时长控制在短片（约7秒）可以减少 credit 消耗，更便于使用  \n准备音源（7秒）＋3位女性的角色设定图＋背景图，并通过 prompt 来控制队形舞蹈的动作和站位"
+    }
+  }
+}

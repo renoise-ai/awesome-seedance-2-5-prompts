@@ -1,0 +1,42 @@
+{
+  "id": "2087970781628084553",
+  "title": "Use one audio reference plus several reference images to lock the visual style…",
+  "content": "Use one audio reference plus several reference images to lock the visual style, then write one precise prompt to generate a music video sequence in Seedance 2.5.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087970680662896640/img/0vptYZdmYGM8TDJK.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087970781628084553.mp4",
+  "sourceLink": "https://x.com/steftranquillin/status/2087970781628084553",
+  "sourcePublishedAt": "2026-08-13",
+  "author": {
+    "name": "Stéphane",
+    "link": "https://x.com/steftranquillin"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use one audio reference plus several reference images to lock the visual style, then write one precise prompt to generate a music video sequence in Seedance 2.5.",
+  "translations": {
+    "es": {
+      "content": "Usa una referencia de audio más varias imágenes de referencia para fijar el estilo visual, y luego escribe un prompt preciso para generar una secuencia de videoclip musical en Seedance 2.5."
+    },
+    "fr": {
+      "content": "Utilisez une référence audio ainsi que plusieurs images de référence pour verrouiller le style visuel, puis rédigez un prompt précis pour générer une séquence de clip musical dans Seedance 2.5."
+    },
+    "ja": {
+      "content": "1つの音声リファレンスと複数の参照画像を使ってビジュアルスタイルを固定し、そのうえで1つの正確なプロンプトを書いて、Seedance 2.5でミュージックビデオのシーケンスを生成します。"
+    },
+    "ko": {
+      "content": "오디오 레퍼런스 하나와 여러 개의 레퍼런스 이미지를 사용해 비주얼 스타일을 고정한 다음, 하나의 정확한 프롬프트를 작성해 Seedance 2.5에서 뮤직비디오 시퀀스를 생성하세요."
+    },
+    "pt": {
+      "content": "Use uma referência de áudio e várias imagens de referência para travar o estilo visual, depois escreva um prompt preciso para gerar uma sequência de videoclipe no Seedance 2.5."
+    },
+    "zh": {
+      "content": "使用一个音频参考和多张参考图像来锁定视觉风格，然后编写一个精准的 prompt，在 Seedance 2.5 中生成一段音乐视频序列。"
+    }
+  }
+}

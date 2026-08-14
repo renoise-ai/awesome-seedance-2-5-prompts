@@ -1,0 +1,42 @@
+{
+  "id": "2087943040451178919",
+  "title": "Use AI MoCap in Autodesk Flow Studio to drive character performance from a…",
+  "content": "Use AI MoCap in Autodesk Flow Studio to drive character performance from a video reference before generating with Seedance 2.5.  \nUse the 3D Editor in Flow Studio to build the scene/world and explicitly control camera movement prior to rendering.  \nUse Canvas with Seedance 2.5 in Flow Studio to refine and iterate on the final visual look after the initial generation.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087942543992332288/img/bI6qrfr1C4Hk-4Td.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087943040451178919.mp4",
+  "sourceLink": "https://x.com/adskflowstudio/status/2087943040451178919",
+  "sourcePublishedAt": "2026-08-13",
+  "author": {
+    "name": "Autodesk Flow Studio",
+    "link": "https://x.com/adskflowstudio"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use AI MoCap in Autodesk Flow Studio to drive character performance from a video reference before generating with Seedance 2.5.  \nUse the 3D Editor in Flow Studio to build the scene/world and explicitly control camera movement prior to rendering.  \nUse Canvas with Seedance 2.5 in Flow Studio to refine and iterate on the final visual look after the initial generation.",
+  "translations": {
+    "es": {
+      "content": "Usa AI MoCap en Autodesk Flow Studio para dirigir la interpretación del personaje a partir de una referencia en video antes de generar con Seedance 2.5.  \nUsa el Editor 3D en Flow Studio para construir la escena/el mundo y controlar explícitamente el movimiento de cámara antes del renderizado.  \nUsa Canvas con Seedance 2.5 en Flow Studio para refinar e iterar sobre el aspecto visual final después de la generación inicial."
+    },
+    "fr": {
+      "content": "Utilisez AI MoCap dans Autodesk Flow Studio pour piloter la performance d’un personnage à partir d’une vidéo de référence avant la génération avec Seedance 2.5.  \nUtilisez l’éditeur 3D dans Flow Studio pour construire la scène/le monde et contrôler explicitement les mouvements de caméra avant le rendu.  \nUtilisez Canvas avec Seedance 2.5 dans Flow Studio pour affiner et itérer sur l’aspect visuel final après la génération initiale."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.5で生成する前に、Autodesk Flow Studio の AI MoCap を使って、動画リファレンスからキャラクターの演技を駆動します。  \nFlow Studio の 3D Editor を使ってシーン／ワールドを構築し、レンダリング前にカメラの動きを明示的に制御します。  \nFlow Studio の Canvas と Seedance 2.5 を使って、初回生成後の最終的なビジュアルルックを洗練させ、反復調整します。\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5로 생성하기 전에 Autodesk Flow Studio의 AI MoCap을 사용해 비디오 레퍼런스를 바탕으로 캐릭터 퍼포먼스를 구동하세요.  \nFlow Studio의 3D Editor를 사용해 장면/월드를 구축하고, 렌더링 전에 카메라 움직임을 명시적으로 제어하세요.  \nFlow Studio의 Canvas와 Seedance 2.5를 사용해 초기 생성 이후 최종 비주얼 룩을 다듬고 반복 개선하세요."
+    },
+    "pt": {
+      "content": "Use AI MoCap no Autodesk Flow Studio para conduzir a performance do personagem a partir de uma referência em vídeo antes de gerar com o Seedance 2.5.  \nUse o 3D Editor no Flow Studio para construir a cena/mundo e controlar explicitamente o movimento da câmera antes da renderização.  \nUse o Canvas com o Seedance 2.5 no Flow Studio para refinar e iterar sobre o visual final após a geração inicial."
+    },
+    "zh": {
+      "content": "在 Autodesk Flow Studio 中使用 AI MoCap，通过视频参考驱动角色表演，然后再使用 Seedance 2.5 进行生成。  \n在 Flow Studio 中使用 3D Editor 构建场景/世界，并在渲染前明确控制 camera movement。  \n在 Flow Studio 中结合 Seedance 2.5 使用 Canvas，在初次生成后进一步打磨并迭代最终视觉效果。"
+    }
+  }
+}

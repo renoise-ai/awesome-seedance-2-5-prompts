@@ -1,0 +1,43 @@
+{
+  "id": "2087826856435400991",
+  "title": "Blenderで3Dステージとプレビズを作り、各カットの指示を書き込んだ「動画コンテ（複数カット）」を用意してSeedance 2.5に渡す",
+  "content": "Blenderで3Dステージとプレビズを作り、各カットの指示を書き込んだ「動画コンテ（複数カット）」を用意してSeedance 2.5に渡す  \n動画コンテに加えてキャラ参照画像と場所（背景）参照画像も一緒に入力して生成し、カット順・尺・画角の反映精度を上げる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087826753259814912/img/uIv8YDKkz--Le7vP.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087826856435400991.mp4",
+  "sourceLink": "https://x.com/ryo05m/status/2087826856435400991",
+  "sourcePublishedAt": "2026-08-13",
+  "author": {
+    "name": "Ryo@AI動画×AIツール紹介",
+    "link": "https://x.com/ryo05m"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Blenderで3Dステージとプレビズを作り、各カットの指示を書き込んだ「動画コンテ（複数カット）」を用意してSeedance 2.5に渡す  \n動画コンテに加えてキャラ参照画像と場所（背景）参照画像も一緒に入力して生成し、カット順・尺・画角の反映精度を上げる",
+  "translations": {
+    "en": {
+      "content": "Create a “video storyboard (multiple cuts)” in Blender with a 3D stage and previs, and add instructions for each shot before handing it off to Seedance 2.5.  \nIn addition to the video storyboard, input character reference images and location (background) reference images together during generation to improve the accuracy of shot order, duration, and framing."
+    },
+    "es": {
+      "content": "Crear un stage 3D y un previz en Blender, y preparar un “video storyboard (múltiples cortes)” con las indicaciones de cada plano para pasarlo a Seedance 2.5.  \nAdemás del video storyboard, introducir también imágenes de referencia del personaje y del lugar (fondo) para generar el contenido, y así mejorar la precisión con la que se reflejan el orden de los cortes, la duración y el encuadre."
+    },
+    "fr": {
+      "content": "Créer une scène 3D et un préviz dans Blender, puis préparer un « storyboard vidéo (plusieurs plans) » avec les instructions pour chaque cut, et le transmettre à Seedance 2.5.  \nEn plus du storyboard vidéo, fournir également des images de référence des personnages et des images de référence du lieu (arrière-plan) pour la génération, afin d’améliorer la précision de la prise en compte de l’ordre des plans, de la durée et du cadrage."
+    },
+    "ko": {
+      "content": "Blender에서 3D 스테이지와 프리비즈를 만들고, 각 컷의 지시를 적어 넣은 ‘영상 콘티(복수 컷)’를 준비해 Seedance 2.5에 전달한다  \n영상 콘티에 더해 캐릭터 참조 이미지와 장소(배경) 참조 이미지도 함께 입력해 생성하면, 컷 순서·길이·화각 반영 정확도를 높일 수 있다"
+    },
+    "pt": {
+      "content": "Crie um stage 3D e um previs no Blender e prepare um “video storyboard (multiple shots)” com as instruções de cada corte para passar ao Seedance 2.5  \nAlém do video storyboard, insira também imagens de referência dos personagens e imagens de referência do local (background) para gerar o conteúdo, aumentando a precisão na reprodução da ordem dos cortes, da duração e do enquadramento"
+    },
+    "zh": {
+      "content": "在 Blender 中制作 3D 舞台和预演（previs），并准备好写入各个镜头指示的“视频分镜（多镜头）”，交给 Seedance 2.5  \n除了视频分镜之外，还同时输入角色参考图和场景（背景）参考图进行生成，以提高对镜头顺序、时长和画幅/构图的还原精度"
+    }
+  }
+}

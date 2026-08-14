@@ -1,0 +1,42 @@
+{
+  "id": "2087854426266509547",
+  "title": "Lock character and product consistency across the full 30-second prompt to…",
+  "content": "Lock character and product consistency across the full 30-second prompt to maintain continuity in Seedance.  \nBreak a 30-second video into clear story beats (e.g., Unboxing → Product Detail → Wrist Macro → Mirror Try-On → Testimonial → Hero Shot) and prompt each beat explicitly.  \nDefine the camera setup/movement for each moment/beat instead of describing a single shot.  \nAdd negative constraints targeting common failures to improve prompt adherence and usable output rate.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087809836813897728/img/MmCW_NcJdu6KO5uK.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087854426266509547.mp4",
+  "sourceLink": "https://x.com/ImaStudio_ai/status/2087854426266509547",
+  "sourcePublishedAt": "2026-08-13",
+  "author": {
+    "name": "Ima Studio",
+    "link": "https://x.com/ImaStudio_ai"
+  },
+  "tags": [
+    "Product Ad",
+    "Luxury",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Lock character and product consistency across the full 30-second prompt to maintain continuity in Seedance.  \nBreak a 30-second video into clear story beats (e.g., Unboxing → Product Detail → Wrist Macro → Mirror Try-On → Testimonial → Hero Shot) and prompt each beat explicitly.  \nDefine the camera setup/movement for each moment/beat instead of describing a single shot.  \nAdd negative constraints targeting common failures to improve prompt adherence and usable output rate.",
+  "translations": {
+    "es": {
+      "content": "Bloquea la consistencia del personaje y del producto a lo largo de todo el prompt de 30 segundos para mantener la continuidad en Seedance.  \nDivide un video de 30 segundos en story beats claros (por ejemplo, Unboxing → Product Detail → Wrist Macro → Mirror Try-On → Testimonial → Hero Shot) y define cada beat de forma explícita en el prompt.  \nDefine la configuración y el movimiento de cámara para cada momento/beat en lugar de describir una sola toma.  \nAñade restricciones negativas dirigidas a fallos comunes para mejorar el cumplimiento del prompt y la tasa de resultados utilizables."
+    },
+    "fr": {
+      "content": "Verrouillez la cohérence du personnage et du produit sur l’ensemble du prompt de 30 secondes afin de maintenir la continuité dans Seedance.  \nDécoupez une vidéo de 30 secondes en beats narratifs clairs (par exemple : Unboxing → Détail du produit → Macro du poignet → Essayage devant le miroir → Témoignage → Hero Shot) et rédigez un prompt explicite pour chaque beat.  \nDéfinissez le setup/le mouvement de caméra pour chaque moment/beat plutôt que de décrire un seul plan.  \nAjoutez des contraintes négatives ciblant les échecs courants afin d’améliorer le respect du prompt et le taux de sortie exploitable."
+    },
+    "ja": {
+      "content": "Seedance で一貫性を保つために、30秒の prompt 全体を通してキャラクターと製品の整合性を固定します。  \n30秒の動画を明確なストーリービート（例：Unboxing → Product Detail → Wrist Macro → Mirror Try-On → Testimonial → Hero Shot）に分け、各ビートを明示的に prompt します。  \n単一のショットを説明するのではなく、各瞬間／ビートごとにカメラのセットアップ／動きを定義します。  \nよくある失敗を対象にした negative constraints を追加して、prompt の遵守率と使用可能な出力率を向上させます。"
+    },
+    "ko": {
+      "content": "Seedance에서 연속성을 유지하기 위해 30초 전체 prompt에 걸쳐 캐릭터와 제품의 일관성을 고정하세요.  \n30초짜리 영상을 명확한 스토리 비트로 나누고(예: Unboxing → Product Detail → Wrist Macro → Mirror Try-On → Testimonial → Hero Shot), 각 비트를 명시적으로 prompt하세요.  \n하나의 단일 shot을 설명하기보다, 각 순간/비트마다 카메라 세팅과 움직임을 정의하세요.  \n자주 발생하는 실패를 겨냥한 negative constraints를 추가해 prompt 준수율과 사용 가능한 결과물 비율을 높이세요."
+    },
+    "pt": {
+      "content": "Trave a consistência do personagem e do produto ao longo de todo o prompt de 30 segundos para manter a continuidade no Seedance.  \nDivida um vídeo de 30 segundos em beats narrativos claros (por exemplo, Unboxing → Product Detail → Wrist Macro → Mirror Try-On → Testimonial → Hero Shot) e descreva cada beat explicitamente no prompt.  \nDefina a configuração/movimento de câmera para cada momento/beat em vez de descrever uma única tomada.  \nAdicione restrições negativas direcionadas a falhas comuns para melhorar a aderência ao prompt e a taxa de saída utilizável."
+    },
+    "zh": {
+      "content": "在整个 30 秒 prompt 中锁定角色和产品的一致性，以保持 Seedance 中的连续性。  \n将 30 秒视频拆分为清晰的故事节拍（例如：Unboxing → Product Detail → Wrist Macro → Mirror Try-On → Testimonial → Hero Shot），并为每个节拍明确写出 prompt。  \n为每个时刻/节拍定义 camera setup/movement，而不是只描述一个单一镜头。  \n添加针对常见失败的 negative constraints，以提高 prompt 的遵循度和可用输出率。"
+    }
+  }
+}

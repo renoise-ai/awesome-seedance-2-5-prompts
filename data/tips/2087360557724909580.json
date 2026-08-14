@@ -4,7 +4,7 @@
   "content": "Use Seedance 2.5 with short, simple, natural-language prompts (avoid long, overly complicated LLM-written prompts) for better results, especially in action scenes.  \nPrompt each specific action/move explicitly (in simple natural language) to improve action coherence and reduce randomness.  \nTo preserve quality across shots, take frames from a generated video and reuse them as keyframes for the next shot to extend the sequence without gradual degradation (Seedance 2.5).",
   "language": "en",
   "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087360155717713920/img/zVzddQEEZop-NQkQ.jpg",
-  "videoUrl": "https://video.twimg.com/amplify_video/2087360155717713920/vid/avc1/1920x1080/3ql_c7LFiNqIxRd9.mp4",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087360557724909580.mp4",
   "sourceLink": "https://x.com/sithdaddyx/status/2087360557724909580",
   "sourcePublishedAt": "2026-08-12",
   "author": {

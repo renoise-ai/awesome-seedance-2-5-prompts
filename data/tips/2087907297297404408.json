@@ -1,0 +1,42 @@
+{
+  "id": "2087907297297404408",
+  "title": "先用 Midjourney 生成人物圖提升角色質感，再用 GPT Image 2 做定形以提高 Seedance 2.5 的人物鎖定穩定性",
+  "content": "先用 Midjourney 生成人物圖提升角色質感，再用 GPT Image 2 做定形以提高 Seedance 2.5 的人物鎖定穩定性",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087906785390915584/img/FGAVzSNEDvwHL52x.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087907297297404408.mp4",
+  "sourceLink": "https://x.com/Langby2/status/2087907297297404408",
+  "sourcePublishedAt": "2026-08-13",
+  "author": {
+    "name": "新手老兵🇭🇰Web3gamer",
+    "link": "https://x.com/Langby2"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "先用 Midjourney 生成人物圖提升角色質感，再用 GPT Image 2 做定形以提高 Seedance 2.5 的人物鎖定穩定性",
+  "translations": {
+    "en": {
+      "content": "First, use Midjourney to generate character images to enhance the character’s visual quality, then use GPT Image 2 for shape refinement to improve Seedance 2.5’s character locking stability."
+    },
+    "es": {
+      "content": "Primero usa Midjourney para generar una imagen del personaje y mejorar la calidad visual del rol, y luego usa GPT Image 2 para definir la forma y aumentar la estabilidad del seguimiento del personaje en Seedance 2.5"
+    },
+    "fr": {
+      "content": "Commencez par utiliser Midjourney pour générer une image du personnage afin d’améliorer la qualité visuelle du rôle, puis utilisez GPT Image 2 pour en fixer les traits et améliorer la stabilité du verrouillage du personnage dans Seedance 2.5."
+    },
+    "ja": {
+      "content": "まず Midjourney で人物画像を生成してキャラクターの質感を高め、その後 GPT Image 2 で形を整えることで、Seedance 2.5 における人物のロック安定性を向上させる。"
+    },
+    "ko": {
+      "content": "먼저 Midjourney로 인물 이미지를 생성해 캐릭터의 퀄리티를 높인 다음, GPT Image 2로 형태를 정리해 Seedance 2.5의 인물 고정 안정성을 향상시킨다."
+    },
+    "pt": {
+      "content": "Primeiro, use o Midjourney para gerar uma imagem do personagem e elevar a qualidade visual do personagem; depois, use o GPT Image 2 para definir a forma, a fim de aumentar a estabilidade do lock de personagem no Seedance 2.5."
+    }
+  }
+}

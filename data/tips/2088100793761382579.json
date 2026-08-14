@@ -1,0 +1,42 @@
+{
+  "id": "2088100793761382579",
+  "title": "Seedance2.5でMVを30秒一括生成し、曲尺が足りない分（例：2秒）は編集で延長して尺合わせする",
+  "content": "Seedance2.5でMVを30秒一括生成し、曲尺が足りない分（例：2秒）は編集で延長して尺合わせする  \nリリック（字幕）はCapCut編集でパンクロック風に殴りつけるような演出で入れる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088100686127153152/img/oGIrQa2znMxar3vB.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088100793761382579.mp4",
+  "sourceLink": "https://x.com/takowa3bi/status/2088100793761382579",
+  "sourcePublishedAt": "2026-08-14",
+  "author": {
+    "name": "むぎまる@AIイラスト",
+    "link": "https://x.com/takowa3bi"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.5でMVを30秒一括生成し、曲尺が足りない分（例：2秒）は編集で延長して尺合わせする  \nリリック（字幕）はCapCut編集でパンクロック風に殴りつけるような演出で入れる",
+  "translations": {
+    "en": {
+      "content": "Generate a 30-second music video in one batch with Seedance 2.5, and extend the missing duration (e.g., 2 seconds) in editing to match the song length.  \nAdd the lyrics (subtitles) in CapCut with a punk-rock-style editing treatment, as if they’re being slammed onto the screen."
+    },
+    "es": {
+      "content": "Genera un MV de 30 segundos de una sola vez con Seedance2.5 y, si falta duración para completar la canción (por ejemplo, 2 segundos), amplíala en la edición para ajustar el metraje.  \nLas letras (subtítulos) se añaden en la edición de CapCut con una puesta en escena de estilo punk rock, como si golpearan la pantalla con fuerza."
+    },
+    "fr": {
+      "content": "Générer un MV de 30 secondes en une seule fois avec Seedance2.5, puis prolonger en montage la partie manquante de la durée de la chanson (par exemple 2 secondes) afin d’ajuster le timing.  \nAjouter les paroles (sous-titres) dans CapCut avec un montage au style punk rock, en les faisant apparaître de manière percutante, comme si elles frappaient l’écran."
+    },
+    "ko": {
+      "content": "Seedance2.5로 MV를 30초 일괄 생성하고, 곡 길이가 부족한 부분(예: 2초)은 편집으로 늘려 러닝타임을 맞춘다  \n리릭(자막)은 CapCut 편집에서 펑크 록풍으로 내리꽂듯 강렬한 연출로 넣는다"
+    },
+    "pt": {
+      "content": "Gerar um MV de 30 segundos de uma vez no Seedance2.5 e, para o tempo que faltar na duração da música (por exemplo, 2 segundos), estender na edição para ajustar o timing  \nInserir a letra (legendas) na edição do CapCut com uma apresentação em estilo punk rock, como se fosse um impacto agressivo na tela"
+    },
+    "zh": {
+      "content": "用 Seedance2.5 一次性生成 30 秒的 MV，剩余不足的时长（例如 2 秒）通过剪辑延长来对齐总时长  \n歌词（字幕）在 CapCut 剪辑中以朋克摇滚风格、带有“砸上去”般的冲击感来加入演出"
+    }
+  }
+}

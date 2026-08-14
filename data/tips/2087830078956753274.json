@@ -1,0 +1,42 @@
+{
+  "id": "2087830078956753274",
+  "title": "Generate a full 15s 720p 16:9 video in Seedance 2.5 from a single prompt to…",
+  "content": "Generate a full 15s 720p 16:9 video in Seedance 2.5 from a single prompt to avoid edits/cuts.  \nCreate a shot map with GPT Image 2 and use it to structure the Seedance prompt for ad-like pacing.  \nUse the provided prompt (2nd image) and shot map (3rd image) as a template—save them and swap in your own product/details to recreate the workflow.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087830030537613312/img/1WSj8vRa9WZNqMdX.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087830078956753274.mp4",
+  "sourceLink": "https://x.com/nastassiavideo/status/2087830078956753274",
+  "sourcePublishedAt": "2026-08-13",
+  "author": {
+    "name": "Nastassia | AI Video Creator",
+    "link": "https://x.com/nastassiavideo"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate a full 15s 720p 16:9 video in Seedance 2.5 from a single prompt to avoid edits/cuts.  \nCreate a shot map with GPT Image 2 and use it to structure the Seedance prompt for ad-like pacing.  \nUse the provided prompt (2nd image) and shot map (3rd image) as a template—save them and swap in your own product/details to recreate the workflow.",
+  "translations": {
+    "es": {
+      "content": "Genera un video completo de 15 s en 720p y 16:9 en Seedance 2.5 a partir de un solo prompt para evitar ediciones/cortes.  \nCrea un shot map con GPT Image 2 y úsalo para estructurar el prompt de Seedance con un ritmo tipo anuncio.  \nUsa el prompt proporcionado (2.ª imagen) y el shot map (3.ª imagen) como plantilla: guárdalos y sustituye tu propio producto/detalles para recrear el flujo de trabajo."
+    },
+    "fr": {
+      "content": "Générez une vidéo complète de 15 s en 720p au format 16:9 dans Seedance 2.5 à partir d’un seul prompt afin d’éviter les montages/coupes.  \nCréez un shot map avec GPT Image 2 et utilisez-le pour structurer le prompt Seedance avec un rythme de type publicité.  \nUtilisez le prompt fourni (2e image) et le shot map (3e image) comme modèle — enregistrez-les puis remplacez-les par votre propre produit/détails pour reproduire le workflow."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.5で、編集やカットを避けるために、単一のpromptから15秒・720p・16:9の動画をフル生成してください。  \nGPT Image 2でショットマップを作成し、それを使ってSeedanceのpromptを広告のようなテンポになるよう構成してください。  \n提供されたprompt（2枚目の画像）とショットマップ（3枚目の画像）をテンプレートとして使用してください。保存しておき、自分の製品や詳細に差し替えることで、このワークフローを再現できます。\n---"
+    },
+    "ko": {
+      "content": "편집/컷을 피하기 위해 단일 prompt로 Seedance 2.5에서 전체 15초 720p 16:9 비디오를 생성하세요.  \nGPT Image 2로 shot map을 만들고, 이를 사용해 광고처럼 리듬감 있는 pacing에 맞게 Seedance prompt를 구성하세요.  \n제공된 prompt(두 번째 이미지)와 shot map(세 번째 이미지)을 템플릿으로 사용하세요. 이를 저장한 뒤, 자신의 제품/세부 정보로 바꿔 동일한 워크플로를 재현할 수 있습니다."
+    },
+    "pt": {
+      "content": "Gere um vídeo completo de 15s em 720p e 16:9 no Seedance 2.5 a partir de um único prompt para evitar edições/cortes.  \nCrie um shot map com o GPT Image 2 e use-o para estruturar o prompt do Seedance com ritmo de anúncio.  \nUse o prompt fornecido (2ª imagem) e o shot map (3ª imagem) como modelo — salve-os e substitua pelo seu próprio produto/detalhes para recriar o fluxo de trabalho."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 仅通过一个 prompt 生成完整的 15 秒、720p、16:9 视频，以避免剪辑/切换。  \n使用 GPT Image 2 创建 shot map，并据此构建 Seedance prompt，以实现类似广告的节奏。  \n将提供的 prompt（第 2 张图）和 shot map（第 3 张图）作为模板——保存它们，并替换为你自己的产品/细节，以复现这一工作流程。"
+    }
+  }
+}

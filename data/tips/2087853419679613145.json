@@ -1,0 +1,42 @@
+{
+  "id": "2087853419679613145",
+  "title": "seedance2.5でVlog風にするには、プロンプトを「グローバル仕様 + 主体ロック + タイムラインショットユニット×N + クロスショット連続性 +…",
+  "content": "seedance2.5でVlog風にするには、プロンプトを「グローバル仕様 + 主体ロック + タイムラインショットユニット×N + クロスショット連続性 + グローバルネガティブ制約」の構成で組む  \n各ショットは「時間帯 + 景別とカメラ位置 + 主体動作 + カメラ運動 + 音声または対白」の単一ショットユニット式で記述し、タイムラインショットユニットとしてN回並べる  \n主体ロックを入れて被写体の一貫性を固定し、クロスショット連続性を指定してショット間のつながりを維持する  \n全ショット共通の崩れを防ぐためにグローバルネガティブ制約（共通ネガティブ）をプロンプトに追加する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087759664733884416/img/NnOoSFrMn-ExJnr6.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087853419679613145.mp4",
+  "sourceLink": "https://x.com/L_go_mrk/status/2087853419679613145",
+  "sourcePublishedAt": "2026-08-13",
+  "author": {
+    "name": "AI駆動塾",
+    "link": "https://x.com/L_go_mrk"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Travel Vlog",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "seedance2.5でVlog風にするには、プロンプトを「グローバル仕様 + 主体ロック + タイムラインショットユニット×N + クロスショット連続性 + グローバルネガティブ制約」の構成で組む  \n各ショットは「時間帯 + 景別とカメラ位置 + 主体動作 + カメラ運動 + 音声または対白」の単一ショットユニット式で記述し、タイムラインショットユニットとしてN回並べる  \n主体ロックを入れて被写体の一貫性を固定し、クロスショット連続性を指定してショット間のつながりを維持する  \n全ショット共通の崩れを防ぐためにグローバルネガティブ制約（共通ネガティブ）をプロンプトに追加する",
+  "translations": {
+    "en": {
+      "content": "To make a vlog-style video in Seedance 2.5, structure the prompt as: “global specifications + subject lock + timeline shot units × N + cross-shot continuity + global negative constraints.”\n\nDescribe each shot using a single-shot unit format: “time of day + shot type and camera position + subject action + camera movement + audio or dialogue,” and arrange these as timeline shot units repeated N times.\n\nInclude subject lock to fix the consistency of the subject, and specify cross-shot continuity to maintain coherence between shots.\n\nAdd global negative constraints (shared negative prompts) to the prompt to prevent common distortions across all shots."
+    },
+    "es": {
+      "content": "Para darle un estilo Vlog en seedance2.5, estructura el prompt como: “especificación global + bloqueo del sujeto + unidades de shot de la línea de tiempo × N + continuidad entre shots + restricciones negativas globales”.\n\nCada shot debe describirse con una única unidad de shot: “momento del día + tipo de plano y posición de cámara + acción del sujeto + movimiento de cámara + audio o diálogo”, y luego repetirse N veces como unidades de shot de la línea de tiempo.\n\nIncluye el bloqueo del sujeto para fijar la coherencia del personaje/objeto, y especifica la continuidad entre shots para mantener la conexión entre ellos.\n\nPara evitar fallos comunes en todos los shots, añade al prompt restricciones negativas globales (negative comunes)."
+    },
+    "fr": {
+      "content": "Pour obtenir un rendu de type Vlog avec seedance2.5, construisez le prompt selon la structure « spécifications globales + verrouillage du sujet + unités de plans chronologiques × N + continuité entre les plans + contraintes négatives globales ».\n\nChaque plan doit être décrit sous forme d’une unité de plan unique : « moment de la journée + cadrage et position de caméra + action du sujet + mouvement de caméra + audio ou dialogue ». Répétez cette unité N fois comme des unités de plans chronologiques.\n\nAjoutez un verrouillage du sujet pour fixer la cohérence du personnage ou de l’objet filmé, et spécifiez la continuité entre les plans afin de maintenir la liaison d’un plan à l’autre.\n\nPour éviter les déformations communes à tous les plans, ajoutez au prompt des contraintes négatives globales (négatifs communs)."
+    },
+    "ko": {
+      "content": "seedance2.5에서 Vlog풍으로 만들려면, prompt를 「글로벌 사양 + 주체 로크 + 타임라인 shot unit × N + 크로스 shot 연속성 + 글로벌 negative 제약」의 구성으로 짠다  \n각 shot은 「시간대 + shot 크기와 camera 위치 + 주체 동작 + camera movement + 음성 또는 대사」의 단일 shot unit 형식으로 기술하고, timeline shot unit으로 N회 나열한다  \n주체 로크를 넣어 피사체의 일관성을 고정하고, 크로스 shot 연속성을 지정해 shot 간의 연결을 유지한다  \n모든 shot에 공통으로 발생하는 붕괴를 막기 위해 글로벌 negative 제약(공통 negative)을 prompt에 추가한다"
+    },
+    "pt": {
+      "content": "Para deixar com aparência de vlog no seedance2.5, monte o prompt com a estrutura “especificação global + bloqueio do sujeito + unidades de shot da linha do tempo × N + continuidade entre shots + restrições negativas globais”.\n\nCada shot deve ser descrito no formato de unidade de shot única: “momento do dia + enquadramento e posição da câmera + ação do sujeito + movimento de câmera + áudio ou diálogo”, e então repetido N vezes como unidades de shot da linha do tempo.\n\nInclua o bloqueio do sujeito para fixar a consistência do objeto/personagem, e especifique a continuidade entre shots para manter a conexão entre as cenas.\n\nPara evitar distorções comuns em todos os shots, adicione ao prompt restrições negativas globais (negative prompt comum)."
+    },
+    "zh": {
+      "content": "在 seedance2.5 中要做出 Vlog 风格，需要将 prompt 组织为「全局规格 + 主体锁定 + 时间线 shot unit × N + 跨 shot 连续性 + 全局负面约束」的结构。  \n每个 shot 采用「时间段 + 景别与 camera 位置 + 主体动作 + camera 运动 + 音频或对白」的单一 shot unit 形式来描述，并作为 timeline shot unit 连续排列 N 次。  \n加入主体锁定以固定被摄对象的一致性，并指定跨 shot 连续性以维持 shot 之间的衔接。  \n为防止所有 shot 出现共通性的崩坏，需要在 prompt 中追加 global negative constraints（共通 negative）。"
+    }
+  }
+}

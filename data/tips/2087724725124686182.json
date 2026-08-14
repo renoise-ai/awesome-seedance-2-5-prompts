@@ -1,0 +1,42 @@
+{
+  "id": "2087724725124686182",
+  "title": "Plan your prompt around story beats across a full sequence instead of isolated…",
+  "content": "Plan your prompt around story beats across a full sequence instead of isolated shots.  \nUse Seedance 2.5’s native up-to-30-second scene generation to create longer continuous scenes.  \nAdd timestamped instructions to specify exactly when actions, reveals, and transitions occur within the 30-second sequence.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2087724684548919296/img/lr4i_BARYFKmJno0.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2087724725124686182.mp4",
+  "sourceLink": "https://x.com/darshal_/status/2087724725124686182",
+  "sourcePublishedAt": "2026-08-13",
+  "author": {
+    "name": "Darshal Jaitwar",
+    "link": "https://x.com/darshal_"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Plan your prompt around story beats across a full sequence instead of isolated shots.  \nUse Seedance 2.5’s native up-to-30-second scene generation to create longer continuous scenes.  \nAdd timestamped instructions to specify exactly when actions, reveals, and transitions occur within the 30-second sequence.",
+  "translations": {
+    "es": {
+      "content": "Planifica tu prompt en torno a los beats narrativos a lo largo de una secuencia completa, en lugar de tomas aisladas.  \nUsa la generación nativa de escenas de hasta 30 segundos de Seedance 2.5 para crear escenas continuas más largas.  \nAñade instrucciones con marcas de tiempo para especificar exactamente cuándo ocurren las acciones, revelaciones y transiciones dentro de la secuencia de 30 segundos."
+    },
+    "fr": {
+      "content": "Planifiez votre prompt autour des temps forts narratifs sur une séquence complète plutôt que sur des plans isolés.  \nUtilisez la génération native de scènes jusqu’à 30 secondes de Seedance 2.5 pour créer des scènes continues plus longues.  \nAjoutez des instructions horodatées pour préciser exactement quand les actions, révélations et transitions se produisent au sein de la séquence de 30 secondes."
+    },
+    "ja": {
+      "content": "プロンプトは、個別のショットではなく、シーケンス全体を通したストーリービートを軸に組み立てましょう。  \nSeedance 2.5 のネイティブな最大30秒のシーン生成を活用して、より長く連続したシーンを作成します。  \nタイムスタンプ付きの指示を加えて、30秒のシーケンス内でアクション、見せ場、トランジションがそれぞれいつ起こるのかを正確に指定します。"
+    },
+    "ko": {
+      "content": "전체 시퀀스의 개별 샷이 아니라 스토리 비트를 중심으로 prompt를 구성하세요.  \nSeedance 2.5의 네이티브 최대 30초 scene generation을 활용해 더 길고 연속적인 장면을 만드세요.  \n타임스탬프가 포함된 지시를 추가해 30초 시퀀스 안에서 동작, reveal, transition이 정확히 언제 일어나는지 지정하세요."
+    },
+    "pt": {
+      "content": "Planeje seu prompt em torno de beats narrativos ao longo de uma sequência completa, em vez de tomadas isoladas.  \nUse a geração nativa de cenas de até 30 segundos do Seedance 2.5 para criar cenas contínuas mais longas.  \nAdicione instruções com marcação de tempo para especificar exatamente quando ações, revelações e transições ocorrem dentro da sequência de 30 segundos."
+    },
+    "zh": {
+      "content": "围绕完整序列中的故事节拍来规划你的 prompt，而不是孤立的镜头。  \n利用 Seedance 2.5 原生支持最长 30 秒的场景生成，创建更长的连续场景。  \n添加带时间戳的指令，精确指定在这 30 秒序列中动作、揭示和转场分别发生的时间。"
+    }
+  }
+}

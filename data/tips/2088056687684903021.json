@@ -1,0 +1,42 @@
+{
+  "id": "2088056687684903021",
+  "title": "Use reference images to guide Seedance 2.5 toward consistent characters/scene…",
+  "content": "Use reference images to guide Seedance 2.5 toward consistent characters/scene while generating dialogue shots.  \nGenerate the dialogue in smaller script segments (parts of the script at a time) to give the model room for pauses, thinking moments, and responses.  \nDo multiple takes of each segment and edit the best takes together into one final video.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088056482784788480/img/Q4K716JTUElZTPx_.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088056687684903021.mp4",
+  "sourceLink": "https://x.com/CoffeeVectors/status/2088056687684903021",
+  "sourcePublishedAt": "2026-08-14",
+  "author": {
+    "name": "CoffeeVectors",
+    "link": "https://x.com/CoffeeVectors"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use reference images to guide Seedance 2.5 toward consistent characters/scene while generating dialogue shots.  \nGenerate the dialogue in smaller script segments (parts of the script at a time) to give the model room for pauses, thinking moments, and responses.  \nDo multiple takes of each segment and edit the best takes together into one final video.",
+  "translations": {
+    "es": {
+      "content": "Usa imágenes de referencia para guiar a Seedance 2.5 hacia personajes/escenas consistentes mientras generas tomas de diálogo.  \nGenera el diálogo en segmentos de guion más pequeños (partes del guion a la vez) para darle al modelo espacio para pausas, momentos de reflexión y respuestas.  \nHaz varias tomas de cada segmento y edita las mejores tomas juntas en un solo video final.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Algunas imágenes de referencia y hacer partes del guion a la vez para que el modelo tenga espacio para mostrar momentos de pensamiento y respuesta. Varias tomas editadas en un solo video. https://t.co/j0jqb63hhc\n---"
+    },
+    "fr": {
+      "content": "Utilisez des images de référence pour guider Seedance 2.5 vers des personnages/scènes cohérents lors de la génération de plans de dialogue.  \nGénérez le dialogue en segments de script plus courts (une partie du script à la fois) afin de laisser au modèle de la place pour des pauses, des moments de réflexion et des réponses.  \nFaites plusieurs prises de chaque segment et montez les meilleures prises ensemble dans une seule vidéo finale.\n\n--- SUITE DU FIL ---\n[Fil 1] Quelques images de référence et le fait de travailler le script par morceaux pour que le modèle ait de la place pour montrer des moments de réflexion et de réponse. Plusieurs prises montées en une seule vidéo. https://t.co/j0jqb63hhc\n---"
+    },
+    "ja": {
+      "content": "参照画像を使って、Seedance 2.5 が会話ショット生成時に一貫したキャラクター／シーンを保てるようにします。  \n会話は、モデルに間や考える瞬間、応答の余地を持たせるため、より小さなスクリプト断片（台本を少しずつ）に分けて生成します。  \n各セグメントは複数テイク撮影し、最良のテイクを編集して1本の最終動画にまとめます。\n\n--- スレッドの続き ---\n[Thread 1] いくつかの参照画像を使い、台本を部分ごとに進めることで、モデルが考える瞬間や応答を見せる余地を持たせています。複数のテイクを編集して1本の動画にしています。 https://t.co/j0jqb63hhc\n---"
+    },
+    "ko": {
+      "content": "대화 장면을 생성할 때 reference images를 활용해 Seedance 2.5가 일관된 캐릭터/장면을 유지하도록 유도하세요.  \n대사는 더 작은 script segment로 나누어(한 번에 스크립트의 일부씩) 생성해, 모델이 pause, 생각하는 순간, 응답을 표현할 여지를 주세요.  \n각 segment는 여러 take로 촬영하고, 가장 좋은 take들을 편집해 하나의 최종 video로 만드세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Some reference images and doing parts of the script at a time so the model has room to show moments of thinking and response. Several takes edited into one video. https://t.co/j0jqb63hhc\n---"
+    },
+    "pt": {
+      "content": "Use imagens de referência para orientar o Seedance 2.5 a manter personagens/cenas consistentes ao gerar cenas de diálogo.  \nGere o diálogo em segmentos menores do roteiro (partes do roteiro por vez) para dar ao modelo espaço para pausas, momentos de reflexão e respostas.  \nFaça várias tomadas de cada segmento e edite as melhores tomadas juntas em um único vídeo final.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Algumas imagens de referência e partes do roteiro por vez, para que o modelo tenha espaço para mostrar momentos de pensamento e resposta. Várias tomadas editadas em um único vídeo. https://t.co/j0jqb63hhc\n---"
+    },
+    "zh": {
+      "content": "使用参考图像来引导 Seedance 2.5 在生成对话镜头时保持角色/场景的一致性。  \n将对话按更小的脚本片段分段生成（一次生成脚本的一部分），为模型留出停顿、思考和回应的空间。  \n对每个片段进行多次拍摄，并将最佳片段剪辑在一起，合成为一个最终视频。\n\n--- 线程续接 ---\n[Thread 1] 一些参考图像，以及一次只处理脚本的一部分，这样模型就有空间呈现思考和回应的瞬间。多次拍摄后剪辑成一个视频。 https://t.co/j0jqb63hhc\n---"
+    }
+  }
+}
