@@ -6610,4 +6610,4 @@ Blenderで3Dステージとプレビズを作り、各カットの指示を書�
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **🎬 [Seedance 2.5 模型](https://renoise.ai/zh-CN/features/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-08-16T04:39:35.328Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-08-16T08:33:36.754Z
