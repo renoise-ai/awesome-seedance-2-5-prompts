@@ -66,7 +66,7 @@
 | 📝 プロンプト総数 | **1175** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **994** |
-| 🔄 最終更新 | **2026-08-15** |
+| 🔄 最終更新 | **2026-08-16** |
 
 ---
 
@@ -7913,4 +7913,4 @@ Blenderで3Dステージとプレビズを作り、各カットの指示を書�
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **🎬 [Seedance 2.5 モデル](https://renoise.ai/ja/features/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-08-15T20:26:45.551Z
+🤖 この README は自動生成されています。最終更新： 2026-08-16T01:36:42.476Z
