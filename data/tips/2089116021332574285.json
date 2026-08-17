@@ -1,0 +1,42 @@
+{
+  "id": "2089116021332574285",
+  "title": "Grok Imagineでまず通常どおり動画生成する（テキストでも画像でもOK）",
+  "content": "Grok Imagineでまず通常どおり動画生成する（テキストでも画像でもOK）  \n生成した動画を開いて延長を選び、延長開始位置を好きな秒数・フレームに合わせて指定する  \nラストだけ微妙な場合は、良いところの終わりのフレームから延長で再生成して続きを作る  \n延長時の指示はこの先どうなってほしいかを短く書く（例：カメラがゆっくり引く）  \n全部作り直さず、延長で微妙な部分だけを直すワークフローにする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089115932174188544/img/ryhPMC-wmkTe2PtI.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089116021332574285.mp4",
+  "sourceLink": "https://x.com/comback_nao6/status/2089116021332574285",
+  "sourcePublishedAt": "2026-08-16",
+  "author": {
+    "name": "ナオミチ",
+    "link": "https://x.com/comback_nao6"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Grok Imagineでまず通常どおり動画生成する（テキストでも画像でもOK）  \n生成した動画を開いて延長を選び、延長開始位置を好きな秒数・フレームに合わせて指定する  \nラストだけ微妙な場合は、良いところの終わりのフレームから延長で再生成して続きを作る  \n延長時の指示はこの先どうなってほしいかを短く書く（例：カメラがゆっくり引く）  \n全部作り直さず、延長で微妙な部分だけを直すワークフローにする",
+  "translations": {
+    "en": {
+      "content": "Generate a video in Grok Imagine as usual first (either text or image is fine).  \nOpen the generated video, choose Extend, and specify the extension start point by selecting your preferred second/frame.  \nIf only the ending feels a bit off, regenerate from the frame at the end of the good part to continue the video.  \nFor the extension prompt, briefly write what you want to happen next (e.g., “the camera slowly pulls back”).  \nUse a workflow where you fix only the slightly off parts with extensions instead of redoing everything from scratch.\n\n--- THREAD CONTINUATION ---\n[Thread 1] ① Generate a video in Grok as usual. Text or image is fine.  \n② Open the finished video and select “Extend.”  \n③ This is the key point: you can choose any second/frame in the video.\n\n[Thread 2] If it’s like, “Everything is perfect except the ending…” then you can regenerate from the end of the good part.\n\n④ Briefly write “what you want to happen next.” “The camera slowly pulls back” is fine.\n\n[Thread 3] ⑤ Press the generate button. The good parts of the original are preserved, and the continuation is created from the specified point. You can try it without a subscription or a high-spec PC, and you can tap through it during a 30-minute commute. Rather than redoing everything, it was easier to fix only the slightly off parts."
+    },
+    "es": {
+      "content": "Grok Imagine primero genera un video de forma normal (puede ser con texto o con imagen)  \nAbre el video generado, elige “extender” y especifica el punto de inicio de la extensión ajustándolo al segundo y fotograma que prefieras  \nSi solo el final quedó un poco flojo, vuelve a generar desde el fotograma final de la parte que quedó bien para crear la continuación  \nEn las instrucciones de la extensión, escribe de forma breve qué quieres que ocurra a partir de ahí (por ejemplo: “la cámara se aleja lentamente”)  \nEn lugar de rehacerlo todo, conviértelo en un flujo de trabajo para corregir solo las partes flojas mediante la extensión\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] ① Genera un video normalmente con Grok. Puede ser con texto o con imagen.\n② Abre el video terminado y selecciona “extender”.\n③ Aquí está el punto clave: puedes elegir el segundo y fotograma que quieras dentro del video.\n\n[Hilo 2] Si piensas “hasta aquí está perfecto, pero el final quedó un poco raro…”, puedes regenerarlo desde el final de la parte buena.\n\n④ Escribe de forma sencilla “qué quieres que pase a partir de aquí”. Algo como “la cámara se aleja lentamente” está bien.\n\n[Hilo 3] ⑤ Pulsa el botón de generar. Se conserva la parte buena del video original y se crea la continuación desde el punto que indicaste. Se puede probar incluso sin pagar ni tener un PC de altas prestaciones, y puedes ir tocándolo poco a poco en los 30 minutos del trayecto al trabajo. Más que rehacerlo todo, me resultó más fácil corregir solo las partes flojas mediante la extensión.\n---"
+    },
+    "fr": {
+      "content": "Génère d’abord une vidéo normalement avec Grok Imagine (texte ou image, les deux conviennent)  \nOuvre la vidéo générée, choisis l’option d’extension, puis indique le point de départ de l’extension en le calant sur le nombre de secondes et d’images de ton choix  \nSi seule la fin est un peu bancale, régénère à partir de la dernière image de la bonne partie pour créer la suite  \nPour l’instruction lors de l’extension, écris brièvement ce que tu veux voir se passer ensuite (ex. : la caméra recule lentement)  \nAu lieu de tout refaire, adopte un workflow où tu corriges seulement les passages un peu faibles grâce à l’extension\n\n--- THREAD CONTINUATION ---\n[Thread 1] ① Génère une vidéo normalement avec Grok. Texte ou image, les deux conviennent.\n② Ouvre la vidéo terminée et choisis « Extension ».\n③ C’est là le point clé. Tu peux choisir le moment en secondes et en images que tu veux.\n\n[Thread 2] Si « tout est parfait jusqu’ici, mais la fin seulement est un peu bizarre… », tu peux régénérer à partir de la fin de la bonne partie.\n\n④ Écris simplement « ce que tu veux voir se passer ensuite ». Par exemple : « la caméra recule lentement ».\n\n[Thread 3] ⑤ Appuie sur le bouton de génération. La bonne partie d’origine est conservée, et la suite est créée à partir du point que tu as indiqué. Tu peux l’essayer sans abonnement payant ni PC haut de gamme, et cliquer tranquillement pendant les 30 minutes de ton trajet en train. Plutôt que de tout refaire, c’était plus simple de corriger seulement les passages un peu faibles."
+    },
+    "ko": {
+      "content": "Grok Imagine에서 먼저 평소처럼 영상 생성하기(텍스트든 이미지든 OK)  \n생성한 영상을 열고 연장을 선택한 뒤, 연장 시작 위치를 원하는 초·프레임에 맞춰 지정하기  \n마지막만 조금 아쉬운 경우에는, 괜찮은 부분의 끝 프레임부터 연장으로 다시 생성해 이어서 만들기  \n연장할 때의 지시는 앞으로 어떻게 되었으면 하는지 짧게 적기(예: 카메라가 천천히 뒤로 빠진다)  \n처음부터 전부 다시 만들지 말고, 연장으로 미묘한 부분만 수정하는 워크플로로 쓰기\n\n--- THREAD CONTINUATION ---\n[Thread 1] ① Grok에서 평소처럼 영상 생성. 텍스트든 이미지든 OK.\n② 완성된 영상을 열고 「연장」을 선택한다.\n③ 여기서가 포인트. 영상의 원하는 초·프레임에 맞춰 선택할 수 있다.\n\n[Thread 2] 「여기까지는 완벽한데 마지막만 좀 아쉽다…」라면, 좋은 부분의 끝에서 다시 생성해 이어서 만들 수 있다.\n\n④ 「이후 어떻게 되었으면 하는지」를 간단히 적는다. 「카메라가 천천히 뒤로 빠진다」 정도면 OK.\n\n[Thread 3] ⑤ 생성 버튼을 누른다. 원래의 좋은 부분은 유지한 채, 지정한 지점부터 이어서 만들어진다. 과금이나 고사양 PC 없이도 써볼 수 있고, 출퇴근 전철에서 30분 동안 톡톡 눌러가며 작업할 수 있다. 전부 다시 만드는 것보다, 미묘한 부분만 고치는 쪽이 더 편했다."
+    },
+    "pt": {
+      "content": "Grok Imagine primeiro gera o vídeo normalmente (pode ser com texto ou imagem)  \nAbra o vídeo gerado, escolha “estender” e defina o ponto de início da extensão no segundo e frame que você quiser  \nSe só o final estiver meio estranho, regenere a partir do frame final da parte boa para criar a continuação  \nNa instrução da extensão, escreva de forma curta o que você quer que aconteça a seguir (ex.: a câmera se afasta lentamente)  \nEm vez de refazer tudo, faça um workflow em que você corrige só as partes estranhas com a extensão\n\n--- THREAD CONTINUATION ---\n[Thread 1] ①Gere o vídeo normalmente no Grok. Pode ser com texto ou imagem.\n②Abra o vídeo finalizado e selecione “estender”.\n③Aqui está o ponto-chave: você pode escolher o segundo e o frame exatos que quiser.\n\n[Thread 2] Se “até aqui está perfeito, mas o final ficou meio estranho...”, dá para regenerar a partir do fim da parte boa.\n\n④Escreva de forma simples “o que você quer que aconteça a seguir”. Algo como “a câmera se afasta lentamente” já basta.\n\n[Thread 3] ⑤Aperte o botão de gerar. A parte boa do vídeo original é mantida, e a continuação é criada a partir do ponto que você definiu. Dá para usar sem pagar e sem PC potente, e até mexer nisso em 30 minutos no trem a caminho do trabalho. Em vez de refazer tudo, foi mais fácil corrigir só as partes meio estranhas."
+    },
+    "zh": {
+      "content": "Grok Imagine 里先像平常一样生成视频（文本或图片都可以）  \n打开生成好的视频，选择“延长”，并将延长的起始位置指定到你喜欢的秒数/帧  \n如果只有最后一小段不太理想，就从好部分的结尾帧开始延长重生成，接着往下做  \n延长时的指示只要简短写出你希望接下来怎么发展即可（例如：镜头缓慢拉远）  \n不要全部重做，而是把流程做成只通过延长来修正微妙部分的工作流\n\n--- THREAD CONTINUATION ---\n[Thread 1] ①先在 Grok 里正常生成视频。文本或图片都可以。\n②打开完成的视频，选择“延长”。\n③重点在这里。可以按自己喜欢的秒数/帧来选择起点。\n\n[Thread 2] 如果是“前面都完美，只有最后有点微妙……”，那就可以从好部分的结尾重新生成。\n\n④简单写下“接下来希望怎样发展”。比如“镜头缓慢拉远”就可以。\n\n[Thread 3] ⑤按下生成按钮。会保留原本好的部分，并从你指定的位置继续生成。即使没有付费或高配电脑也能上手，通勤电车上 30 分钟也能一点点操作。比起全部重做，只修正微妙的部分会轻松得多。"
+    }
+  }
+}

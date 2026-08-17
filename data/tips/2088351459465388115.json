@@ -1,0 +1,42 @@
+{
+  "id": "2088351459465388115",
+  "title": "Use AI MoCap to drive character performance from a video reference in Flow…",
+  "content": "Use AI MoCap to drive character performance from a video reference in Flow Studio.  \nUse the 3D Editor to build your scene/world and control camera movement before generating.  \nUse Canvas with Seedance 2.5 to refine and polish the final look after generation.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088351318775865344/img/bkSrmucc0KR5ndjS.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088351459465388115.mp4",
+  "sourceLink": "https://x.com/nikolatod3/status/2088351459465388115",
+  "sourcePublishedAt": "2026-08-14",
+  "author": {
+    "name": "Nikola Todorovic",
+    "link": "https://x.com/nikolatod3"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use AI MoCap to drive character performance from a video reference in Flow Studio.  \nUse the 3D Editor to build your scene/world and control camera movement before generating.  \nUse Canvas with Seedance 2.5 to refine and polish the final look after generation.",
+  "translations": {
+    "es": {
+      "content": "Usa AI MoCap para dirigir la interpretación del personaje a partir de una referencia de video en Flow Studio.  \nUsa el Editor 3D para construir tu escena/mundo y controlar el movimiento de cámara antes de generar.  \nUsa Canvas con Seedance 2.5 para refinar y pulir el aspecto final después de la generación."
+    },
+    "fr": {
+      "content": "Utilisez AI MoCap pour piloter la performance d’un personnage à partir d’une vidéo de référence dans Flow Studio.  \nUtilisez l’éditeur 3D pour construire votre scène/votre univers et contrôler les mouvements de caméra avant la génération.  \nUtilisez Canvas avec Seedance 2.5 pour affiner et peaufiner le rendu final après la génération."
+    },
+    "ja": {
+      "content": "Flow Studio で、動画リファレンスから AI MoCap を使ってキャラクターの演技を駆動します。  \n3D Editor を使って、生成前にシーン／ワールドを構築し、カメラの動きを制御します。  \nCanvas と Seedance 2.5 を使って、生成後に最終的な見た目を洗練し、仕上げます。"
+    },
+    "ko": {
+      "content": "Flow Studio에서 비디오 레퍼런스를 바탕으로 AI MoCap을 사용해 캐릭터 퍼포먼스를 구현하세요.  \n3D Editor를 사용해 생성 전에 씬/월드를 구성하고 카메라 움직임을 제어하세요.  \n생성 후에는 Canvas와 Seedance 2.5를 사용해 최종 비주얼을 다듬고 완성도를 높이세요."
+    },
+    "pt": {
+      "content": "Use o AI MoCap para conduzir a performance do personagem a partir de uma referência em vídeo no Flow Studio.  \nUse o Editor 3D para construir sua cena/mundo e controlar o movimento da câmera antes de gerar.  \nUse o Canvas com o Seedance 2.5 para refinar e aprimorar o visual final após a geração."
+    },
+    "zh": {
+      "content": "使用 AI MoCap 在 Flow Studio 中通过视频参考驱动角色表演。  \n使用 3D Editor 构建你的场景/世界，并在生成前控制镜头运动。  \n使用 Canvas 搭配 Seedance 2.5，在生成后进一步打磨并优化最终效果。"
+    }
+  }
+}

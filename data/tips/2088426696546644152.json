@@ -1,0 +1,42 @@
+{
+  "id": "2088426696546644152",
+  "title": "Seedance2.5で架空CMを作るときは、テキストプロンプトで生成しつつモデル（人物）だけリファレンス画像を用意して見た目を安定させる",
+  "content": "Seedance2.5で架空CMを作るときは、テキストプロンプトで生成しつつモデル（人物）だけリファレンス画像を用意して見た目を安定させる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088313827746361345/img/mAzC0h5tiC8JeL7c.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088426696546644152.mp4",
+  "sourceLink": "https://x.com/JET_MOGRA/status/2088426696546644152",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "ã�¾ã�£ã�¡ã‚ƒã‚“ / TANUKIðŸ‡¯ðŸ‡µ",
+    "link": "https://x.com/JET_MOGRA"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.5で架空CMを作るときは、テキストプロンプトで生成しつつモデル（人物）だけリファレンス画像を用意して見た目を安定させる",
+  "translations": {
+    "en": {
+      "content": "When creating a fictional commercial with Seedance 2.5, generate it with a text prompt while providing a reference image only for the model (the person) to keep their appearance consistent."
+    },
+    "es": {
+      "content": "Cuando crees un anuncio ficticio con Seedance2.5, genera el contenido con un prompt de texto y prepara una imagen de referencia solo para el modelo (la persona) para estabilizar su apariencia."
+    },
+    "fr": {
+      "content": "Lorsque vous créez une fausse publicité avec Seedance2.5, générez-la à partir d’un prompt textuel tout en fournissant uniquement une image de référence pour le modèle (la personne), afin de stabiliser son apparence."
+    },
+    "ko": {
+      "content": "Seedance2.5로 가상의 CM을 만들 때는 텍스트 prompt로 생성하되, 모델(인물)만 reference image를 준비해 외형을 안정화한다."
+    },
+    "pt": {
+      "content": "Ao criar um comercial fictício com o Seedance2.5, gere com um prompt de texto e prepare uma imagem de referência apenas para o modelo (a pessoa), a fim de estabilizar a aparência."
+    },
+    "zh": {
+      "content": "使用 Seedance2.5 制作虚构广告片时，可以通过 text prompt 进行生成，同时只为模特（人物）准备参考图像，以稳定其外观。"
+    }
+  }
+}

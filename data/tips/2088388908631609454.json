@@ -1,0 +1,42 @@
+{
+  "id": "2088388908631609454",
+  "title": "一枚の参照画像を使ってSeedance 2.5で複数回生成し、編集でツギハギしてショートMVに仕上げる",
+  "content": "一枚の参照画像を使ってSeedance 2.5で複数回生成し、編集でツギハギしてショートMVに仕上げる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088388042478555136/img/KFFkvZptsYnsj8Kk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088388908631609454.mp4",
+  "sourceLink": "https://x.com/shiyou27700/status/2088388908631609454",
+  "sourcePublishedAt": "2026-08-14",
+  "author": {
+    "name": "shiyou/ココモヤ",
+    "link": "https://x.com/shiyou27700"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "一枚の参照画像を使ってSeedance 2.5で複数回生成し、編集でツギハギしてショートMVに仕上げる",
+  "translations": {
+    "en": {
+      "content": "Use a single reference image to generate multiple clips in Seedance 2.5, then stitch them together in editing to create a short MV."
+    },
+    "es": {
+      "content": "Usa una sola imagen de referencia para generar varias veces con Seedance 2.5 y, mediante edición, unir los fragmentos para crear un short MV."
+    },
+    "fr": {
+      "content": "Utiliser une seule image de référence pour générer plusieurs fois avec Seedance 2.5, puis assembler le tout au montage pour en faire un short MV."
+    },
+    "ko": {
+      "content": "하나의 참조 이미지를 사용해 Seedance 2.5로 여러 번 생성한 뒤, 편집으로 이어 붙여 쇼트 MV로 완성한다"
+    },
+    "pt": {
+      "content": "Usar uma única imagem de referência para gerar várias vezes no Seedance 2.5 e, na edição, juntar os trechos para finalizar como um short MV."
+    },
+    "zh": {
+      "content": "Use a single reference image to generate multiple outputs in Seedance 2.5, then stitch them together in editing to create a short MV."
+    }
+  }
+}

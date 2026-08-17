@@ -1,0 +1,42 @@
+{
+  "id": "2088968029199847798",
+  "title": "異なる質感のリファレンス画像を6枚（キャラ・バイク・背景など）用意してSeedance2.5に入力し、複数参照から映像生成して要素を違和感なく統合させる",
+  "content": "異なる質感のリファレンス画像を6枚（キャラ・バイク・背景など）用意してSeedance2.5に入力し、複数参照から映像生成して要素を違和感なく統合させる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088967754703585281/img/HEmoEjjPCsEb6_qX.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088968029199847798.mp4",
+  "sourceLink": "https://x.com/onofumi_AI/status/2088968029199847798",
+  "sourcePublishedAt": "2026-08-16",
+  "author": {
+    "name": "おのふみ| AIクリエーター×個人開発",
+    "link": "https://x.com/onofumi_AI"
+  },
+  "tags": [
+    "Auto",
+    "Mod Showcase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "異なる質感のリファレンス画像を6枚（キャラ・バイク・背景など）用意してSeedance2.5に入力し、複数参照から映像生成して要素を違和感なく統合させる",
+  "translations": {
+    "en": {
+      "content": "Prepare six reference images with different textures (character, bike, background, etc.) and input them into Seedance 2.5 to generate video from multiple references, seamlessly integrating the elements without any awkwardness."
+    },
+    "es": {
+      "content": "Prepara 6 imágenes de referencia con distintas texturas (personaje, moto, fondo, etc.), introdúcelas en Seedance2.5 y genera el video a partir de múltiples referencias para integrar los elementos de forma natural y sin incongruencias."
+    },
+    "fr": {
+      "content": "Préparez 6 images de référence aux textures différentes (personnage, moto, arrière-plan, etc.), importez-les dans Seedance 2.5, puis générez une vidéo à partir de plusieurs références afin d’intégrer les éléments de manière naturelle et sans rupture."
+    },
+    "ko": {
+      "content": "서로 다른 질감의 레퍼런스 이미지 6장(캐릭터, 바이크, 배경 등)을 준비해 Seedance2.5에 입력하고, multiple reference로 영상 생성하여 요소들을 이질감 없이 통합한다"
+    },
+    "pt": {
+      "content": "Prepare 6 reference images with different textures (character, bike, background, etc.) and input them into Seedance2.5, then generate video from multiple references to seamlessly integrate the elements without any awkwardness."
+    },
+    "zh": {
+      "content": "准备 6 张不同质感的参考图像（角色、摩托车、背景等），输入到 Seedance2.5 中，通过多重参考生成视频，并将各元素自然无违和地整合在一起"
+    }
+  }
+}

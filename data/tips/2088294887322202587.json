@@ -1,0 +1,42 @@
+{
+  "id": "2088294887322202587",
+  "title": "Treat AI video as a production workflow: generate first, then plan for multiple…",
+  "content": "Treat AI video as a production workflow: generate first, then plan for multiple shots, longer scenes, fixing artifacts, and editing everything together  \nUse CapCut’s connected pipeline: AI Image → video generation → AI Extend → AI Edit → Edit Pilot → multi-track timeline  \nUse Seedance 2.5 1080p for sharper output than lower-resolution generations",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088294850882150401/img/J0Lbpiot6jTZ4-DV.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088294887322202587.mp4",
+  "sourceLink": "https://x.com/codi_fyy/status/2088294887322202587",
+  "sourcePublishedAt": "2026-08-14",
+  "author": {
+    "name": "CODIFY",
+    "link": "https://x.com/codi_fyy"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Treat AI video as a production workflow: generate first, then plan for multiple shots, longer scenes, fixing artifacts, and editing everything together  \nUse CapCut’s connected pipeline: AI Image → video generation → AI Extend → AI Edit → Edit Pilot → multi-track timeline  \nUse Seedance 2.5 1080p for sharper output than lower-resolution generations",
+  "translations": {
+    "es": {
+      "content": "Trata el video con IA como un flujo de trabajo de producción: genera primero, luego planifica múltiples tomas, escenas más largas, la corrección de artefactos y la edición de todo junto.  \nUsa el pipeline conectado de CapCut: AI Image → generación de video → AI Extend → AI Edit → Edit Pilot → línea de tiempo multipista.  \nUsa Seedance 2.5 1080p para obtener una salida más nítida que las generaciones de menor resolución."
+    },
+    "fr": {
+      "content": "Traitez la vidéo IA comme un workflow de production : générez d’abord, puis prévoyez plusieurs plans, des scènes plus longues, la correction des artefacts et le montage de l’ensemble  \nUtilisez le pipeline connecté de CapCut : AI Image → génération vidéo → AI Extend → AI Edit → Edit Pilot → timeline multipiste  \nUtilisez Seedance 2.5 1080p pour un rendu plus net que les générations en basse résolution"
+    },
+    "ja": {
+      "content": "AI動画は制作ワークフローとして扱いましょう。まず生成し、その後に複数ショット、長尺シーン、アーティファクトの修正、そして全体を編集でつなぎ合わせることを計画します。  \nCapCutの連携パイプラインを活用しましょう：AI Image → video generation → AI Extend → AI Edit → Edit Pilot → multi-track timeline  \n低解像度の生成よりもシャープな出力を得るには、Seedance 2.5 1080pを使用しましょう"
+    },
+    "ko": {
+      "content": "AI 비디오를 제작 워크플로우로 다루세요: 먼저 생성한 다음, 여러 샷, 더 긴 장면, 아티팩트 수정, 그리고 전체 편집까지 계획하세요  \nCapCut의 연결된 파이프라인을 활용하세요: AI Image → video generation → AI Extend → AI Edit → Edit Pilot → multi-track timeline  \n더 낮은 해상도 생성보다 더 선명한 결과를 위해 Seedance 2.5 1080p를 사용하세요"
+    },
+    "pt": {
+      "content": "Trate o vídeo com IA como um fluxo de produção: gere primeiro, depois planeje múltiplos takes, cenas mais longas, correção de artefatos e a edição de tudo em conjunto  \nUse o pipeline conectado do CapCut: AI Image → geração de vídeo → AI Extend → AI Edit → Edit Pilot → timeline multitrack  \nUse o Seedance 2.5 1080p para uma saída mais nítida do que gerações em resolução inferior"
+    },
+    "zh": {
+      "content": "将 AI 视频视为一个制作工作流：先生成，再规划多个镜头、更长的场景、修复瑕疵，并将所有内容剪辑整合在一起  \n使用剪映的连贯工作流：AI Image → 视频生成 → AI Extend → AI Edit → Edit Pilot → 多轨时间线  \n使用 Seedance 2.5 1080p，以获得比低分辨率生成更清晰的输出"
+    }
+  }
+}

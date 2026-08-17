@@ -1,0 +1,42 @@
+{
+  "id": "2088755110549627141",
+  "title": "2Dアニメ生成では、白背景キャラ画像＋別背景画像を組み合わせるより、背景込みのキャラ画像1枚を参照にして生成すると動きが良くなる場合がある",
+  "content": "2Dアニメ生成では、白背景キャラ画像＋別背景画像を組み合わせるより、背景込みのキャラ画像1枚を参照にして生成すると動きが良くなる場合がある",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088662711165181952/img/g549ZKcdkyj2HXbi.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088755110549627141.mp4",
+  "sourceLink": "https://x.com/applete77191758/status/2088755110549627141",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "appletea 🍎アップルティ☕丨AI動画制作",
+    "link": "https://x.com/applete77191758"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "2Dアニメ生成では、白背景キャラ画像＋別背景画像を組み合わせるより、背景込みのキャラ画像1枚を参照にして生成すると動きが良くなる場合がある",
+  "translations": {
+    "en": {
+      "content": "In 2D animation generation, rather than combining a character image with a white background and a separate background image, using a single character image that already includes the background as a reference can sometimes result in better motion.\n\n--- THREAD CONTINUATION ---\n[Thread 1] This was generated using a character image with a white background plus a background.\nWhat do you think? It somehow feels a bit clunky...\nMaybe the white background is interfering with the illustration-style generation? https://t.co/Y59I30o6fi\n---"
+    },
+    "es": {
+      "content": "En la generación de animación 2D, en lugar de combinar una imagen de personaje con fondo blanco + una imagen de fondo aparte, a veces se obtiene un mejor movimiento si se genera tomando como referencia una sola imagen del personaje con el fondo incluido.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Esto fue generado con una imagen de personaje sobre fondo blanco + un fondo.\n¿Qué les parece? Como que se ve un poco tosco...\n¿Será que el fondo blanco está interfiriendo con la generación del estilo ilustrado? https://t.co/Y59I30o6fi\n---"
+    },
+    "fr": {
+      "content": "Dans la génération d’animations 2D, il peut arriver que le mouvement soit meilleur si l’on utilise comme référence une seule image du personnage avec son arrière-plan, plutôt que de combiner une image du personnage sur fond blanc avec une image d’arrière-plan séparée.\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Thread 1] Il s’agit d’une génération réalisée à partir d’une image du personnage sur fond blanc + un arrière-plan.\nQu’en pensez-vous ? J’ai l’impression que ça fait un peu maladroit...\nPeut-être que le fond blanc gêne la génération de l’illustration ? https://t.co/Y59I30o6fi\n---"
+    },
+    "ko": {
+      "content": "2D 애니메이션 생성에서는, 흰 배경의 캐릭터 이미지와 별도의 배경 이미지를 조합하는 것보다, 배경이 포함된 캐릭터 이미지 1장을 참조해 생성하면 움직임이 더 좋아지는 경우가 있다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 흰 배경의 캐릭터 이미지 + 배경으로 생성한 것입니다.\n어떻게 보시나요, 뭔가 촌스러운 느낌이 드는데...\n혹시 흰 배경이 일러스트풍 이미지 생성을 방해하고 있는 걸까요? https://t.co/Y59I30o6fi\n---"
+    },
+    "pt": {
+      "content": "Na geração de animação 2D, em vez de combinar uma imagem de personagem com fundo branco + uma imagem de fundo separada, às vezes o movimento fica melhor ao gerar usando como referência uma única imagem do personagem já com o fundo incluído\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Isto foi gerado com uma imagem de personagem com fundo branco + fundo.\nO que vocês acham? Parece meio sem graça...\nSerá que o fundo branco está atrapalhando a geração do estilo de ilustração? https://t.co/Y59I30o6fi\n---"
+    },
+    "zh": {
+      "content": "在 2D 动画生成中，与其将白底角色图和单独的背景图组合起来，不如参考一张包含背景的角色图来生成，这样有时动作会更自然。\n\n--- 线程续篇 ---\n[Thread 1] 这是用白底角色图 + 背景生成的结果。\n你觉得怎么样，总感觉有点土气……\n也许白色背景在干扰插画风格的生成？ https://t.co/Y59I30o6fi\n---"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2088616198493904996",
+  "title": "Generate a 3x3 cinematic storyboard sheet in GPT Image 2, designing each frame…",
+  "content": "Generate a 3x3 cinematic storyboard sheet in GPT Image 2, designing each frame like a real animation pre-production sketch, then animate it in Seedance 2.5 to maintain storyboard-to-video consistency.  \nAdd explicit camera directions, motion cues, timing notes, and progressive environment-destruction details to each storyboard frame before running Seedance 2.5 to produce a single continuous cinematic shot.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088616166579466240/img/2kK90Suv8kei9PNP.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088616198493904996.mp4",
+  "sourceLink": "https://x.com/Cencencahya12/status/2088616198493904996",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "Cencen",
+    "link": "https://x.com/Cencencahya12"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Hand-drawn",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Generate a 3x3 cinematic storyboard sheet in GPT Image 2, designing each frame like a real animation pre-production sketch, then animate it in Seedance 2.5 to maintain storyboard-to-video consistency.  \nAdd explicit camera directions, motion cues, timing notes, and progressive environment-destruction details to each storyboard frame before running Seedance 2.5 to produce a single continuous cinematic shot.",
+  "translations": {
+    "en": {
+      "content": "Generate a 3x3 cinematic storyboard sheet in GPT Image 2, designing each frame like a real animation pre-production sketch, then animate it in Seedance 2.5 to maintain storyboard-to-video consistency.  \nAdd explicit camera directions, motion cues, timing notes, and progressive environment-destruction details to each storyboard frame before running Seedance 2.5 to produce a single continuous cinematic shot."
+    },
+    "es": {
+      "content": "Genera una hoja de storyboard cinematográfico 3x3 en GPT Image 2, diseñando cada cuadro como un boceto real de preproducción de animación, y luego anímalo en Seedance 2.5 para mantener la coherencia entre storyboard y video.  \nAñade indicaciones explícitas de cámara, señales de movimiento, notas de timing y detalles progresivos de destrucción del entorno en cada cuadro del storyboard antes de ejecutar Seedance 2.5 para producir un único plano cinematográfico continuo."
+    },
+    "fr": {
+      "content": "Générez une feuille de storyboard cinématographique 3x3 dans GPT Image 2, en concevant chaque frame comme un véritable croquis de préproduction d’animation, puis animez-la dans Seedance 2.5 afin de maintenir la cohérence entre le storyboard et la vidéo.  \nAjoutez à chaque frame du storyboard des indications explicites de caméra, des repères de mouvement, des notes de timing et des détails progressifs de destruction de l’environnement avant d’exécuter Seedance 2.5 pour produire un unique plan cinématographique continu."
+    },
+    "ja": {
+      "content": "GPT Image 2で3x3のcinematic storyboard sheetを生成し、各フレームを実際のアニメーションのプリプロダクションスケッチのようにデザインしたうえで、Seedance 2.5でアニメーション化して、storyboardからvideoまでの一貫性を維持する。  \nSeedance 2.5を実行する前に、各storyboardフレームへ明確なcamera directions、motion cues、timing notes、そして段階的なenvironment-destructionの詳細を追加し、1本の連続したcinematic shotを生成する。"
+    },
+    "ko": {
+      "content": "GPT Image 2에서 3x3 cinematic storyboard sheet를 생성하고, 각 프레임을 실제 애니메이션 프리프로덕션 스케치처럼 디자인한 다음, Seedance 2.5에서 애니메이션화하여 storyboard-to-video 일관성을 유지하세요.  \nSeedance 2.5를 실행해 하나의 연속적인 cinematic shot을 만들기 전에, 각 storyboard 프레임에 명시적인 camera directions, motion cues, timing notes, 그리고 점진적인 environment-destruction 세부 사항을 추가하세요."
+    },
+    "pt": {
+      "content": "Gere uma folha de storyboard cinematográfico 3x3 no GPT Image 2, projetando cada quadro como um verdadeiro sketch de pré-produção de animação, e depois anime-a no Seedance 2.5 para manter a consistência entre storyboard e vídeo.  \nAdicione direções explícitas de câmera, indicações de movimento, notas de timing e detalhes progressivos de destruição do ambiente a cada quadro do storyboard antes de executar o Seedance 2.5 para produzir um único plano cinematográfico contínuo."
+    },
+    "zh": {
+      "content": "在 GPT Image 2 中生成一张 3x3 的 cinematic storyboard 分镜表，将每一帧设计得像真实的动画前期制作草图，然后在 Seedance 2.5 中将其动画化，以保持从分镜到视频的一致性。  \n在运行 Seedance 2.5 之前，为每个分镜帧添加明确的 camera directions、motion cues、timing notes，以及逐步递进的环境破坏细节，以生成一个单一连续的 cinematic shot。"
+    }
+  }
+}

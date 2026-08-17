@@ -1,0 +1,41 @@
+{
+  "id": "2089032698618667221",
+  "title": "Use Seedance 2.5 at 1080p to generate higher-resolution trailer-style outputs.",
+  "content": "Use Seedance 2.5 at 1080p to generate higher-resolution trailer-style outputs.\n\nStructure your Seedance prompt into timed stages (e.g., 0.0–2.5, 2.5–5.0, … up to 30.0) and specify two shots per stage to control pacing and montage rhythm.\n\nFor each shot, explicitly define shot type and camera language (ECU/extreme close-up, close-up, medium, wide master, POV, low angle, aerial view, handheld, orbit move) to steer framing and motion.\n\nAdd an explicit audio arc in the prompt (hook pulse → rising engine → peak acceleration, with a mid-clip stopdown and restart) and include concrete sound cues (metronome click, bass drop, siren, mechanical shutter, music stops) to guide soundtrack dynamics.\n\nInclude a maintain-consistency instruction to preserve character identity across shots (wardrobe, facial expressions, tone) when using multiple reference images (image_1–image_8).\n\nAdd a negative constraint like No text or logos to prevent unwanted overlays in the generated video.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/maxescu/status/2089032698618667221",
+  "sourcePublishedAt": "2026-08-16",
+  "author": {
+    "name": "Alex Patrascu",
+    "link": "https://x.com/maxescu"
+  },
+  "tags": [
+    "Auto",
+    "Racing",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 at 1080p to generate higher-resolution trailer-style outputs.\n\nStructure your Seedance prompt into timed stages (e.g., 0.0–2.5, 2.5–5.0, … up to 30.0) and specify two shots per stage to control pacing and montage rhythm.\n\nFor each shot, explicitly define shot type and camera language (ECU/extreme close-up, close-up, medium, wide master, POV, low angle, aerial view, handheld, orbit move) to steer framing and motion.\n\nAdd an explicit audio arc in the prompt (hook pulse → rising engine → peak acceleration, with a mid-clip stopdown and restart) and include concrete sound cues (metronome click, bass drop, siren, mechanical shutter, music stops) to guide soundtrack dynamics.\n\nInclude a maintain-consistency instruction to preserve character identity across shots (wardrobe, facial expressions, tone) when using multiple reference images (image_1–image_8).\n\nAdd a negative constraint like No text or logos to prevent unwanted overlays in the generated video.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 en 1080p para generar resultados con mayor resolución y estilo tráiler.\n\nEstructura tu prompt de Seedance en etapas temporizadas (por ejemplo, 0.0–2.5, 2.5–5.0, … hasta 30.0) y especifica dos planos por etapa para controlar el ritmo y la cadencia del montaje.\n\nPara cada plano, define explícitamente el tipo de plano y el lenguaje de cámara (ECU/extreme close-up, close-up, medium, wide master, POV, low angle, aerial view, handheld, orbit move) para orientar el encuadre y el movimiento.\n\nAñade un arco de audio explícito en el prompt (hook pulse → rising engine → peak acceleration, con un stopdown y reinicio a mitad del clip) e incluye señales sonoras concretas (metronome click, bass drop, siren, mechanical shutter, music stops) para guiar la dinámica de la banda sonora.\n\nIncluye una instrucción de maintain-consistency para preservar la identidad del personaje entre planos (vestuario, expresiones faciales, tono) cuando uses varias imágenes de referencia (image_1–image_8).\n\nAñade una restricción negativa como No text or logos para evitar superposiciones no deseadas en el video generado."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 en 1080p pour générer des rendus de type trailer en plus haute résolution.\n\nStructurez votre prompt Seedance en étapes chronométrées (par ex. 0.0–2.5, 2.5–5.0, … jusqu’à 30.0) et spécifiez deux plans par étape afin de contrôler le rythme et la cadence du montage.\n\nPour chaque plan, définissez explicitement le type de plan et le langage caméra (ECU/extreme close-up, close-up, medium, wide master, POV, low angle, aerial view, handheld, orbit move) afin d’orienter le cadrage et le mouvement.\n\nAjoutez une progression audio explicite dans le prompt (hook pulse → rising engine → peak acceleration, avec un stopdown et un redémarrage au milieu du clip) et incluez des indices sonores concrets (metronome click, bass drop, siren, mechanical shutter, music stops) pour guider la dynamique de la bande-son.\n\nIncluez une instruction de maintien de la cohérence pour préserver l’identité du personnage d’un plan à l’autre (wardrobe, facial expressions, tone) lorsque vous utilisez plusieurs images de référence (image_1–image_8).\n\nAjoutez une contrainte négative comme No text or logos afin d’éviter les superpositions indésirables dans la vidéo générée."
+    },
+    "ja": {
+      "content": "1080pのSeedance 2.5を使用して、より高解像度のトレーラー風出力を生成します。\n\nSeedanceのpromptは、時間区切りのステージ（例: 0.0–2.5、2.5–5.0、… 30.0まで）に構成し、各ステージごとに2つのショットを指定して、テンポとモンタージュのリズムをコントロールします。\n\n各ショットでは、ショットタイプとカメラ言語（ECU/extreme close-up、close-up、medium、wide master、POV、low angle、aerial view、handheld、orbit move）を明示的に定義し、フレーミングと動きを意図どおりに誘導します。\n\nprompt内に明確なaudio arc（hook pulse → rising engine → peak acceleration、途中でmid-clipのstopdownとrestartを含む）を追加し、さらに具体的なsound cues（metronome click、bass drop、siren、mechanical shutter、music stops）を入れて、サウンドトラックのダイナミクスをガイドします。\n\n複数のreference image（image_1–image_8）を使用する場合は、キャラクターの一貫性を保つために、ショット間でキャラクターの同一性（衣装、表情、トーン）を維持する指示を含めます。\n\n生成された動画に不要なオーバーレイが入らないよう、No text or logosのようなnegative constraintを追加します。"
+    },
+    "ko": {
+      "content": "1080p에서 Seedance 2.5를 사용해 더 높은 해상도의 트레일러 스타일 결과물을 생성하세요.\n\nSeedance prompt를 시간대별 단계로 구성하세요(예: 0.0–2.5, 2.5–5.0, … 30.0까지) 그리고 각 단계마다 두 개의 shot을 지정해 페이싱과 몽타주 리듬을 제어하세요.\n\n각 shot마다 shot type과 camera language를 명시적으로 정의하세요(ECU/extreme close-up, close-up, medium, wide master, POV, low angle, aerial view, handheld, orbit move)하여 구도와 움직임을 조정하세요.\n\nprompt에 명확한 audio arc를 추가하세요(hook pulse → rising engine → peak acceleration, 중간에 stopdown과 restart 포함) 그리고 구체적인 sound cue(metronome click, bass drop, siren, mechanical shutter, music stops)를 넣어 사운드트랙의 다이내믹을 안내하세요.\n\n여러 reference image(image_1–image_8)를 사용할 때는 캐릭터의 정체성을 shot 간에 유지하도록 하는 maintain-consistency 지시를 포함하세요(의상, 표정, 톤).\n\n생성된 영상에 원치 않는 오버레이가 들어가지 않도록 No text or logos 같은 negative constraint를 추가하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 em 1080p para gerar resultados em estilo de trailer com resolução mais alta.\n\nEstruture seu prompt do Seedance em etapas com tempo definido (por exemplo, 0.0–2.5, 2.5–5.0, … até 30.0) e especifique duas tomadas por etapa para controlar o ritmo e a cadência da montagem.\n\nPara cada tomada, defina explicitamente o tipo de plano e a linguagem de câmera (ECU/extreme close-up, close-up, medium, wide master, POV, low angle, aerial view, handheld, orbit move) para orientar o enquadramento e o movimento.\n\nAdicione um arco de áudio explícito no prompt (hook pulse → rising engine → peak acceleration, com um mid-clip stopdown and restart) e inclua cues sonoros concretos (metronome click, bass drop, siren, mechanical shutter, music stops) para guiar a dinâmica da trilha sonora.\n\nInclua uma instrução de maintain-consistency para preservar a identidade do personagem entre as tomadas (figurino, expressões faciais, tom) ao usar várias imagens de referência (image_1–image_8).\n\nAdicione uma restrição negativa como No text or logos para evitar sobreposições indesejadas no vídeo gerado."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 的 1080p 生成更高分辨率的 trailer 风格输出。\n\n将你的 Seedance prompt 结构化为按时间划分的阶段（例如 0.0–2.5、2.5–5.0，……一直到 30.0），并在每个阶段指定两个 shot，以控制节奏和 montage rhythm。\n\n对于每个 shot，明确写出 shot type 和 camera language（ECU/extreme close-up、close-up、medium、wide master、POV、low angle、aerial view、handheld、orbit move），以引导构图和运动方式。\n\n在 prompt 中加入明确的 audio arc（hook pulse → rising engine → peak acceleration，中间加入一次 stopdown 和 restart），并包含具体的 sound cues（metronome click、bass drop、siren、mechanical shutter、music stops），以指导 soundtrack 的动态变化。\n\n加入 maintain-consistency 指令，在使用多张 reference images（image_1–image_8）时保持角色身份一致（服装、面部表情、语气）。\n\n添加一个 negative constraint，例如 No text or logos，以防生成视频中出现不需要的叠加内容。"
+    }
+  }
+}

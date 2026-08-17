@@ -1,0 +1,43 @@
+{
+  "id": "2088442620720935318",
+  "title": "Seedance2.5で自撮り映像からスマホをベンチに置いて固定カメラになる流れ（自撮り→設置→固定画）をプロンプト/指示として入れてカメラワークを切り替える",
+  "content": "Seedance2.5で自撮り映像からスマホをベンチに置いて固定カメラになる流れ（自撮り→設置→固定画）をプロンプト/指示として入れてカメラワークを切り替える",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088442593831264256/img/uxAwu1VcAHzBGZDI.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088442620720935318.mp4",
+  "sourceLink": "https://x.com/aiko_ai_ai/status/2088442620720935318",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "aiko@AI撮影",
+    "link": "https://x.com/aiko_ai_ai"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "POV"
+  ],
+  "tips": "Seedance2.5で自撮り映像からスマホをベンチに置いて固定カメラになる流れ（自撮り→設置→固定画）をプロンプト/指示として入れてカメラワークを切り替える",
+  "translations": {
+    "en": {
+      "content": "In Seedance 2.5, switch the camera work by including the flow from a selfie shot to placing the phone on a bench and turning it into a fixed camera shot (selfie → placement → static shot) as a prompt/instruction."
+    },
+    "es": {
+      "content": "Con Seedance2.5, introduce como prompt/instrucción el flujo que va desde un video de selfie hasta dejar el smartphone sobre un banco y convertirlo en una cámara fija (selfie → colocación → plano fijo) para cambiar el movimiento de cámara."
+    },
+    "fr": {
+      "content": "Avec Seedance2.5, intégrer dans le prompt/les instructions le déroulé allant d’une vidéo en selfie à la pose du smartphone sur un banc pour passer à une caméra fixe (selfie → installation → plan fixe), afin de faire basculer le mouvement de caméra."
+    },
+    "ko": {
+      "content": "Seedance2.5에서 셀카 영상에서 스마트폰을 벤치에 두고 고정 카메라로 전환되는 흐름(셀카 → 설치 → 고정 샷)을 prompt/지시로 넣어 카메라 워크를 전환한다"
+    },
+    "pt": {
+      "content": "No Seedance2.5, inserir como prompt/instrução o fluxo de colocar o smartphone no banco a partir de uma gravação de selfie e transformá-lo em câmera fixa (selfie → posicionamento → imagem fixa) para alternar o movimento de câmera."
+    },
+    "zh": {
+      "content": "在 Seedance2.5 中，将“从自拍视频画面把手机放到长椅上并切换为固定镜头”的流程（自拍视频 → 放置 → 固定画面）作为 prompt/指令输入，以切换 camera work。"
+    }
+  }
+}

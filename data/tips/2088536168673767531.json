@@ -1,0 +1,42 @@
+{
+  "id": "2088536168673767531",
+  "title": "Runwayで動画生成する際は、キャラデザインと曲と白黒コンテを添付して生成すると意図を反映しやすい",
+  "content": "Runwayで動画生成する際は、キャラデザインと曲と白黒コンテを添付して生成すると意図を反映しやすい  \nドラマチックな題材（例：「芝浜」）では曲をメロディアス寄りに調整し、キャラの動き（例：マツの動き）を大きめにして表現を強める  \nAIっぽい大げさな演技になりやすいので、「泣き」「笑い」「怒り」など感情表現の強さを落ち着かせる調整を試行する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088517250009735168/img/9_4lhGbgBX5Hn3zO.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088536168673767531.mp4",
+  "sourceLink": "https://x.com/inoueshokudou/status/2088536168673767531",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "井上食堂｜映像ディレクター × AI",
+    "link": "https://x.com/inoueshokudou"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Runwayで動画生成する際は、キャラデザインと曲と白黒コンテを添付して生成すると意図を反映しやすい  \nドラマチックな題材（例：「芝浜」）では曲をメロディアス寄りに調整し、キャラの動き（例：マツの動き）を大きめにして表現を強める  \nAIっぽい大げさな演技になりやすいので、「泣き」「笑い」「怒り」など感情表現の強さを落ち着かせる調整を試行する",
+  "translations": {
+    "en": {
+      "content": "When generating videos in Runway, attaching the character design, music, and black-and-white storyboard helps the output reflect your intent more accurately.  \nFor dramatic material (e.g., “Shibahama”), adjust the music to be more melodic and make the character’s movements (e.g., Matsu’s movements) larger to strengthen the expression.  \nBecause it tends to become overly exaggerated and AI-like, try fine-tuning the intensity of emotional expressions such as “crying,” “laughing,” and “anger” to make them more restrained.\n\n--- THREAD CONTINUATION ---\n[Thread 1] After “Shinigami,” the next is “Shibahama”\n\n“Shibahama” is a dramatic piece, so I made the music a little more melodic and experimentally enlarged Matsu’s movements as well.\n\nThe acting is a bit too big, which does feel AI-like after all.  \nWe need to experiment with how to tone down performances like “crying,” “laughing,” and “anger.” https://t.co/QSlMduCLHT\n\n[Thread 2] And the production flow for “2 hours” is:\n\n・Compose music in Suno  \n・Use ChatGPT to turn ideas into a black-and-white storyboard  \n・Attach the character design, music, and storyboard in Runway to generate the video  \n・Use DaVinci Resolve for cut editing and color correction and color grading https://t.co/37j97sCxCp"
+    },
+    "es": {
+      "content": "Al generar videos en Runway, si adjuntas el character design, la música y el storyboard en blanco y negro, es más fácil que se refleje la intención original.  \nEn temas dramáticos (por ejemplo, «Shibahama»), conviene ajustar la música hacia un estilo más melódico y hacer más amplios los movimientos del personaje (por ejemplo, los movimientos de Matsu) para reforzar la expresividad.  \nComo tiende a quedar una actuación exagerada y muy “AI”, conviene probar ajustes para suavizar la intensidad de expresiones como «llanto», «risa» o «ira».\n\n--- CONTINUACIÓN DEL THREAD ---\n[Thread 1] Después de «Shinigami», toca «Shibahama»\n\n«Shibahama» es una obra dramática, así que hice la música un poco más melódica y también probé a ampliar de forma experimental los movimientos de Matsu.\n\nSigue siendo un poco demasiado exagerado en la actuación, y eso se nota como algo propio de la IA.  \nHay que experimentar con cómo suavizar las interpretaciones de «llanto», «risa» o «ira». https://t.co/QSlMduCLHT\n\n[Thread 2] Y el flujo de producción de «2 horas» es:\n\n・Componer en Suno  \n・Convertir las ideas en un storyboard en blanco y negro con ChatGPT  \n・Generar el video en Runway adjuntando el character design, la música y el storyboard  \n・Editar los cortes y hacer color correction y color grading en DaVinci Resolve https://t.co/37j97sCxCp"
+    },
+    "fr": {
+      "content": "Lors de la génération de vidéos avec Runway, joindre le character design, la musique et le storyboard en noir et blanc permet de mieux refléter l’intention  \nPour un sujet dramatique (par ex. « Shibahama »), ajuster la musique vers quelque chose de plus mélodique et renforcer l’expression en amplifiant les mouvements du personnage (par ex. les mouvements de Matsu)  \nComme cela tend à produire un jeu excessif, très « AI-like », il faut essayer d’ajuster l’intensité des expressions émotionnelles comme les « pleurs », le « rire » ou la « colère » pour les rendre plus mesurées\n\n--- THREAD CONTINUATION ---\n[Thread 1] Après « Shinigami », place à « Shibahama »\n\n« Shibahama » étant une pièce dramatique, j’ai rendu la musique un peu plus mélodique et j’ai aussi essayé d’augmenter expérimentalement les mouvements de Matsu.\n\nLe fait que le jeu soit un peu trop appuyé fait clairement très AI-like.\nIl faut expérimenter la manière d’atténuer les performances de « pleurs », de « rire » et de « colère », etc. https://t.co/QSlMduCLHT\n\n[Thread 2] Et le workflow de production en « 2 heures » est le suivant\n\n・Composer avec Suno\n・Transformer les idées en storyboard noir et blanc avec ChatGPT\n・Générer la vidéo dans Runway en joignant le character design, la musique et le storyboard\n・Faire le montage des plans et la correction colorimétrique and le color grading dans DaVinci Resolve https://t.co/37j97sCxCp"
+    },
+    "ko": {
+      "content": "Runway에서 영상 생성할 때는 캐릭터 디자인과 곡, 흑백 콘티를 함께 첨부해 생성하면 의도를 더 잘 반영할 수 있다  \n드라마틱한 소재(예: 「시바하마」)에서는 곡을 좀 더 멜로디컬하게 조정하고, 캐릭터의 움직임(예: 마츠의 움직임)을 크게 해서 표현을 강화한다  \nAI 같은 과장된 연기가 나오기 쉬우므로, 「울음」, 「웃음」, 「분노」 등 감정 표현의 강도를 차분하게 조절하는 실험을 해본다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 「시신」 다음은 「시바하마」\n\n「시바하마」는 드라마틱한 작품이라 곡을 조금 더 멜로디컬하게 했고, 마츠의 움직임도 실험적으로 크게 해보았다.\n\n조금 연기가 너무 큰 것은 역시 AI 같다.\n「울음」이나 「웃음」, 「분노」 같은 연기를 어떻게 차분하게 만들지 실험해봐야겠네요. https://t.co/QSlMduCLHT\n\n[Thread 2] 그리고 「2시간」의 제작 플로우는\n\n・Suno로 작곡\n・ChatGPT로 아이디어를 흑백 콘티로 변환\n・Runway에서 캐릭터 디자인과 곡, 콘티를 첨부해 영상 생성\n・DaVinci Resolve에서 컷 편집과 컬러 코렉션 and 컬러 그레이딩 https://t.co/37j97sCxCp"
+    },
+    "pt": {
+      "content": "Ao gerar vídeos no Runway, fica mais fácil refletir a intenção se você anexar o character design, a música e o storyboard em preto e branco.\n\nEm temas dramáticos (por exemplo, “Shibahama”), ajuste a música para um tom mais melódico e aumente um pouco os movimentos do personagem (por exemplo, os movimentos do Matsu) para intensificar a expressão.\n\nComo a atuação tende a ficar exagerada e com cara de IA, vale testar ajustes para suavizar a intensidade de expressões como “choro”, “risada” e “raiva”.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Depois de “Shinigami”, vem “Shibahama”\n\n“Shibahama” é uma peça dramática, então deixei a música um pouco mais melódica e também experimentei ampliar bastante os movimentos do Matsu.\n\nQuando a atuação fica um pouco exagerada demais, realmente soa como IA.\nÉ preciso experimentar formas de suavizar a atuação em “choro”, “risada”, “raiva” e outras emoções. https://t.co/QSlMduCLHT\n\n[Thread 2] E o fluxo de produção de “2 horas” é:\n\n・Compor no Suno\n・Transformar as ideias em storyboard em preto e branco com o ChatGPT\n・Gerar o vídeo no Runway anexando o character design, a música e o storyboard\n・No DaVinci Resolve, fazer a edição dos cortes e a color correction and color grading https://t.co/37j97sCxCp"
+    },
+    "zh": {
+      "content": "在使用 Runway 生成视频时，如果附上角色设计、音乐和黑白分镜，生成结果更容易反映你的意图。  \n对于戏剧性较强的题材（例如「芝浜」），可以把音乐调整得更偏旋律性一些，并把角色动作（例如松的动作）做得更大，以增强表现力。  \n由于很容易出现 AI 感很强、夸张过头的表演，所以可以尝试调整，让「哭」「笑」「怒」等情绪表达的强度更平稳一些。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 「死神」之后是「芝浜」\n\n「芝浜」是一个很有戏剧性的节目，所以我把音乐稍微调得更旋律化了一些，也尝试把松的动作做得更大一些。\n\n不过，表演稍微有点过头，果然还是很有 AI 味。  \n看来还得继续实验，摸索如何让「哭」「笑」「怒」这些表演更自然、更克制。 https://t.co/QSlMduCLHT\n\n[Thread 2] 另外，制作「2小时」的流程是：\n\n・用 Suno 作曲  \n・用 ChatGPT 把点子整理成黑白分镜  \n・在 Runway 中附上角色设计、音乐和分镜来生成视频  \n・用 DaVinci Resolve 进行剪辑、调色 and color grading https://t.co/37j97sCxCp"
+    }
+  }
+}

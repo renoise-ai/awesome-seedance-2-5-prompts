@@ -1,0 +1,42 @@
+{
+  "id": "2088873801136447650",
+  "title": "Seedance 2.5で写真→動画にする際、写真上にカメラの飛行ルートを線で描き「1=開始」「2=終了」を記して、その画像を開始フレームとして投入すると、線は…",
+  "content": "Seedance 2.5で写真→動画にする際、写真上にカメラの飛行ルートを線で描き「1=開始」「2=終了」を記して、その画像を開始フレームとして投入すると、線は約0.5秒で消えてカメラがその軌道に沿って動く",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088148267968143360/img/_62S0uD85uHfJ7k4.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088873801136447650.mp4",
+  "sourceLink": "https://x.com/taziku_co/status/2088873801136447650",
+  "sourcePublishedAt": "2026-08-16",
+  "author": {
+    "name": "田中義弘 | taziku CEO / AI × Creative",
+    "link": "https://x.com/taziku_co"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5で写真→動画にする際、写真上にカメラの飛行ルートを線で描き「1=開始」「2=終了」を記して、その画像を開始フレームとして投入すると、線は約0.5秒で消えてカメラがその軌道に沿って動く",
+  "translations": {
+    "en": {
+      "content": "When converting a photo to video in Seedance 2.5, if you draw the camera flight path as a line on the photo and mark “1 = start” and “2 = end,” then use that image as the starting frame, the line disappears in about 0.5 seconds and the camera moves along that trajectory.\n\n--- QUOTED TWEET ---\nRule: take a photo, draw the flight path on it (1 = start, 2 = finish), and upload it as the starting frame. The line disappears in half a second, and the camera flies along the route.\n\nFull prompt: https://t.co/stZ8GP6mSI\n---"
+    },
+    "es": {
+      "content": "Al convertir una foto en video con Seedance 2.5, si dibujas sobre la foto una línea que marque la trayectoria de vuelo de la cámara y señalas «1 = inicio» y «2 = final», y luego introduces esa imagen como fotograma inicial, la línea desaparece en aproximadamente 0,5 segundos y la cámara se mueve siguiendo esa trayectoria.\n\n--- TUIT CITADO ---\nRegla: tomas una foto, dibujas en ella una línea de vuelo (1 = inicio, 2 = meta) y la subes como fotograma inicial. La línea desaparece en medio segundo y la cámara recorre la ruta.\n\nPrompt completo: https://t.co/stZ8GP6mSI\n---"
+    },
+    "fr": {
+      "content": "Lors de la conversion d’une photo en vidéo avec Seedance 2.5, si vous tracez sur la photo la trajectoire de vol de la caméra sous forme de ligne et indiquez « 1 = début » et « 2 = fin », puis que vous soumettez cette image comme frame de départ, la ligne disparaît en environ 0,5 seconde et la caméra se déplace le long de cette trajectoire.\n\n--- TWEET CITÉ ---\nPrincipe : tu prends une photo, tu dessines dessus une ligne de vol (1 = départ, 2 = arrivée) et tu l’envoies comme image de départ. La ligne disparaît en une demi-seconde, la caméra suit la trajectoire.\n\nPrompt complet : https://t.co/stZ8GP6mSI\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 사진을 영상으로 만들 때, 사진 위에 카메라의 비행 경로를 선으로 그려 “1=시작”, “2=종료”를 표시한 뒤 그 이미지를 시작 프레임으로 넣으면, 선은 약 0.5초 만에 사라지고 카메라는 그 궤적을 따라 움직인다\n\n--- 인용된 트윗 ---\n원리: 사진을 가져와 그 위에 비행 경로를 선으로 그리고(1 = 시작, 2 = 종료) 시작 프레임으로 넣는다. 선은 0.5초 만에 사라지고, 카메라는 그 경로를 따라 이동한다.\n\n전체 prompt: https://t.co/stZ8GP6mSI\n---"
+    },
+    "pt": {
+      "content": "Ao transformar foto em vídeo no Seedance 2.5, se você desenhar na própria foto a trajetória de voo da câmera com uma linha e marcar “1 = início” e “2 = fim”, e então enviar essa imagem como frame inicial, a linha desaparece em cerca de 0,5 segundo e a câmera se move ao longo dessa trajetória\n\n--- QUOTED TWEET ---\nRegra: você pega uma foto, desenha nela uma linha de voo (1 = início, 2 = chegada) e a envia como frame inicial. A linha desaparece em meio segundo, e a câmera percorre a rota.\n\nPrompt completo: https://t.co/stZ8GP6mSI\n---"
+    },
+    "zh": {
+      "content": "在使用 Seedance 2.5 将照片转为视频时，如果你在照片上用线条画出相机的飞行路线，并标注“1=开始”“2=结束”，再把这张图作为起始帧输入，那么这条线会在约 0.5 秒内消失，随后相机会沿着该轨迹移动\n\n--- QUOTED TWEET ---\n规则：你拿一张照片，在上面画一条飞行路线（1 = 起点，2 = 终点），然后把它作为起始帧上传。线条会在半秒内消失，镜头会沿着这条路线飞行。\n\n完整 prompt：https://t.co/stZ8GP6mSI\n---"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2089020291599011947",
+  "title": "Generate keyframes in Luma Scenes, then animate those keyframes in Seedance 2.5…",
+  "content": "Generate keyframes in Luma Scenes, then animate those keyframes in Seedance 2.5 to achieve a retro-anime look (line weight/film grain/timing) via a hybrid keyframes+motion workflow instead of a single-model prompt.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2089020269859946496/pu/img/fImAtKyy6FkHXn8w.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089020291599011947.mp4",
+  "sourceLink": "https://x.com/Genflickmovies/status/2089020291599011947",
+  "sourcePublishedAt": "2026-08-16",
+  "author": {
+    "name": "GenFlick | Making Movies with AI | Join Us",
+    "link": "https://x.com/Genflickmovies"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate keyframes in Luma Scenes, then animate those keyframes in Seedance 2.5 to achieve a retro-anime look (line weight/film grain/timing) via a hybrid keyframes+motion workflow instead of a single-model prompt.",
+  "translations": {
+    "es": {
+      "content": "Genera keyframes en Luma Scenes y luego anima esos keyframes en Seedance 2.5 para lograr un look retro-anime (grosor de línea/grano de película/timing) mediante un flujo de trabajo híbrido de keyframes + motion, en lugar de usar un prompt de un solo modelo."
+    },
+    "fr": {
+      "content": "Générez des keyframes dans Luma Scenes, puis animez ces keyframes dans Seedance 2.5 afin d’obtenir un rendu rétro-anime (épaisseur des traits/grain de film/timing) via un workflow hybride keyframes + motion, plutôt qu’avec un prompt à modèle unique."
+    },
+    "ja": {
+      "content": "Luma Scenesでキーフレームを生成し、そのキーフレームをSeedance 2.5でアニメーション化することで、単一モデルのpromptではなく、キーフレーム＋モーションのハイブリッドワークフローによって、レトロアニメ風のルック（線の太さ／フィルムグレイン／タイミング）を実現する。"
+    },
+    "ko": {
+      "content": "Luma Scenes에서 키프레임을 생성한 다음, Seedance 2.5에서 그 키프레임들을 애니메이션 처리하여 단일 모델 prompt 대신 하이브리드 키프레임+모션 워크플로우를 통해 레트로 애니메 스타일의 느낌(선 굵기/필름 그레인/타이밍)을 구현하세요."
+    },
+    "pt": {
+      "content": "Gere keyframes no Luma Scenes e, em seguida, anime esses keyframes no Seedance 2.5 para alcançar um visual de retro-anime (line weight/film grain/timing) por meio de um workflow híbrido de keyframes + motion, em vez de um prompt de modelo único."
+    },
+    "zh": {
+      "content": "先在 Luma Scenes 中生成关键帧，然后在 Seedance 2.5 中为这些关键帧添加动画，通过混合的关键帧 + 动作工作流来实现复古动漫风格（线条粗细/胶片颗粒/节奏），而不是依赖单一模型的 prompt。"
+    }
+  }
+}

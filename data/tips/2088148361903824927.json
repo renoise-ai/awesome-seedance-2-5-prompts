@@ -1,0 +1,46 @@
+{
+  "id": "2088148361903824927",
+  "title": "Weź jedno zdjęcie archiwalne jako klatkę startową i użyj Seedance 2.5 do…",
+  "content": "Weź jedno zdjęcie archiwalne jako klatkę startową i użyj Seedance 2.5 do animacji sceny.  \nNarysuj na zdjęciu linię przelotu kamery z oznaczeniem 1 = start i 2 = meta, a następnie wgraj to zdjęcie jako klatkę startową, aby kamera poleciała po wyznaczonej trasie.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088148267968143360/img/_62S0uD85uHfJ7k4.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088148361903824927.mp4",
+  "sourceLink": "https://x.com/M_Dobrodziej/status/2088148361903824927",
+  "sourcePublishedAt": "2026-08-14",
+  "author": {
+    "name": "Maciej Dobrodziej",
+    "link": "https://x.com/M_Dobrodziej"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "FPV & Aerial"
+  ],
+  "tips": "Weź jedno zdjęcie archiwalne jako klatkę startową i użyj Seedance 2.5 do animacji sceny.  \nNarysuj na zdjęciu linię przelotu kamery z oznaczeniem 1 = start i 2 = meta, a następnie wgraj to zdjęcie jako klatkę startową, aby kamera poleciała po wyznaczonej trasie.",
+  "translations": {
+    "en": {
+      "content": "Take one archival photo as the starting frame and use Seedance 2.5 to animate the scene.  \nDraw a camera flight path line on the photo, marked with 1 = start and 2 = finish, then upload that photo as the starting frame so the camera flies along the specified route.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Rule: take a photo, draw a flight path line on it (1 = start, 2 = finish), and upload it as the starting frame. The line disappears in half a second, and the camera flies along the route.\n\nFull prompt: https://t.co/stZ8GP6mSI\n---"
+    },
+    "es": {
+      "content": "Toma una foto de archivo como fotograma inicial y usa Seedance 2.5 para animar la escena.  \nDibuja en la foto una línea de recorrido de cámara con la indicación 1 = inicio y 2 = meta, y luego sube esa foto como fotograma inicial para que la cámara vuele por la ruta marcada.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Regla: tomas una foto, dibujas en ella la línea de recorrido (1 = inicio, 2 = meta) y la subes como fotograma inicial. La línea desaparece en medio segundo, y la cámara sigue la ruta.\n\nPrompt completo: https://t.co/stZ8GP6mSI\n---"
+    },
+    "fr": {
+      "content": "Prenez une photo d’archive comme image de départ et utilisez Seedance 2.5 pour animer la scène.  \nDessinez sur la photo une ligne de trajectoire de caméra avec les repères 1 = départ et 2 = arrivée, puis importez cette photo comme image de départ afin que la caméra suive le trajet indiqué.\n\n--- SUITE DU FIL ---\n[Fil 1] Principe : vous prenez une photo, vous y tracez une ligne de trajectoire (1 = départ, 2 = arrivée) et vous la téléversez comme image de départ. La ligne disparaît en une demi-seconde, et la caméra suit la trajectoire.\n\nPrompt complet : https://t.co/stZ8GP6mSI\n---"
+    },
+    "ja": {
+      "content": "古い写真を1枚、開始フレームとして使い、Seedance 2.5でシーンをアニメーション化する。  \n写真の上にカメラの飛行経路を線で描き、1 = スタート、2 = ゴールと示したうえで、その写真を開始フレームとしてアップロードし、カメラが指定したルートに沿って飛ぶようにする。\n\n--- THREAD CONTINUATION ---\n[Thread 1] ルール：写真を用意し、その上に飛行ライン（1 = スタート、2 = ゴール）を描いて、開始フレームとして投入する。ラインは0.5秒で消え、カメラはその経路に沿って進む。\n\nFull prompt: https://t.co/stZ8GP6mSI\n---"
+    },
+    "ko": {
+      "content": "---\n아카이브 사진 한 장을 시작 프레임으로 사용하고 Seedance 2.5로 장면을 애니메이션화하세요.  \n사진 위에 카메라 비행 경로를 그려 1 = 시작, 2 = 도착 지점을 표시한 다음, 그 사진을 시작 프레임으로 업로드하면 카메라가 지정한 경로를 따라 이동합니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 원칙: 사진을 가져와 그 위에 비행 경로(1 = 시작, 2 = 도착)를 그리고 시작 프레임으로 업로드합니다. 선은 0.5초 만에 사라지고, 카메라는 그 경로를 따라 이동합니다.\n\n전체 prompt: https://t.co/stZ8GP6mSI\n---"
+    },
+    "pt": {
+      "content": "Tire uma foto de arquivo como quadro inicial e use o Seedance 2.5 para animar a cena.  \nDesenhe na foto uma linha de trajetória da câmera com a indicação 1 = início e 2 = fim, e depois envie essa foto como quadro inicial para que a câmera percorra a rota definida.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Regra: você pega uma foto, desenha nela uma linha de trajetória (1 = início, 2 = fim) e a envia como quadro inicial. A linha desaparece em meio segundo, e a câmera segue pela rota.\n\nPrompt completo: https://t.co/stZ8GP6mSI\n---"
+    },
+    "zh": {
+      "content": "将一张档案照片作为起始帧，并使用 Seedance 2.5 来为场景添加动画。  \n在照片上画出相机飞行路线，并标注 1 = 起点、2 = 终点，然后将这张照片作为起始帧上传，这样相机就会沿着指定路径飞行。\n\n--- 线程续接 ---\n[Thread 1] 规则：你先拿一张照片，在上面画出飞行路线（1 = 起点，2 = 终点），然后把它作为起始帧上传。线条会在半秒内消失，相机会沿着这条路线飞行。\n\n完整 prompt：https://t.co/stZ8GP6mSI\n---"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2088437498158755910",
+  "title": "Seedance2.5では適当なプロンプトでも不自然な動きになりにくく、ダンス系の動画を生成しやすいのでまずは簡単なプロンプトから試す",
+  "content": "Seedance2.5では適当なプロンプトでも不自然な動きになりにくく、ダンス系の動画を生成しやすいのでまずは簡単なプロンプトから試す",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088437067676278784/img/axV7iR4cgOfEzrvE.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088437498158755910.mp4",
+  "sourceLink": "https://x.com/ZetoGroovin/status/2088437498158755910",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "Zeto",
+    "link": "https://x.com/ZetoGroovin"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.5では適当なプロンプトでも不自然な動きになりにくく、ダンス系の動画を生成しやすいのでまずは簡単なプロンプトから試す",
+  "translations": {
+    "en": {
+      "content": "With Seedance 2.5, even a rough prompt is less likely to produce unnatural motion, and it’s easier to generate dance-style videos, so start by trying a simple prompt first."
+    },
+    "es": {
+      "content": "En Seedance2.5, incluso con prompts bastante simples es menos probable que los movimientos resulten antinaturales, y es más fácil generar videos de baile, así que conviene empezar probando con un prompt sencillo."
+    },
+    "fr": {
+      "content": "Avec Seedance2.5, même avec un prompt approximatif, les mouvements ont moins tendance à paraître artificiels, et il est plus facile de générer des vidéos de danse ; commencez donc par essayer un prompt simple."
+    },
+    "ko": {
+      "content": "Seedance2.5는 대충 쓴 prompt라도 부자연스러운 움직임이 잘 생기지 않고, 댄스 계열 영상을 생성하기 쉬우므로 우선은 간단한 prompt부터 시도해본다"
+    },
+    "pt": {
+      "content": "No Seedance2.5, mesmo com prompts mais simples, é menos provável que os movimentos fiquem artificiais, e é mais fácil gerar vídeos de dança; então, comece testando com um prompt simples."
+    },
+    "zh": {
+      "content": "在 Seedance2.5 中，即使是比较随意的 prompt，也不太容易出现不自然的动作，而且更容易生成舞蹈类视频，所以建议先从简单的 prompt 开始尝试。"
+    }
+  }
+}

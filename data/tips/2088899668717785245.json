@@ -1,0 +1,42 @@
+{
+  "id": "2088899668717785245",
+  "title": "Use a single character reference image in Seedance 2.5 to generate a continuous…",
+  "content": "Use a single character reference image in Seedance 2.5 to generate a continuous one-take cinematic action sequence.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088899439629144064/img/Nw4-Xr3HATz5PpD0.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088899668717785245.mp4",
+  "sourceLink": "https://x.com/irfanse3/status/2088899668717785245",
+  "sourcePublishedAt": "2026-08-16",
+  "author": {
+    "name": "irfan",
+    "link": "https://x.com/irfanse3"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a single character reference image in Seedance 2.5 to generate a continuous one-take cinematic action sequence.",
+  "translations": {
+    "es": {
+      "content": "Usa una sola imagen de referencia de personaje en Seedance 2.5 para generar una secuencia de acción cinematográfica continua en una sola toma."
+    },
+    "fr": {
+      "content": "Utilisez une seule image de référence de personnage dans Seedance 2.5 pour générer une séquence d’action cinématographique continue en un seul plan."
+    },
+    "ja": {
+      "content": "Seedance 2.5 で単一のキャラクター参照画像を使用し、連続したワンテイクのシネマティックなアクションシーケンスを生成します。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 단일 캐릭터 레퍼런스 이미지를 사용해, 연속적인 원테이크 시네마틱 액션 시퀀스를 생성하세요."
+    },
+    "pt": {
+      "content": "Use uma única imagem de referência de personagem no Seedance 2.5 para gerar uma sequência de ação cinematográfica contínua em plano-sequência."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中使用单一角色参考图像，生成连续的一镜到底 cinematic 动作序列。"
+    }
+  }
+}

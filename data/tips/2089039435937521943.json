@@ -1,0 +1,41 @@
+{
+  "id": "2089039435937521943",
+  "title": "Use text-to-video at 720p with no upscale for this type of historical/cinematic…",
+  "content": "Use text-to-video at 720p with no upscale for this type of historical/cinematic scene recreation.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089038261847019520/img/KxlzWP6fvZxNt2S8.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089039435937521943.mp4",
+  "sourceLink": "https://x.com/BernhardSony66/status/2089039435937521943",
+  "sourcePublishedAt": "2026-08-16",
+  "author": {
+    "name": "Bittermandl",
+    "link": "https://x.com/BernhardSony66"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Historical"
+  ],
+  "tips": "Use text-to-video at 720p with no upscale for this type of historical/cinematic scene recreation.",
+  "translations": {
+    "es": {
+      "content": "Usa text-to-video a 720p sin upscale para este tipo de recreación de escenas históricas/cinematográficas."
+    },
+    "fr": {
+      "content": "Utilisez la génération texte-vers-vidéo en 720p sans upscale pour ce type de reconstitution de scène historique/cinématographique."
+    },
+    "ja": {
+      "content": "この種の歴史的・シネマティックなシーン再現には、アップスケールなしの720pでtext-to-videoを使用してください。"
+    },
+    "ko": {
+      "content": "이러한 유형의 역사적/시네마틱 장면 재현에는 업스케일 없이 720p의 text-to-video를 사용하세요."
+    },
+    "pt": {
+      "content": "Use text-to-video em 720p, sem upscale, para este tipo de recriação de cena histórica/cinematográfica."
+    },
+    "zh": {
+      "content": "对于这类历史/电影感场景重现，请使用 720p 的 text-to-video，且不要进行 upscale。"
+    }
+  }
+}

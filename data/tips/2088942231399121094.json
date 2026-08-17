@@ -1,0 +1,42 @@
+{
+  "id": "2088942231399121094",
+  "title": "Seedance 2.0Miniで複数クリップ（例：4つ）を生成して繋げて1本のMVにする",
+  "content": "Seedance 2.0Miniで複数クリップ（例：4つ）を生成して繋げて1本のMVにする  \nSeedance 2.5で約22秒の動画を一発生成（ぽんだし）して使う  \n生成したSeedance動画をCapCutに取り込み、動画作成・編集と文字演出（テキスト演出）を仕上げる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088938529502154752/img/lddFf2-AebvjNyhb.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088942231399121094.mp4",
+  "sourceLink": "https://x.com/akemiwork/status/2088942231399121094",
+  "sourcePublishedAt": "2026-08-16",
+  "author": {
+    "name": "あけみん｜AIとあそぶ人",
+    "link": "https://x.com/akemiwork"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.0Miniで複数クリップ（例：4つ）を生成して繋げて1本のMVにする  \nSeedance 2.5で約22秒の動画を一発生成（ぽんだし）して使う  \n生成したSeedance動画をCapCutに取り込み、動画作成・編集と文字演出（テキスト演出）を仕上げる",
+  "translations": {
+    "en": {
+      "content": "Generate multiple clips with Seedance 2.0 Mini (e.g., four clips), then stitch them together into a single music video.  \nUse Seedance 2.5 to generate an approximately 22-second video in one shot and use it as-is.  \nImport the generated Seedance video into CapCut, then complete the video creation/editing and text effects (text animation)."
+    },
+    "es": {
+      "content": "Generar varios clips con Seedance 2.0 Mini (por ejemplo, 4) y unirlos para crear un solo MV  \nGenerar de una sola vez un video de aproximadamente 22 segundos con Seedance 2.5 y usarlo tal cual  \nImportar el video generado con Seedance en CapCut y terminar la creación y edición del video, así como los efectos de texto (text effects)"
+    },
+    "fr": {
+      "content": "Générer plusieurs clips avec Seedance 2.0Mini (par exemple 4), puis les assembler pour en faire un seul MV  \nGénérer d’un seul coup une vidéo d’environ 22 secondes avec Seedance 2.5, puis l’utiliser telle quelle  \nImporter la vidéo Seedance générée dans CapCut, puis finaliser la création et le montage vidéo ainsi que les effets de texte (animation de texte)"
+    },
+    "ko": {
+      "content": "Seedance 2.0Mini로 여러 클립(예: 4개)을 생성해 이어 붙여 하나의 MV로 만든다  \nSeedance 2.5로 약 22초 분량의 영상을 한 번에 생성(원샷)해서 사용한다  \n생성한 Seedance 영상을 CapCut에 불러와 영상 제작·편집과 텍스트 연출을 마무리한다"
+    },
+    "pt": {
+      "content": "Gerar vários clipes com o Seedance 2.0 Mini (por exemplo, 4) e juntá-los para criar um único MV  \nGerar um vídeo de cerca de 22 segundos de uma só vez com o Seedance 2.5 e usá-lo diretamente  \nImportar o vídeo gerado no Seedance para o CapCut e finalizar a criação/edição do vídeo e os efeitos de texto (animação de texto)"
+    },
+    "zh": {
+      "content": "用 Seedance 2.0 Mini 生成多个 clip（例如 4 个）并串联起来，制作成一支 MV  \n用 Seedance 2.5 一次性生成约 22 秒的视频（直接出片）并使用  \n将生成的 Seedance 视频导入 CapCut，完成视频制作、编辑以及文字演出（文本特效）"
+    }
+  }
+}

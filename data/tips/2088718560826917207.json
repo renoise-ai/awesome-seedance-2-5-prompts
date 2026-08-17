@@ -1,0 +1,43 @@
+{
+  "id": "2088718560826917207",
+  "title": "SeeDance 2.5でMV向けトランジションを作るときは720p・15秒設定で生成する",
+  "content": "SeeDance 2.5でMV向けトランジションを作るときは720p・15秒設定で生成する  \nリファレンスはキャラクターシートのみを使ってキャラの一貫性を保つ  \n長文プロンプト（7000文字超）で演出やトランジションの指示を細かく詰める",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088717911120896000/img/ByK1GXp6M0kvPhKp.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088718560826917207.mp4",
+  "sourceLink": "https://x.com/RockzAiLab/status/2088718560826917207",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "Rockzheart.AI.ART",
+    "link": "https://x.com/RockzAiLab"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "SeeDance 2.5でMV向けトランジションを作るときは720p・15秒設定で生成する  \nリファレンスはキャラクターシートのみを使ってキャラの一貫性を保つ  \n長文プロンプト（7000文字超）で演出やトランジションの指示を細かく詰める",
+  "translations": {
+    "en": {
+      "content": "When creating transitions for music videos in SeeDance 2.5, generate them at 720p and 15 seconds.  \nUse only the character sheet as a reference to maintain character consistency.  \nUse a long prompt (over 7,000 characters) to fine-tune the direction and transition instructions in detail.\n\n--- QUOTED TWEET ---\nTransition test for MV use  \nModel: @Vtuber7144\n\nSeeDance2.5 / 720p / 15 sec  \nReference: character sheet only  \nPrompt: over 7,000 characters  \n*The prompt is posted in the replies*\n\n#capcutcpp  \n@capcutapp_jp https://t.co/xhuPUUbEon\n---"
+    },
+    "es": {
+      "content": "Al crear transiciones para MV en SeeDance 2.5, genera con la configuración de 720p y 15 segundos.  \nUsa solo la character sheet como referencia para mantener la coherencia del personaje.  \nAfina en detalle las indicaciones de puesta en escena y transición con un prompt largo (más de 7000 caracteres).\n\n--- TWEET CITADO ---\nPrueba de transiciones para MV  \nModelo: @Vtuber7144\n\nSeeDance2.5 / 720p / 15 sec  \nReferencia: solo character sheet  \nPrompt: más de 7000  \n*El prompt está publicado en la respuesta*\n\n#capcutcpp  \n@capcutapp_jp https://t.co/xhuPUUbEon"
+    },
+    "fr": {
+      "content": "Lorsqu’on crée des transitions pour des MV avec SeeDance 2.5, il faut générer en 720p avec une durée de 15 secondes.  \nUtiliser uniquement une character sheet comme référence pour préserver la cohérence du personnage.  \nRédiger un prompt long (plus de 7000 caractères) pour détailler précisément la mise en scène et les instructions de transition.\n\n--- TWEET CITÉ ---\nTest de transition pour MV  \nModèle : @Vtuber7144 \n\nSeeDance2.5 / 720p / 15 sec  \nRéférence : character sheet uniquement  \nPrompt : plus de 7000 caractères  \n※ Le prompt est publié en réponse\n\n#capcutcpp\n@capcutapp_jp https://t.co/xhuPUUbEon"
+    },
+    "ko": {
+      "content": "SeeDance 2.5에서 MV용 트랜지션을 만들 때는 720p·15초 설정으로 생성한다  \n레퍼런스는 캐릭터 시트만 사용해 캐릭터의 일관성을 유지한다  \n장문 프롬프트(7000자 초과)로 연출과 트랜지션 지시를 세밀하게 넣는다\n\n--- QUOTED TWEET ---\nMV용 트랜지션 테스트  \nModel : @Vtuber7144 \n\nSeeDance2.5 / 720p / 15 sec  \n레퍼런스：캐릭터 시트만  \n프롬프트：7000자 초과  \n※ 프롬프트는 리플에 게재\n\n#capcutcpp\n@capcutapp_jp https://t.co/xhuPUUbEon"
+    },
+    "pt": {
+      "content": "Ao criar transições para MV no SeeDance 2.5, gere com a configuração de 720p e 15 segundos  \nUse apenas a character sheet como referência para manter a consistência do personagem  \nAjuste em detalhes as instruções de direção e transição com um prompt longo (mais de 7000 caracteres)\n\n--- TWEET CITADO ---\nTeste de transição para MV  \nModelo: @Vtuber7144 \n\nSeeDance2.5 / 720p / 15 sec  \nReferência: apenas character sheet  \nPrompt: mais de 7000 caracteres  \n※ O prompt está publicado na resposta\n\n#capcutcpp\n@capcutapp_jp https://t.co/xhuPUUbEon"
+    },
+    "zh": {
+      "content": "在使用 SeeDance 2.5 制作 MV 向け转场时，采用 720p、15 秒的生成设置  \n参考图只使用角色设定图，以保持角色一致性  \n用长文本 prompt（7000 字以上）细致地加入演出和转场指示\n\n--- QUOTED TWEET ---\nMV 向けのトランジションテスト\nModel : @Vtuber7144 \n\nSeeDance2.5 / 720p / 15 sec\nリファレンス：キャラクターシートのみ\nプロンプト：7000超\n※プロンプトはリプに掲載\n\n#capcutcpp\n@capcutapp_jp https://t.co/xhuPUUbEon\n---"
+    }
+  }
+}

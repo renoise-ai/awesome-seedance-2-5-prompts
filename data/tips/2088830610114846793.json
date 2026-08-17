@@ -1,0 +1,43 @@
+{
+  "id": "2088830610114846793",
+  "title": "codexにプロンプトと絵コンテ（ストーリーボード）を作らせてから、CapCutのSeedance 2.5に持ち込んで映像生成する",
+  "content": "codexにプロンプトと絵コンテ（ストーリーボード）を作らせてから、CapCutのSeedance 2.5に持ち込んで映像生成する  \nSeedance 2.5に音楽ファイルを読み込ませて、動き（モーション）を音楽にリンク（同期）させる  \n30秒の長回し（ワンカット）設定でまとめて生成して作業を効率化する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088819984118214657/img/knqw6CH7LjEg5iCN.jpg",
+  "videoUrl": "https://video.twimg.com/amplify_video/2088819984118214657/vid/avc1/3840x2160/lwhP5U7-es5Aq4BJ.mp4",
+  "sourceLink": "https://x.com/Chupico_nora/status/2088830610114846793",
+  "sourcePublishedAt": "2026-08-16",
+  "author": {
+    "name": "Chupico",
+    "link": "https://x.com/Chupico_nora"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "codexにプロンプトと絵コンテ（ストーリーボード）を作らせてから、CapCutのSeedance 2.5に持ち込んで映像生成する  \nSeedance 2.5に音楽ファイルを読み込ませて、動き（モーション）を音楽にリンク（同期）させる  \n30秒の長回し（ワンカット）設定でまとめて生成して作業を効率化する",
+  "translations": {
+    "en": {
+      "content": "Have Codex create the prompt and storyboard, then bring them into CapCut’s Seedance 2.5 to generate the video.  \nLoad a music file into Seedance 2.5 and link the motion to the music, synchronizing them.  \nUse a 30-second long-take (one-shot) setting to generate everything in one go and improve workflow efficiency."
+    },
+    "es": {
+      "content": "Hacer que Codex genere el prompt y el storyboard, y luego llevarlo a Seedance 2.5 de CapCut para generar el video.  \nCargar un archivo de música en Seedance 2.5 y vincular el movimiento (motion) a la música, sincronizándolo.  \nGenerar todo de una vez con una configuración de plano secuencia de 30 segundos (one-shot) para agilizar el trabajo."
+    },
+    "fr": {
+      "content": "Faire créer par Codex le prompt et le storyboard, puis les importer dans Seedance 2.5 de CapCut pour générer la vidéo.  \nFaire charger le fichier musical dans Seedance 2.5 afin de lier le mouvement (motion) à la musique et de les synchroniser.  \nGénérer le tout en une seule fois avec un réglage de plan-séquence de 30 secondes (one-shot) pour optimiser l’efficacité du travail."
+    },
+    "ko": {
+      "content": "codex에 prompt와 콘티(스토리보드)를 만들게 한 다음, CapCut의 Seedance 2.5로 가져가 영상 생성하기  \nSeedance 2.5에 음악 파일을 불러와 움직임(모션)을 음악에 링크(동기화)시키기  \n30초짜리 롱테이크(원테이크) 설정으로 한 번에 생성해 작업 효율화하기"
+    },
+    "pt": {
+      "content": "Fazer o Codex criar o prompt e o storyboard (roteiro visual) e, depois, levar isso para o Seedance 2.5 do CapCut para gerar o vídeo  \nCarregar um arquivo de música no Seedance 2.5 e vincular o movimento (motion) à música, sincronizando-os  \nGerar tudo de uma vez com a configuração de plano-sequência de 30 segundos (one-shot) para otimizar o fluxo de trabalho"
+    },
+    "zh": {
+      "content": "先让 codex 生成 prompt 和分镜（storyboard），再导入 CapCut 的 Seedance 2.5 进行视频生成  \n让 Seedance 2.5 读取音乐文件，并将动作（motion）与音乐进行链接（同步）  \n通过 30 秒的长镜头（one-shot）设置一次性生成，从而提高工作效率"
+    }
+  }
+}

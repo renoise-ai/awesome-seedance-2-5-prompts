@@ -1,0 +1,45 @@
+{
+  "id": "2088684000059732006",
+  "title": "Use a depth map reference to guide intricate choreography (dance/fight…",
+  "content": "Use a depth map reference to guide intricate choreography (dance/fight sequences) in Seedance 2.5.  \nImport the depth map into Seedance 2.5 along with reference images (ref imgs) to keep characters/world consistent while following the depth-mapped motion.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/media/HPx_RfLa0AAFsU2.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088684000059732006.mp4",
+  "sourceLink": "https://x.com/SamJWasserman/status/2088684000059732006",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "Sam Wasserman",
+    "link": "https://x.com/SamJWasserman"
+  },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Use a depth map reference to guide intricate choreography (dance/fight sequences) in Seedance 2.5.  \nImport the depth map into Seedance 2.5 along with reference images (ref imgs) to keep characters/world consistent while following the depth-mapped motion.",
+  "translations": {
+    "es": {
+      "content": "Usa una referencia de mapa de profundidad para guiar una coreografía intrincada (secuencias de baile/combate) en Seedance 2.5.  \nImporta el mapa de profundidad en Seedance 2.5 junto con imágenes de referencia (ref imgs) para mantener la coherencia de los personajes y del mundo mientras sigues el movimiento mapeado por profundidad.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Aquí está el clip final a pantalla completa, por si alguien quería ver con más detalle cómo quedó. https://t.co/qZy8fx3Bmt\n---"
+    },
+    "fr": {
+      "content": "Utilisez une référence de depth map pour guider une chorégraphie complexe (séquences de danse/combat) dans Seedance 2.5.  \nImportez la depth map dans Seedance 2.5 avec des images de référence (ref imgs) afin de conserver la cohérence des personnages et de l’univers tout en suivant le mouvement défini par la depth map.\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Thread 1] Voici le clip final en plein écran, si quelqu’un voulait voir plus en détail le résultat obtenu. https://t.co/qZy8fx3Bmt\n---"
+    },
+    "ja": {
+      "content": "Seedance 2.5 では、depth map の参照を使って、複雑な振り付け（ダンス／戦闘シーン）をガイドできます。  \ndepth map を reference images（ref imgs）と一緒に Seedance 2.5 に取り込み、depth map に沿った動きを保ちながら、キャラクターや世界観の一貫性を維持します。\n\n--- スレッドの続き ---\n[Thread 1] こちらが、もしもっと詳しく見たい方のためのフルスクリーン最終クリップです。どんな仕上がりになったか確認できます。 https://t.co/qZy8fx3Bmt\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 정교한 안무(댄스/전투 시퀀스)를 안내하기 위해 depth map reference를 사용하세요.  \ndepth map을 reference images(ref imgs)와 함께 Seedance 2.5에 import하면, depth map으로 지정된 motion을 따르면서도 characters/world의 일관성을 유지할 수 있습니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 더 자세히 보고 싶으신 분들을 위해, 완성된 전체 화면 최종 클립입니다. https://t.co/qZy8fx3Bmt\n---"
+    },
+    "pt": {
+      "content": "Use uma referência de depth map para orientar coreografias intrincadas (sequências de dança/luta) no Seedance 2.5.  \nImporte o depth map no Seedance 2.5 junto com imagens de referência (ref imgs) para manter a consistência dos personagens/mundo enquanto segue o movimento mapeado em profundidade.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Aqui está o clipe final em tela cheia, caso alguém quisesse ver como ficou com mais detalhes. https://t.co/qZy8fx3Bmt\n---"
+    },
+    "zh": {
+      "content": "使用深度图参考来引导复杂的编排（舞蹈/打斗场景）在 Seedance 2.5 中实现。  \n将深度图与参考图像（ref imgs）一起导入 Seedance 2.5，以在遵循深度映射运动的同时保持角色/世界的一致性。\n\n--- 线程续接 ---\n[Thread 1] 如果有人想更详细地看看最终成片，这里是完整全屏版本。https://t.co/qZy8fx3Bmt\n---"
+    }
+  }
+}

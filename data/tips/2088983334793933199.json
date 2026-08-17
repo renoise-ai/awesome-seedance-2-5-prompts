@@ -1,0 +1,42 @@
+{
+  "id": "2088983334793933199",
+  "title": "Generate a matching soundtrack for your Seedance 2.5 vlog using Sonilo, then…",
+  "content": "Generate a matching soundtrack for your Seedance 2.5 vlog using Sonilo, then apply automatic audio ducking so the music lowers under dialogue to keep speech clear.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088983124017655808/img/deGTWRT_5BYMhM6l.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088983334793933199.mp4",
+  "sourceLink": "https://x.com/Sonilo_music/status/2088983334793933199",
+  "sourcePublishedAt": "2026-08-16",
+  "author": {
+    "name": "Sonilo",
+    "link": "https://x.com/Sonilo_music"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Travel Vlog",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate a matching soundtrack for your Seedance 2.5 vlog using Sonilo, then apply automatic audio ducking so the music lowers under dialogue to keep speech clear.",
+  "translations": {
+    "es": {
+      "content": "Genera una banda sonora que encaje con tu vlog de Seedance 2.5 usando Sonilo, y luego aplica ducking automático de audio para que la música baje durante el diálogo y la voz se mantenga clara."
+    },
+    "fr": {
+      "content": "Générez une bande-son assortie pour votre vlog Seedance 2.5 avec Sonilo, puis appliquez un ducking audio automatique afin que la musique baisse sous les dialogues pour garder la parole claire."
+    },
+    "ja": {
+      "content": "Soniloを使って、Seedance 2.5のvlogに合うサウンドトラックを生成し、その後、自動オーディオダッキングを適用して、会話中は音楽の音量を下げ、音声をクリアに保ちます。"
+    },
+    "ko": {
+      "content": "Sonilo를 사용해 Seedance 2.5 브이로그에 어울리는 사운드트랙을 생성한 다음, 자동 오디오 더킹을 적용해 대화가 나올 때 음악 볼륨이 낮아지도록 하여 음성이 또렷하게 들리게 하세요."
+    },
+    "pt": {
+      "content": "Gere uma trilha sonora compatível para o seu vlog do Seedance 2.5 usando o Sonilo e, em seguida, aplique o audio ducking automático para que a música diminua sob o diálogo e mantenha a fala clara."
+    },
+    "zh": {
+      "content": "使用 Sonilo 为你的 Seedance 2.5 vlog 生成匹配的配乐，然后应用自动音频闪避（audio ducking），让音乐在对白下自动降低音量，保持语音清晰。"
+    }
+  }
+}

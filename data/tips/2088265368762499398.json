@@ -1,0 +1,42 @@
+{
+  "id": "2088265368762499398",
+  "title": "Use Seedance’s Narrative Short Film workflow by either uploading your script or…",
+  "content": "Use Seedance’s Narrative Short Film workflow by either uploading your script or providing a theme/requirements for the agent to write one, then generate the video and confirm at each key stage for a human‑AI collaborative one‑shot process",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088263817381732353/img/g-5c42rUC2vI0gFE.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088265368762499398.mp4",
+  "sourceLink": "https://x.com/shirawiggles/status/2088265368762499398",
+  "sourcePublishedAt": "2026-08-14",
+  "author": {
+    "name": "Shira Wiggles",
+    "link": "https://x.com/shirawiggles"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance’s Narrative Short Film workflow by either uploading your script or providing a theme/requirements for the agent to write one, then generate the video and confirm at each key stage for a human‑AI collaborative one‑shot process",
+  "translations": {
+    "es": {
+      "content": "Usa el flujo de trabajo de cortometraje narrativo de Seedance, ya sea subiendo tu guion o proporcionando un tema/requisitos para que el agente escriba uno; luego genera el video y confirma en cada etapa clave para un proceso colaborativo one-shot entre humano e IA."
+    },
+    "fr": {
+      "content": "Utilisez le workflow Narrative Short Film de Seedance en téléversant votre script ou en fournissant un thème/des exigences pour que l’agent en rédige un, puis générez la vidéo et validez chaque étape clé pour un processus one-shot collaboratif entre l’humain et l’IA."
+    },
+    "ja": {
+      "content": "SeedanceのNarrative Short Filmワークフローを使用し、脚本をアップロードするか、エージェントにテーマ／要件を与えて脚本を書かせたうえで、動画を生成し、各主要ステージごとに確認を行うことで、人間とAIが協働するワンショットのプロセスを実現します。"
+    },
+    "ko": {
+      "content": "Seedance의 Narrative Short Film 워크플로를 사용해 스크립트를 업로드하거나, 에이전트가 작성할 수 있도록 테마/요구사항을 제공한 뒤, 영상을 생성하고 각 주요 단계마다 확인하여 인간-AI 협업의 원샷 프로세스를 진행하세요."
+    },
+    "pt": {
+      "content": "Use o workflow de Narrative Short Film do Seedance enviando seu roteiro ou fornecendo um tema/requisitos para que o agente escreva um, depois gere o vídeo e confirme cada etapa principal para um processo one-shot colaborativo entre humano e IA"
+    },
+    "zh": {
+      "content": "使用 Seedance 的 Narrative Short Film 工作流：你可以上传脚本，或提供一个主题/需求让 agent 代写脚本，然后生成视频，并在每个关键阶段进行确认，以实现人机协作的一镜到底流程"
+    }
+  }
+}

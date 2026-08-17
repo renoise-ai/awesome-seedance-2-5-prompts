@@ -1,0 +1,42 @@
+{
+  "id": "2088603081173082297",
+  "title": "リップシンクをさせたい場合は音源をリファレンスとして指定し、プロンプトに歌詞を入れる",
+  "content": "リップシンクをさせたい場合は音源をリファレンスとして指定し、プロンプトに歌詞を入れる  \n秒数指定を使って歌詞のタイミングに合わせた振り付け（動き）を作るように調整する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088601771778400256/img/KaZ-QdIjeUYVMvcv.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088603081173082297.mp4",
+  "sourceLink": "https://x.com/manaimovie/status/2088603081173082297",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "Mankyu | AI動画生成",
+    "link": "https://x.com/manaimovie"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "リップシンクをさせたい場合は音源をリファレンスとして指定し、プロンプトに歌詞を入れる  \n秒数指定を使って歌詞のタイミングに合わせた振り付け（動き）を作るように調整する",
+  "translations": {
+    "en": {
+      "content": "If you want to enable lip sync, specify the audio source as a reference and include the lyrics in the prompt.  \nUse duration settings to adjust the choreography (movements) so they match the timing of the lyrics.\n\n--- THREAD CONTINUATION ---\n[Thread 1] TapNow’s workspace is here ↓\nhttps://t.co/gC76W3p86J\n---"
+    },
+    "es": {
+      "content": "Si quieres hacer lip sync, especifica la fuente de audio como referencia e incluye la letra en el prompt.  \nUsa la especificación de segundos para ajustar la coreografía (movimientos) de modo que coincida con el timing de la letra.\n\n--- CONTINUACIÓN DEL THREAD ---\n[Thread 1] El workspace de TapNow está aquí abajo ↓\nhttps://t.co/gC76W3p86J\n---"
+    },
+    "fr": {
+      "content": "Si vous souhaitez faire du lip sync, spécifiez la source audio comme référence et ajoutez les paroles dans le prompt.  \nUtilisez la spécification de la durée en secondes pour ajuster la chorégraphie (les mouvements) afin qu’elle corresponde au timing des paroles.\n\n--- THREAD CONTINUATION ---\n[Thread 1] L’espace de travail TapNow est disponible ici ↓\nhttps://t.co/gC76W3p86J\n---"
+    },
+    "ko": {
+      "content": "립싱크를 시키고 싶다면 음원을 reference로 지정하고, prompt에 가사를 넣는다  \n초수 지정을 사용해 가사의 타이밍에 맞춘 안무(동작)를 만들도록 조정한다\n\n--- THREAD CONTINUATION ---\n[Thread 1] TapNow의 워크스페이스는 여기에서↓\nhttps://t.co/gC76W3p86J\n---"
+    },
+    "pt": {
+      "content": "Se quiser fazer lip sync, especifique a fonte de áudio como referência e inclua a letra na prompt.  \nUse a especificação de duração em segundos para ajustar a coreografia (movimentos) de modo que ela acompanhe o timing da letra.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] O workspace do TapNow está aqui ↓\nhttps://t.co/gC76W3p86J\n---"
+    },
+    "zh": {
+      "content": "如果想让角色进行 lip sync，就将音源指定为 reference，并在 prompt 中加入歌词。  \n使用秒数指定来调整，使动作编排与歌词的时间点相匹配。\n\n--- THREAD CONTINUATION ---\n[Thread 1] TapNow 的工作区请从这里进入↓\nhttps://t.co/gC76W3p86J\n---"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2088556693106122770",
+  "title": "動画生成前にプロンプトで生成した画像をキャラクターシートとして用意し、動画生成時にそのシートを参照させてキャラクターを固定しやすくする",
+  "content": "動画生成前にプロンプトで生成した画像をキャラクターシートとして用意し、動画生成時にそのシートを参照させてキャラクターを固定しやすくする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088556008499224576/img/0LqyjfPhMvUOBYyb.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088556693106122770.mp4",
+  "sourceLink": "https://x.com/tanabe_fragm/status/2088556693106122770",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "タナベ | AI動画 × マーケティング",
+    "link": "https://x.com/tanabe_fragm"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "動画生成前にプロンプトで生成した画像をキャラクターシートとして用意し、動画生成時にそのシートを参照させてキャラクターを固定しやすくする",
+  "translations": {
+    "en": {
+      "content": "Prepare an image generated from a prompt before video generation and use it as a character sheet, so that when generating the video, the sheet can be referenced to make it easier to keep the character consistent.\n\n--- THREAD CONTINUATION ---\n[Thread 1] If you use the prompt above, an image like the one below will be generated.\nThis kind of image is called a “character sheet.”\n\nIf you reference this sheet during video generation, it becomes easier to keep the character consistent 😃 https://t.co/dgu8imkoSH\n---"
+    },
+    "es": {
+      "content": "Antes de la generación de video, prepara la imagen generada mediante prompt como una character sheet, y haz que el sistema la consulte durante la generación del video para fijar más fácilmente al personaje.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Si usas el prompt de arriba, se generará una imagen como la de abajo.\nA este tipo de imagen se le llama «character sheet».\n\nSi haces que esta sheet se consulte durante la generación de video, será más fácil mantener fijo al personaje 😃 https://t.co/dgu8imkoSH\n---"
+    },
+    "fr": {
+      "content": "Préparez, avant la génération de la vidéo, les images générées à partir du prompt sous forme de character sheet, puis faites référencer cette sheet lors de la génération vidéo afin de faciliter la stabilisation du personnage.\n\n--- SUITE DU THREAD ---\n[Thread 1] En utilisant le prompt ci-dessus, on obtient une image comme celle ci-dessous.\nCe type d’image est appelé un « character sheet ».\n\nEn faisant référencer cette sheet lors de la génération vidéo, il devient plus facile de garder le personnage cohérent 😃 https://t.co/dgu8imkoSH\n---"
+    },
+    "ko": {
+      "content": "動画 생성 전에 prompt로 생성한 이미지를 캐릭터 시트로 준비해 두고, 영상 생성 시 그 시트를 참조하게 하면 캐릭터를 고정하기 쉬워집니다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 위의 prompt를 사용하면 아래와 같은 이미지가 생성됩니다.\n이런 이미지를 “캐릭터 시트”라고 부릅니다.\n\n영상 생성 시 이 시트를 참조하게 하면 캐릭터를 고정하기 쉬워집니다😃 https://t.co/dgu8imkoSH\n---"
+    },
+    "pt": {
+      "content": "Prepare, antes da geração do vídeo, a imagem gerada pelo prompt como uma character sheet e, na hora de gerar o vídeo, faça com que essa sheet seja usada como referência para facilitar a fixação do personagem\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Usando o prompt acima, são geradas imagens como a abaixo.\nEsse tipo de imagem é chamado de “character sheet”.\n\nAo fazer a geração do vídeo com essa sheet como referência, fica mais fácil manter o personagem consistente 😃 https://t.co/dgu8imkoSH\n---"
+    },
+    "zh": {
+      "content": "在视频生成前，先用 prompt 生成一张图片作为角色设定表（character sheet）准备好，在视频生成时让模型参考这张表，就更容易固定角色。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 使用上面的 prompt，就会生成如下这样的图片。\n这种图片被称为“角色设定表”。\n\n在视频生成时让模型参考这张表，就更容易固定角色😃 https://t.co/dgu8imkoSH\n---"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2088710475760693670",
+  "title": "Use image references with explicit character-to-image mapping (e.g…",
+  "content": "Use image references with explicit character-to-image mapping (e.g., <Plaid-shirt man and girlfriend> = @IMG_0726) and constrain each to specific attributes like clothing/appearance/face/gesture to preserve identity control.\n\nStructure a long video as multiple timed stages with explicit time ranges (e.g., [Stage 1] 0.0–2.5 … [Stage 12] 27.5–30.0), and for each stage specify Initial state → Primary event → End state to enforce clear progression.\n\nInclude “Continue from the previous stage” in each subsequent stage to maintain temporal continuity and reduce scene resets.\n\nAdd bracketed consistency constraints (e.g., [Maintain Consistency] wardrobe continuity, prop ownership, accumulated damage, lighting progression, audio relationships) to keep identities and story elements stable across stages.\n\nEmbed audio cues directly in the prompt using parentheses/braces/angle brackets (e.g., (Suspenseful low bass note), <Digital static glitch>, {Found you.}) to guide sound design and pacing.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/maxescu/status/2088710475760693670",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "Alex Patrascu",
+    "link": "https://x.com/maxescu"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use image references with explicit character-to-image mapping (e.g., <Plaid-shirt man and girlfriend> = @IMG_0726) and constrain each to specific attributes like clothing/appearance/face/gesture to preserve identity control.\n\nStructure a long video as multiple timed stages with explicit time ranges (e.g., [Stage 1] 0.0–2.5 … [Stage 12] 27.5–30.0), and for each stage specify Initial state → Primary event → End state to enforce clear progression.\n\nInclude “Continue from the previous stage” in each subsequent stage to maintain temporal continuity and reduce scene resets.\n\nAdd bracketed consistency constraints (e.g., [Maintain Consistency] wardrobe continuity, prop ownership, accumulated damage, lighting progression, audio relationships) to keep identities and story elements stable across stages.\n\nEmbed audio cues directly in the prompt using parentheses/braces/angle brackets (e.g., (Suspenseful low bass note), <Digital static glitch>, {Found you.}) to guide sound design and pacing.",
+  "translations": {
+    "es": {
+      "content": "Usa referencias de imagen con mapeo explícito de personaje a imagen (por ejemplo, <Hombre con camisa a cuadros y novia> = @IMG_0726) y restringe cada una a atributos específicos como ropa, apariencia, rostro y gesto para preservar el control de identidad.\n\nEstructura un video largo como múltiples etapas temporizadas con rangos de tiempo explícitos (por ejemplo, [Stage 1] 0.0–2.5 … [Stage 12] 27.5–30.0), y para cada etapa especifica Estado inicial → Evento principal → Estado final para imponer una progresión clara.\n\nIncluye “Continue from the previous stage” en cada etapa posterior para mantener la continuidad temporal y reducir los reinicios de escena.\n\nAñade restricciones de consistencia entre corchetes (por ejemplo, [Maintain Consistency] continuidad del vestuario, propiedad de los objetos, daño acumulado, progresión de la iluminación, relaciones de audio) para mantener estables las identidades y los elementos de la historia a lo largo de las etapas.\n\nIncorpora las señales de audio directamente en el prompt usando paréntesis/llaves/corchetes angulares (por ejemplo, (Suspenseful low bass note), <Digital static glitch>, {Found you.}) para guiar el diseño sonoro y el ritmo."
+    },
+    "fr": {
+      "content": "Utilisez des références d’image avec une correspondance explicite entre personnage et image (par ex. <Homme en chemise à carreaux et petite amie> = @IMG_0726) et limitez chacun à des attributs spécifiques comme les vêtements, l’apparence, le visage ou les gestes afin de préserver le contrôle de l’identité.\n\nStructurez une longue vidéo en plusieurs étapes chronométrées avec des plages de temps explicites (par ex. [Étape 1] 0.0–2.5 … [Étape 12] 27.5–30.0), et pour chaque étape, précisez État initial → Événement principal → État final afin d’imposer une progression claire.\n\nIncluez « Continue from the previous stage » dans chaque étape suivante afin de maintenir la continuité temporelle et de réduire les réinitialisations de scène.\n\nAjoutez des contraintes de cohérence entre crochets (par ex. [Maintain Consistency] continuité de la garde-robe, propriété des accessoires, dommages accumulés, progression de l’éclairage, relations audio) pour conserver des identités et des éléments narratifs stables d’une étape à l’autre.\n\nIntégrez directement les indices audio dans le prompt à l’aide de parenthèses/accolades/chevrons (par ex. (Suspenseful low bass note), <Digital static glitch>, {Found you.}) pour guider la conception sonore et le rythme."
+    },
+    "ja": {
+      "content": "画像参照を明示的なキャラクター→画像の対応付けとともに使用し（例：<Plaid-shirt man and girlfriend> = @IMG_0726）、各参照に対して服装・外見・顔・ジェスチャーなどの特定の属性を制約して、アイデンティティの制御を維持します。\n\n長尺動画は、明示的な時間範囲を持つ複数のタイムドステージとして構成します（例：[Stage 1] 0.0–2.5 … [Stage 12] 27.5–30.0）。各ステージでは、Initial state → Primary event → End state を指定して、明確な進行を強制します。\n\n各後続ステージに「Continue from the previous stage」を含めて、時間的な連続性を維持し、シーンのリセットを減らします。\n\n角括弧付きの一貫性制約（例：[Maintain Consistency] wardrobe continuity, prop ownership, accumulated damage, lighting progression, audio relationships）を追加して、各ステージを通じてアイデンティティとストーリー要素を安定させます。\n\n音声キューは、プロンプト内に括弧／波括弧／山括弧を使って直接埋め込みます（例：(Suspenseful low bass note), <Digital static glitch>, {Found you.}）。これにより、サウンドデザインとテンポをガイドします。"
+    },
+    "ko": {
+      "content": "이미지 참조를 사용할 때는 명시적인 캐릭터-이미지 매핑을 적용하고(예: <체크무늬 셔츠를 입은 남자와 여자친구> = @IMG_0726), 각 참조에 의상/외형/얼굴/제스처 같은 특정 속성을 제한하여 정체성 제어를 유지하세요.\n\n긴 비디오는 명시적인 시간 범위를 가진 여러 개의 타임드 스테이지로 구성하세요(예: [Stage 1] 0.0–2.5 … [Stage 12] 27.5–30.0). 또한 각 스테이지마다 Initial state → Primary event → End state를 지정하여 명확한 진행을 강제하세요.\n\n각 후속 스테이지에는 “Continue from the previous stage”를 포함해 시간적 연속성을 유지하고 장면 리셋을 줄이세요.\n\n대괄호로 된 일관성 제약을 추가하세요(예: [Maintain Consistency] 의상 연속성, 소품 소유권, 누적된 손상, 조명 변화, 오디오 관계) ताकि 스테이지 전반에서 정체성과 스토리 요소가 안정적으로 유지되도록 하세요.\n\n오디오 큐는 괄호/중괄호/꺾쇠 괄호를 사용해 프롬프트에 직접 삽입하세요(예: (Suspenseful low bass note), <Digital static glitch>, {Found you.}) تاکہ 사운드 디자인과 페이싱을 안내하세요."
+    },
+    "pt": {
+      "content": "Use referências de imagem com mapeamento explícito de personagem para imagem (por exemplo, <Homem de camisa xadrez e namorada> = @IMG_0726) e restrinja cada uma a atributos específicos como roupa/aparência/rosto/gesto para preservar o controle de identidade.\n\nEstruture um vídeo longo como múltiplos estágios com tempo definido e faixas de tempo explícitas (por exemplo, [Stage 1] 0.0–2.5 … [Stage 12] 27.5–30.0) e, para cada estágio, especifique Estado inicial → Evento principal → Estado final para impor uma progressão clara.\n\nInclua “Continue from the previous stage” em cada estágio subsequente para manter a continuidade temporal e reduzir reinicializações de cena.\n\nAdicione restrições de consistência entre colchetes (por exemplo, [Maintain Consistency] continuidade do figurino, posse de objetos, danos acumulados, progressão da iluminação, relações de áudio) para manter identidades e elementos da história estáveis entre os estágios.\n\nIncorpore pistas de áudio diretamente no prompt usando parênteses/chaves/sinais de menor e maior (por exemplo, (Suspenseful low bass note), <Digital static glitch>, {Found you.}) para orientar o design de som e o ritmo."
+    },
+    "zh": {
+      "content": "使用图像参考并进行明确的角色到图像映射（例如，<格子衬衫男子和女友> = @IMG_0726），并将每个参考对象限制在特定属性上，如服装/外观/面部/手势，以保持身份控制。\n\n将长视频结构化为多个带时间标记的阶段，并明确时间范围（例如，[Stage 1] 0.0–2.5 … [Stage 12] 27.5–30.0）；同时在每个阶段中指定 初始状态 → 主要事件 → 结束状态，以强化清晰的进展。\n\n在每个后续阶段中加入“Continue from the previous stage”，以保持时间连续性并减少场景重置。\n\n添加带方括号的连贯性约束（例如，[Maintain Consistency] 服装连续性、道具归属、累积损伤、光照变化、音频关系），以保持各阶段中的身份和故事元素稳定。\n\n在 prompt 中直接使用括号/花括号/尖括号嵌入音频提示（例如，(Suspenseful low bass note)、<Digital static glitch>、{Found you.}），以引导声音设计和节奏。"
+    }
+  }
+}

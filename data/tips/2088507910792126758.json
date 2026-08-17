@@ -1,0 +1,42 @@
+{
+  "id": "2088507910792126758",
+  "title": "Provide Seedance 2.5 with two image grids (e.g., a 5×5 grid of objects and a…",
+  "content": "Provide Seedance 2.5 with two image grids (e.g., a 5×5 grid of objects and a separate sheet of people/clothing) as visual references, then prompt it to generate a 30‑second one‑take POV chase scene that pulls props/wardrobe directly from those grids without cuts or VFX.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088507406418685952/img/1YXM_7rXr0OLCj36.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088507910792126758.mp4",
+  "sourceLink": "https://x.com/sulfurscales/status/2088507910792126758",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "Sulfur",
+    "link": "https://x.com/sulfurscales"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "POV"
+  ],
+  "tips": "Provide Seedance 2.5 with two image grids (e.g., a 5×5 grid of objects and a separate sheet of people/clothing) as visual references, then prompt it to generate a 30‑second one‑take POV chase scene that pulls props/wardrobe directly from those grids without cuts or VFX.",
+  "translations": {
+    "es": {
+      "content": "Proporciona a Seedance 2.5 dos grids de imágenes (por ejemplo, un grid de 5×5 de objetos y una hoja aparte de personas/ropa) como referencias visuales, y luego pídele que genere una escena de persecución en POV de 30 segundos, en una sola toma, que tome props/vestuario directamente de esos grids, sin cortes ni VFX.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] prompt abajo: https://t.co/uQi8uJkpxx\n---"
+    },
+    "fr": {
+      "content": "Fournissez à Seedance 2.5 deux grilles d’images (par exemple, une grille 5×5 d’objets et une feuille séparée de personnes/vêtements) comme références visuelles, puis demandez-lui de générer une scène de poursuite en POV en un seul plan de 30 secondes, en reprenant directement les accessoires et les tenues de ces grilles, sans cuts ni VFX.\n\n--- SUITE DU THREAD ---\n[Thread 1] prompt ci-dessous : https://t.co/uQi8uJkpxx\n---"
+    },
+    "ja": {
+      "content": "Seedance 2.5 に、2つの image grid（たとえば、オブジェクトの 5×5 グリッドと、人物／衣装の別シート）を visual reference として与え、そのうえで、カットや VFX なしで、そこにある props／wardrobe を直接取り込みながら、30秒のワンテイク POV chase scene を生成するよう prompt する。\n\n--- THREAD CONTINUATION ---\n[Thread 1] prompt below: https://t.co/uQi8uJkpxx\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5에 두 개의 이미지 그리드(예: 물체로 구성된 5×5 그리드와 사람/의상용 별도 시트)를 시각적 레퍼런스로 제공한 다음, 컷이나 VFX 없이 그 그리드에서 소품/의상을 직접 가져와 30초짜리 원테이크 POV 추격 장면을 생성하도록 prompt하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] prompt below: https://t.co/uQi8uJkpxx\n---"
+    },
+    "pt": {
+      "content": "Forneça ao Seedance 2.5 duas grids de imagens (por exemplo, uma grid 5×5 de objetos e uma folha separada de pessoas/roupas) como referências visuais e, em seguida, peça para ele gerar uma cena de perseguição em POV de 30 segundos, em plano-sequência, que puxe props/figurino diretamente dessas grids, sem cortes nem VFX.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] prompt abaixo: https://t.co/uQi8uJkpxx\n---"
+    },
+    "zh": {
+      "content": "提供 Seedance 2.5 两张 image grid（例如：一张 5×5 的物体网格，以及一张单独的人物/服装参考表）作为视觉参考，然后提示它生成一个 30 秒的一镜到底 POV 追逐场景，直接从这些网格中提取道具/服装，不要剪切或 VFX。\n\n--- THREAD CONTINUATION ---\n[Thread 1] prompt below: https://t.co/uQi8uJkpxx\n---"
+    }
+  }
+}

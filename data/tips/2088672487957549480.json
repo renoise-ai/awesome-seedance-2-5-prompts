@@ -1,0 +1,42 @@
+{
+  "id": "2088672487957549480",
+  "title": "Block out your scene with simple gray boxes, type the desired motion in the…",
+  "content": "Block out your scene with simple gray boxes, type the desired motion in the prompt, place/drop cameras for the shots, then let Seedance 2.5 paint over the gray-box layout to generate the final video.\n\nUse the open-source CozyClay tool via npx cozyclay to run this gray-box + camera + Seedance workflow.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/media/HPxzeaXa8AA50kV.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088672487957549480.mp4",
+  "sourceLink": "https://x.com/Yun_HDY/status/2088672487957549480",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "Hardy",
+    "link": "https://x.com/Yun_HDY"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Block out your scene with simple gray boxes, type the desired motion in the prompt, place/drop cameras for the shots, then let Seedance 2.5 paint over the gray-box layout to generate the final video.\n\nUse the open-source CozyClay tool via npx cozyclay to run this gray-box + camera + Seedance workflow.",
+  "translations": {
+    "es": {
+      "content": "Bloquea tu escena con simples cajas grises, escribe el movimiento deseado en el prompt, coloca/deja caer cámaras para los planos y luego deja que Seedance 2.5 pinte sobre el layout de cajas grises para generar el video final.\n\nUsa la herramienta de código abierto CozyClay mediante `npx cozyclay` para ejecutar este flujo de trabajo de caja gris + cámara + Seedance.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] open source. `npx cozyclay` para ejecutarlo\n\nhttps://t.co/t3kvdf56VX\n---"
+    },
+    "fr": {
+      "content": "Commencez par bloquer votre scène avec de simples boîtes grises, saisissez le mouvement souhaité dans le prompt, placez/déposez des caméras pour les plans, puis laissez Seedance 2.5 peindre par-dessus la structure en boîtes grises pour générer la vidéo finale.\n\nUtilisez l’outil open source CozyClay via `npx cozyclay` pour exécuter ce workflow boîte grise + caméra + Seedance.\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Thread 1] open source. `npx cozyclay` pour l’exécuter\n\nhttps://t.co/t3kvdf56VX\n---"
+    },
+    "ja": {
+      "content": "シーンをシンプルなグレーのボックスでブロックアウトし、prompt に希望する動きを入力し、ショット用のカメラを配置／ドロップしてから、Seedance 2.5 にそのグレーボックスのレイアウトをペイントオーバーさせて最終動画を生成します。\n\nオープンソースの CozyClay ツールを npx cozyclay で実行して、この gray-box + camera + Seedance のワークフローを使えます。\n\n--- THREAD CONTINUATION ---\n[Thread 1] オープンソース。npx cozyclay で実行\n\nhttps://t.co/t3kvdf56VX\n---"
+    },
+    "ko": {
+      "content": "간단한 회색 박스로 장면을 블로킹한 뒤, prompt에 원하는 모션을 입력하고, 샷을 위한 카메라를 배치/드롭한 다음, Seedance 2.5가 이 회색 박스 레이아웃 위에 페인팅하여 최종 비디오를 생성하도록 하세요.\n\n오픈소스 CozyClay 도구를 `npx cozyclay`로 실행해 이 gray-box + camera + Seedance 워크플로를 사용하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 오픈소스입니다. `npx cozyclay`로 실행하세요\n\nhttps://t.co/t3kvdf56VX\n---"
+    },
+    "pt": {
+      "content": "Bloqueie sua cena com caixas cinzas simples, digite o movimento desejado no prompt, posicione/solte câmeras para as tomadas e, em seguida, deixe o Seedance 2.5 fazer o paint over do layout em caixas cinzas para gerar o vídeo final.\n\nUse a ferramenta open-source CozyClay via `npx cozyclay` para executar este fluxo de caixas cinzas + câmera + Seedance.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] open source. `npx cozyclay` para executá-lo\n\nhttps://t.co/t3kvdf56VX\n---"
+    },
+    "zh": {
+      "content": "先用简单的灰色方块搭建场景，在 prompt 中输入所需的运动，放置/拖放摄像机来设置镜头，然后让 Seedance 2.5 在灰盒布局上进行“上色”，生成最终视频。\n\n使用开源的 CozyClay 工具，通过 `npx cozyclay` 来运行这个灰盒 + 摄像机 + Seedance 工作流。\n\n--- 线程续接 ---\n[Thread 1] 开源。用 `npx cozyclay` 运行它\n\nhttps://t.co/t3kvdf56VX\n---"
+    }
+  }
+}

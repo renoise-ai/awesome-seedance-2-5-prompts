@@ -1,0 +1,43 @@
+{
+  "id": "2088312289405673506",
+  "title": "Generate a 3x3 cinematic storyboard sheet in GPT Image 2 before animating to…",
+  "content": "Generate a 3x3 cinematic storyboard sheet in GPT Image 2 before animating to plan a consistent multi-shot sequence.  \nDesign each storyboard frame like an animation pre-production sketch to improve storyboard-to-video consistency.  \nAdd explicit camera directions, motion cues, timing notes, and progression details (e.g., destruction progression) onto the storyboard frames to guide animation.  \nUse Seedance 2.5 to animate the storyboard into one continuous cinematic shot flow for better visual continuity across frames.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088312231427788800/img/Ka-xGN9Lfqzj5YXj.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088312289405673506.mp4",
+  "sourceLink": "https://x.com/beginnersblog1/status/2088312289405673506",
+  "sourcePublishedAt": "2026-08-14",
+  "author": {
+    "name": "Beginnersblog",
+    "link": "https://x.com/beginnersblog1"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Hand-drawn",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Generate a 3x3 cinematic storyboard sheet in GPT Image 2 before animating to plan a consistent multi-shot sequence.  \nDesign each storyboard frame like an animation pre-production sketch to improve storyboard-to-video consistency.  \nAdd explicit camera directions, motion cues, timing notes, and progression details (e.g., destruction progression) onto the storyboard frames to guide animation.  \nUse Seedance 2.5 to animate the storyboard into one continuous cinematic shot flow for better visual continuity across frames.",
+  "translations": {
+    "es": {
+      "content": "Genera una hoja de storyboard cinematográfico 3x3 en GPT Image 2 antes de animar, para planificar una secuencia coherente de múltiples tomas.  \nDiseña cada cuadro del storyboard como un boceto de preproducción de animación para mejorar la consistencia entre el storyboard y el video.  \nAñade direcciones explícitas de cámara, indicaciones de movimiento, notas de timing y detalles de progresión (por ejemplo, la progresión de la destrucción) sobre los cuadros del storyboard para guiar la animación.  \nUsa Seedance 2.5 para animar el storyboard en un flujo continuo de tomas cinematográficas y lograr una mejor continuidad visual entre los cuadros."
+    },
+    "fr": {
+      "content": "Générez une feuille de storyboard cinématographique 3x3 dans GPT Image 2 avant l’animation afin de planifier une séquence multi-plans cohérente.  \nConcevez chaque frame du storyboard comme un croquis de préproduction d’animation pour améliorer la cohérence entre le storyboard et la vidéo.  \nAjoutez sur les frames du storyboard des indications explicites de caméra, des repères de mouvement, des notes de timing et des détails de progression (par ex. progression de la destruction) pour guider l’animation.  \nUtilisez Seedance 2.5 pour animer le storyboard en un flux continu de plans cinématographiques afin d’obtenir une meilleure continuité visuelle d’une frame à l’autre."
+    },
+    "ja": {
+      "content": "アニメーション化する前に、GPT Image 2で3x3のcinematic storyboardシートを生成し、一貫したマルチショットシーケンスを計画します。  \n各storyboardフレームは、storyboardからvideoへの一貫性を高めるために、アニメーションのプリプロダクションスケッチのようにデザインします。  \nアニメーションの指示として、明確なcamera direction、motion cue、timing note、進行の詳細（例：破壊の進行）をstoryboardフレーム上に追加します。  \nSeedance 2.5を使ってstoryboardを1本の連続したcinematic shot flowへとアニメーション化し、フレーム間の視覚的な連続性を高めます。"
+    },
+    "ko": {
+      "content": "애니메이션 제작 전에 GPT Image 2에서 3x3 cinematic storyboard sheet를 생성해 일관된 멀티샷 시퀀스를 기획하세요.  \n각 storyboard frame을 애니메이션 프리프로덕션 스케치처럼 디자인해 storyboard-to-video 일관성을 높이세요.  \n애니메이션을 안내할 수 있도록 storyboard frame에 명시적인 카메라 지시, motion cue, 타이밍 노트, 진행 세부 사항(예: 파괴 진행 과정)을 추가하세요.  \nSeedance 2.5를 사용해 storyboard를 하나의 연속적인 cinematic shot flow로 애니메이션화하여 프레임 간 시각적 연속성을 높이세요."
+    },
+    "pt": {
+      "content": "Gere uma folha de storyboard cinematográfico 3x3 no GPT Image 2 antes de animar, para planejar uma sequência consistente de múltiplos planos.  \nDesenhe cada quadro do storyboard como um sketch de pré-produção de animação para melhorar a consistência entre storyboard e vídeo.  \nAdicione direções explícitas de câmera, indicações de movimento, notas de timing e detalhes de progressão (por exemplo, progressão da destruição) nos quadros do storyboard para orientar a animação.  \nUse o Seedance 2.5 para animar o storyboard em um fluxo contínuo de um único plano cinematográfico, garantindo melhor continuidade visual entre os quadros."
+    },
+    "zh": {
+      "content": "在使用 GPT Image 2 进行动画制作之前，先生成一张 3x3 的 cinematic storyboard 分镜表，以规划一个一致的多镜头序列。  \n将每个分镜画面设计得像动画前期制作草图，以提升 storyboard 到 video 的一致性。  \n在分镜画面上添加明确的 camera 方向、motion 提示、timing 备注以及 progression 细节（例如 destruction progression），以指导动画制作。  \n使用 Seedance 2.5 将分镜动画化，形成一个连续的 cinematic shot flow，以增强跨画面的视觉连贯性。"
+    }
+  }
+}

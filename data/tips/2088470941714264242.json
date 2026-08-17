@@ -1,0 +1,42 @@
+{
+  "id": "2088470941714264242",
+  "title": "Seedance 2.5の30秒生成対応を活かし、30秒×2本などで1分程度のVlogを作る",
+  "content": "Seedance 2.5の30秒生成対応を活かし、30秒×2本などで1分程度のVlogを作る  \nプロンプトを世界設定：SCENE／参照素材の役割：REFERENCE／撮影ルール：CAMERA OWNERSHIP LOCK／編集構成：FORMAT／ショット単位の演出：SHOTのセクションに分けて構成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088470653389463552/img/gWVW60_34acZZQAl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088470941714264242.mp4",
+  "sourceLink": "https://x.com/iX00AI/status/2088470941714264242",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "iX",
+    "link": "https://x.com/iX00AI"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Travel Vlog",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5の30秒生成対応を活かし、30秒×2本などで1分程度のVlogを作る  \nプロンプトを世界設定：SCENE／参照素材の役割：REFERENCE／撮影ルール：CAMERA OWNERSHIP LOCK／編集構成：FORMAT／ショット単位の演出：SHOTのセクションに分けて構成する",
+  "translations": {
+    "en": {
+      "content": "Make use of Seedance 2.5’s support for 30-second generation to create a roughly 1-minute vlog using two 30-second clips, etc.  \nStructure the prompt into sections: world setting as SCENE / the role of reference materials as REFERENCE / filming rules as CAMERA OWNERSHIP LOCK / editing structure as FORMAT / shot-by-shot direction as SHOT."
+    },
+    "es": {
+      "content": "Aprovechando la compatibilidad de Seedance 2.5 con generación de 30 segundos, crea un vlog de aproximadamente 1 minuto con dos clips de 30 segundos, etc.  \nEstructura el prompt dividiéndolo en las secciones: configuración del mundo: SCENE / función del material de referencia: REFERENCE / reglas de filmación: CAMERA OWNERSHIP LOCK / estructura de edición: FORMAT / dirección a nivel de plano: SHOT."
+    },
+    "fr": {
+      "content": "Exploitez la prise en charge de la génération de 30 secondes de Seedance 2.5 pour créer un vlog d’environ 1 minute, par exemple en deux segments de 30 secondes.  \nStructurez le prompt en le divisant en sections : worldbuilding : SCENE / rôle des éléments de référence : REFERENCE / règles de prise de vue : CAMERA OWNERSHIP LOCK / structure de montage : FORMAT / mise en scène au niveau des plans : SHOT."
+    },
+    "ko": {
+      "content": "Seedance 2.5의 30초 생성 지원을 활용해, 30초 × 2편 등으로 약 1분 분량의 Vlog를 만든다  \n프롬프트를 세계관 설정: SCENE / 참조 소재의 역할: REFERENCE / 촬영 규칙: CAMERA OWNERSHIP LOCK / 편집 구성: FORMAT / 샷 단위의 연출: SHOT 섹션으로 나누어 구성한다"
+    },
+    "pt": {
+      "content": "Aproveite o suporte de geração de 30 segundos do Seedance 2.5 para criar um vlog de cerca de 1 minuto, por exemplo, com dois vídeos de 30 segundos.  \nEstruture o prompt dividindo-o nas seções: configuração de mundo: SCENE / função do material de referência: REFERENCE / regras de filmagem: CAMERA OWNERSHIP LOCK / estrutura de edição: FORMAT / direção por tomada: SHOT."
+    },
+    "zh": {
+      "content": "利用 Seedance 2.5 支持 30 秒生成的能力，通过 30 秒 × 2 段等方式制作约 1 分钟的 Vlog  \n将 prompt 按世界观设定：SCENE／参考素材的作用：REFERENCE／拍摄规则：CAMERA OWNERSHIP LOCK／剪辑结构：FORMAT／镜头级演出：SHOT 分成这些部分来构成"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2088619795046687058",
+  "title": "Seedance 2.5ではプロンプトに演奏指示や曲の展開（セクション構成など）を具体的に書くと、その指示を素直に反映させやすい",
+  "content": "Seedance 2.5ではプロンプトに演奏指示や曲の展開（セクション構成など）を具体的に書くと、その指示を素直に反映させやすい",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088618681647730688/img/-jUm4IQz696q8YUb.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088619795046687058.mp4",
+  "sourceLink": "https://x.com/UNIBRACITY/status/2088619795046687058",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "SHINTARO",
+    "link": "https://x.com/UNIBRACITY"
+  },
+  "tags": [
+    "Music & Dance",
+    "Concert",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5ではプロンプトに演奏指示や曲の展開（セクション構成など）を具体的に書くと、その指示を素直に反映させやすい",
+  "translations": {
+    "en": {
+      "content": "In Seedance 2.5, if you include specific performance instructions or song structure details in the prompt (such as section composition), it is easier for the model to faithfully reflect those instructions."
+    },
+    "es": {
+      "content": "En Seedance 2.5, si escribes de forma concreta en el prompt instrucciones de interpretación y el desarrollo de la canción (como la estructura por secciones, etc.), es más fácil que esas indicaciones se reflejen fielmente."
+    },
+    "fr": {
+      "content": "Dans Seedance 2.5, si vous indiquez de manière précise dans le prompt des instructions de performance ou le déroulement du morceau (comme la structure des sections, etc.), il est plus facile de faire refléter fidèlement ces निर्देश."
+    },
+    "ko": {
+      "content": "Seedance 2.5에서는 prompt에 연주 지시나 곡의 전개(섹션 구성 등)를 구체적으로 적으면, 그 지시를 비교적 충실하게 반영하기 쉽다"
+    },
+    "pt": {
+      "content": "No Seedance 2.5, quando você escreve instruções de performance e o desenvolvimento da música no prompt (como a estrutura das seções, por exemplo) de forma específica, fica mais fácil fazer com que essas instruções sejam refletidas fielmente."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中，如果在 prompt 里具体写出演奏指示和曲目的展开方式（例如 section 结构等），就更容易让模型直接反映这些指示。"
+    }
+  }
+}

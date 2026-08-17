@@ -1,0 +1,42 @@
+{
+  "id": "2088588189208343000",
+  "title": "Avoid packing multiple object interactions into a single Seedance shot…",
+  "content": "Avoid packing multiple object interactions into a single Seedance shot; simplify actions per shot to prevent the generation from breaking.\n\nDo not use timestamp ranges like 0 to 4 seconds in Seedance prompts (it interprets them as time-lapse and speeds through); instead label beats as Shot 1, Shot 2 at natural speed.\n\nGenerate a single ~30s Seedance clip from reference images to keep story footage consistent across the sequence.\n\nFor complex sequences in Seedance, create a multi-panel storyboard image and feed it as a reference instead of relying on text-only prompting.\n\nWhen using a storyboard reference in Seedance, tag the storyboard image at the exact moment it should occur, specify it reads left-to-right, describe it once, then continue.\n\nKeep Seedance prompts strictly chronological: tag each reference image where it belongs in time, state each detail once, and never repeat details (repetition causes fixation and breaks the shot).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088582568916516864/img/7jb39Z-X-qh-tQdC.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088588189208343000.mp4",
+  "sourceLink": "https://x.com/mightyking/status/2088588189208343000",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "Stav Zilbershtein",
+    "link": "https://x.com/mightyking"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Avoid packing multiple object interactions into a single Seedance shot; simplify actions per shot to prevent the generation from breaking.\n\nDo not use timestamp ranges like 0 to 4 seconds in Seedance prompts (it interprets them as time-lapse and speeds through); instead label beats as Shot 1, Shot 2 at natural speed.\n\nGenerate a single ~30s Seedance clip from reference images to keep story footage consistent across the sequence.\n\nFor complex sequences in Seedance, create a multi-panel storyboard image and feed it as a reference instead of relying on text-only prompting.\n\nWhen using a storyboard reference in Seedance, tag the storyboard image at the exact moment it should occur, specify it reads left-to-right, describe it once, then continue.\n\nKeep Seedance prompts strictly chronological: tag each reference image where it belongs in time, state each detail once, and never repeat details (repetition causes fixation and breaks the shot).",
+  "translations": {
+    "es": {
+      "content": "Evita incluir múltiples interacciones entre objetos en una sola toma de Seedance; simplifica las acciones por toma para evitar que la generación se rompa.\n\nNo uses rangos de tiempo como de 0 a 4 segundos en los prompts de Seedance (los interpreta como time-lapse y acelera la secuencia); en su lugar, etiqueta los beats como Shot 1, Shot 2 a velocidad natural.\n\nGenera un único clip de Seedance de ~30 s a partir de imágenes de referencia para mantener la coherencia del metraje narrativo a lo largo de la secuencia.\n\nPara secuencias complejas en Seedance, crea una imagen de storyboard de varios paneles y úsala como referencia en lugar de depender solo de prompts de texto.\n\nCuando uses una referencia de storyboard en Seedance, etiqueta la imagen del storyboard en el momento exacto en que debe ocurrir, especifica que se lee de izquierda a derecha, descríbela una sola vez y luego continúa.\n\nMantén los prompts de Seedance estrictamente cronológicos: etiqueta cada imagen de referencia donde corresponda en el tiempo, indica cada detalle una sola vez y nunca repitas detalles (la repetición provoca fijación y rompe la toma)."
+    },
+    "fr": {
+      "content": "Évitez d’enchaîner plusieurs interactions entre objets dans une seule prise Seedance ; simplifiez les actions par plan pour éviter que la génération ne se casse.\n\nN’utilisez pas de plages de timestamps comme 0 à 4 secondes dans les prompts Seedance (le système les interprète comme un time-lapse et accélère la séquence) ; à la place, étiquetez les beats comme Shot 1, Shot 2 à vitesse naturelle.\n\nGénérez un seul clip Seedance d’environ 30 s à partir d’images de référence afin de conserver une continuité visuelle cohérente tout au long de la séquence.\n\nPour les séquences complexes dans Seedance, créez une image de storyboard multi-panneaux et fournissez-la comme référence plutôt que de vous appuyer uniquement sur un prompt textuel.\n\nLorsque vous utilisez une référence de storyboard dans Seedance, associez l’image du storyboard au moment exact où elle doit apparaître, précisez qu’elle se lit de gauche à droite, décrivez-la une seule fois, puis continuez.\n\nGardez les prompts Seedance strictement chronologiques : associez chaque image de référence à sa place dans le temps, indiquez chaque détail une seule fois, et ne répétez jamais les détails (la répétition provoque une fixation et casse la prise)."
+    },
+    "ja": {
+      "content": "複数のオブジェクトのやり取りを1つのSeedanceショットに詰め込みすぎないようにし、各ショットのアクションはシンプルにして、生成が破綻しないようにします。\n\nSeedanceのpromptでは、0〜4秒のようなタイムスタンプ範囲は使わないでください（time-lapseとして解釈され、急速に進んでしまいます）。代わりに、Shot 1、Shot 2のようにビートを自然な速度でラベル付けします。\n\n参照画像から約30秒のSeedanceクリップを1本生成し、シーケンス全体でストーリー映像の一貫性を保ちます。\n\nSeedanceで複雑なシーケンスを扱う場合は、マルチパネルのstoryboard画像を作成し、テキストのみのpromptに頼るのではなく、それをreferenceとして入力します。\n\nSeedanceでstoryboard referenceを使う場合は、storyboard画像が実際に登場すべき正確なタイミングでタグ付けし、左から右へ読むことを明記し、一度だけ説明して、その後は続けます。\n\nSeedanceのpromptは厳密に時系列順にしてください。各reference imageは該当する時間にタグ付けし、各詳細は一度だけ述べ、繰り返さないでください（繰り返しはfixationを引き起こし、ショットを破綻させます）。"
+    },
+    "ko": {
+      "content": "여러 객체의 상호작용을 하나의 Seedance 샷에 여러 개 넣지 마세요. 생성이 깨지는 것을 방지하려면 샷마다 동작을 단순화해야 합니다.\n\nSeedance 프롬프트에서 0초부터 4초까지 같은 타임스탬프 범위를 사용하지 마세요(이렇게 하면 타임랩스로 해석되어 빠르게 지나갑니다). 대신 Shot 1, Shot 2처럼 자연스러운 속도로 비트를 표시하세요.\n\n시퀀스 전반에서 스토리 영상의 일관성을 유지하려면, 레퍼런스 이미지로부터 약 30초 길이의 단일 Seedance 클립을 생성하세요.\n\nSeedance의 복잡한 시퀀스에서는 텍스트만으로 프롬프트를 작성하는 대신, 멀티패널 스토리보드 이미지를 만들어 레퍼런스로 입력하세요.\n\nSeedance에서 스토리보드 레퍼런스를 사용할 때는, 해당 장면이 정확히 나와야 하는 시점에 스토리보드 이미지를 태그하고, 좌에서 우로 읽는다는 점을 명시한 뒤, 한 번만 설명하고 계속 진행하세요.\n\nSeedance 프롬프트는 반드시 시간 순서대로 작성하세요. 각 레퍼런스 이미지는 해당되는 시간에 태그하고, 각 세부사항은 한 번만 언급하며, 절대 반복하지 마세요(반복은 고착을 유발하고 샷을 깨뜨립니다)."
+    },
+    "pt": {
+      "content": "Evite empacotar várias interações entre objetos em um único shot do Seedance; simplifique as ações por shot para evitar que a geração quebre.\n\nNão use intervalos de tempo como 0 a 4 segundos nos prompts do Seedance (ele os interpreta como time-lapse e acelera a passagem); em vez disso, rotule os beats como Shot 1, Shot 2 em velocidade natural.\n\nGere um único clipe de Seedance de ~30s a partir de imagens de referência para manter a consistência das imagens da história ao longo da sequência.\n\nPara sequências complexas no Seedance, crie uma imagem de storyboard em vários painéis e use-a como referência em vez de depender apenas de prompts em texto.\n\nAo usar uma referência de storyboard no Seedance, marque a imagem do storyboard no momento exato em que ela deve ocorrer, especifique que ela é lida da esquerda para a direita, descreva-a uma vez e então continue.\n\nMantenha os prompts do Seedance estritamente cronológicos: marque cada imagem de referência no ponto em que ela pertence no tempo, declare cada detalhe uma única vez e nunca repita detalhes (a repetição causa fixação e quebra o shot)."
+    },
+    "zh": {
+      "content": "避免在单个 Seedance 镜头中塞入多个物体交互；应简化每个镜头中的动作，以防生成中断。\n\n不要在 Seedance prompt 中使用 0 到 4 秒之类的时间戳范围（它会将其解释为延时摄影并快速跳过）；应改为按自然速度标注节拍，如 Shot 1、Shot 2。\n\n从参考图像生成一个约 30 秒的单一 Seedance 片段，以保持整个序列中的故事画面一致。\n\n对于 Seedance 中的复杂序列，创建一张多分镜 storyboard 图像并将其作为参考输入，而不是仅依赖纯文本 prompting。\n\n在 Seedance 中使用 storyboard 参考时，在它应出现的准确时刻标记该 storyboard 图像，注明其按从左到右阅读，描述一次即可，然后继续。\n\n保持 Seedance prompts 严格按时间顺序：在对应时间点标记每张参考图像，每个细节只说明一次，绝不要重复细节（重复会导致画面固化并破坏镜头）。"
+    }
+  }
+}

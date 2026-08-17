@@ -1,0 +1,42 @@
+{
+  "id": "2088459930017656961",
+  "title": "Write the full scene script before generating anything in Seedance to guide the…",
+  "content": "Write the full scene script before generating anything in Seedance to guide the dialogue and shot planning.\n\nUse a character sheet plus a short voice clip as inputs, then run them through Seedance 2.5 to generate a dialogue scene with that character.\n\nManually check and correct name pronunciations (e.g., mispronounced character names) after generation.\n\nSpend time enforcing continuity consistency between shots by reviewing and iterating on generated clips.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088459003168694272/img/KRWVxwTLl7tXJdCk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088459930017656961.mp4",
+  "sourceLink": "https://x.com/misslaidlaw/status/2088459930017656961",
+  "sourcePublishedAt": "2026-08-15",
+  "author": {
+    "name": "Afro Futcha ( Diane )",
+    "link": "https://x.com/misslaidlaw"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Write the full scene script before generating anything in Seedance to guide the dialogue and shot planning.\n\nUse a character sheet plus a short voice clip as inputs, then run them through Seedance 2.5 to generate a dialogue scene with that character.\n\nManually check and correct name pronunciations (e.g., mispronounced character names) after generation.\n\nSpend time enforcing continuity consistency between shots by reviewing and iterating on generated clips.",
+  "translations": {
+    "es": {
+      "content": "Escribe el guion completo de la escena antes de generar nada en Seedance para guiar el diálogo y la planificación de planos.\n\nUsa una ficha de personaje junto con un breve clip de voz como entradas, y luego procésalos en Seedance 2.5 para generar una escena de diálogo con ese personaje.\n\nRevisa y corrige manualmente la pronunciación de los nombres (por ejemplo, nombres de personajes mal pronunciados) después de la generación.\n\nDedica tiempo a reforzar la coherencia entre planos revisando e iterando sobre los clips generados."
+    },
+    "fr": {
+      "content": "Rédigez le script complet de la scène avant de générer quoi que ce soit dans Seedance afin de guider les dialogues et la planification des plans.\n\nUtilisez une fiche de personnage ainsi qu’un court extrait vocal comme entrées, puis faites-les passer dans Seedance 2.5 pour générer une scène de dialogue avec ce personnage.\n\nVérifiez et corrigez manuellement la prononciation des noms (par exemple, des noms de personnages mal prononcés) après la génération.\n\nConsacrez du temps à garantir la cohérence de continuité entre les plans en révisant et en itérant sur les clips générés."
+    },
+    "ja": {
+      "content": "Seedanceで何かを生成する前に、まずシーン全体の脚本を作成して、台詞とショット設計の指針にします。\n\nキャラクターシートと短い音声クリップを入力として使い、それらをSeedance 2.5に通して、そのキャラクターによる会話シーンを生成します。\n\n生成後は、名前の発音を手動で確認し、必要に応じて修正します（例：キャラクター名の誤読）。\n\n生成されたクリップを見直して反復しながら、ショット間の連続性と一貫性を丁寧に整える時間を確保します。"
+    },
+    "ko": {
+      "content": "Seedance에서 무엇이든 생성하기 전에 전체 장면 스크립트를 먼저 작성해 대사와 샷 구성을 안내하세요.\n\n캐릭터 시트와 짧은 음성 클립을 입력으로 사용한 뒤, 이를 Seedance 2.5에 넣어 해당 캐릭터가 등장하는 대화 장면을 생성하세요.\n\n생성 후에는 이름 발음이 잘못된 경우 등 이름 발음을 수동으로 확인하고 수정하세요.\n\n생성된 클립을 검토하고 반복 수정하면서 샷 간의 연속성 일관성을 유지하는 데 시간을 투자하세요."
+    },
+    "pt": {
+      "content": "Escreva o roteiro completo da cena antes de gerar qualquer coisa no Seedance, para orientar o diálogo e o planejamento dos planos.\n\nUse uma ficha de personagem e um breve clipe de voz como inputs, depois processe-os no Seedance 2.5 para gerar uma cena de diálogo com esse personagem.\n\nVerifique manualmente e corrija a pronúncia dos nomes (por exemplo, nomes de personagens pronunciados incorretamente) após a geração.\n\nDedique tempo para garantir a consistência de continuidade entre os planos, revisando e iterando sobre os clipes gerados."
+    },
+    "zh": {
+      "content": "在 Seedance 中生成任何内容之前，先写好完整的场景脚本，以指导对白和镜头规划。\n\n使用角色设定表和一段简短的语音片段作为输入，然后通过 Seedance 2.5 生成包含该角色的对白场景。\n\n生成后，手动检查并纠正姓名发音（例如角色名字发音错误）。\n\n通过审查并反复迭代生成的片段，花时间确保各个镜头之间的连续性一致。"
+    }
+  }
+}

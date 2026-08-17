@@ -1,0 +1,41 @@
+{
+  "id": "2088221760965484913",
+  "title": "Use a high-density anime game character trailer-style prompt with a detailed…",
+  "content": "Use a high-density anime game character trailer-style prompt with a detailed narrative arc (infiltration → theft → city lockdown/chase → tower breakthrough → giant digital magic portal → high-altitude escape) to drive coherent multi-scene action in Seedance 2.5  \nAdd a character reference token (@[character ref]) to keep the main character consistent across the generated video",
+  "language": "zh",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/aimikoda/status/2088221760965484913",
+  "sourcePublishedAt": "2026-08-14",
+  "author": {
+    "name": "Kōda",
+    "link": "https://x.com/aimikoda"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Anime 2D",
+    "Sci-Fi",
+    "Tutorial"
+  ],
+  "tips": "Use a high-density anime game character trailer-style prompt with a detailed narrative arc (infiltration → theft → city lockdown/chase → tower breakthrough → giant digital magic portal → high-altitude escape) to drive coherent multi-scene action in Seedance 2.5  \nAdd a character reference token (@[character ref]) to keep the main character consistent across the generated video",
+  "translations": {
+    "en": {
+      "content": "Use a high-density anime game character trailer-style prompt with a detailed narrative arc (infiltration → theft → city lockdown/chase → tower breakthrough → giant digital magic portal → high-altitude escape) to drive coherent multi-scene action in Seedance 2.5  \nAdd a character reference token (@[character ref]) to keep the main character consistent across the generated video"
+    },
+    "es": {
+      "content": "Usa un prompt de estilo tráiler de personaje de juego anime de alta densidad, con un arco narrativo detallado (infiltración → robo → bloqueo/persecución en la ciudad → irrupción en la torre → portal mágico digital gigante → escape a gran altitud) para impulsar una acción coherente de múltiples escenas en Seedance 2.5  \nAñade un token de referencia de personaje (@[character ref]) para mantener al personaje principal consistente en todo el video generado"
+    },
+    "fr": {
+      "content": "Utilisez un prompt de style trailer de personnage de jeu anime à haute densité, avec un arc narratif détaillé (infiltration → vol → verrouillage de la ville/poursuite → percée de la tour → portail magique numérique géant → fuite à haute altitude) pour piloter une action cohérente sur plusieurs scènes dans Seedance 2.5  \nAjoutez un token de référence de personnage (@[character ref]) pour conserver la cohérence du personnage principal tout au long de la vidéo générée"
+    },
+    "ja": {
+      "content": "---\nSeedance 2.5 で一貫性のあるマルチシーンのアクションを生成するために、詳細な物語の流れ（潜入 → 盗み → 都市封鎖／追跡 → タワー突破 → 巨大なデジタル魔法ポータル → 高高度での脱出）を備えた、高密度なアニメゲームのキャラクタートレーラー風プロンプトを使用する  \n生成される動画全体で主人公の一貫性を保つために、キャラクター参照トークン（@[character ref]）を追加する\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 일관된 멀티씬 액션을 구현하기 위해, 상세한 서사 구조(침투 → 절도 → 도시 봉쇄/추격 → 타워 돌파 → 거대한 디지털 마법 포털 → 고고도 탈출)를 갖춘 고밀도 애니메이션 게임 캐릭터 트레일러 스타일 프롬프트를 사용하세요.  \n생성된 영상 전반에서 주인공의 일관성을 유지하기 위해 캐릭터 레퍼런스 토큰(@[character ref])을 추가하세요."
+    },
+    "pt": {
+      "content": "Use um prompt em estilo de trailer de personagem de jogo anime, com alta densidade e um arco narrativo detalhado (infiltração → roubo → bloqueio/perseguição na cidade → avanço pela torre → portal mágico digital gigante → fuga em alta altitude) para conduzir uma ação coerente em múltiplas cenas no Seedance 2.5  \nAdicione um token de referência de personagem (@[character ref]) para manter o personagem principal consistente ao longo do vídeo gerado"
+    }
+  }
+}
