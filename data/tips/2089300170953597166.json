@@ -1,0 +1,42 @@
+{
+  "id": "2089300170953597166",
+  "title": "早口ラップなど口の動きが重要な動画は、プロンプトでリズムとリップ（口パク）をしっかり保つよう明示的に指示する",
+  "content": "早口ラップなど口の動きが重要な動画は、プロンプトでリズムとリップ（口パク）をしっかり保つよう明示的に指示する  \nRunwayのSeedanceで特定ワードがガイドラインに引っかかる場合は、音源（歌詞）側が原因の可能性があるので、サビなどを約3秒ずつに分割して短尺クリップとして生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/media/HP6vU-paQAAoTQm.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089300170953597166.mp4",
+  "sourceLink": "https://x.com/inoueshokudou/status/2089300170953597166",
+  "sourcePublishedAt": "2026-08-17",
+  "author": {
+    "name": "井上食堂｜映像ディレクター × AI",
+    "link": "https://x.com/inoueshokudou"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "早口ラップなど口の動きが重要な動画は、プロンプトでリズムとリップ（口パク）をしっかり保つよう明示的に指示する  \nRunwayのSeedanceで特定ワードがガイドラインに引っかかる場合は、音源（歌詞）側が原因の可能性があるので、サビなどを約3秒ずつに分割して短尺クリップとして生成する",
+  "translations": {
+    "en": {
+      "content": "For videos where mouth movement is important, such as fast rap, explicitly instruct the prompt to keep the rhythm and lip movement (lip-sync) firmly consistent.\n\nIf specific words in Runway’s Seedance trigger the guidelines, the issue may be on the audio source (lyrics) side, so generate the chorus and other sections as short clips of about 3 seconds each.\n\n--- THREAD CONTINUATION ---\n[Thread 1] The familiar rakugo piece “Jugemu”\n\nThis time, I tried creating a gentle expression with the theme of “parental love.”\n\nSince it’s a fast-paced performance, I instructed in the prompt to keep the rhythm and lip movement firmly consistent. https://t.co/j3Zd4EbEp4\n\n[Thread 2] The most troublesome part was\nwords like “paipo” and “ponpokopii”\ngetting caught by Runway’s Seedance guidelines. At first I didn’t understand what the problem was, but it seemed to be flagged by the audio source.\n\nOnce I split the chorus into sections of about 3 seconds each, it could be generated. For anyone who wants to generate borderline words, this may be helpful. https://t.co/rUvcXfw12g"
+    },
+    "es": {
+      "content": "Los videos en los que el movimiento de la boca es importante, como el rap rápido, deben indicar explícitamente en el prompt que se mantengan bien el ritmo y el lip sync (movimiento de labios).\n\nSi en Seedance de Runway una palabra concreta activa las directrices, es posible que la causa esté en el audio (la letra), así que conviene dividir el estribillo, etc., en fragmentos de unos 3 segundos y generarlos como clips cortos.\n\n--- CONTINUACIÓN DEL THREAD ---\n[Thread 1] Cuando se habla de rakugo, el clásico “Jugemu” es bien conocido.\n\nEsta vez intenté crear una expresión suave con el tema del “amor de los padres”.\n\nComo es una pieza de ritmo rápido, indiqué en el prompt que se mantuvieran bien el ritmo y el lip sync. https://t.co/j3Zd4EbEp4\n\n[Thread 2] Lo más problemático fue\nque palabras como\n“paipo” y “ponpokopii”\nactivaran las directrices de Seedance de Runway. Al principio no entendía cuál era el problema, pero parecía que el bloqueo venía del audio.\n\nAl dividir la parte del estribillo en fragmentos de unos 3 segundos, sí pude generarlo. Para quienes quieran generar palabras delicadas, espero que les sirva de referencia. https://t.co/rUvcXfw12g"
+    },
+    "fr": {
+      "content": "Pour les vidéos où le mouvement des lèvres est important, comme le rap rapide, il faut indiquer explicitement dans le prompt de bien maintenir le rythme et le lip sync (mouvement des lèvres).  \nSi certains mots déclenchent les filtres de guidelines dans Seedance de Runway, la cause peut venir de la piste audio (les paroles) ; dans ce cas, il vaut mieux découper le refrain, par exemple en segments d’environ 3 secondes, et générer des clips courts.\n\n--- CONTINUATION DU THREAD ---\n[Thread 1] Le célèbre « Jugemu », bien connu quand on parle de rakugo\n\nCette fois, j’ai essayé de créer une expression douce sur le thème de « l’amour des parents ».\n\nComme il s’agit d’un numéro très rapide, j’ai indiqué dans le prompt qu’il fallait bien conserver le rythme et le lip sync. https://t.co/j3Zd4EbEp4\n\n[Thread 2] Le plus délicat a été\nque des mots comme « Paipo » et « Ponkopopy » aient été bloqués par les guidelines de Seedance de Runway. Au début, je ne comprenais pas ce qui posait problème, mais il semble que ce soit l’audio qui ait été concerné.\n\nEn séparant la partie refrain en segments d’environ 3 secondes, j’ai pu générer la vidéo. Pour ceux qui veulent générer des mots un peu sensibles, cela peut servir de référence. https://t.co/rUvcXfw12g"
+    },
+    "ko": {
+      "content": "빠른 랩처럼 입 모양이 중요한 영상은 prompt에서 리듬과 립싱크(입 모양)를 확실히 유지하도록 명시적으로 지시한다.  \nRunway의 Seedance에서 특정 단어가 가이드라인에 걸릴 경우, 음원(가사) 쪽이 원인일 가능성이 있으므로 후렴구 등을 약 3초씩 나눠 짧은 클립으로 생성한다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 라쿠고 하면 떠오르는 익숙한 「주게무」\n\n이번에는 「부모의 사랑」이라는 테마로 부드러운 표정을 만들어 보았다.\n\n빠른 말투의 공연이라 리듬과 립싱크를 잘 유지하도록 prompt로 지시. https://t.co/j3Zd4EbEp4\n\n[Thread 2] 가장 까다로웠던 것은  \n「파이포」「폰포코피」 같은 말이  \nRunway의 Seedance 가이드라인에 걸린 부분이었다. 무엇이 문제인지 처음에는 몰랐지만, 음원에서 걸린 것 같았다.\n\n후렴 부분을 3초 정도씩 나눠서 만들었더니 생성할 수 있었다. 아슬아슬한 단어를 생성하고 싶은 분들은 참고하시길. https://t.co/rUvcXfw12g"
+    },
+    "pt": {
+      "content": "Vídeos em que o movimento da boca é importante, como rap em alta velocidade, devem receber instruções explícitas no prompt para manter bem o ritmo e o lip sync (sincronia labial).  \nSe uma palavra específica estiver sendo barrada pelas diretrizes no Seedance da Runway, a causa pode estar no áudio (letra da música); nesse caso, vale dividir o refrão, por exemplo, em trechos de cerca de 3 segundos e gerar como clipes curtos.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Quando se fala em rakugo, o clássico “Jugemu” é um dos mais conhecidos.\n\nDesta vez, tentei criar uma expressão suave com o tema “amor dos pais”.\n\nComo é uma apresentação em ritmo acelerado, instruí no prompt para manter bem o ritmo e o lip sync. https://t.co/j3Zd4EbEp4\n\n[Thread 2] O mais complicado foi\nquando palavras como “paipo” e “ponpokopii”\nforam barradas pelas diretrizes do Seedance da Runway. No começo, eu não entendia qual era o problema, mas parecia ser algo detectado no áudio.\n\nQuando dividi a parte do refrão em trechos de cerca de 3 segundos, consegui gerar. Para quem quer gerar palavras mais delicadas, fica a dica. https://t.co/rUvcXfw12g"
+    },
+    "zh": {
+      "content": "早口说唱等口型很重要的视频，需要在 prompt 中明确指示要牢牢保持节奏和 lip sync（口型同步）  \n如果在 Runway 的 Seedance 中，某些特定词汇触发了指南限制，原因可能出在音源（歌词）侧，因此可以把副歌等部分按约 3 秒一段拆分，作为短片段分别生成\n\n--- THREAD CONTINUATION ---\n[Thread 1] 说到落语，大家都熟悉的「寿限无」\n\n这次以“父母的爱”为主题，尝试做出了温柔的表情。\n\n因为是偏快节奏的表演，所以在 prompt 里指示要牢牢保持节奏和 lip sync。 https://t.co/j3Zd4EbEp4\n\n[Thread 2] 最棘手的是\n像「パイポ」「ポンポコピー」这样的词\n触发了 Runway 的 Seedance 指南限制。起初完全不知道问题出在哪儿，但感觉是音源这边被拦下了。\n\n把副歌部分按大约 3 秒一段拆开后就能生成了。想生成一些比较敏感词汇的人可以参考一下。 https://t.co/rUvcXfw12g"
+    }
+  }
+}

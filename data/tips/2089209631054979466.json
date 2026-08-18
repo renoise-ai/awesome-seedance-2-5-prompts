@@ -1,0 +1,42 @@
+{
+  "id": "2089209631054979466",
+  "title": "SeeDance2.5でカメラが動かない場合は、プロンプトの「時間指定」を外して再生成すると動きが出ることがある",
+  "content": "SeeDance2.5でカメラが動かない場合は、プロンプトの「時間指定」を外して再生成すると動きが出ることがある  \nプロンプトの内容密度が高すぎると動きが抑制されることがあるため、密度（情報量）を下げて調整する  \n日本語プロンプトは表現の誤りがそのまま反映されやすいので、意図しない解釈（例：刃だけが吹き飛ぶ）を避けるために言い回しを厳密に見直す  \n同じ条件で結果を比較するために、1回は「密度＋書き方」を調整し、別回は「密度のみ」を変えて差分検証する  \nリファレンスはキャラクターシート1枚だけでも生成できるので、まずは単一のキャラシートのみで試す",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089209564067745792/img/pJBN1RKLpwspgcE9.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089209631054979466.mp4",
+  "sourceLink": "https://x.com/takowa3bi/status/2089209631054979466",
+  "sourcePublishedAt": "2026-08-17",
+  "author": {
+    "name": "ã‚€ã�Žã�¾ã‚‹@AIã‚¤ãƒ©ã‚¹ãƒˆ",
+    "link": "https://x.com/takowa3bi"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "SeeDance2.5でカメラが動かない場合は、プロンプトの「時間指定」を外して再生成すると動きが出ることがある  \nプロンプトの内容密度が高すぎると動きが抑制されることがあるため、密度（情報量）を下げて調整する  \n日本語プロンプトは表現の誤りがそのまま反映されやすいので、意図しない解釈（例：刃だけが吹き飛ぶ）を避けるために言い回しを厳密に見直す  \n同じ条件で結果を比較するために、1回は「密度＋書き方」を調整し、別回は「密度のみ」を変えて差分検証する  \nリファレンスはキャラクターシート1枚だけでも生成できるので、まずは単一のキャラシートのみで試す",
+  "translations": {
+    "en": {
+      "content": "If the camera doesn’t move in SeeDance2.5, removing the “time specification” from the prompt and regenerating can sometimes bring the motion back.  \nIf the prompt is too dense with content, movement may be suppressed, so try lowering the density (amount of information) to adjust it.  \nJapanese prompts tend to reflect wording mistakes as-is, so carefully revise the phrasing to avoid unintended interpretations (e.g., only the blade flying off).  \nTo compare results under the same conditions, adjust both “density + wording” in one run, and change only “density” in another run to verify the differences.  \nSince it can be generated with just one character sheet as the reference, start by testing with a single character sheet only.\n\n--- QUOTED TWEET ---\nViva’s video looked so cool, so I borrowed the prompt ✨  \nI tried it twice, and since the camera didn’t change like in Viva’s version, I thought the content might be too dense. On the third try, I removed only the time specification, and it seemed to move.  \n(The first and second tries are in the replies.)\n\nSeeDance2.5 (via TapNow) / 480p / 15 sec  \nReference: only one character sheet  \nPrompt: posted in Viva’s original comment\n\nCharacter: “World Domination Can Wait Until Tomorrow!” MV  \nhttps://t.co/HftOOjZGPU  \n@TapNow_AI #TapNow #ai動画"
+    },
+    "es": {
+      "content": "Si en SeeDance2.5 la cámara no se mueve, a veces basta con quitar la “indicación de tiempo” del prompt y volver a generar para que aparezca movimiento.  \nSi la densidad del contenido del prompt es demasiado alta, el movimiento puede verse restringido; por eso conviene ajustar reduciendo la densidad (cantidad de información).  \nComo los prompts en japonés tienden a reflejar tal cual los errores de expresión, conviene revisar con rigor la redacción para evitar interpretaciones no deseadas (por ejemplo, que solo salga despedida la hoja de la espada).  \nPara comparar resultados en las mismas condiciones, en una prueba ajusta la “densidad + redacción”, y en otra cambia solo la “densidad” para verificar las diferencias.  \nComo también se puede generar con solo una hoja de character sheet como referencia, primero prueba únicamente con un character sheet individual.\n\n--- TWEET CITADO ---\nComo el video de viva-san está genial, pedí prestado el prompt ✨  \nLo probé dos veces y, como la cámara no cambiaba como en el de viva-san, pensé que quizá el contenido tenía demasiada densidad; así que en el tercer intento solo quité la indicación de tiempo y parece que sí se movió.  \n(Los intentos 1 y 2 están en la respuesta)\n\nSeeDance2.5 (vía TapNow) / 480p / 15 sec  \nReferencia: solo un character sheet  \nPrompt: publicado en el comentario original de viva-san\n\nPersonaje: ¡La conquista del mundo la dejamos para mañana! MV  \nhttps://t.co/HftOOjZGPU  \n@TapNow_AI #TapNow #ai動画"
+    },
+    "fr": {
+      "content": "Si la caméra ne bouge pas dans SeeDance2.5, il peut parfois suffire de retirer la « contrainte temporelle » du prompt et de relancer la génération pour obtenir du mouvement.  \nSi la densité du contenu du prompt est trop élevée, le mouvement peut être freiné ; il faut donc ajuster en réduisant la densité (quantité d’informations).  \nLes prompts en japonais reflètent souvent directement les erreurs de formulation ; pour éviter des interprétations involontaires (par exemple, seule la lame qui est projetée), il faut revoir rigoureusement le choix des mots.  \nPour comparer les résultats dans des conditions identiques, ajustez une fois la « densité + la formulation », puis, lors d’une autre tentative, ne modifiez que la « densité » afin de vérifier les différences.  \nComme il est possible de générer à partir d’une seule feuille de character sheet comme référence, commencez par tester uniquement avec un seul character sheet.\n\n--- QUOTED TWEET ---\nLa vidéo de viva-san est tellement cool que j’ai emprunté le prompt ✨  \nAprès deux essais, la caméra ne changeait pas comme chez viva-san, donc j’ai pensé que le contenu était peut-être trop dense ; au troisième essai, j’ai retiré uniquement la contrainte temporelle, et il semble que cela ait fonctionné.  \n(Le premier et le deuxième essai sont en réponse)\n\nSeeDance2.5 (via TapNow) / 480p / 15 sec  \nRéférence : un seul character sheet  \nPrompt : publié dans le commentaire original de viva-san\n\nPersonnage : 世界征服は明日にする！MV  \nhttps://t.co/HftOOjZGPU  \n@TapNow_AI #TapNow #ai動画  \n---"
+    },
+    "ko": {
+      "content": "SeeDance2.5에서 카메라가 움직이지 않을 경우, 프롬프트의 “시간 지정”을 빼고 다시 생성하면 움직임이 생기는 경우가 있다  \n프롬프트 내용의 밀도가 너무 높으면 움직임이 억제될 수 있으므로, 밀도(정보량)를 낮춰 조정한다  \n일본어 프롬프트는 표현상의 오류가 그대로 반영되기 쉬우므로, 의도하지 않은 해석(예: 칼날만 날아감)을 피하기 위해 표현을 엄밀하게 다시 점검한다  \n같은 조건에서 결과를 비교하기 위해, 한 번은 “밀도 + 문장 표현”을 조정하고, 다른 번은 “밀도만” 바꿔 차이를 검증한다  \n레퍼런스는 캐릭터 시트 1장만으로도 생성할 수 있으므로, 우선은 단일 캐릭터 시트만으로 시도해 본다\n\n--- QUOTED TWEET ---\nviva님의 영상이 멋져서, 프롬프트를 빌려왔습니다✨\n2번 시도해도 viva님처럼 카메라가 바뀌지 않아서 내용의 밀도가 높은 건가 싶었고, 3번째에는 시간 지정만 빼보았더니 움직여 준 것 같습니다.\n(1번째와 2번째는 리플로)\n\nSeeDance2.5 (TapNow 경유) / 480p / 15 sec\n레퍼런스: 캐릭터 시트 1장만\n프롬프트: viva님의 원문 코멘트에 게재\n\n캐릭터: 세계 정복은 내일로 미룬다! MV\nhttps://t.co/HftOOjZGPU\n@TapNow_AI #TapNow #ai動画\n---"
+    },
+    "pt": {
+      "content": "Se a câmera não se mover no SeeDance2.5, às vezes basta remover a “indicação de tempo” do prompt e gerar novamente para que o movimento apareça.  \nSe a densidade do conteúdo do prompt estiver alta demais, o movimento pode ser suprimido; por isso, ajuste reduzindo a densidade (quantidade de informação).  \nComo prompts em japonês tendem a refletir diretamente erros de expressão, revise a formulação com cuidado para evitar interpretações indesejadas (ex.: apenas a lâmina ser arremessada).  \nPara comparar resultados sob as mesmas condições, em uma tentativa ajuste “densidade + redação” e, em outra, altere apenas a “densidade” para verificar as diferenças.  \nComo a referência pode ser gerada com apenas uma folha de character sheet, comece testando somente um character sheet individual.\n\n--- QUOTED TWEET ---\nO vídeo da viva-san ficou incrível, então peguei o prompt emprestado✨  \nTentei duas vezes e, como a câmera não mudava como no vídeo da viva-san, pensei que talvez a densidade do conteúdo estivesse alta demais; na terceira tentativa, removi apenas a indicação de tempo e parece que funcionou.  \n(as tentativas 1 e 2 estão na resposta)\n\nSeeDance2.5 (via TapNow) / 480p / 15 sec  \nReferência: apenas 1 character sheet  \nPrompt: publicado no comentário original da viva-san\n\nPersonagem: 世界征服は明日にする！MV  \nhttps://t.co/HftOOjZGPU  \n@TapNow_AI #TapNow #aivídeo  \n---"
+    },
+    "zh": {
+      "content": "如果在 SeeDance2.5 中摄像机不动，可以去掉 prompt 里的“时间指定”后重新生成，有时就会出现运动效果。  \n如果 prompt 的内容密度过高，运动可能会被抑制，因此可以通过降低密度（信息量）来调整。  \n日语 prompt 很容易把表达上的错误原样反映出来，所以为了避免出现非预期的解读（例如：只有刀刃被吹飞），需要严格检查措辞。  \n为了在相同条件下比较结果，建议一轮调整“密度＋写法”，另一轮只改变“密度”来验证差异。  \nReference 只用一张 character sheet 也能生成，所以可以先只用单一角色设定图进行尝试。\n\n--- QUOTED TWEET ---\n因为 viva 的视频很酷，所以借用了 prompt✨  \n试了两次，摄像机都没有像 viva 那样变化，我猜可能是内容密度太高了，于是在第三次时只去掉了时间指定，结果似乎就动起来了。  \n（第一次和第二次见回复）\n\nSeeDance2.5 (via TapNow) / 480p / 15 sec  \nReference：仅 1 张 character sheet  \nPrompt：见 viva 原帖评论\n\n角色：世界征服は明日にする！MV  \nhttps://t.co/HftOOjZGPU  \n@TapNow_AI #TapNow #ai视频"
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "content": "codexにプロンプトと絵コンテ（ストーリーボード）を作らせてから、CapCutのSeedance 2.5に持ち込んで映像生成する  \nSeedance 2.5に音楽ファイルを読み込ませて、動き（モーション）を音楽にリンク（同期）させる  \n30秒の長回し（ワンカット）設定でまとめて生成して作業を効率化する",
   "language": "ja",
   "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2088819984118214657/img/knqw6CH7LjEg5iCN.jpg",
-  "videoUrl": "https://video.twimg.com/amplify_video/2088819984118214657/vid/avc1/3840x2160/lwhP5U7-es5Aq4BJ.mp4",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2088830610114846793.mp4",
   "sourceLink": "https://x.com/Chupico_nora/status/2088830610114846793",
   "sourcePublishedAt": "2026-08-16",
   "author": {

@@ -1,0 +1,42 @@
+{
+  "id": "2089545547967549920",
+  "title": "NEWT篠塚さんのSeeDance2.5用プロンプトを参考にして、自社サービスのURLをClaudeに貼り30秒動画用の台本を作ってと指示して台本（プロンプト）…",
+  "content": "NEWT篠塚さんのSeeDance2.5用プロンプトを参考にして、自社サービスのURLをClaudeに貼り30秒動画用の台本を作ってと指示して台本（プロンプト）を生成する  \nClaudeが出した台本（プロンプト）をそのままRunwayに入れて動画を生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089544152543547392/img/Pb4ewtbOesEDangg.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089545547967549920.mp4",
+  "sourceLink": "https://x.com/ishitaku39/status/2089545547967549920",
+  "sourcePublishedAt": "2026-08-18",
+  "author": {
+    "name": "Ishikawa Takuya",
+    "link": "https://x.com/ishitaku39"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "NEWT篠塚さんのSeeDance2.5用プロンプトを参考にして、自社サービスのURLをClaudeに貼り30秒動画用の台本を作ってと指示して台本（プロンプト）を生成する  \nClaudeが出した台本（プロンプト）をそのままRunwayに入れて動画を生成する",
+  "translations": {
+    "en": {
+      "content": "Referencing Mr. Shinozuka’s SeeDance 2.5 prompt from NEWT, I pasted our company service URL into Claude and instructed it to create a script for a 30-second video, generating the script (prompt).\n\nI then took the script (prompt) output by Claude and fed it directly into Runway to generate the video.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Referring to this prompt from NEWT’s Mr. Shinozuka, I pasted our company service URL into Claude and instructed it to “create a script for a 30-second video.”\n\nCreated it in Runway based on the resulting prompt.\nThe actual hands-on time was about 3 minutes.\nWhat an amazing era!\nhttps://t.co/H2S0r564Hs"
+    },
+    "es": {
+      "content": "Tomando como referencia el prompt de SeeDance2.5 de la persona de NEWT, Shinozuka, pega la URL de tu propio servicio en Claude y dale la instrucción de que cree un guion para un video de 30 segundos; así se genera el guion (prompt).\n\nIntroduce en Runway, tal cual, el guion (prompt) que devolvió Claude para generar el video.\n\n--- CONTINUACIÓN DEL THREAD ---\n[Thread 1] Tomando como referencia este prompt de Shinozuka, de NEWT, pega la URL de tu propio servicio en Claude y dale la instrucción: “Crea un guion para la producción de un video de 30 segundos”.\n\nCon el prompt resultante, se crea en Runway.\nSi contamos el tiempo real de trabajo manual, fueron unos 3 minutos.\n¡Qué época tan increíble!\nhttps://t.co/H2S0r564Hs\n---"
+    },
+    "fr": {
+      "content": "En s’inspirant du prompt de M. Shinozuka de NEWT pour SeeDance 2.5, coller l’URL de son propre service dans Claude et lui demander de créer un script pour une vidéo de 30 secondes afin de générer le script (prompt).  \nPrendre tel quel le script (prompt) fourni par Claude et le saisir dans Runway pour générer la vidéo.\n\n--- CONTINUATION DU THREAD ---\n[Thread 1] En s’inspirant de ce prompt de M. Shinozuka de NEWT, coller l’URL de son propre service dans Claude et lui demander : « Crée un script pour une vidéo de 30 secondes ».\n\nCréer ensuite avec Runway à partir du prompt obtenu.  \nEn temps de manipulation réelle, cela prend environ 3 minutes.  \nQuelle époque incroyable !\nhttps://t.co/H2S0r564Hs\n---"
+    },
+    "ko": {
+      "content": "NEWT의 시노즈카 씨의 SeeDance2.5용 프롬프트를 참고해, 자사 서비스 URL을 Claude에 붙여 넣고 30초 영상용 대본을 만들어 달라고 지시해 대본(프롬프트)을 생성한다.  \nClaude가 출력한 대본(프롬프트)을 그대로 Runway에 넣어 영상을 생성한다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] NEWT의 시노즈카 씨의 이 프롬프트를 참고해, Claude에 자사 서비스 URL을 붙여 넣고 “30초 영상 제작용 대본을 만들어 달라”고 지시.\n\n나온 프롬프트를 바탕으로 Runway에서 제작.  \n실제로 손을 움직인 시간으로 치면 3분 정도.  \n정말 대단한 시대!  \nhttps://t.co/H2S0r564Hs\n---"
+    },
+    "pt": {
+      "content": "Com base no prompt do Sr. Shinozuka, da NEWT, para o SeeDance 2.5, cole a URL do seu próprio serviço no Claude e peça para ele criar um roteiro para um vídeo de 30 segundos, gerando assim o roteiro (prompt).\n\nPegue o roteiro (prompt) gerado pelo Claude e insira-o diretamente no Runway para criar o vídeo.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Com base neste prompt do Sr. Shinozuka, da NEWT, no Claude, cole a URL do seu próprio serviço e instrua: “Crie um roteiro para a produção de um vídeo de 30 segundos”.\n\nCrie no Runway com base no prompt que aparecer.\nO tempo real de execução, colocando a mão na massa, foi de cerca de 3 minutos.\nQue época incrível!\nhttps://t.co/H2S0r564Hs\n---"
+    },
+    "zh": {
+      "content": "参考 NEWT 篠塚先生为 SeeDance2.5 制作的 prompt，把自家服务的 URL 粘贴到 Claude 里，并指示它“生成一个用于 30 秒视频的脚本”，从而生成脚本（prompt）。  \n将 Claude 输出的脚本（prompt）原样输入 Runway，即可生成视频。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 参考 NEWT 的篠塚先生的这个 prompt，在 Claude 里贴上自家服务的 URL，并指示“请制作一个用于 30 秒视频的脚本”。\n\n根据生成的 prompt 在 Runway 中制作。  \n如果按实际动手操作的时间来算，大概只用了 3 分钟。  \n真是个了不起的时代！  \nhttps://t.co/H2S0r564Hs\n---"
+    }
+  }
+}

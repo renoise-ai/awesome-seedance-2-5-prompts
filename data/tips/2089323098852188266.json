@@ -1,0 +1,42 @@
+{
+  "id": "2089323098852188266",
+  "title": "絵コンテ（ストーリーボード）ベースのプロンプト／入力で動画を作成して、リファレンス画像＋ロケーション指定を使った生成結果と比較し、どちらが狙いの演出に近いか検証…",
+  "content": "絵コンテ（ストーリーボード）ベースのプロンプト／入力で動画を作成して、リファレンス画像＋ロケーション指定を使った生成結果と比較し、どちらが狙いの演出に近いか検証する  \nロケーション指定とリファレンス画像（Higgsfieldが使っている参照画像）を併用して生成し、背景・雰囲気・画作りの一致度を上げる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089321838119911424/img/XuLpXBi6qur5eu7l.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089323098852188266.mp4",
+  "sourceLink": "https://x.com/jaizard1/status/2089323098852188266",
+  "sourcePublishedAt": "2026-08-17",
+  "author": {
+    "name": "jaizard",
+    "link": "https://x.com/jaizard1"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "絵コンテ（ストーリーボード）ベースのプロンプト／入力で動画を作成して、リファレンス画像＋ロケーション指定を使った生成結果と比較し、どちらが狙いの演出に近いか検証する  \nロケーション指定とリファレンス画像（Higgsfieldが使っている参照画像）を併用して生成し、背景・雰囲気・画作りの一致度を上げる",
+  "translations": {
+    "en": {
+      "content": "Create a video using storyboard-based prompts/inputs, then compare the results with generation using a reference image plus location specification to verify which is closer to the intended direction.  \nUse location specification together with a reference image (the reference image used by Higgsfield) for generation to improve consistency in background, atmosphere, and overall visual composition."
+    },
+    "es": {
+      "content": "Crear un video a partir de un prompt/entrada basado en un storyboard (guion gráfico) y comparar el resultado con una generación que use una imagen de referencia + una ubicación especificada, para verificar cuál se acerca más a la puesta en escena deseada.  \nGenerar combinando la especificación de ubicación y una imagen de referencia (la imagen de referencia que usa Higgsfield) para aumentar la coincidencia en el fondo, la atmósfera y la composición visual."
+    },
+    "fr": {
+      "content": "Créer une vidéo à partir d’un prompt / d’une entrée basée sur un storyboard, puis comparer le résultat avec une génération utilisant une image de référence + une indication de lieu, afin de vérifier laquelle se rapproche le plus de la mise en scène visée.  \nCombiner une indication de lieu et une image de référence (image de référence utilisée par Higgsfield) pour la génération, afin d’améliorer le degré de correspondance du décor, de l’atmosphère et de la composition de l’image."
+    },
+    "ko": {
+      "content": "스토리보드(絵コンテ) 기반의 prompt/input으로 영상을 제작하고, reference image + location 지정으로 생성한 결과와 비교해 어느 쪽이 의도한 연출에 더 가까운지 검증한다  \nlocation 지정과 reference image(Higgsfield가 사용하는 참조 이미지)를 병행해 생성하여, 배경·분위기·화면 구성의 일치도를 높인다"
+    },
+    "pt": {
+      "content": "Criar vídeos com base em prompts/inputs de storyboard (絵コンテ) e comparar os resultados com aqueles gerados usando imagem de referência + especificação de locação, para verificar qual se aproxima mais da direção desejada.  \nGerar em conjunto com a especificação de locação e a imagem de referência (imagem de referência usada pelo Higgsfield), aumentando o grau de correspondência em relação ao fundo, à atmosfera e à composição visual."
+    },
+    "zh": {
+      "content": "基于分镜脚本（storyboard）的 prompt/输入来制作视频，并与使用参考图像 + 场景位置指定生成的结果进行比较，验证哪一种更接近预期的演出效果  \n结合场景位置指定和参考图像（Higgsfield 使用的参考图）进行生成，提高背景、氛围和画面构图的一致性"
+    }
+  }
+}

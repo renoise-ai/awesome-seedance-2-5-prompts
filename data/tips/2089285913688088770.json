@@ -1,0 +1,42 @@
+{
+  "id": "2089285913688088770",
+  "title": "定点（固定カメラ）構図で演奏・ダンスなど被写体が大きく動くシーンを選ぶと、低コストでも「動きのある動画」を出しやすい",
+  "content": "定点（固定カメラ）構図で演奏・ダンスなど被写体が大きく動くシーンを選ぶと、低コストでも「動きのある動画」を出しやすい  \nエクストリームな動きの生成性能を見たいときは、被写体が激しく動くシーン（演奏・踊りなど）をベンチマークとして生成して比較する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089285842842120192/img/sVVOe8SSxEwQofcR.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089285913688088770.mp4",
+  "sourceLink": "https://x.com/ratramuumu/status/2089285913688088770",
+  "sourcePublishedAt": "2026-08-17",
+  "author": {
+    "name": "ã‚€ã�«ã‚€ã�«",
+    "link": "https://x.com/ratramuumu"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "定点（固定カメラ）構図で演奏・ダンスなど被写体が大きく動くシーンを選ぶと、低コストでも「動きのある動画」を出しやすい  \nエクストリームな動きの生成性能を見たいときは、被写体が激しく動くシーン（演奏・踊りなど）をベンチマークとして生成して比較する",
+  "translations": {
+    "en": {
+      "content": "Choosing scenes where the subject moves a lot, such as performances or dancing, in a fixed-shot (static camera) composition makes it easier to produce “videos with motion” even at low cost.\n\nIf you want to evaluate the model’s ability to generate extreme motion, use scenes where the subject moves vigorously (such as playing music or dancing) as a benchmark and compare the results."
+    },
+    "es": {
+      "content": "Si eliges escenas en las que el sujeto se mueve mucho, como actuaciones o bailes, con una composición de punto fijo (cámara fija), es más fácil obtener un “video con movimiento” incluso con bajo costo.  \nSi quieres evaluar el rendimiento de generación de movimientos extremos, genera y compara escenas en las que el sujeto se mueve de forma intensa (actuaciones, baile, etc.) como benchmark."
+    },
+    "fr": {
+      "content": "En choisissant des scènes où le sujet bouge beaucoup, comme une performance ou une danse, dans une composition en plan fixe (caméra fixe), il est plus facile d’obtenir une « vidéo dynamique » même avec un faible coût.  \nLorsque vous voulez évaluer les performances de génération de mouvements extrêmes, générez et comparez des scènes où le sujet bouge de manière intense (performance, danse, etc.) comme benchmark."
+    },
+    "ko": {
+      "content": "고정 시점(고정 카메라) 구도로 연주·댄스처럼 피사체가 크게 움직이는 장면을 선택하면, 저비용으로도 “움직임이 있는 영상”을 만들기 쉽다  \n극단적인 움직임 생성 성능을 확인하고 싶을 때는, 피사체가 격렬하게 움직이는 장면(연주·춤 등)을 벤치마크로 생성해 비교한다"
+    },
+    "pt": {
+      "content": "Ao escolher cenas em que o sujeito se movimenta bastante, como apresentações musicais ou dança, em uma composição fixa (câmera estática), fica mais fácil gerar um “vídeo com movimento” mesmo com baixo custo.  \nQuando quiser avaliar o desempenho de geração de movimentos extremos, gere e compare cenas em que o sujeito se move intensamente (como tocar um instrumento ou dançar) como benchmark."
+    },
+    "zh": {
+      "content": "在定点（固定镜头）构图下，选择演奏、舞蹈等主体大幅动作的场景，即使在低成本下也更容易生成出“有动态感的视频”  \n如果想查看极限动作的生成性能，可以以主体剧烈运动的场景（演奏、跳舞等）作为基准进行生成并比较"
+    }
+  }
+}

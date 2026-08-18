@@ -1,0 +1,45 @@
+{
+  "id": "2089318565849518117",
+  "title": "Use GPT Image 2 to generate the character and environment images, then use…",
+  "content": "Use GPT Image 2 to generate the character and environment images, then use Seedance 2.5 to create the motion, fight choreography, and scene flow for a cinematic, realistic battle sequence.",
+  "language": "tr",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089318408210759680/img/8gkOb81raImYRsLV.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089318565849518117.mp4",
+  "sourceLink": "https://x.com/0kncn/status/2089318565849518117",
+  "sourcePublishedAt": "2026-08-17",
+  "author": {
+    "name": "Okan Can",
+    "link": "https://x.com/0kncn"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use GPT Image 2 to generate the character and environment images, then use Seedance 2.5 to create the motion, fight choreography, and scene flow for a cinematic, realistic battle sequence.",
+  "translations": {
+    "en": {
+      "content": "Use GPT Image 2 to generate the character and environment images, then use Seedance 2.5 to create the motion, fight choreography, and scene flow for a cinematic, realistic battle sequence."
+    },
+    "es": {
+      "content": "Usa GPT Image 2 para generar las imágenes del personaje y del entorno, y luego usa Seedance 2.5 para crear el movimiento, la coreografía de combate y el flujo de la escena para una secuencia de batalla cinematográfica y realista."
+    },
+    "fr": {
+      "content": "Utilisez GPT Image 2 pour générer les images du personnage et de l’environnement, puis utilisez Seedance 2.5 pour créer le mouvement, la chorégraphie de combat et le déroulé de la scène pour une séquence de bataille cinématographique et réaliste."
+    },
+    "ja": {
+      "content": "GPT Image 2 を使ってキャラクターと環境の画像を生成し、その後 Seedance 2.5 を使って、cinematic でリアルなバトルシーケンスの motion、fight choreography、scene flow を作成します。"
+    },
+    "ko": {
+      "content": "GPT Image 2를 사용해 캐릭터와 환경 이미지를 생성한 다음, Seedance 2.5를 사용해 시네마틱하고 사실적인 전투 시퀀스를 위한 모션, 전투 안무, 장면 흐름을 만들어보세요."
+    },
+    "pt": {
+      "content": "Use o GPT Image 2 para gerar as imagens dos personagens e do ambiente, depois use o Seedance 2.5 para criar o movimento, a coreografia de luta e o fluxo da cena para uma sequência de batalha cinematográfica e realista."
+    },
+    "zh": {
+      "content": "使用 GPT Image 2 生成角色和环境图像，然后使用 Seedance 2.5 来创建动作、打斗编排和场景流转，打造一段电影感、写实的战斗序列。"
+    }
+  }
+}

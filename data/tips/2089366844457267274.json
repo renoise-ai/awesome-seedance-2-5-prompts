@@ -1,0 +1,42 @@
+{
+  "id": "2089366844457267274",
+  "title": "Create an untextured Blender blockout with no materials and no lighting—only…",
+  "content": "Create an untextured Blender blockout with no materials and no lighting—only camera, staging, and timing—then render it in Seedance 2.5 against a reference image to drive the final look.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089366803747348480/img/jgFhoMGphCoLAyd4.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089366844457267274.mp4",
+  "sourceLink": "https://x.com/ComfyUI/status/2089366844457267274",
+  "sourcePublishedAt": "2026-08-17",
+  "author": {
+    "name": "ComfyUI",
+    "link": "https://x.com/ComfyUI"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Create an untextured Blender blockout with no materials and no lighting—only camera, staging, and timing—then render it in Seedance 2.5 against a reference image to drive the final look.",
+  "translations": {
+    "es": {
+      "content": "Crea un blockout de Blender sin texturas, sin materiales y sin iluminación —solo cámara, staging y timing— y luego rindérlo en Seedance 2.5 usando una imagen de referencia para guiar el aspecto final.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/OHt4wgUxrN\n---"
+    },
+    "fr": {
+      "content": "Créez un blockout Blender sans texture, sans matériaux et sans éclairage — uniquement la caméra, la mise en scène et le timing — puis rendez-le dans Seedance 2.5 à partir d’une image de référence pour guider le rendu final.\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Fil 1] https://t.co/OHt4wgUxrN\n---"
+    },
+    "ja": {
+      "content": "マテリアルもライティングもない、テクスチャなしのBlenderブロックアウトを作成し、カメラ、ステージング、タイミングのみを設定したうえで、参照画像を使ってSeedance 2.5でレンダリングし、最終的な見た目を決定する。\n\n--- スレッドの続き ---\n[Thread 1] https://t.co/OHt4wgUxrN\n---"
+    },
+    "ko": {
+      "content": "재질과 조명 없이, 카메라·스테이징·타이밍만으로 구성된 텍스처 없는 Blender 블록아웃을 만든 다음, 레퍼런스 이미지를 기준으로 Seedance 2.5에서 렌더링해 최종 룩을 구현하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/OHt4wgUxrN\n---"
+    },
+    "pt": {
+      "content": "Crie um blockout no Blender sem textura, sem materiais e sem iluminação — apenas câmera, staging e timing — e depois renderize-o no Seedance 2.5 usando uma imagem de referência para orientar o visual final.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] https://t.co/OHt4wgUxrN\n---"
+    },
+    "zh": {
+      "content": "创建一个未贴材质的 Blender blockout，不使用任何材质和灯光——只保留 camera、staging 和 timing——然后在 Seedance 2.5 中结合参考图进行渲染，以驱动最终效果。\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/OHt4wgUxrN\n---"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2089142498476400653",
+  "title": "Reference the character’s skin by adding a skin image as an element reference…",
+  "content": "Reference the character’s skin by adding a skin image as an element reference in Seedance to influence/adjust skin appearance.",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089142308587663360/img/u6iqffSVjGQnUy94.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089142498476400653.mp4",
+  "sourceLink": "https://x.com/jaizard1/status/2089142498476400653",
+  "sourcePublishedAt": "2026-08-17",
+  "author": {
+    "name": "jaizard",
+    "link": "https://x.com/jaizard1"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Reference the character’s skin by adding a skin image as an element reference in Seedance to influence/adjust skin appearance.",
+  "translations": {
+    "en": {
+      "content": "Reference the character’s skin by adding a skin image as an element reference in Seedance to influence or adjust the skin’s appearance."
+    },
+    "es": {
+      "content": "Haz referencia a la piel del personaje añadiendo una imagen de piel como referencia de elemento en Seedance para influir en la apariencia de la piel o ajustarla."
+    },
+    "fr": {
+      "content": "Référencez la peau du personnage en ajoutant une image de peau comme élément de référence dans Seedance afin d’influencer/ajuster l’apparence de la peau."
+    },
+    "ko": {
+      "content": "Seedance에서 피부 이미지를 요소 참조로 추가하여 캐릭터의 피부를 참조하면, 피부의 외형을 조정하거나 보정할 수 있습니다."
+    },
+    "pt": {
+      "content": "Faça referência à pele do personagem adicionando uma imagem de pele como referência de elemento no Seedance para influenciar/ajustar a aparência da pele."
+    },
+    "zh": {
+      "content": "通过在 Seedance 中将皮肤图像作为元素参考添加，可以参考角色的皮肤，以影响/调整皮肤外观。"
+    }
+  }
+}

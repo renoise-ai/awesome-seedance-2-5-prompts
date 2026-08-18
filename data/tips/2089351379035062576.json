@@ -1,0 +1,44 @@
+{
+  "id": "2089351379035062576",
+  "title": "Provide separate character and environment reference images (instead of a…",
+  "content": "Provide separate character and environment reference images (instead of a starting frame) to help Seedance 2.5 expand the world from the environment reference while maintaining character consistency across shots and following camera motion over a long (e.g., 20s) sequence.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089351293211230208/img/AkEOZswEnSwNGogW.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089351379035062576.mp4",
+  "sourceLink": "https://x.com/HBCoop_/status/2089351379035062576",
+  "sourcePublishedAt": "2026-08-17",
+  "author": {
+    "name": "Heather Cooper",
+    "link": "https://x.com/HBCoop_"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Provide separate character and environment reference images (instead of a starting frame) to help Seedance 2.5 expand the world from the environment reference while maintaining character consistency across shots and following camera motion over a long (e.g., 20s) sequence.",
+  "translations": {
+    "es": {
+      "content": "Proporciona imágenes de referencia separadas del personaje y del entorno (en lugar de un fotograma inicial) para ayudar a Seedance 2.5 a expandir el mundo a partir de la referencia del entorno, manteniendo la coherencia del personaje entre planos y siguiendo el movimiento de cámara a lo largo de una secuencia larga (por ejemplo, de 20 s)."
+    },
+    "fr": {
+      "content": "Fournissez des images de référence séparées pour le personnage et l’environnement (au lieu d’une image de départ) afin d’aider Seedance 2.5 à développer l’univers à partir de la référence d’environnement, tout en maintenant la cohérence du personnage d’un plan à l’autre et en suivant le mouvement de caméra sur une longue séquence (par exemple, 20 s)."
+    },
+    "ja": {
+      "content": "開始フレームの代わりに、キャラクターと環境の参照画像を別々に用意してください。これにより、Seedance 2.5 は環境参照をもとに世界観を広げつつ、ショット間でキャラクターの一貫性を保ち、長尺（例：20秒）のシーケンスにおけるカメラの動きにも追従しやすくなります。"
+    },
+    "ko": {
+      "content": "시작 프레임 대신 캐릭터와 환경의 레퍼런스 이미지를 각각 제공하면, Seedance 2.5가 환경 레퍼런스를 바탕으로 세계를 확장하는 동시에 샷 전반에서 캐릭터 일관성을 유지하고, 긴 시퀀스(예: 20초) 동안 카메라 움직임을 따라가도록 돕습니다."
+    },
+    "pt": {
+      "content": "Forneça imagens de referência separadas para o personagem e para o ambiente (em vez de um frame inicial) para ajudar o Seedance 2.5 a expandir o mundo a partir da referência do ambiente, mantendo a consistência do personagem entre os planos e acompanhando o movimento de câmera ao longo de uma sequência longa (por exemplo, 20s)."
+    },
+    "zh": {
+      "content": "提供单独的角色和环境参考图像（而不是起始帧），以帮助 Seedance 2.5 基于环境参考扩展世界，同时在多个镜头中保持角色一致性，并在较长的序列中（例如 20 秒）跟随 camera motion。"
+    }
+  }
+}

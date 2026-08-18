@@ -1,0 +1,42 @@
+{
+  "id": "2089204211934503057",
+  "title": "超高速の戦闘シーンではアップスケールを使わずに出力したほうが綺麗になりやすいので、まずは720p/24fpsなど非アップスケール設定で生成して比較する",
+  "content": "超高速の戦闘シーンではアップスケールを使わずに出力したほうが綺麗になりやすいので、まずは720p/24fpsなど非アップスケール設定で生成して比較する  \nアップスケール（例：1080p/90fps）をかけるとエフェクトがのっぺりしやすいので、エフェクト重視のシーンではアップスケールを避けるか弱めて検証する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089203630843035648/img/12X4bta5-8OG1772.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089204211934503057.mp4",
+  "sourceLink": "https://x.com/Ryuki_Yano/status/2089204211934503057",
+  "sourcePublishedAt": "2026-08-17",
+  "author": {
+    "name": "ヤノ",
+    "link": "https://x.com/Ryuki_Yano"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "超高速の戦闘シーンではアップスケールを使わずに出力したほうが綺麗になりやすいので、まずは720p/24fpsなど非アップスケール設定で生成して比較する  \nアップスケール（例：1080p/90fps）をかけるとエフェクトがのっぺりしやすいので、エフェクト重視のシーンではアップスケールを避けるか弱めて検証する",
+  "translations": {
+    "en": {
+      "content": "For ultra-fast combat scenes, output often looks cleaner without upscaling, so first generate and compare using a non-upscaled setting such as 720p/24fps.  \nApplying upscaling (e.g., 1080p/90fps) can make effects look flat, so for effect-heavy scenes, avoid upscaling or reduce it and test the results.\n\n--- THREAD CONTINUATION ---\n[Thread 1] @OiiOii_AI\n@OiiOii_AI_JP\n#OiiOii #OiiOiiで監督してみた\n---"
+    },
+    "es": {
+      "content": "En escenas de combate ultrarrápidas, suele verse mejor si se exporta sin usar upscale, así que primero conviene generar y comparar con ajustes sin upscale, como 720p/24fps.  \nAl aplicar upscale (por ejemplo, 1080p/90fps), los efectos tienden a verse más planos, así que en escenas donde los efectos son prioritarios conviene evitar el upscale o reducirlo y comprobar el resultado.\n\n--- CONTINUACIÓN DEL HILO ---\n[Thread 1] @OiiOii_AI\n@OiiOii_AI_JP\n#OiiOii #OiiOiiで監督してみた\n---"
+    },
+    "fr": {
+      "content": "Dans les scènes de combat ultra-rapides, il est souvent plus propre de sortir la vidéo sans upscaling ; il vaut donc mieux commencer par générer en configuration non upscalée, par exemple en 720p/24fps, puis comparer.  \nSi l’on applique un upscaling (par exemple 1080p/90fps), les effets ont tendance à paraître plus plats ; pour les scènes où les effets sont prioritaires, il vaut donc mieux éviter l’upscaling ou le réduire afin de faire des tests.\n\n--- SUITE DU FIL ---\n[Thread 1] @OiiOii_AI\n@OiiOii_AI_JP\n#OiiOii #OiiOiiで監督してみた\n---"
+    },
+    "ko": {
+      "content": "초고속 전투 장면에서는 업스케일을 사용하지 않고 출력하는 편이 더 깔끔하게 나오는 경우가 많으므로, 우선 720p/24fps 같은 비업스케일 설정으로 생성해 비교해본다  \n업스케일(예: 1080p/90fps)을 적용하면 이펙트가 평면적으로 보이기 쉬우므로, 이펙트가 중요한 장면에서는 업스케일을 피하거나 약하게 설정해 검증한다\n\n--- THREAD CONTINUATION ---\n[Thread 1] @OiiOii_AI\n@OiiOii_AI_JP\n#OiiOii #OiiOiiで監督してみた\n---"
+    },
+    "pt": {
+      "content": "Em cenas de combate ultrarrápidas, costuma ficar mais bonito gerar a saída sem usar upscale, então primeiro vale gerar e comparar com uma configuração sem upscale, como 720p/24fps.  \nAo aplicar upscale (por exemplo, 1080p/90fps), os efeitos podem ficar mais chapados; por isso, em cenas com foco em efeitos, evite o upscale ou reduza sua intensidade para testar.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] @OiiOii_AI\n@OiiOii_AI_JP\n#OiiOii #OiiOiiで監督してみた\n---"
+    },
+    "zh": {
+      "content": "在超高速的战斗场景中，不使用 upscaling 直接输出往往更容易得到更清晰的效果，所以建议先用 720p/24fps 之类的非 upscaling 设置生成并进行对比。  \n一旦进行 upscaling（例如 1080p/90fps），特效容易显得比较平，所以在重视特效的场景中，应尽量避免 upscaling，或减弱后再进行验证。\n\n--- THREAD CONTINUATION ---\n[Thread 1] @OiiOii_AI\n@OiiOii_AI_JP\n#OiiOii #OiiOiiで監督してみた\n---"
+    }
+  }
+}

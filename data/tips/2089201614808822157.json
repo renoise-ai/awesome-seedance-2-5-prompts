@@ -1,0 +1,43 @@
+{
+  "id": "2089201614808822157",
+  "title": "CapCutで同じプロンプトを使い回し、MiniMax H3／Seedance 2.0 Mini／Seedance 2.5を切り替えて生成して比較する",
+  "content": "CapCutで同じプロンプトを使い回し、MiniMax H3／Seedance 2.0 Mini／Seedance 2.5を切り替えて生成して比較する  \n1コマ単位の動きを出したい場合はMiniMax H3かSeedance 2.5を選ぶ",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089201120774438912/img/NmpbH1d9pCqxBBPj.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089201614808822157.mp4",
+  "sourceLink": "https://x.com/ChiakiAkagi/status/2089201614808822157",
+  "sourcePublishedAt": "2026-08-17",
+  "author": {
+    "name": "ChiakiAkagi 還暦のAIイリュージョニスト",
+    "link": "https://x.com/ChiakiAkagi"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Model Showcase"
+  ],
+  "tips": "CapCutで同じプロンプトを使い回し、MiniMax H3／Seedance 2.0 Mini／Seedance 2.5を切り替えて生成して比較する  \n1コマ単位の動きを出したい場合はMiniMax H3かSeedance 2.5を選ぶ",
+  "translations": {
+    "en": {
+      "content": "Reuse the same prompt in CapCut, switch between MiniMax H3 / Seedance 2.0 Mini / Seedance 2.5, and generate to compare them.  \nIf you want motion down to the frame level, choose MiniMax H3 or Seedance 2.5."
+    },
+    "es": {
+      "content": "Reutiliza el mismo prompt en CapCut y alterna entre MiniMax H3 / Seedance 2.0 Mini / Seedance 2.5 para generar y comparar.  \nSi quieres obtener movimiento cuadro por cuadro, elige MiniMax H3 o Seedance 2.5."
+    },
+    "fr": {
+      "content": "Réutiliser le même prompt dans CapCut, basculer entre MiniMax H3 / Seedance 2.0 Mini / Seedance 2.5 pour générer et comparer  \nSi vous souhaitez obtenir un mouvement image par image, choisissez MiniMax H3 ou Seedance 2.5"
+    },
+    "ko": {
+      "content": "CapCut에서 같은 prompt를 재사용하고, MiniMax H3 / Seedance 2.0 Mini / Seedance 2.5를 번갈아 생성해 비교한다  \n1컷 단위의 움직임을 표현하고 싶다면 MiniMax H3 또는 Seedance 2.5를 선택한다"
+    },
+    "pt": {
+      "content": "Reutilize o mesmo prompt no CapCut e alterne entre MiniMax H3 / Seedance 2.0 Mini / Seedance 2.5 para gerar e comparar.  \nSe quiser obter movimentos quadro a quadro, escolha MiniMax H3 ou Seedance 2.5."
+    },
+    "zh": {
+      "content": "在 CapCut 中重复使用同一个 prompt，并切换 MiniMax H3／Seedance 2.0 Mini／Seedance 2.5 进行生成和比较  \n如果想表现到逐帧级别的动作，建议选择 MiniMax H3 或 Seedance 2.5"
+    }
+  }
+}

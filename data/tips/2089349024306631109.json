@@ -1,0 +1,43 @@
+{
+  "id": "2089349024306631109",
+  "title": "Use a workflow of Idea/Image → Custom GPT Image 2.0 storyboard → Seedance 2.5 →…",
+  "content": "Use a workflow of Idea/Image → Custom GPT Image 2.0 storyboard → Seedance 2.5 → prompt to turn one idea into a structured visual sequence and then generate the video in Seedance.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089326123880710144/img/w7IFiFDT1gxxV5BB.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089349024306631109.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2089349024306631109",
+  "sourcePublishedAt": "2026-08-17",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use a workflow of Idea/Image → Custom GPT Image 2.0 storyboard → Seedance 2.5 → prompt to turn one idea into a structured visual sequence and then generate the video in Seedance.",
+  "translations": {
+    "es": {
+      "content": "Usa un flujo de trabajo de Idea/Imagen → storyboard de Custom GPT Image 2.0 → Seedance 2.5 → prompt para convertir una idea en una secuencia visual estructurada y luego generar el video en Seedance."
+    },
+    "fr": {
+      "content": "Utilisez un workflow allant de l’idée/image → storyboard Custom GPT Image 2.0 → Seedance 2.5 → prompt pour transformer une idée en séquence visuelle structurée, puis générez la vidéo dans Seedance."
+    },
+    "ja": {
+      "content": "アイデア／画像 → Custom GPT Image 2.0 storyboard → Seedance 2.5 → prompt というワークフローを使って、1つのアイデアを構造化されたビジュアルシーケンスに変換し、その後 Seedance で動画を生成します。"
+    },
+    "ko": {
+      "content": "아이디어/이미지 → Custom GPT Image 2.0 스토리보드 → Seedance 2.5 → prompt를 사용해 하나의 아이디어를 구조화된 비주얼 시퀀스로 전환한 다음, Seedance에서 영상을 생성하는 워크플로를 사용하세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho de Ideia/Imagem → storyboard do Custom GPT Image 2.0 → Seedance 2.5 → prompt para transformar uma ideia em uma sequência visual estruturada e, em seguida, gerar o vídeo no Seedance."
+    },
+    "zh": {
+      "content": "使用一个工作流程：Idea/Image → Custom GPT Image 2.0 storyboard → Seedance 2.5 → prompt，将一个想法转化为结构化的视觉序列，然后在 Seedance 中生成视频。"
+    }
+  }
+}

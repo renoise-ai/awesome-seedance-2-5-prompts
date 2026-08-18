@@ -4,7 +4,7 @@
   "content": "Seedance 2.5で縦型ドラマを作るときは、字幕が勝手に出る・顔が途中で変わる・日本語が中国語訛りになる等の失敗はプロンプトの書き方が原因になり得るので、プロンプト設計を見直して抑制・一貫性・発音をコントロールする  \nSeedance 2.5の音声が弱い場合は無音で生成し、別のAIでアフレコを後付けして精度を上げる  \n縦書きタイトル・字幕・効果音・エンドカードはClaude Codeで自動生成し、動画に焼き込む工程まで自動化する  \nSeedance 2.5のAPIを使って生成〜編集までのワークフローを完全自動化する",
   "language": "ja",
   "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2085315634192343041/img/4AvYr57MlS9WY4qv.jpg",
-  "videoUrl": "https://video.twimg.com/amplify_video/2085315634192343041/vid/avc1/1920x1080/srrN3dllyPRgDd7y.mp4",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2085367806175195468.mp4",
   "sourceLink": "https://x.com/masahirochaen/status/2085367806175195468",
   "sourcePublishedAt": "2026-08-06",
   "author": {

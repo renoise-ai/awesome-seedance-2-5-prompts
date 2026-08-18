@@ -1,0 +1,42 @@
+{
+  "id": "2089464472263958867",
+  "title": "In Seedance 2.5 reference image mode, drop in a single image and generate one…",
+  "content": "In Seedance 2.5 reference image mode, drop in a single image and generate one panorama that contains all the eras/scenes you want to travel through.  \nDraw a single red line/path across the panorama in the exact flight order you want the camera to follow.  \nUse one prompt instructing Seedance to fly the drawn line as the camera path, then remove/erase the red path in the final output.  \nTo get a continuous “one take, zero cuts” shot, generate it as one render using the same reference panorama + drawn path workflow (works for any scene, e.g., breakfast table or jungle river).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089464390475010050/img/8QnDRjHP2qzu6mRj.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089464472263958867.mp4",
+  "sourceLink": "https://x.com/mauricioo_ai/status/2089464472263958867",
+  "sourcePublishedAt": "2026-08-17",
+  "author": {
+    "name": "Mauricio Valdivia",
+    "link": "https://x.com/mauricioo_ai"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "In Seedance 2.5 reference image mode, drop in a single image and generate one panorama that contains all the eras/scenes you want to travel through.  \nDraw a single red line/path across the panorama in the exact flight order you want the camera to follow.  \nUse one prompt instructing Seedance to fly the drawn line as the camera path, then remove/erase the red path in the final output.  \nTo get a continuous “one take, zero cuts” shot, generate it as one render using the same reference panorama + drawn path workflow (works for any scene, e.g., breakfast table or jungle river).",
+  "translations": {
+    "es": {
+      "content": "En el modo de imagen de referencia de Seedance 2.5, coloca una sola imagen y genera un panorama que contenga todas las eras/escenas por las que quieras viajar.  \nDibuja una única línea/ruta roja a lo largo del panorama, en el orden exacto de vuelo que quieres que siga la cámara.  \nUsa un prompt que le indique a Seedance que siga la línea dibujada como trayectoria de cámara y luego elimine/borre la ruta roja en la salida final.  \nPara obtener una toma continua de “una sola toma, cero cortes”, genérala como un solo render usando el mismo flujo de trabajo de panorama de referencia + ruta dibujada (funciona para cualquier escena, por ejemplo, una mesa de desayuno o un río en la jungla)."
+    },
+    "fr": {
+      "content": "En mode image de référence de Seedance 2.5, importez une seule image et générez un panorama unique qui contient toutes les époques/scènes que vous souhaitez traverser.  \nTracez une seule ligne/trajectoire rouge sur le panorama, dans l’ordre exact de vol que vous voulez que la caméra suive.  \nUtilisez un prompt unique demandant à Seedance de suivre la ligne tracée comme trajectoire de caméra, puis de supprimer/effacer le tracé rouge dans le rendu final.  \nPour obtenir un plan continu « one take, zero cuts », générez-le en un seul rendu en utilisant le même workflow panorama de référence + trajectoire tracée (cela fonctionne pour n’importe quelle scène, par exemple une table de petit-déjeuner ou une rivière dans la jungle)."
+    },
+    "ja": {
+      "content": "Seedance 2.5 の reference image mode では、1枚の画像を読み込み、旅したいすべての時代／シーンを含む1つの panorama を生成します。  \nカメラにたどらせたい飛行順に合わせて、panorama 全体に1本の赤い線／path を正確に引きます。  \nその描いた線を camera path として飛ぶよう Seedance に指示する1つの prompt を使い、最終出力では赤い path を削除／消去します。  \n連続した「one take、zero cuts」のショットにするには、同じ reference panorama + drawn path のワークフローで1回の render として生成します（breakfast table や jungle river など、どんな scene にも対応）。"
+    },
+    "ko": {
+      "content": "Seedance 2.5 reference image mode에서는 이미지 하나를 넣고, 여행하고 싶은 모든 시대/장면을 담은 하나의 panorama를 생성하세요.  \npanorama 위에 카메라가 따라갈 정확한 비행 순서대로 하나의 빨간 선/경로를 그리세요.  \n그린 선을 카메라 경로로 따라 비행하고, 최종 결과물에서는 빨간 경로를 제거/삭제하라고 Seedance에 지시하는 하나의 prompt를 사용하세요.  \n끊김 없는 “one take, zero cuts” 샷을 얻으려면, 동일한 reference panorama + drawn path 워크플로우로 하나의 render로 생성하세요(아침 식탁이나 정글 강 등 어떤 장면에도 적용 가능)."
+    },
+    "pt": {
+      "content": "No modo de imagem de referência do Seedance 2.5, insira uma única imagem e gere um panorama que contenha todas as eras/cenas pelas quais você quer viajar.  \nDesenhe uma única linha/caminho vermelho ao longo do panorama, na ordem exata de voo que você quer que a câmera siga.  \nUse um prompt instruindo o Seedance a voar seguindo a linha desenhada como caminho da câmera e, em seguida, remover/apagar o trajeto vermelho no resultado final.  \nPara obter uma tomada contínua de “one take, zero cuts”, gere tudo como uma única renderização usando o mesmo fluxo de trabalho de panorama de referência + caminho desenhado (funciona para qualquer cena, por exemplo, mesa de café da manhã ou rio na selva)."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 reference image mode 中，放入一张图片，并生成一张包含你想穿越的所有时代/场景的全景图。  \n在全景图上用一条红色线条/路径，按你希望镜头飞行的准确顺序画出一条路径。  \n使用一个 prompt，指示 Seedance 按照这条绘制的线作为 camera path 飞行，并在最终输出中移除/擦除这条红色路径。  \n要获得连续的“one take, zero cuts”镜头，请使用相同的 reference panorama + drawn path 工作流，将其作为一次渲染来生成（适用于任何场景，例如早餐桌或丛林河流）。"
+    }
+  }
+}

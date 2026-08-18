@@ -1,0 +1,42 @@
+{
+  "id": "2089318657310568497",
+  "title": "Prepare multiple reference images before generating: use separate images for…",
+  "content": "Prepare multiple reference images before generating: use separate images for each character (e.g., a turnaround for one character and a portrait for another) plus a scene reference for positions/environment.  \nCreate an additional image to map a character’s emotional progression/acting beats, then translate that acting plan into your Seedance 2.5 prompt to generate the full scene.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/MrLarus/status/2089318657310568497",
+  "sourcePublishedAt": "2026-08-17",
+  "author": {
+    "name": "Larus Canus",
+    "link": "https://x.com/MrLarus"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Prepare multiple reference images before generating: use separate images for each character (e.g., a turnaround for one character and a portrait for another) plus a scene reference for positions/environment.  \nCreate an additional image to map a character’s emotional progression/acting beats, then translate that acting plan into your Seedance 2.5 prompt to generate the full scene.",
+  "translations": {
+    "es": {
+      "content": "Prepara varias imágenes de referencia antes de generar: usa imágenes separadas para cada personaje (por ejemplo, un turnaround para un personaje y un retrato para otro), además de una imagen de referencia de la escena para las posiciones y el entorno.  \nCrea una imagen adicional para mapear la progresión emocional y los beats de actuación de un personaje, y luego traduce ese plan de actuación a tu prompt de Seedance 2.5 para generar la escena completa."
+    },
+    "fr": {
+      "content": "Préparez plusieurs images de référence avant la génération : utilisez des images séparées pour chaque personnage (par exemple, un turnaround pour un personnage et un portrait pour un autre), ainsi qu’une image de référence de la scène pour les positions et l’environnement.  \nCréez une image supplémentaire pour cartographier la progression émotionnelle d’un personnage / ses beats de jeu, puis traduisez ce plan de jeu dans votre prompt Seedance 2.5 afin de générer la scène complète."
+    },
+    "ja": {
+      "content": "生成前に複数の参照画像を用意します。各キャラクターごとに別々の画像を使い（たとえば、1人目のキャラクターにはターンアラウンド、別のキャラクターにはポートレート）、さらに位置や環境を示すためのシーン参照も追加します。  \nキャラクターの感情の変化や演技のビートを整理するための追加画像を作成し、その演技プランを Seedance 2.5 の prompt に落とし込んで、シーン全体を生成します。"
+    },
+    "ko": {
+      "content": "생성하기 전에 여러 개의 레퍼런스 이미지를 준비하세요: 각 캐릭터마다 별도의 이미지를 사용하고(예: 한 캐릭터는 턴어라운드, 다른 캐릭터는 포트레이트), 위치/환경을 위한 장면 레퍼런스도 추가합니다.  \n캐릭터의 감정 변화/연기 비트(acting beats)를 정리하는 추가 이미지를 만든 다음, 그 연기 계획을 Seedance 2.5 prompt로 옮겨 전체 장면을 생성하세요."
+    },
+    "pt": {
+      "content": "Prepare várias imagens de referência antes de gerar: use imagens separadas para cada personagem (por exemplo, um turnaround para um personagem e um retrato para outro), além de uma imagem de referência da cena para posições/ambiente.  \nCrie uma imagem adicional para mapear a progressão emocional/beat de atuação de um personagem e, em seguida, traduza esse plano de atuação para o seu prompt do Seedance 2.5 para gerar a cena completa."
+    },
+    "zh": {
+      "content": "在生成之前准备多张参考图：为每个角色分别使用独立图片（例如，一个角色用转面图，另一个角色用肖像图），再加上一张用于说明位置/环境的场景参考图。  \n另外创建一张图来梳理角色的情绪变化/表演节奏，然后将这份表演计划转化为你的 Seedance 2.5 prompt，以生成完整场景。"
+    }
+  }
+}
