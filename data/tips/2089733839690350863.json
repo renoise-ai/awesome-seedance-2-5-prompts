@@ -1,0 +1,42 @@
+{
+  "id": "2089733839690350863",
+  "title": "Batch-create assets with AI Image, convert them into multiple scenes with…",
+  "content": "Batch-create assets with AI Image, convert them into multiple scenes with Seedance AI Video, then import all clips into the CapCut PC timeline for assembly  \nUse Edit Pilot in CapCut PC to describe an edit once and apply conversational changes across selected footage instead of repeating edits clip by clip  \nUse AI Edit for local fixes on specific clips, use AI Extend to lengthen scenes, and finish the cut using CapCut’s multi-track timeline",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089733746543230976/img/eI3lB70we8tsSnNC.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089733839690350863.mp4",
+  "sourceLink": "https://x.com/AIStackLabX/status/2089733839690350863",
+  "sourcePublishedAt": "2026-08-18",
+  "author": {
+    "name": "AI StackLab",
+    "link": "https://x.com/AIStackLabX"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Batch-create assets with AI Image, convert them into multiple scenes with Seedance AI Video, then import all clips into the CapCut PC timeline for assembly  \nUse Edit Pilot in CapCut PC to describe an edit once and apply conversational changes across selected footage instead of repeating edits clip by clip  \nUse AI Edit for local fixes on specific clips, use AI Extend to lengthen scenes, and finish the cut using CapCut’s multi-track timeline",
+  "translations": {
+    "es": {
+      "content": "Crea assets por lotes con AI Image, conviértelos en múltiples escenas con Seedance AI Video y luego importa todos los clips en la línea de tiempo de CapCut PC para su montaje  \nUsa Edit Pilot en CapCut PC para describir una edición una sola vez y aplicar cambios conversacionales a los clips seleccionados en lugar de repetir las ediciones clip por clip  \nUsa AI Edit para correcciones locales en clips específicos, usa AI Extend para alargar escenas y finaliza el montaje usando la línea de tiempo multipista de CapCut"
+    },
+    "fr": {
+      "content": "Créez des assets en lot avec AI Image, convertissez-les en plusieurs scènes avec Seedance AI Video, puis importez tous les clips dans la timeline de CapCut PC pour le montage  \nUtilisez Edit Pilot dans CapCut PC pour décrire une modification une seule fois et appliquer des changements de manière conversationnelle à des séquences sélectionnées, au lieu de répéter les retouches clip par clip  \nUtilisez AI Edit pour effectuer des corrections locales sur des clips spécifiques, utilisez AI Extend pour allonger des scènes, puis finalisez le montage à l’aide de la timeline multipiste de CapCut"
+    },
+    "ja": {
+      "content": "AI Imageでアセットを一括生成し、それらをSeedance AI Videoで複数のシーンに変換したうえで、すべてのクリップをCapCut PCのタイムラインに取り込んで編集・構成する  \nCapCut PCのEdit Pilotを使えば、編集内容を一度説明するだけで、クリップごとに同じ編集を繰り返すことなく、選択した映像全体に会話形式で変更を適用できる  \nAI Editで特定のクリップをローカル修正し、AI Extendでシーンを延長し、最後はCapCutのマルチトラックタイムラインで仕上げる"
+    },
+    "ko": {
+      "content": "AI Image로 에셋을 일괄 생성한 뒤, Seedance AI Video로 이를 여러 장면으로 변환하고, 모든 클립을 CapCut PC 타임라인으로 가져와 편집을 구성하세요  \nCapCut PC의 Edit Pilot를 사용해 편집 내용을 한 번만 설명하면, 클립마다 반복하지 않고 선택한 영상 전체에 대화형 변경 사항을 적용할 수 있습니다  \n특정 클립의 로컬 수정에는 AI Edit를 사용하고, 장면을 더 길게 이어야 할 때는 AI Extend를 활용한 뒤, CapCut의 멀티트랙 타임라인으로 최종 컷을 완성하세요"
+    },
+    "pt": {
+      "content": "Crie assets em lote com AI Image, converta-os em múltiplas cenas com Seedance AI Video e depois importe todos os clipes para a timeline do CapCut PC para a montagem  \nUse o Edit Pilot no CapCut PC para descrever uma edição uma vez e aplicar alterações por conversa em trechos selecionados, em vez de repetir as edições clipe por clipe  \nUse o AI Edit para correções locais em clipes específicos, use o AI Extend para alongar cenas e finalize o corte usando a timeline multitrack do CapCut"
+    },
+    "zh": {
+      "content": "批量使用 AI Image 创建素材，再通过 Seedance AI Video 将其转换为多个场景，然后把所有片段导入 CapCut PC 时间线进行剪辑组装  \n在 CapCut PC 中使用 Edit Pilot，只需描述一次剪辑意图，即可通过对话式修改将更改应用到所选素材，而无需逐个片段重复编辑  \n使用 AI Edit 对特定片段进行局部修正，使用 AI Extend 延长场景，最后借助 CapCut 的多轨时间线完成剪辑"
+    }
+  }
+}

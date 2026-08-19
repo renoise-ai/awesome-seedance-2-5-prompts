@@ -1,0 +1,43 @@
+{
+  "id": "2089861510709567664",
+  "title": "Use a workflow of Idea or reference image → Custom GPT → Image 2.0 storyboard →…",
+  "content": "Use a workflow of Idea or reference image → Custom GPT → Image 2.0 storyboard → Seedance 2.5 → final video to turn a concept into a structured cinematic storyboard before generating in Seedance 2.5",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089861472713379842/img/ktqvcD-CzojmTpE3.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089861510709567664.mp4",
+  "sourceLink": "https://x.com/bmx_ai13/status/2089861510709567664",
+  "sourcePublishedAt": "2026-08-18",
+  "author": {
+    "name": "BMX",
+    "link": "https://x.com/bmx_ai13"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use a workflow of Idea or reference image → Custom GPT → Image 2.0 storyboard → Seedance 2.5 → final video to turn a concept into a structured cinematic storyboard before generating in Seedance 2.5",
+  "translations": {
+    "es": {
+      "content": "Usa un flujo de trabajo de Idea o imagen de referencia → Custom GPT → Image 2.0 storyboard → Seedance 2.5 → video final para convertir un concepto en un storyboard cinematográfico estructurado antes de generar en Seedance 2.5"
+    },
+    "fr": {
+      "content": "Utilisez un workflow allant de l’idée ou de l’image de référence → Custom GPT → storyboard Image 2.0 → Seedance 2.5 → vidéo finale pour transformer un concept en storyboard cinématographique structuré avant la génération dans Seedance 2.5"
+    },
+    "ja": {
+      "content": "アイデアまたは参考画像 → Custom GPT → Image 2.0 storyboard → Seedance 2.5 → final video というワークフローを使って、コンセプトを構造化された cinematic storyboard に落とし込み、その後 Seedance 2.5 で生成します。"
+    },
+    "ko": {
+      "content": "아이디어 또는 참고 이미지 → Custom GPT → Image 2.0 스토리보드 → Seedance 2.5 → 최종 영상의 워크플로를 사용해, Seedance 2.5에서 생성하기 전에 콘셉트를 구조화된 cinematic storyboard로 전환하세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho de Ideia ou imagem de referência → Custom GPT → storyboard do Image 2.0 → Seedance 2.5 → vídeo final para transformar um conceito em um storyboard cinematográfico estruturado antes de gerar no Seedance 2.5"
+    },
+    "zh": {
+      "content": "使用“创意或参考图像 → 自定义 GPT → Image 2.0 分镜脚本 → Seedance 2.5 → 最终视频”的工作流程，在 Seedance 2.5 中生成之前，先将一个概念转化为结构化的 cinematic storyboard。"
+    }
+  }
+}

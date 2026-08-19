@@ -1,0 +1,41 @@
+{
+  "id": "2089651652609593772",
+  "title": "生成一段16:9横屏、4K、24fps的真人电影实拍质感，在末世公路以时速180公里/小时",
+  "content": "生成一段16:9横屏、4K、24fps的真人电影实拍质感，在末世公路以时速180公里/小时",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089650105557434368/img/TkUi5SV13rkKxxYN.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089651652609593772.mp4",
+  "sourceLink": "https://x.com/TanLuAI/status/2089651652609593772",
+  "sourcePublishedAt": "2026-08-18",
+  "author": {
+    "name": "探路AI",
+    "link": "https://x.com/TanLuAI"
+  },
+  "tags": [
+    "Auto",
+    "POV Drive",
+    "Photoreal",
+    "Sci-Fi",
+    "POV"
+  ],
+  "translations": {
+    "en": {
+      "content": "Generate a 16:9 landscape, 4K, 24fps live-action cinematic shot, on a post-apocalyptic highway at a speed of 180 km/h."
+    },
+    "es": {
+      "content": "Genera una secuencia en formato horizontal 16:9, 4K, 24 fps, con una textura de película de acción real, en una carretera postapocalíptica a una velocidad de 180 km/h."
+    },
+    "fr": {
+      "content": "Générez une séquence en format paysage 16:9, en 4K, 24 fps, avec une esthétique de film en prise de vue réelle, sur une route post-apocalyptique à une vitesse de 180 km/h."
+    },
+    "ja": {
+      "content": "16:9の横長、4K、24fpsの実写映画のような質感で、終末世界のハイウェイを時速180kmで走行するシーンを生成する"
+    },
+    "ko": {
+      "content": "16:9 가로 화면, 4K, 24fps의 실사 영화 촬영 질감으로, 종말 이후의 도로를 시속 180km로 달리는 장면을 생성하세요."
+    },
+    "pt": {
+      "content": "Gere uma cena em proporção 16:9, horizontal, 4K, 24 fps, com a textura de um filme live-action, em uma estrada pós-apocalíptica a 180 km/h."
+    }
+  }
+}

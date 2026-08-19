@@ -1,0 +1,42 @@
+{
+  "id": "2089809610832265217",
+  "title": "細かいボールの挙動をSeedance2.5で制御したい場合は、テキストだけでなく参照画像や参照動画を入力して動きの手掛かりを与える",
+  "content": "細かいボールの挙動をSeedance2.5で制御したい場合は、テキストだけでなく参照画像や参照動画を入力して動きの手掛かりを与える",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089808895112003584/img/eqaUAVb4MibWNA6X.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089809610832265217.mp4",
+  "sourceLink": "https://x.com/aigeboku/status/2089809610832265217",
+  "sourcePublishedAt": "2026-08-18",
+  "author": {
+    "name": "AI様の下僕",
+    "link": "https://x.com/aigeboku"
+  },
+  "tags": [
+    "Sports",
+    "Other Competition",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "細かいボールの挙動をSeedance2.5で制御したい場合は、テキストだけでなく参照画像や参照動画を入力して動きの手掛かりを与える",
+  "translations": {
+    "en": {
+      "content": "If you want to control the fine-grained behavior of the ball in Seedance 2.5, provide not only text but also reference images or reference videos to give motion cues."
+    },
+    "es": {
+      "content": "Si quieres controlar el comportamiento detallado de la pelota en Seedance2.5, además del texto, introduce imágenes de referencia o videos de referencia para proporcionar pistas sobre el movimiento."
+    },
+    "fr": {
+      "content": "Si vous souhaitez contrôler le comportement détaillé de la balle avec Seedance 2.5, fournissez non seulement du texte, mais aussi des images de référence ou des vidéos de référence afin de donner des indices sur le mouvement."
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 작은 공의 움직임을 제어하고 싶다면, 텍스트뿐만 아니라 참조 이미지나 참조 영상을 입력해 움직임의 단서를 제공한다."
+    },
+    "pt": {
+      "content": "Se você quiser controlar o comportamento detalhado da bola no Seedance 2.5, forneça não apenas texto, mas também imagens de referência e vídeos de referência para dar pistas sobre o movimento."
+    },
+    "zh": {
+      "content": "如果想在 Seedance2.5 中控制细微的球体运动，不仅要输入文本，还要输入参考图片或参考视频，以提供动作线索。"
+    }
+  }
+}

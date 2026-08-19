@@ -1,0 +1,42 @@
+{
+  "id": "2089677773707297268",
+  "title": "先用 updream 预演台把场景做成 3D 白模，预先排好人物动作、空间关系和摄像机运动，再交给 Seedance 2.5 渲染以减少反复抽卡浪费积分",
+  "content": "先用 updream 预演台把场景做成 3D 白模，预先排好人物动作、空间关系和摄像机运动，再交给 Seedance 2.5 渲染以减少反复抽卡浪费积分",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089670620942639104/img/LYidBVZP30vSIcsX.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089677773707297268.mp4",
+  "sourceLink": "https://x.com/baqiceloudezhu/status/2089677773707297268",
+  "sourcePublishedAt": "2026-08-18",
+  "author": {
+    "name": "擎苍",
+    "link": "https://x.com/baqiceloudezhu"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "先用 updream 预演台把场景做成 3D 白模，预先排好人物动作、空间关系和摄像机运动，再交给 Seedance 2.5 渲染以减少反复抽卡浪费积分",
+  "translations": {
+    "en": {
+      "content": "First, use updream’s preview stage to turn the scene into a 3D white model, prearrange the character actions, spatial relationships, and camera movement, then hand it off to Seedance 2.5 for rendering to reduce repeated generation attempts and avoid wasting credits."
+    },
+    "es": {
+      "content": "Primero usa updream 预演台 para convertir la escena en un modelo blanco 3D, y organiza de antemano los movimientos de los personajes, las relaciones espaciales y el movimiento de cámara; luego entrégaselo a Seedance 2.5 para renderizarlo y así reducir las iteraciones repetidas y evitar desperdiciar créditos."
+    },
+    "fr": {
+      "content": "Commencez par utiliser la plateforme de prévisualisation updream pour transformer la scène en maquette 3D blanche, puis préparez à l’avance les mouvements des personnages, les relations spatiales et les mouvements de caméra, avant de confier le rendu à Seedance 2.5 afin de réduire les itérations répétées et d’éviter de gaspiller des crédits."
+    },
+    "ja": {
+      "content": "まず updream のプレビュー台でシーンを3Dの白模型として作成し、人物の動き、空間関係、カメラワークをあらかじめ配置してから、Seedance 2.5 にレンダリングを任せることで、何度もガチャを引き直してポイントを無駄にするのを減らせます。"
+    },
+    "ko": {
+      "content": "먼저 updream 프리뷰 스테이지로 장면을 3D 화이트 모델로 만들어, 인물의 동작, 공간 관계, 카메라 움직임을 미리 배치한 다음 Seedance 2.5에 렌더링을 맡기면 반복적인 추첨식 생성으로 인한 포인트 낭비를 줄일 수 있습니다."
+    },
+    "pt": {
+      "content": "Primeiro, use o palco de pré-visualização do updream para transformar a cena em um modelo branco 3D, organizando מראש os movimentos dos personagens, as relações espaciais e o movimento da câmera, e depois passe para o Seedance 2.5 para renderizar, reduzindo assim a necessidade de repetir gerações e desperdiçar créditos."
+    }
+  }
+}

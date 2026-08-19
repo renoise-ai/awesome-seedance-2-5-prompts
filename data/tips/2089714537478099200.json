@@ -1,0 +1,41 @@
+{
+  "id": "2089714537478099200",
+  "title": "Use Seedance 2.5 timestamp-based prompting to structure a scene by assigning…",
+  "content": "Use Seedance 2.5 timestamp-based prompting to structure a scene by assigning specific actions to time ranges (e.g., 0–5s opening exchange, 5–10s close combat, 10–15s counterattack, 15–20s second exchange, 20–25s aerial movement, 25–30s final confrontation).\n\nGive each timestamp segment its own direction so different parts of the sequence follow distinct instructions instead of generating the whole scene with one prompt.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/ElCopyMaster/status/2089714537478099200",
+  "sourcePublishedAt": "2026-08-18",
+  "author": {
+    "name": "Rafa Gonzalez | IA",
+    "link": "https://x.com/ElCopyMaster"
+  },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 timestamp-based prompting to structure a scene by assigning specific actions to time ranges (e.g., 0–5s opening exchange, 5–10s close combat, 10–15s counterattack, 15–20s second exchange, 20–25s aerial movement, 25–30s final confrontation).\n\nGive each timestamp segment its own direction so different parts of the sequence follow distinct instructions instead of generating the whole scene with one prompt.",
+  "translations": {
+    "es": {
+      "content": "Usa el prompting basado en timestamps de Seedance 2.5 para estructurar una escena asignando acciones específicas a rangos de tiempo (por ejemplo, 0–5 s intercambio inicial, 5–10 s combate cuerpo a cuerpo, 10–15 s contraataque, 15–20 s segundo intercambio, 20–25 s movimiento aéreo, 25–30 s confrontación final).\n\nDale a cada segmento de timestamp su propia dirección para que distintas partes de la secuencia sigan instrucciones diferentes, en lugar de generar toda la escena con un solo prompt."
+    },
+    "fr": {
+      "content": "Utilisez le prompting basé sur des timestamps de Seedance 2.5 pour structurer une scène en attribuant des actions spécifiques à des plages de temps (par exemple, 0–5 s : échange d’ouverture, 5–10 s : combat rapproché, 10–15 s : contre-attaque, 15–20 s : deuxième échange, 20–25 s : mouvement aérien, 25–30 s : confrontation finale).\n\nDonnez à chaque segment de timestamp sa propre direction afin que différentes parties de la séquence suivent des instructions distinctes au lieu de générer toute la scène avec un seul prompt."
+    },
+    "ja": {
+      "content": "Seedance 2.5 の timestamp-based prompting を使って、シーンを時間帯ごとに構成します。各時間範囲に具体的なアクションを割り当てます（例：0〜5秒の導入のやり取り、5〜10秒の接近戦、10〜15秒の反撃、15〜20秒の2回目のやり取り、20〜25秒の空中移動、25〜30秒の最終対決）。\n\n各 timestamp セグメントごとに個別の指示を与えることで、シーケンスの各部分がそれぞれ異なる指示に従うようにし、1つの prompt でシーン全体を生成するのではなくします。"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 timestamp 기반 prompting을 사용해, 특정 시간 구간에 구체적인 동작을 할당함으로써 장면을 구성하세요(예: 0–5초 오프닝 교전, 5–10초 근접전, 10–15초 반격, 15–20초 두 번째 교전, 20–25초 공중 이동, 25–30초 최종 대결).\n\n각 timestamp 구간마다 별도의 direction을 부여해, 시퀀스의 서로 다른 부분이 하나의 prompt로 전체 장면을 생성하는 대신 각기 다른 지시를 따르도록 하세요."
+    },
+    "pt": {
+      "content": "Use o prompting baseado em timestamps do Seedance 2.5 para estruturar uma cena, atribuindo ações específicas a intervalos de tempo (por exemplo, 0–5s troca inicial, 5–10s combate corpo a corpo, 10–15s contra-ataque, 15–20s segunda troca, 20–25s movimento aéreo, 25–30s confronto final).\n\nDê a cada segmento de timestamp sua própria direção para que diferentes partes da sequência sigam instruções distintas, em vez de gerar a cena inteira com um único prompt."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 基于时间戳的 prompting，通过为不同时间段分配具体动作来构建场景（例如，0–5s 开场交锋，5–10s 近身战斗，10–15s 反击，15–20s 第二轮交锋，20–25s 空中移动，25–30s 最终对决）。\n\n为每个时间戳片段分别提供指令，这样序列的不同部分就会遵循不同的说明，而不是用一个 prompt 生成整个场景。"
+    }
+  }
+}

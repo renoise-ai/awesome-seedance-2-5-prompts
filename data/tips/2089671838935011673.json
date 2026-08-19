@@ -1,0 +1,42 @@
+{
+  "id": "2089671838935011673",
+  "title": "ChatCut DesktopでCodex/Claude Codeを接続し、無音カット・テンポの悪い箇所削除・字幕追加・B-roll挿入・モーショングラフィック…",
+  "content": "ChatCut DesktopでCodex/Claude Codeを接続し、無音カット・テンポの悪い箇所削除・字幕追加・B-roll挿入・モーショングラフィックス追加を指示してAIに編集タイムラインを直接操作させる  \nAIに粗編集させた後、編集途中のタイムラインを人間が開いて「切りすぎ」「字幕がダサい」「B-rollが違う」など気になる箇所だけ手直しする  \n編集タイムラインをXMLで書き出し、Premiere ProやDaVinci Resolveに読み込んでそのまま編集を継続する  \n素材投入→Claude Codeで粗編集→人間がチェック→不満点だけ修正→Premiere/Resolveで仕上げ、の分業ワークフローで回す  \nChatCut Desktopで字幕・B-roll・画像・動画・音楽・モーショングラフィックスまで含めて編集指示し、Seedance 2.5も併用する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089671804608757760/img/H-dHh2NJmuPoe0zZ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089671838935011673.mp4",
+  "sourceLink": "https://x.com/hiro44_pino/status/2089671838935011673",
+  "sourcePublishedAt": "2026-08-18",
+  "author": {
+    "name": "ã��ã�¾ã‚‰ã�¼",
+    "link": "https://x.com/hiro44_pino"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "ChatCut DesktopでCodex/Claude Codeを接続し、無音カット・テンポの悪い箇所削除・字幕追加・B-roll挿入・モーショングラフィックス追加を指示してAIに編集タイムラインを直接操作させる  \nAIに粗編集させた後、編集途中のタイムラインを人間が開いて「切りすぎ」「字幕がダサい」「B-rollが違う」など気になる箇所だけ手直しする  \n編集タイムラインをXMLで書き出し、Premiere ProやDaVinci Resolveに読み込んでそのまま編集を継続する  \n素材投入→Claude Codeで粗編集→人間がチェック→不満点だけ修正→Premiere/Resolveで仕上げ、の分業ワークフローで回す  \nChatCut Desktopで字幕・B-roll・画像・動画・音楽・モーショングラフィックスまで含めて編集指示し、Seedance 2.5も併用する",
+  "translations": {
+    "en": {
+      "content": "Connect Codex/Claude Code in ChatCut Desktop and instruct it to directly manipulate the AI editing timeline by removing silent cuts, deleting poorly paced sections, adding subtitles, inserting B-roll, and adding motion graphics.  \nAfter letting the AI do a rough edit, a human opens the in-progress timeline and only fixes the parts that stand out, such as “too much cut,” “the subtitles look bad,” or “the B-roll is wrong.”  \nExport the editing timeline as XML and import it into Premiere Pro or DaVinci Resolve to continue editing seamlessly.  \nRun it as a division-of-labor workflow: ingest the footage → rough edit with Claude Code → human review → fix only the issues → finish in Premiere/Resolve.  \nUse ChatCut Desktop to give editing instructions covering subtitles, B-roll, images, video, music, and motion graphics, while also combining it with Seedance 2.5."
+    },
+    "es": {
+      "content": "Conectar Codex/Claude Code en ChatCut Desktop y darle instrucciones para que la IA manipule directamente la línea de tiempo de edición: cortar silencios, eliminar partes con mal ritmo, añadir subtítulos, insertar B-roll y agregar motion graphics.  \nDespués de que la IA haga un rough cut, una persona abre la línea de tiempo en proceso y retoca solo los puntos que le preocupan, como “corta demasiado”, “los subtítulos se ven feos” o “el B-roll no encaja”.  \nExportar la línea de tiempo de edición en XML e importarla en Premiere Pro o DaVinci Resolve para continuar editando sin interrupciones.  \nOperar con un flujo de trabajo dividido: ingestión de素材 → rough cut con Claude Code → revisión humana → corrección solo de los puntos insatisfactorios → acabado en Premiere/Resolve.  \nEn ChatCut Desktop, dar instrucciones de edición que incluyan subtítulos, B-roll, imágenes, video, música y motion graphics, y usar también Seedance 2.5."
+    },
+    "fr": {
+      "content": "Connecter Codex/Claude Code à ChatCut Desktop et lui demander de couper les silences, supprimer les passages au rythme trop lent, ajouter des sous-titres, insérer des B-rolls et ajouter des motion graphics afin de permettre à l’IA de manipuler directement la timeline de montage  \nAprès avoir laissé l’IA faire un rough cut, un humain ouvre la timeline en cours de montage et ne retouche que les points qui le dérangent, comme « trop coupé », « les sous-titres sont moches » ou « le B-roll ne convient pas »  \nExporter la timeline de montage en XML, l’importer dans Premiere Pro ou DaVinci Resolve, puis poursuivre le montage tel quel  \nFaire tourner un workflow de répartition des tâches du type : import des素材 → rough cut avec Claude Code → vérification humaine → correction uniquement des points insatisfaisants → finalisation dans Premiere/Resolve  \nDans ChatCut Desktop, donner des instructions de montage incluant sous-titres, B-roll, images, vidéos, musique et motion graphics, tout en utilisant aussi Seedance 2.5"
+    },
+    "ko": {
+      "content": "ChatCut Desktop에서 Codex/Claude Code를 연결해 무음 구간 컷, 템포가 떨어지는 부분 삭제, 자막 추가, B-roll 삽입, 모션 그래픽 추가를 지시하고 AI가 편집 타임라인을 직접 조작하게 한다  \nAI가 러프 컷을 만든 뒤, 편집 중인 타임라인을 사람이 열어 “너무 많이 잘랐다”, “자막이 촌스럽다”, “B-roll이 맞지 않는다” 같은 신경 쓰이는 부분만 손본다  \n편집 타임라인을 XML로 내보내 Premiere Pro나 DaVinci Resolve에 불러와 그대로 편집을 이어간다  \n소재 투입→Claude Code로 러프 컷→사람이 검수→불만족스러운 부분만 수정→Premiere/Resolve에서 마무리,의 분업 워크플로로 운영한다  \nChatCut Desktop에서 자막·B-roll·이미지·영상·음악·모션 그래픽까지 포함해 편집을 지시하고, Seedance 2.5도 함께 활용한다"
+    },
+    "pt": {
+      "content": "Conectar o Codex/Claude Code ao ChatCut Desktop e instruir a IA a operar diretamente a linha do tempo de edição, pedindo corte de trechos sem áudio, remoção de partes com ritmo ruim, adição de legendas, inserção de B-roll e inclusão de motion graphics  \nDepois que a IA fizer uma edição bruta, um humano abre a linha do tempo ainda em edição e ajusta apenas os pontos que incomodam, como “cortou demais”, “a legenda ficou feia” ou “o B-roll está errado”  \nExportar a linha do tempo de edição em XML e importá-la no Premiere Pro ou no DaVinci Resolve para continuar a edição normalmente  \nRodar um fluxo de trabalho dividido entre etapas: inserir o material → fazer a edição bruta com Claude Code → revisão humana → corrigir apenas os pontos insatisfatórios → finalizar no Premiere/Resolve  \nNo ChatCut Desktop, dar instruções de edição incluindo legendas, B-roll, imagens, vídeos, música e motion graphics, usando também o Seedance 2.5"
+    },
+    "zh": {
+      "content": "在 ChatCut Desktop 中连接 Codex/Claude Code，指示其进行无声片段剪切、删除节奏不佳的部分、添加字幕、插入 B-roll、添加动效图形，让 AI 直接操作编辑时间线  \n先让 AI 做粗剪，然后由人类打开中途的编辑时间线，只针对“剪得太狠了”“字幕太土了”“B-roll 不对”等在意的地方进行微调  \n将编辑时间线导出为 XML，并导入 Premiere Pro 或 DaVinci Resolve，直接继续编辑  \n按照“导入素材 → 用 Claude Code 做粗剪 → 人工检查 → 只修正不满意的部分 → 在 Premiere/Resolve 中完成收尾”的分工工作流来运作  \n在 ChatCut Desktop 中连同字幕、B-roll、图片、视频、音乐、动效图形一起下达编辑指令，并配合使用 Seedance 2.5"
+    }
+  }
+}

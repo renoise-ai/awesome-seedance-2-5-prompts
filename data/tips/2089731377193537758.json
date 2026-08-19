@@ -1,0 +1,42 @@
+{
+  "id": "2089731377193537758",
+  "title": "使用 Seedance 2.5 导演 Skill 先生成视频脚本（如 I will），再按脚本生成视频",
+  "content": "使用 Seedance 2.5 导演 Skill 先生成视频脚本（如 I will），再按脚本生成视频  \n让导演 Skill 输出全部提示词，你只需提供人物三视图参考图和场景参考图作为输入",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089730460528316416/img/UawVtUAWkT1hGsBY.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089731377193537758.mp4",
+  "sourceLink": "https://x.com/liyue_ai/status/2089731377193537758",
+  "sourcePublishedAt": "2026-08-18",
+  "author": {
+    "name": "æ�Žå²³",
+    "link": "https://x.com/liyue_ai"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "使用 Seedance 2.5 导演 Skill 先生成视频脚本（如 I will），再按脚本生成视频  \n让导演 Skill 输出全部提示词，你只需提供人物三视图参考图和场景参考图作为输入",
+  "translations": {
+    "en": {
+      "content": "Use the Seedance 2.5 Director Skill to first generate a video script (e.g., “I will”), then generate the video based on that script.  \nLet the Director Skill output all the prompts; you only need to provide a character three-view reference image and a scene reference image as input.\n\n--- QUOTED TWEET ---\nI used my “Seedance 2.5 Director” Skill to generate a video script: I will.\n\nAll prompts were output by the Skill, and I only provided a character three-view and a scene reference image.\n\nThe overall result is already quite good. The detailed production process is as follows: https://t.co/hGZw4ltUAG\n---"
+    },
+    "es": {
+      "content": "Usa primero el Skill de director de Seedance 2.5 para generar el guion del video (por ejemplo, I will), y luego genera el video según ese guion.  \nHaz que el Skill de director genere todos los prompts; tú solo necesitas proporcionar como entrada la imagen de referencia de las tres vistas del personaje y la imagen de referencia de la escena.\n\n--- TWEET CITADO ---\nUsé mi Skill de «director de Seedance 2.5» para generar el guion del video: I will.\n\nTodos los prompts los generó el Skill; solo proporcioné las tres vistas del personaje y la imagen de referencia de la escena.\n\nLa sensación general ya es bastante buena; el flujo de trabajo específico es el siguiente: https://t.co/hGZw4ltUAG"
+    },
+    "fr": {
+      "content": "Utilisez d’abord le Skill de réalisation Seedance 2.5 pour générer le script vidéo (par exemple : I will), puis générez la vidéo à partir du script.  \nLaissez le Skill de réalisation générer l’ensemble des prompts ; il vous suffit de fournir en entrée une image de référence du personnage en vue de face/profil/dos et une image de référence du décor.\n\n--- TWEET CITÉ ---\nJ’ai utilisé mon Skill « Seedance 2.5导演 » pour générer le script vidéo : I will.\n\nTous les prompts ont été générés par le Skill ; je n’ai fourni que les vues du personnage sous trois angles et une image de référence du décor.\n\nL’ensemble est déjà très convaincant ; voici le processus de production détaillé : https://t.co/hGZw4ltUAG\n---"
+    },
+    "ja": {
+      "content": "Seedance 2.5のDirector Skillでまず動画スクリプトを生成し（例: I will）、そのスクリプトに基づいて動画を生成する  \nDirector Skillにすべてのプロンプトを出力させ、入力としては人物の三面図の参考画像とシーンの参考画像だけを用意すればよい\n\n--- QUOTED TWEET ---\n私の「Seedance 2.5 Director」Skillで動画スクリプトを生成：I will。\n\nすべてのプロンプトはSkillが出力し、提供したのは人物の三面図とシーンの参考画像のみ。\n\n全体的な仕上がりはかなり良く、具体的な制作フローは以下のとおりです: https://t.co/hGZw4ltUAG\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5 Director Skill을 사용해 먼저 영상 스크립트(예: I will)를 생성한 뒤, 그 스크립트에 따라 영상을 생성하세요.  \nDirector Skill이 모든 프롬프트를 출력하므로, 입력으로는 인물 3면도 참고 이미지와 장면 참고 이미지만 제공하면 됩니다.\n\n--- 인용 트윗 ---\n내 「Seedance 2.5 Director」 Skill로 영상 스크립트 생성: I will.\n\n모든 프롬프트는 Skill이 출력했고, 인물 3면도와 장면 참고 이미지만 제공했다.\n\n전체적인 느낌은 이미 꽤 좋다. 구체적인 제작 과정은 다음과 같다: https://t.co/hGZw4ltUAG\n---"
+    },
+    "pt": {
+      "content": "Use o Skill de Diretor do Seedance 2.5 para primeiro gerar o roteiro do vídeo (como em “I will”) e, depois, gerar o vídeo com base no roteiro.  \nDeixe o Skill de Diretor gerar todos os prompts; você só precisa fornecer como entrada a imagem de referência em três vistas do personagem e a imagem de referência do cenário.\n\n--- TWEET CITADO ---\nUse meu Skill de “diretor Seedance 2.5” para gerar o roteiro do vídeo: I will.\n\nTodos os prompts foram gerados pelo Skill; só foram fornecidas as três vistas do personagem e a imagem de referência do cenário.\n\nA impressão geral já está bem boa; o fluxo de produção específico é o seguinte: https://t.co/hGZw4ltUAG"
+    }
+  }
+}

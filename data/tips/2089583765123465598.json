@@ -1,0 +1,42 @@
+{
+  "id": "2089583765123465598",
+  "title": "Seedance 2.5では参照画像を最大30枚まで渡せるので、絵柄崩れを抑えたい場合は先頭フレーム1枚だけでなく複数枚（例：4〜5枚）を参照画像として入力する",
+  "content": "Seedance 2.5では参照画像を最大30枚まで渡せるので、絵柄崩れを抑えたい場合は先頭フレーム1枚だけでなく複数枚（例：4〜5枚）を参照画像として入力する  \nSeedance 2.5に参照音声を渡して口パク（口の動き）を音声に同期させる  \nSeedance 2.5のコスト見積もりは720p 15秒×2本で$6.94程度を目安にし、短尺カット分割（例：5秒×複数カット）と比較して採用判断する  \nFish Audioでキャラ音声を作成して固定し、音声・BGM・テロップ追加・動画結合までをClaudeCodeで自動化して制作フローを一括処理する  \n制作手順をskill化して「◯◯のアニメつくって」と指示→必要事項を数点確認→残りをClaudeCodeに完遂させる運用にすると待ち時間中心で回せる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089570503795326976/img/qd0Ut0enQ86fUKAL.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089583765123465598.mp4",
+  "sourceLink": "https://x.com/yuru2_Kurage/status/2089583765123465598",
+  "sourcePublishedAt": "2026-08-18",
+  "author": {
+    "name": "ã��ã‚‰ã�’ï½œNoggleChangerÂ®ä»£è¡¨ã€Œå¤‰ã�§ã�„ã�„ã€�ã‚’AIã�§ä»•äº‹ã�«ã�—ã�¦ã‚‹äºº",
+    "link": "https://x.com/yuru2_Kurage"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5では参照画像を最大30枚まで渡せるので、絵柄崩れを抑えたい場合は先頭フレーム1枚だけでなく複数枚（例：4〜5枚）を参照画像として入力する  \nSeedance 2.5に参照音声を渡して口パク（口の動き）を音声に同期させる  \nSeedance 2.5のコスト見積もりは720p 15秒×2本で$6.94程度を目安にし、短尺カット分割（例：5秒×複数カット）と比較して採用判断する  \nFish Audioでキャラ音声を作成して固定し、音声・BGM・テロップ追加・動画結合までをClaudeCodeで自動化して制作フローを一括処理する  \n制作手順をskill化して「◯◯のアニメつくって」と指示→必要事項を数点確認→残りをClaudeCodeに完遂させる運用にすると待ち時間中心で回せる",
+  "translations": {
+    "en": {
+      "content": "In Seedance 2.5, you can provide up to 30 reference images, so if you want to minimize style drift, input multiple reference images (e.g., 4–5) instead of just a single first frame.\n\nPass reference audio to Seedance 2.5 to synchronize lip movements with the audio.\n\nFor cost estimation in Seedance 2.5, use roughly $6.94 as a benchmark for two 15-second 720p videos, and decide whether to adopt it by comparing against short-cut segmentation (e.g., multiple 5-second cuts).\n\nCreate and lock in character voices with Fish Audio, then automate the workflow end to end with ClaudeCode—from audio, BGM, and subtitle addition to video stitching.\n\nTurn the production steps into a skill, so you can say, “Make an anime of ◯◯,” confirm a few necessary details, and let ClaudeCode complete the rest. This way, the workflow can be run mostly as a waiting-time process."
+    },
+    "es": {
+      "content": "Seedance 2.5 permite pasar hasta 30 imágenes de referencia, así que, si quieres reducir las inconsistencias en el estilo visual, conviene introducir varias imágenes de referencia (por ejemplo, 4 a 5) en lugar de solo un fotograma inicial.  \nPasar audio de referencia a Seedance 2.5 para sincronizar el lip sync (movimiento de la boca) con el audio.  \nPara la estimación de costes de Seedance 2.5, toma como referencia unos $6.94 por 2 vídeos de 15 segundos a 720p, y compáralo con la opción de dividir en clips cortos (por ejemplo, varios cortes de 5 segundos) para decidir si conviene adoptarlo.  \nCrear y fijar la voz del personaje con Fish Audio, y automatizar con ClaudeCode todo el flujo de producción, desde añadir voz, BGM, subtítulos y la unión de vídeos, para procesar el pipeline de producción de forma integral.  \nConvertir el procedimiento de producción en un skill y operar con un flujo del tipo: “haz un anime de ◯◯” → confirmar unos pocos datos necesarios → dejar que ClaudeCode complete el resto, de modo que se pueda trabajar principalmente durante los tiempos de espera."
+    },
+    "fr": {
+      "content": "Dans Seedance 2.5, il est possible de fournir jusqu’à 30 images de référence ; si vous voulez limiter les déformations du style visuel, n’utilisez pas seulement une seule image de la première frame, mais plusieurs images (par exemple 4 à 5) comme images de référence.  \nFournir une voix de référence à Seedance 2.5 pour synchroniser le lip sync (mouvements de la bouche) avec l’audio.  \nPour l’estimation des coûts de Seedance 2.5, prenez comme repère environ 6,94 $ pour 2 vidéos de 15 secondes en 720p, et comparez cela à une découpe en plans courts (par exemple plusieurs plans de 5 secondes) pour décider de l’adoption.  \nCréer une voix de personnage avec Fish Audio et la figer, puis automatiser avec ClaudeCode l’ajout de la voix, de la BGM, des sous-titres incrustés et l’assemblage vidéo, afin de traiter d’un seul coup l’ensemble du workflow de production.  \nEn transformant la procédure de production en skill et en adoptant un fonctionnement du type : « Crée une animation de ◯◯ » → vérifier quelques éléments nécessaires → laisser ClaudeCode terminer le reste, on peut faire tourner le processus principalement en temps d’attente."
+    },
+    "ko": {
+      "content": "Seedance 2.5에서는 참조 이미지를 최대 30장까지 전달할 수 있으므로, 그림체 붕괴를 줄이고 싶다면 첫 프레임 1장만이 아니라 여러 장(예: 4~5장)을 참조 이미지로 입력한다  \nSeedance 2.5에 참조 음성을 전달해 립싱크(입 모양의 움직임)를 음성에 동기화한다  \nSeedance 2.5의 비용 견적은 720p 15초 × 2본 기준으로 약 $6.94 정도를 기준으로 삼고, 단편 컷 분할(예: 5초 × 여러 컷)과 비교해 채택 여부를 판단한다  \nFish Audio로 캐릭터 음성을 제작해 고정하고, 음성·BGM·자막 추가·영상 결합까지를 ClaudeCode로 자동화해 제작 플로우를 일괄 처리한다  \n제작 절차를 skill화해 “◯◯ 애니메이션 만들어”라고 지시 → 필요한 사항을 몇 가지 확인 → 나머지는 ClaudeCode가 완수하게 하는 운영 방식으로 하면 대기 시간 중심으로 돌릴 수 있다"
+    },
+    "pt": {
+      "content": "No Seedance 2.5, é possível fornecer até 30 imagens de referência; então, se quiser reduzir distorções no estilo visual, em vez de usar apenas uma imagem do primeiro frame, insira várias imagens como referência (por exemplo, 4 a 5 imagens).\n\nPasse uma referência de áudio para o Seedance 2.5 e sincronize o lip sync (movimento da boca) com o áudio.\n\nPara estimar o custo do Seedance 2.5, considere como referência cerca de US$ 6,94 para 2 vídeos de 15 segundos em 720p e compare com a opção de dividir em cortes curtos (por exemplo, vários cortes de 5 segundos) antes de decidir pela adoção.\n\nCrie e fixe a voz do personagem com o Fish Audio e automatize com o ClaudeCode todo o fluxo de produção — desde voz, BGM, adição de legendas/telops e junção dos vídeos — para processar o workflow de ponta a ponta.\n\nTransforme o processo de produção em uma skill e opere assim: instruir “faça uma animação de ◯◯” → confirmar alguns itens necessários → deixar o restante ser concluído pelo ClaudeCode. Dessa forma, é possível tocar o fluxo com o tempo de espera como foco principal."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中，参考图像最多可提供 30 张，因此如果想尽量抑制画风崩坏，不要只输入首帧 1 张，而是将多张图像（例如 4～5 张）作为参考图像输入。  \n向 Seedance 2.5 提供参考音频，让口型（嘴部动作）与音频同步。  \nSeedance 2.5 的成本估算可按 720p、15 秒 × 2 条约 $6.94 作为参考，并与短时长切分（例如 5 秒 × 多个镜头）进行比较后再判断是否采用。  \n使用 Fish Audio 制作并固定角色音色，再通过 ClaudeCode 自动化完成音频、BGM、字幕添加以及视频合并，实现制作流程的一体化处理。  \n将制作步骤技能化，采用“做一个◯◯动画”这样的指令 → 确认几个必要事项 → 其余交给 ClaudeCode 完成的运作方式，就能以等待时间为主来推进。"
+    }
+  }
+}

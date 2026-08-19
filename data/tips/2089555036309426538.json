@@ -1,0 +1,42 @@
+{
+  "id": "2089555036309426538",
+  "title": "複雑なアクション指示（例：刀パルクール）を表現したい場合は、MiniMax H3よりSeedance 2.5を選ぶ",
+  "content": "複雑なアクション指示（例：刀パルクール）を表現したい場合は、MiniMax H3よりSeedance 2.5を選ぶ  \n同一プロンプトで比較する際は、H3を10秒・480p・20 steps、Seedance 2.5を15秒・480pで生成して差を確認する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089552586819137537/img/7-YE7Fcdbhp-hQ_X.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089555036309426538.mp4",
+  "sourceLink": "https://x.com/ish_creative/status/2089555036309426538",
+  "sourcePublishedAt": "2026-08-18",
+  "author": {
+    "name": "いっしゅ / AIクリエイター",
+    "link": "https://x.com/ish_creative"
+  },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "複雑なアクション指示（例：刀パルクール）を表現したい場合は、MiniMax H3よりSeedance 2.5を選ぶ  \n同一プロンプトで比較する際は、H3を10秒・480p・20 steps、Seedance 2.5を15秒・480pで生成して差を確認する",
+  "translations": {
+    "en": {
+      "content": "If you want to express complex action instructions (e.g., sword parkour), choose Seedance 2.5 over MiniMax H3.  \nWhen comparing with the same prompt, generate H3 at 10 seconds, 480p, 20 steps, and Seedance 2.5 at 15 seconds, 480p, to check the difference."
+    },
+    "es": {
+      "content": "Si quieres expresar instrucciones de acción complejas (por ejemplo, parkour con espada), elige Seedance 2.5 en lugar de MiniMax H3.  \nAl comparar con el mismo prompt, genera H3 en 10 segundos, 480p y 20 steps, y Seedance 2.5 en 15 segundos, 480p, para comprobar las diferencias."
+    },
+    "fr": {
+      "content": "Si vous souhaitez exprimer des instructions d’action complexes (par exemple, du parkour au sabre), choisissez Seedance 2.5 plutôt que MiniMax H3.  \nLors d’une comparaison avec le même prompt, générez H3 en 10 secondes, 480p, 20 steps, et Seedance 2.5 en 15 secondes, 480p, afin de vérifier les différences."
+    },
+    "ko": {
+      "content": "복잡한 액션 지시(예: 검 파쿠르)를 표현하고 싶다면 MiniMax H3보다 Seedance 2.5를 선택하세요.  \n동일한 prompt로 비교할 때는 H3를 10초·480p·20 steps로, Seedance 2.5를 15초·480p로 생성해 차이를 확인합니다."
+    },
+    "pt": {
+      "content": "Se você quiser expressar instruções de ação complexas (por exemplo, sword parkour), escolha o Seedance 2.5 em vez do MiniMax H3.  \nAo comparar com o mesmo prompt, gere o H3 em 10 segundos, 480p, 20 steps, e o Seedance 2.5 em 15 segundos, 480p, para verificar as diferenças."
+    },
+    "zh": {
+      "content": "如果你想表现复杂的动作指令（例如刀剑跑酷），请选择 Seedance 2.5，而不是 MiniMax H3。  \n在使用同一 prompt 进行对比时，可将 H3 设为 10 秒、480p、20 steps 生成，Seedance 2.5 设为 15 秒、480p 生成，以便确认差异。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2089682316469911611",
+  "title": "GPT image 2.0で「奥にヒーローを配置」したキーフレーム画像を作り、それをSeedance 2.5に渡して縮尺と光線方向を固定する",
+  "content": "GPT image 2.0で「奥にヒーローを配置」したキーフレーム画像を作り、それをSeedance 2.5に渡して縮尺と光線方向を固定する  \n複雑な構図はプロンプトだけで詰めず、参照素材（キーフレーム/画像）を用意してSeedanceに渡して迷子を防ぐ",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089681968619470848/img/968WaE-VnXpze8gV.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089682316469911611.mp4",
+  "sourceLink": "https://x.com/nAI_station/status/2089682316469911611",
+  "sourcePublishedAt": "2026-08-18",
+  "author": {
+    "name": "naisute",
+    "link": "https://x.com/nAI_station"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "GPT image 2.0で「奥にヒーローを配置」したキーフレーム画像を作り、それをSeedance 2.5に渡して縮尺と光線方向を固定する  \n複雑な構図はプロンプトだけで詰めず、参照素材（キーフレーム/画像）を用意してSeedanceに渡して迷子を防ぐ",
+  "translations": {
+    "en": {
+      "content": "Create a keyframe image in GPT Image 2.0 with the “hero placed in the background,” then pass it to Seedance 2.5 to lock in the scale and direction of the light rays.  \nFor complex compositions, don’t try to force everything through the prompt alone—prepare reference materials (keyframes/images) and pass them to Seedance to keep it from getting lost.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Until I showed it this far, no matter how many prompts I entered, it kept getting lost.\n\nReference materials are really important.\n\nHere is the registration link for Sousaku AI. https://t.co/fdC2KIlaIi https://t.co/GW4crhzYnC\n---"
+    },
+    "es": {
+      "content": "Crear una imagen de keyframe en GPT Image 2.0 con “el héroe colocado al fondo” y pasársela a Seedance 2.5 para fijar la escala y la dirección de la luz.  \nNo intentes resolver una composición compleja solo con el prompt; prepara material de referencia (keyframe/imagen) y pásaselo a Seedance para evitar que se pierda.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Hasta que no lo saqué así, por más prompts que metiera, se perdía.\n\nEl material de referencia es realmente importante.\n\nEste es el enlace de registro de Sousaku AI. https://t.co/fdC2KIlaIi https://t.co/GW4crhzYnC"
+    },
+    "fr": {
+      "content": "Créer une image de keyframe avec « le héros placé au fond » dans GPT image 2.0, puis la transmettre à Seedance 2.5 pour fixer l’échelle et la direction de la lumière  \nPour les compositions complexes, ne vous contentez pas de les verrouiller avec le prompt seul : préparez des éléments de référence (keyframe/image) et transmettez-les à Seedance pour éviter qu’il ne se perde\n\n--- SUITE DU THREAD ---\n[Thread 1] Sans aller jusque-là, peu importe le nombre de prompts que j’ai saisis, le modèle se perdait.\n\nLes éléments de référence sont vraiment essentiels.\n\nVoici le lien d’inscription à Sousaku AI. https://t.co/fdC2KIlaIi https://t.co/GW4crhzYnC"
+    },
+    "ko": {
+      "content": "GPT image 2.0で「奥にヒーローを配置」したキーフレーム画像を作り、それをSeedance 2.5に渡して縮尺と光線方向を固定する  \n複雑な構図はpromptだけで詰めず、参照素材（キーフレーム/画像）を用意してSeedanceに渡して迷子を防ぐ\n\n--- THREAD CONTINUATION ---\n[Thread 1] ここまで出さないと、いくらpromptを入れても迷子になりました。\n\n参照素材が本当に大事です。\n\nSousaku AIの登録リンクはこちらです。 https://t.co/fdC2KIlaIi https://t.co/GW4crhzYnC"
+    },
+    "pt": {
+      "content": "Crie uma imagem de keyframe no GPT Image 2.0 com o “herói posicionado ao fundo” e passe isso para o Seedance 2.5 para fixar a escala e a direção da luz.  \nNão tente resolver composições complexas só com o prompt; prepare material de referência (keyframe/imagem) e envie ao Seedance para evitar que ele se perca.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Só depois de mostrar isso, mesmo colocando prompt atrás de prompt, ele continuava se perdendo.\n\nMaterial de referência é realmente importante.\n\nAqui está o link de cadastro do Sousaku AI. https://t.co/fdC2KIlaIi https://t.co/GW4crhzYnC\n---"
+    },
+    "zh": {
+      "content": "用 GPT image 2.0 制作一张“将英雄放在画面深处”的关键帧图像，再交给 Seedance 2.5，以固定缩放比例和光线方向  \n复杂构图不要只靠 prompt 硬塞，准备好参考素材（关键帧/图片）再交给 Seedance，避免它跑偏\n\n--- THREAD CONTINUATION ---\n[Thread 1] 不把这些做到这一步的话，哪怕再怎么输入 prompt，也还是会跑偏。\n\n参考素材真的非常重要。\n\nSousaku AI 的注册链接在这里。 https://t.co/fdC2KIlaIi https://t.co/GW4crhzYnC\n---"
+    }
+  }
+}
