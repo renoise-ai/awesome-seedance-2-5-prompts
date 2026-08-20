@@ -1,0 +1,43 @@
+{
+  "id": "2090118247978762656",
+  "title": "Create labeled reference images (characters/locations/objects) and @-mention…",
+  "content": "Create labeled reference images (characters/locations/objects) and @-mention them in your Seedance prompt to keep consistency across scenes.  \nBeef up Seedance prompts with technical camera details (e.g., lens specs) to improve results.  \nGenerate in Seedance 2.5 at 720p, then upscale to 4K in post (e.g., Topaz Artemis) if you need higher resolution delivery.  \nPrefer prompting and generating each shot individually instead of relying on multi-cut sequences to reduce artifacts and illogical behavior.  \nUse an iterative loop: refine the prompt (e.g., with Claude) → generate in Higgsfield/Seedance → inspect failures → adjust prompt → retry until acceptable.  \nPre-block a complex shot by generating image stills for specific timestamps (mini-storyboard), then use those as guidance to reduce retries/credit waste.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090110831144919040/img/YByshGlaMd4I4SBL.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090118247978762656.mp4",
+  "sourceLink": "https://x.com/mneary0/status/2090118247978762656",
+  "sourcePublishedAt": "2026-08-19",
+  "author": {
+    "name": "Matt Neary",
+    "link": "https://x.com/mneary0"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Create labeled reference images (characters/locations/objects) and @-mention them in your Seedance prompt to keep consistency across scenes.  \nBeef up Seedance prompts with technical camera details (e.g., lens specs) to improve results.  \nGenerate in Seedance 2.5 at 720p, then upscale to 4K in post (e.g., Topaz Artemis) if you need higher resolution delivery.  \nPrefer prompting and generating each shot individually instead of relying on multi-cut sequences to reduce artifacts and illogical behavior.  \nUse an iterative loop: refine the prompt (e.g., with Claude) → generate in Higgsfield/Seedance → inspect failures → adjust prompt → retry until acceptable.  \nPre-block a complex shot by generating image stills for specific timestamps (mini-storyboard), then use those as guidance to reduce retries/credit waste.",
+  "translations": {
+    "es": {
+      "content": "Crea imágenes de referencia etiquetadas (personajes/ubicaciones/objetos) y menciónalas con @ en tu prompt de Seedance para mantener la coherencia entre escenas.  \nRefuerza los prompts de Seedance con detalles técnicos de cámara (p. ej., especificaciones de lente) para mejorar los resultados.  \nGenera en Seedance 2.5 a 720p y luego haz upscale a 4K en postproducción (p. ej., Topaz Artemis) si necesitas entregar en mayor resolución.  \nEs preferible redactar y generar cada plano de forma individual en lugar de depender de secuencias multicorte, para reducir artefactos y comportamientos ilógicos.  \nUsa un bucle iterativo: refina el prompt (p. ej., con Claude) → genera en Higgsfield/Seedance → inspecciona los fallos → ajusta el prompt → vuelve a intentarlo hasta que sea aceptable.  \nPrebloquea un plano complejo generando imágenes fijas para timestamps específicos (mini storyboard) y luego úsalas como guía para reducir reintentos y el desperdicio de créditos."
+    },
+    "fr": {
+      "content": "Créez des images de référence étiquetées (personnages/lieux/objets) et mentionnez-les avec @ dans votre prompt Seedance afin de maintenir la cohérence d’une scène à l’autre.  \nEnrichissez les prompts Seedance avec des détails techniques de caméra (par ex. les spécifications de l’objectif) pour améliorer les résultats.  \nGénérez dans Seedance 2.5 en 720p, puis faites un upscale en 4K en postproduction (par ex. Topaz Artemis) si vous avez besoin d’une livraison en plus haute résolution.  \nPrivilégiez le prompting et la génération de chaque plan individuellement plutôt que de vous appuyer sur des séquences multi-plans, afin de réduire les artefacts et les comportements illogiques.  \nUtilisez une boucle itérative : affinez le prompt (par ex. avec Claude) → générez dans Higgsfield/Seedance → examinez les échecs → ajustez le prompt → réessayez jusqu’à obtenir un résultat acceptable.  \nPré-bloquez un plan complexe en générant des images fixes pour des timestamps précis (mini-storyboard), puis utilisez-les comme guide pour réduire les essais répétés et le gaspillage de crédits."
+    },
+    "ja": {
+      "content": "---\n一貫性を保つために、ラベル付きの参照画像（キャラクター／ロケーション／オブジェクト）を作成し、Seedance の prompt 内で @ メンションしてください。  \nSeedance の prompt は、レンズ仕様などの技術的なカメラ情報を加えて強化すると、結果が向上します。  \nSeedance 2.5 では 720p で生成し、より高解像度の納品が必要な場合は、後処理で 4K にアップスケールします（例: Topaz Artemis）。  \nアーティファクトや不自然な挙動を減らすため、マルチカットのシーケンスに頼るよりも、各ショットを個別に prompt して生成することを推奨します。  \n反復ループを使います。prompt を洗練し（例: Claude を使用）、→ Higgsfield/Seedance で生成 → 失敗箇所を確認 → prompt を調整 → 許容できる結果になるまで再試行します。  \n複雑なショットは、特定のタイムスタンプ用に静止画を生成して事前にブロッキングし（ミニ・ストーリーボード）、それをガイドとして使うことで、再試行回数やクレジットの無駄を減らします。\n---"
+    },
+    "ko": {
+      "content": "---\n장면 간 일관성을 유지하려면 라벨이 붙은 레퍼런스 이미지(캐릭터/장소/오브젝트)를 만들고 Seedance prompt에서 @-mention으로 참조하세요.  \n더 나은 결과를 위해 렌즈 스펙 같은 기술적인 카메라 세부 정보를 Seedance prompt에 추가해 보강하세요.  \n고해상도 납품이 필요하다면 Seedance 2.5에서 720p로 생성한 뒤, 후반 작업에서 4K로 업스케일하세요(예: Topaz Artemis).  \n아티팩트와 비논리적인 동작을 줄이려면 멀티컷 시퀀스에 의존하기보다 각 샷을 개별적으로 prompting하고 생성하는 것을 권장합니다.  \n반복 루프를 사용하세요: prompt를 다듬고(예: Claude로) → Higgsfield/Seedance에서 생성 → 실패한 부분을 검토 → prompt를 조정 → 만족할 때까지 재시도합니다.  \n복잡한 샷은 특정 타임스탬프에 대한 이미지 스틸(미니 스토리보드)을 먼저 생성해 사전 블로킹하고, 이를 가이드로 활용해 재시도와 크레딧 낭비를 줄이세요.\n---"
+    },
+    "pt": {
+      "content": "Crie imagens de referência rotuladas (personagens/locais/objetos) e faça @-mention delas no seu prompt do Seedance para manter a consistência entre as cenas.  \nEnriqueça os prompts do Seedance com detalhes técnicos de câmera (por exemplo, especificações de lente) para melhorar os resultados.  \nGere no Seedance 2.5 em 720p e depois faça upscale para 4K na pós-produção (por exemplo, Topaz Artemis) se precisar entregar em resolução mais alta.  \nPrefira criar e gerar cada tomada individualmente, em vez de depender de sequências com múltiplos cortes, para reduzir artefatos e comportamentos ilógicos.  \nUse um loop iterativo: refine o prompt (por exemplo, com Claude) → gere no Higgsfield/Seedance → inspecione as falhas → ajuste o prompt → tente novamente até ficar aceitável.  \nFaça um pré-blocking de uma tomada complexa gerando imagens estáticas para timestamps específicos (mini storyboard) e use-as como guia para reduzir tentativas extras e desperdício de créditos."
+    },
+    "zh": {
+      "content": "创建带标签的参考图像（角色/地点/物体），并在你的 Seedance prompt 中用 @ 提及它们，以保持跨场景的一致性。  \n在 Seedance prompts 中加入更具体的技术性镜头细节（例如镜头规格），以提升效果。  \n先在 Seedance 2.5 中以 720p 生成，再在后期放大到 4K（例如使用 Topaz Artemis），如果你需要更高分辨率的交付。  \n优先逐个镜头进行 prompting 和生成，而不是依赖多镜头序列，以减少瑕疵和不合逻辑的行为。  \n使用迭代循环：优化 prompt（例如借助 Claude）→ 在 Higgsfield/Seedance 中生成 → 检查失败之处 → 调整 prompt → 重试，直到可接受为止。  \n对于复杂镜头，先为特定时间点生成静态图像进行预分镜（mini-storyboard），再将这些图像作为指导，以减少重试和 credit 浪费。"
+    }
+  }
+}

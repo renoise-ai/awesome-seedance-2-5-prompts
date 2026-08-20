@@ -1,0 +1,45 @@
+{
+  "id": "2089951838112288976",
+  "title": "Gunakan referensi gambar dan video (bukan hanya prompt teks) untuk kontrol…",
+  "content": "Gunakan referensi gambar dan video (bukan hanya prompt teks) untuk kontrol objek yang lebih detail di Seedance2.5, misalnya saat mengarahkan pergerakan bola.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089951676476313600/img/Nhd7qVPfxVAbCqYC.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089951838112288976.mp4",
+  "sourceLink": "https://x.com/Cencencahya12/status/2089951838112288976",
+  "sourcePublishedAt": "2026-08-19",
+  "author": {
+    "name": "Cencen",
+    "link": "https://x.com/Cencencahya12"
+  },
+  "tags": [
+    "Sports",
+    "Other Competition",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Gunakan referensi gambar dan video (bukan hanya prompt teks) untuk kontrol objek yang lebih detail di Seedance2.5, misalnya saat mengarahkan pergerakan bola.",
+  "translations": {
+    "en": {
+      "content": "Use image and video references (not just text prompts) for more detailed object control in Seedance2.5, for example when directing the movement of a ball."
+    },
+    "es": {
+      "content": "Usa referencias de imagen y video (no solo prompts de texto) para un control más detallado de los objetos en Seedance2.5, por ejemplo al dirigir el movimiento de una pelota."
+    },
+    "fr": {
+      "content": "Utilisez des références d’images et de vidéos (pas seulement des prompts textuels) pour un contrôle plus détaillé des objets dans Seedance2.5, par exemple lorsque vous dirigez le mouvement d’une balle."
+    },
+    "ja": {
+      "content": "Seedance2.5では、オブジェクトの動きをより細かく制御するために、テキスト prompt だけでなく画像や動画の参照を使用しましょう。たとえば、ボールの動きを指示する場合などです。"
+    },
+    "ko": {
+      "content": "Seedance2.5에서는 객체를 더 세밀하게 제어하기 위해 이미지와 비디오 참조를 사용하세요(텍스트 prompt만 사용하지 말고), 예를 들어 공의 움직임을 지시할 때처럼."
+    },
+    "pt": {
+      "content": "Use referências de imagem e vídeo (não apenas prompt de texto) para um controle mais detalhado dos objetos no Seedance2.5, por exemplo, ao direcionar o movimento de uma bola."
+    },
+    "zh": {
+      "content": "在 Seedance2.5 中，使用图像和视频参考（而不仅仅是文本 prompt）可以更细致地控制对象，例如在引导球体运动时。"
+    }
+  }
+}

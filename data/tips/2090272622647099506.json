@@ -1,0 +1,42 @@
+{
+  "id": "2090272622647099506",
+  "title": "参照画像なしでも、Seedance 2.5はプロンプトのみで合戦シーンのような複雑な群衆・土埃などのディテール表現が可能なので、まずはテキストプロンプトだけで生…",
+  "content": "参照画像なしでも、Seedance 2.5はプロンプトのみで合戦シーンのような複雑な群衆・土埃などのディテール表現が可能なので、まずはテキストプロンプトだけで生成してから細部を調整する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089846584678957056/img/Q560dzdRf11ZMpur.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090272622647099506.mp4",
+  "sourceLink": "https://x.com/fujiryu00/status/2090272622647099506",
+  "sourcePublishedAt": "2026-08-20",
+  "author": {
+    "name": "ã�µã�˜ã‚Šã‚…ã�†ï½œ(æ ª)BLUUPRINT CEOï½œå‹•ç”»ã‚¯ãƒªã‚¨ã‚¤ã‚¿ãƒ¼",
+    "link": "https://x.com/fujiryu00"
+  },
+  "tags": [
+    "Action",
+    "Military",
+    "Photoreal",
+    "Historical",
+    "Tutorial"
+  ],
+  "tips": "参照画像なしでも、Seedance 2.5はプロンプトのみで合戦シーンのような複雑な群衆・土埃などのディテール表現が可能なので、まずはテキストプロンプトだけで生成してから細部を調整する",
+  "translations": {
+    "en": {
+      "content": "Even without a reference image, Seedance 2.5 can use prompt-only generation to express complex crowd scenes and details like dust and dirt, so first generate it using only a text prompt, then fine-tune the details."
+    },
+    "es": {
+      "content": "Incluso sin una imagen de referencia, Seedance 2.5 puede expresar detalles complejos como multitudes y polvo levantado en escenas de batalla solo con un prompt, así que primero genera únicamente con texto y luego ajusta los detalles."
+    },
+    "fr": {
+      "content": "Même sans image de référence, Seedance 2.5 peut, à partir du seul prompt, exprimer des détails complexes comme des foules et de la poussière soulevée, à la manière d’une scène de bataille ; il est donc préférable de commencer par générer uniquement à partir du prompt texte, puis d’ajuster les détails."
+    },
+    "ko": {
+      "content": "참조 이미지가 없어도 Seedance 2.5는 prompt만으로도 합전 장면 같은 복잡한 군중, 흙먼지 등의 디테일을 표현할 수 있으므로, 우선 텍스트 prompt만으로 생성한 뒤 세부를 조정한다"
+    },
+    "pt": {
+      "content": "Mesmo sem imagem de referência, o Seedance 2.5 consegue, apenas com prompt, expressar detalhes complexos como multidões e poeira levantada em cenas de batalha; então, primeiro gere só com o texto do prompt e depois ajuste os detalhes."
+    },
+    "zh": {
+      "content": "即使没有参考图像，Seedance 2.5 也能仅凭 prompt 表现出如合战场景般复杂的群像、尘土等细节，因此可以先只用文本 prompt 生成，再对细节进行调整"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2089989243418325150",
+  "title": "When prompting Seedance 2.5 for a character taking a photo, explicitly specify…",
+  "content": "When prompting Seedance 2.5 for a character taking a photo, explicitly specify the camera’s pointing direction and exactly who the character is photographing to avoid spatial-orientation mistakes and failed generations.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089988952530780160/img/fBAH3Nia5Q6LfsHS.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089989243418325150.mp4",
+  "sourceLink": "https://x.com/Artedeingenio/status/2089989243418325150",
+  "sourcePublishedAt": "2026-08-19",
+  "author": {
+    "name": "OscarAI",
+    "link": "https://x.com/Artedeingenio"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "When prompting Seedance 2.5 for a character taking a photo, explicitly specify the camera’s pointing direction and exactly who the character is photographing to avoid spatial-orientation mistakes and failed generations.",
+  "translations": {
+    "es": {
+      "content": "Al hacer un prompt para Seedance 2.5 sobre un personaje tomando una foto, especifica explícitamente la dirección hacia la que apunta la cámara y exactamente a quién está fotografiando el personaje para evitar errores de orientación espacial y generaciones fallidas.\n\n--- TUIT CITADO ---\nEste es el estilo de ilustración más reciente que he creado en Midjourney.\n\n¿Qué te parece?\n\nPronto compartiré una animación con él. https://t.co/hCP5tdOZ0P\n---"
+    },
+    "fr": {
+      "content": "Lorsque vous rédigez un prompt pour Seedance 2.5 concernant un personnage en train de prendre une photo, précisez explicitement la direction vers laquelle pointe la caméra ainsi que la personne exacte que le personnage photographie, afin d’éviter les erreurs d’orientation spatiale et les générations ratées.\n\n--- TWEET CITÉ ---\nVoici le dernier style d’illustration que j’ai créé dans Midjourney.\n\nQu’en pensez-vous ?\n\nJe partagerai bientôt une animation avec. https://t.co/hCP5tdOZ0P\n---"
+    },
+    "ja": {
+      "content": "Seedance 2.5 でキャラクターが写真を撮るシーンを生成する際は、空間的な向きのミスや生成失敗を避けるために、カメラがどの方向を向いているのか、そしてキャラクターが具体的に誰を撮影しているのかを明示的に指定してください。\n\n--- 引用ツイート ---\nこれは、私が Midjourney で作成した最新のイラストスタイルです。\n\nどう思いますか？\n\n近日中に、これを使ったアニメーションも共有する予定です。 https://t.co/hCP5tdOZ0P\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5에 캐릭터가 사진을 찍는 장면을 prompt할 때는, 공간 방향 오류와 생성 실패를 방지하기 위해 카메라가 어느 방향을 향하고 있는지, 그리고 캐릭터가 정확히 누구를 촬영하고 있는지를 명시적으로 지정하세요.\n\n--- 인용된 트윗 ---\n이건 제가 Midjourney에서 만든 최신 일러스트 스타일입니다.\n\n어떻게 생각하시나요?\n\n곧 이 스타일로 애니메이션도 공유할 예정입니다. https://t.co/hCP5tdOZ0P"
+    },
+    "pt": {
+      "content": "Ao criar prompts para o Seedance 2.5 com um personagem tirando uma foto, especifique explicitamente a direção para a qual a câmera está apontada e exatamente quem o personagem está fotografando, para evitar erros de orientação espacial e gerações malsucedidas.\n\n--- TWEET CITADO ---\nEste é o estilo de ilustração mais recente que criei no Midjourney.\n\nO que você acha?\n\nEm breve, vou compartilhar uma animação com ele. https://t.co/hCP5tdOZ0P\n---"
+    },
+    "zh": {
+      "content": "在为 Seedance 2.5 生成一个正在拍照的角色时，请明确指定相机的朝向，以及角色具体在拍摄谁，以避免空间方向错误和生成失败。\n\n--- 引用推文 ---\n这是我在 Midjourney 中创作的最新插画风格。\n\n你觉得怎么样？\n\n我很快会分享一段使用它制作的动画。 https://t.co/hCP5tdOZ0P"
+    }
+  }
+}

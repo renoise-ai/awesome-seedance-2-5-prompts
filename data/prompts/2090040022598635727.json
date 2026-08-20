@@ -1,0 +1,41 @@
+{
+  "id": "2090040022598635727",
+  "title": "A sits at a gaming station, headset on, screen glow flickering across her face…",
+  "content": "A sits at a gaming station, headset on, screen glow flickering across her face as she plays intently; her expression suddenly goes slack mid-match.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090039981926682624/img/rLt6rw6bBYy2tnzT.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090040022598635727.mp4",
+  "sourceLink": "https://x.com/saniaspeaks_/status/2090040022598635727",
+  "sourcePublishedAt": "2026-08-19",
+  "author": {
+    "name": "ð�—¦ð�—®ð�—»ð�—¶ð�—®",
+    "link": "https://x.com/saniaspeaks_"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World",
+    "POV"
+  ],
+  "translations": {
+    "es": {
+      "content": "A está sentada en una estación de juego, con los auriculares puestos, mientras el resplandor de la pantalla parpadea sobre su rostro mientras juega con intensidad; de repente, su expresión se queda en blanco a mitad de la partida."
+    },
+    "fr": {
+      "content": "A est assise à un poste de jeu, casque sur les oreilles, la lueur de l’écran vacillant sur son visage tandis qu’elle joue avec intensité ; son expression se fige soudainement en plein match."
+    },
+    "ja": {
+      "content": "Aはゲーミングステーションに座り、ヘッドセットを装着して、真剣にプレイしながら画面の光が彼女の顔にちらついている。対戦の最中、彼女の表情が突然、ふっと緩む。"
+    },
+    "ko": {
+      "content": "A는 게이밍 스테이션에 앉아 헤드셋을 착용한 채, 게임에 몰입해 플레이하고 있다. 화면의 빛이 그녀의 얼굴 위로 깜빡이며 비치다가, 경기 도중 그녀의 표정이 갑자기 멍해진다."
+    },
+    "pt": {
+      "content": "A está sentada em uma estação de jogos, com headset, enquanto o brilho da tela pisca sobre seu rosto enquanto ela joga com concentração; de repente, sua expressão fica vazia no meio da partida."
+    },
+    "zh": {
+      "content": "A 坐在游戏台前，戴着耳机，屏幕的光芒在她脸上闪烁，她全神贯注地玩着；比赛进行到一半时，她的表情突然变得呆滞。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2089908377711501617",
+  "title": "Geminiでシュール映像用のプロンプトを作成し、動画生成はSeedance2.5で行うワークフローにする",
+  "content": "Geminiでシュール映像用のプロンプトを作成し、動画生成はSeedance2.5で行うワークフローにする  \nChatGPTに「ランダムな名詞を30個→各名詞に合う動詞→意外な主語を追加→絵柄をランダム化」の順で指示して、意外性のある映像プロンプトを量産する  \n名詞→動詞→意外な主語→絵柄の形でプロンプトを組み立てる（例：冷蔵庫→開ける→宇宙飛行士が冷蔵庫を開ける→実写）  \n生成した内容をH3用のプロンプト形式に整形してからSeedance2.5に投入する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089907697529593857/img/UJ0ib1VPTDDscWU-.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089908377711501617.mp4",
+  "sourceLink": "https://x.com/hashimura55/status/2089908377711501617",
+  "sourcePublishedAt": "2026-08-19",
+  "author": {
+    "name": "橋村政海@おかしなアート",
+    "link": "https://x.com/hashimura55"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Surreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Geminiでシュール映像用のプロンプトを作成し、動画生成はSeedance2.5で行うワークフローにする  \nChatGPTに「ランダムな名詞を30個→各名詞に合う動詞→意外な主語を追加→絵柄をランダム化」の順で指示して、意外性のある映像プロンプトを量産する  \n名詞→動詞→意外な主語→絵柄の形でプロンプトを組み立てる（例：冷蔵庫→開ける→宇宙飛行士が冷蔵庫を開ける→実写）  \n生成した内容をH3用のプロンプト形式に整形してからSeedance2.5に投入する",
+  "translations": {
+    "en": {
+      "content": "Use Gemini to create prompts for surreal visuals, and use Seedance2.5 for video generation in this workflow.  \nInstruct ChatGPT in the following order: “30 random nouns → a verb that fits each noun → add an unexpected subject → randomize the visual style,” and mass-produce visually surprising prompts.  \nBuild prompts in the form of noun → verb → unexpected subject → style (example: refrigerator → open → an astronaut opens a refrigerator → live action).  \nFormat the generated content into H3 prompt form before feeding it into Seedance2.5.\n\n--- QUOTED TWEET ---\nThis is how I made this video👇\n\nHere are the instructions for ChatGPT:\n\n1. Give me 30 random nouns  \n2. Add a verb that fits each noun  \n3. Then deliberately add an unexpected subject  \n4. Randomize the visual style\n\nFor example:\nrefrigerator → open the refrigerator → an astronaut opens the refrigerator → a live-action astronaut opens the refrigerator\n\nThat’s the basic idea.\n\nThen I had it turned into an H3 prompt, and it was done!"
+    },
+    "es": {
+      "content": "Crear un flujo de trabajo en el que se generen prompts para imágenes surrealistas con Gemini y la generación de video se realice con Seedance2.5  \nIndicarle a ChatGPT, en este orden: “30 sustantivos aleatorios → un verbo que encaje con cada sustantivo → añadir un sujeto inesperado → aleatorizar el estilo visual”, para producir en masa prompts visuales con un toque sorprendente  \nConstruir el prompt en la forma sustantivo → verbo → sujeto inesperado → estilo visual (por ejemplo: refrigerador → abrir → un astronauta abre el refrigerador → live action)  \nFormatear el contenido generado en el formato de prompt para H3 y luego introducirlo en Seedance2.5\n\n--- QUOTED TWEET ---\nAsí es como hice este video👇\n\nLo siguiente son instrucciones para ChatGPT\n\n① Dame 30 sustantivos aleatorios  \n② Añade un verbo que encaje con esos sustantivos  \n③ Además, añade a propósito un sujeto inesperado  \n④ Haz que el estilo visual sea aleatorio\n\nPor ejemplo:\nrefrigerador → abrir el refrigerador → un astronauta abre el refrigerador → un astronauta en live action abriendo un refrigerador\n\nAlgo así\n\nY luego convertirlo en un prompt para H3 y listo."
+    },
+    "fr": {
+      "content": "Créer un workflow dans lequel on rédige des prompts pour des visuels surréalistes avec Gemini, puis on génère les vidéos avec Seedance2.5  \nDemander à ChatGPT, dans l’ordre, de « 30 noms communs aléatoires → un verbe adapté à chaque nom → ajouter un sujet inattendu → randomiser le style visuel » afin de produire en masse des prompts vidéo surprenants  \nConstruire les prompts sous la forme nom → verbe → sujet inattendu → style visuel (ex. : réfrigérateur → ouvrir → un astronaute ouvre un réfrigérateur → prise de vue réelle)  \nMettre en forme le contenu généré au format de prompt pour H3 avant de l’envoyer dans Seedance2.5\n\n--- QUOTED TWEET ---\nC’est comme ça que j’ai créé cette vidéo 👇\n\nVoici les instructions pour ChatGPT\n\n① Donne-moi 30 noms communs aléatoires  \n② Ajoute un verbe adapté à chacun de ces noms  \n③ Ajoute en plus, volontairement, un sujet inattendu  \n④ Randomise le style visuel\n\nPar exemple  \nréfrigérateur → ouvrir le réfrigérateur → un astronaute ouvre le réfrigérateur → un astronaute en prise de vue réelle ouvrant un réfrigérateur\n\nC’est à peu près comme ça\n\nEnsuite, on le transforme en prompt pour H3, et c’est terminé !"
+    },
+    "ko": {
+      "content": "Gemini에서 기묘한 영상용 프롬프트를 만들고, 영상 생성은 Seedance2.5로 진행하는 워크플로로 구성한다  \nChatGPT에 “무작위 명사 30개 → 각 명사에 어울리는 동사 → 예상 밖의 주어 추가 → 화풍 랜덤화” 순서로 지시해, 의외성이 있는 영상 프롬프트를 대량 생성한다  \n명사→동사→예상 밖의 주어→화풍의 형태로 프롬프트를 구성한다(예: 냉장고→열다→우주비행사가 냉장고를 연다→실사)  \n생성한 내용을 H3용 프롬프트 형식으로 정리한 뒤 Seedance2.5에 입력한다\n\n--- QUOTED TWEET ---\n이 영상은 이렇게 만들었습니다👇\n\n아래는 ChatGPT에 대한 지시입니다\n\n① 무작위 명사를 30개 내줘  \n② 그 명사에 어울리는 동사를 붙여줘  \n③ 거기에 일부러 예상 밖의 주어를 붙여줘  \n④ 화풍을 랜덤으로 해줘\n\n예를 들면  \n냉장고→냉장고를 열다→우주비행사가 냉장고를 열다→실사로 된 우주비행사가 냉장고를 여는 장면\n\n이런 느낌입니다\n\n그리고 H3용 프롬프트로 만들어 달라고 하면 완성입니다!"
+    },
+    "pt": {
+      "content": "Criar prompts para vídeos surreais no Gemini e usar o Seedance2.5 para a geração de vídeo  \nPedir ao ChatGPT, na ordem “30 substantivos aleatórios → um verbo adequado para cada substantivo → adicionar um sujeito inesperado → randomizar o estilo visual”, para produzir em massa prompts de vídeo com alto grau de surpresa  \nMontar os prompts no formato “substantivo → verbo → sujeito inesperado → estilo visual” (ex.: geladeira → abrir → um astronauta abre a geladeira → live-action)  \nFormatar o conteúdo gerado no formato de prompt para H3 e então enviá-lo ao Seedance2.5\n\n--- QUOTED TWEET ---\nFoi assim que este vídeo foi feito👇\n\nAbaixo estão as instruções para o ChatGPT\n\n① Gere 30 substantivos aleatórios  \n② Adicione um verbo que combine com cada substantivo  \n③ Além disso, adicione de propósito um sujeito inesperado  \n④ Randomize o estilo visual\n\nPor exemplo  \ngeladeira → abrir a geladeira → um astronauta abre a geladeira → um astronauta em live-action abrindo a geladeira\n\nÉ algo nesse estilo\n\nE então é só transformar em um prompt para H3 e pronto!  \n---"
+    },
+    "zh": {
+      "content": "使用 Gemini 为超现实视频制作 prompt，并通过 Seedance2.5 进行视频生成的工作流  \n让 ChatGPT 按照“随机生成 30 个名词 → 为每个名词匹配动词 → 追加意外的主语 → 随机化画风”的顺序进行指示，批量生成具有意外感的视频 prompt  \n按照“名词→动词→意外的主语→画风”的形式来组装 prompt（例如：冰箱→打开→宇航员打开冰箱→实拍）  \n将生成的内容整理成适用于 H3 的 prompt 格式后，再投入 Seedance2.5\n\n--- QUOTED TWEET ---\n这个视频就是这样做出来的👇\n\n以下是给 ChatGPT 的指示\n\n① 请输出 30 个随机名词  \n② 给这些名词配上合适的动词  \n③ 再特意加上一个意外的主语  \n④ 把画风随机化\n\n例如  \n冰箱→打开冰箱→宇航员打开冰箱→实拍的宇航员打开冰箱\n\n大概就是这种感觉\n\n然后把它整理成 H3 用的 prompt，就完成了！  \n---"
+    }
+  }
+}

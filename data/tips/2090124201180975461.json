@@ -1,0 +1,44 @@
+{
+  "id": "2090124201180975461",
+  "title": "Provide a photograph of your avatar and a photograph of the product (e.g., a…",
+  "content": "Provide a photograph of your avatar and a photograph of the product (e.g., a generated trainer) as inputs to Seedance 2.5 to generate a UGC-style video.\n\nUse a Claude AI skill to assemble and automate the Seedance 2.5 workflow with your provided images.\n\nAdd subtitles in CapCut as a post-processing step after generating the video in Seedance.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090122213441540096/img/-zIj8baniy_FZj3z.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090124201180975461.mp4",
+  "sourceLink": "https://x.com/MathisYanis/status/2090124201180975461",
+  "sourcePublishedAt": "2026-08-19",
+  "author": {
+    "name": "Filschics",
+    "link": "https://x.com/MathisYanis"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Provide a photograph of your avatar and a photograph of the product (e.g., a generated trainer) as inputs to Seedance 2.5 to generate a UGC-style video.\n\nUse a Claude AI skill to assemble and automate the Seedance 2.5 workflow with your provided images.\n\nAdd subtitles in CapCut as a post-processing step after generating the video in Seedance.",
+  "translations": {
+    "es": {
+      "content": "Proporciona una fotografía de tu avatar y una fotografía del producto (por ejemplo, un trainer generado) como entradas para Seedance 2.5 para generar un video de estilo UGC.\n\nUsa una habilidad de Claude AI para ensamblar y automatizar el flujo de trabajo de Seedance 2.5 con las imágenes que proporcionaste.\n\nAñade subtítulos en CapCut como paso de posprocesamiento después de generar el video en Seedance."
+    },
+    "fr": {
+      "content": "Fournissez une photographie de votre avatar et une photographie du produit (par exemple, un trainer généré) comme entrées à Seedance 2.5 afin de générer une vidéo au style UGC.\n\nUtilisez une compétence Claude AI pour assembler et automatiser le workflow Seedance 2.5 avec les images que vous avez fournies.\n\nAjoutez des sous-titres dans CapCut comme étape de post-traitement après la génération de la vidéo dans Seedance."
+    },
+    "ja": {
+      "content": "Seedance 2.5 に、あなたのアバターの写真と商品の写真（例：生成されたトレーナー）を入力として与え、UGCスタイルの動画を生成します。\n\nClaude AI のスキルを使って、提供された画像をもとに Seedance 2.5 のワークフローを組み立て、自動化します。\n\nSeedance で動画を生成した後、後処理として CapCut で字幕を追加します。"
+    },
+    "ko": {
+      "content": "아바타 사진과 제품 사진(예: 생성된 트레이너)을 입력으로 Seedance 2.5에 제공하여 UGC 스타일의 비디오를 생성하세요.\n\n제공한 이미지를 사용해 Seedance 2.5 워크플로를 조립하고 자동화하려면 Claude AI skill을 활용하세요.\n\nSeedance에서 비디오를 생성한 후, 후처리 단계로 CapCut에서 자막을 추가하세요."
+    },
+    "pt": {
+      "content": "Forneça uma fotografia do seu avatar e uma fotografia do produto (por exemplo, um trainer gerado) como entradas para o Seedance 2.5 para gerar um vídeo em estilo UGC.\n\nUse uma skill do Claude AI para montar e automatizar o fluxo de trabalho do Seedance 2.5 com as imagens fornecidas por você.\n\nAdicione legendas no CapCut como uma etapa de pós-processamento após gerar o vídeo no Seedance."
+    },
+    "zh": {
+      "content": "将你的头像照片和产品照片（例如生成的运动鞋）作为输入提供给 Seedance 2.5，以生成一段 UGC 风格的视频。\n\n使用 Claude AI skill 来整合并自动化 Seedance 2.5 工作流，结合你提供的图片完成处理。\n\n在 Seedance 中生成视频后，作为后期处理步骤，在 CapCut 中添加字幕。"
+    }
+  }
+}

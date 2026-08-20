@@ -1,0 +1,43 @@
+{
+  "id": "2090028805561967072",
+  "title": "TapNowに写真を1枚アップロードし、動かしたいカメラのルートを線で描いてルート付き画像を作る",
+  "content": "TapNowに写真を1枚アップロードし、動かしたいカメラのルートを線で描いてルート付き画像を作る  \n作成したルート付き画像をリファレンスとしてSeedance 2.5に入力し、描いたFPVカメラワークに沿う映像を生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090027190553604096/img/xuKELa3qve0EKG6F.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090028805561967072.mp4",
+  "sourceLink": "https://x.com/TapNow_JP/status/2090028805561967072",
+  "sourcePublishedAt": "2026-08-19",
+  "author": {
+    "name": "TapNow 日本公式（タップナウ）",
+    "link": "https://x.com/TapNow_JP"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Photoreal",
+    "Realistic World",
+    "FPV & Aerial",
+    "Tutorial"
+  ],
+  "tips": "TapNowに写真を1枚アップロードし、動かしたいカメラのルートを線で描いてルート付き画像を作る  \n作成したルート付き画像をリファレンスとしてSeedance 2.5に入力し、描いたFPVカメラワークに沿う映像を生成する",
+  "translations": {
+    "en": {
+      "content": "Upload a single photo to TapNow, draw the route you want the camera to move along with a line, and create an image with the route included.  \nThen input the created route image into Seedance 2.5 as a reference, and generate footage that follows the FPV camera movement you drew.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Try it here: https://t.co/ugA8gVdels\n\n#tapnow #taptv #createinpublic"
+    },
+    "es": {
+      "content": "Sube una foto a TapNow y dibuja con una línea la ruta de la cámara que quieres mover para crear una imagen con ruta.  \nIntroduce la imagen con ruta creada en Seedance 2.5 como referencia y genera un video que siga el movimiento de cámara FPV que dibujaste.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Pruébalo aquí  https://t.co/ugA8gVdels\n\n #tapnow #taptv #createinpublic\n---"
+    },
+    "fr": {
+      "content": "Téléchargez une photo sur TapNow, tracez en ligne le trajet de la caméra que vous souhaitez faire bouger, puis créez une image avec le parcours indiqué.  \nUtilisez ensuite l’image avec le parcours comme référence dans Seedance 2.5 afin de générer une vidéo suivant le mouvement de caméra FPV dessiné.\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Thread 1] Essayez ici : https://t.co/ugA8gVdels\n\n #tapnow #taptv #createinpublic"
+    },
+    "ko": {
+      "content": "TapNow에 사진 1장을 업로드하고, 움직이고 싶은 카메라의 경로를 선으로 그려 경로가 포함된 이미지를 만든다  \n만들어진 경로 포함 이미지를 리퍼런스로 Seedance 2.5에 입력해, 그려둔 FPV 카메라 워크를 따라가는 영상을 생성한다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 여기에서 사용해 보세요  https://t.co/ugA8gVdels\n\n #tapnow #taptv #createinpublic"
+    },
+    "pt": {
+      "content": "Faça upload de uma foto no TapNow e desenhe com uma linha o trajeto da câmera que você quer mover para criar uma imagem com rota.\n\nEm seguida, use a imagem com a rota criada como referência no Seedance 2.5 e gere um vídeo que siga o camera work em FPV desenhado.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Experimente por aqui: https://t.co/ugA8gVdels\n\n #tapnow #taptv #createinpublic\n---"
+    },
+    "zh": {
+      "content": "在 TapNow 中上传一张照片，用线条画出想要移动的相机路线，生成带有路线的图片。  \n将生成的路线图片作为参考输入到 Seedance 2.5 中，生成沿着所画 FPV 摄像机运镜的画面。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 请从这里试用  https://t.co/ugA8gVdels\n\n #tapnow #taptv #createinpublic\n---"
+    }
+  }
+}

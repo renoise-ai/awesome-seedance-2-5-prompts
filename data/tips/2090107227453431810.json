@@ -1,0 +1,41 @@
+{
+  "id": "2090107227453431810",
+  "title": "Start your Seedance 2.5 project with a 3D blockout in Blender, then use…",
+  "content": "Start your Seedance 2.5 project with a 3D blockout in Blender, then use Seedance as the second-pass AI render to turn the blockout into the final cinematic output.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Genflickmovies/status/2090107227453431810",
+  "sourcePublishedAt": "2026-08-19",
+  "author": {
+    "name": "GenFlick | Making Movies with AI | Join Us",
+    "link": "https://x.com/Genflickmovies"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Start your Seedance 2.5 project with a 3D blockout in Blender, then use Seedance as the second-pass AI render to turn the blockout into the final cinematic output.",
+  "translations": {
+    "es": {
+      "content": "Comienza tu proyecto de Seedance 2.5 con un blockout 3D en Blender, y luego usa Seedance como el renderizado de IA de segunda pasada para convertir el blockout en el resultado cinematográfico final."
+    },
+    "fr": {
+      "content": "Commencez votre projet Seedance 2.5 avec un blockout 3D dans Blender, puis utilisez Seedance comme rendu IA de second passage pour transformer le blockout en rendu cinématique final."
+    },
+    "ja": {
+      "content": "Blenderで3DブロックアウトからSeedance 2.5プロジェクトを始め、次にSeedanceを2回目のAIレンダーとして使って、そのブロックアウトを最終的なシネマティック出力へと仕上げます。"
+    },
+    "ko": {
+      "content": "Blender에서 3D 블록아웃으로 Seedance 2.5 프로젝트를 시작한 다음, Seedance를 두 번째 패스 AI 렌더로 사용해 블록아웃을 최종 cinematic 결과물로 완성하세요."
+    },
+    "pt": {
+      "content": "Comece seu projeto no Seedance 2.5 com um blockout 3D no Blender e, em seguida, use o Seedance como o render de IA da segunda passada para transformar o blockout no resultado cinematográfico final."
+    },
+    "zh": {
+      "content": "先在 Blender 中用 3D blockout 开始你的 Seedance 2.5 项目，然后将 Seedance 作为第二遍 AI 渲染，把 blockout 转化为最终的 cinematic 输出。"
+    }
+  }
+}

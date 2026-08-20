@@ -1,0 +1,44 @@
+{
+  "id": "2090140278812488121",
+  "title": "Use a depth matte video as input with Seedance 2.5 in Runway to add/modify…",
+  "content": "Use a depth matte video as input with Seedance 2.5 in Runway to add/modify elements on a subject (e.g., generate hair onto yourself).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090139826553049088/img/FrZdlqenrJ6JLOwe.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090140278812488121.mp4",
+  "sourceLink": "https://x.com/IXITimmyIXI/status/2090140278812488121",
+  "sourcePublishedAt": "2026-08-19",
+  "author": {
+    "name": "ðŸ�¥ Timmy ðŸ�¥",
+    "link": "https://x.com/IXITimmyIXI"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX",
+    "Transformation"
+  ],
+  "tips": "Use a depth matte video as input with Seedance 2.5 in Runway to add/modify elements on a subject (e.g., generate hair onto yourself).",
+  "translations": {
+    "es": {
+      "content": "Usa un video de depth matte como entrada con Seedance 2.5 en Runway para añadir o modificar elementos en un sujeto (por ejemplo, generar cabello sobre ti mismo)."
+    },
+    "fr": {
+      "content": "Utilisez une vidéo depth matte comme entrée avec Seedance 2.5 dans Runway pour ajouter/modifier des éléments sur un sujet (par exemple, générer des cheveux sur vous-même)."
+    },
+    "ja": {
+      "content": "Runway の Seedance 2.5 で depth matte の動画を入力として使用し、被写体に要素を追加・修正する（例：自分自身に髪を生成する）。"
+    },
+    "ko": {
+      "content": "Runway의 Seedance 2.5에서 depth matte video를 입력으로 사용해 피사체의 요소를 추가/수정하세요(예: 자신에게 머리카락을 생성하기)."
+    },
+    "pt": {
+      "content": "Use um vídeo com depth matte como entrada no Seedance 2.5 no Runway para adicionar/modificar elementos em um sujeito (por exemplo, gerar cabelo em você mesmo)."
+    },
+    "zh": {
+      "content": "在 Runway 中使用深度 matte 视频作为输入，配合 Seedance 2.5 来添加/修改主体上的元素（例如，给自己生成头发）。"
+    }
+  }
+}

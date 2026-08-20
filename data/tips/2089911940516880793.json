@@ -1,0 +1,42 @@
+{
+  "id": "2089911940516880793",
+  "title": "プロンプトの描写を細かくして、指定した内容を映像に反映させる",
+  "content": "プロンプトの描写を細かくして、指定した内容を映像に反映させる  \n追跡シーンを作るときは、あえて「無駄にウィリーさせる」など具体的なアクションをプロンプトに入れる  \n市場の果物屋や周囲の状況など、背景・環境要素を細かくプロンプトで描写してシーンの情報量を増やす",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089911322154860544/img/6Ij4bAYqYDLAexCr.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2089911940516880793.mp4",
+  "sourceLink": "https://x.com/Nokosu_kansoku/status/2089911940516880793",
+  "sourcePublishedAt": "2026-08-19",
+  "author": {
+    "name": "Nokosu",
+    "link": "https://x.com/Nokosu_kansoku"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "プロンプトの描写を細かくして、指定した内容を映像に反映させる  \n追跡シーンを作るときは、あえて「無駄にウィリーさせる」など具体的なアクションをプロンプトに入れる  \n市場の果物屋や周囲の状況など、背景・環境要素を細かくプロンプトで描写してシーンの情報量を増やす",
+  "translations": {
+    "en": {
+      "content": "Make the prompt description more detailed so the specified content is reflected in the video.  \nWhen creating a tracking scene, deliberately include specific actions in the prompt, such as “needlessly popping a wheelie.”  \nDescribe background and environmental elements in detail in the prompt—such as a fruit stand in a market and the surrounding conditions—to increase the amount of information in the scene."
+    },
+    "es": {
+      "content": "Detalla la descripción del prompt para reflejar con precisión el contenido especificado en el video.  \nAl crear una escena de seguimiento, incluye en el prompt acciones concretas como “hacer un wheelie innecesariamente” a propósito.  \nDescribe con detalle en el prompt los elementos de fondo y del entorno, como una frutería en el mercado y las condiciones circundantes, para aumentar la cantidad de información de la escena."
+    },
+    "fr": {
+      "content": "Décrire le prompt en détail pour refléter fidèlement le contenu spécifié dans la vidéo  \nLors de la création d’une scène de poursuite, intégrer volontairement dans le prompt des actions précises comme « faire des wheelies inutilement »  \nDécrire en détail, dans le prompt, les éléments de fond et d’environnement — comme un marchand de fruits au marché ou la situation alentour — afin d’enrichir la scène en informations visuelles"
+    },
+    "ko": {
+      "content": "프롬프트의 묘사를 더 세밀하게 해서, 지정한 내용을 영상에 반영한다  \n추적 장면을 만들 때는, 일부러 “쓸데없이 윌리하게 만든다” 같은 구체적인 액션을 프롬프트에 넣는다  \n시장 과일 가게나 주변 상황 등 배경·환경 요소를 프롬프트에서 세밀하게 묘사해 장면의 정보량을 늘린다"
+    },
+    "pt": {
+      "content": "Detalhe mais a descrição do prompt para refletir com precisão o conteúdo especificado no vídeo  \nAo criar uma cena de perseguição, inclua no prompt ações específicas, como “fazer wheelie de propósito sem necessidade”  \nDescreva em detalhes, no prompt, elementos de fundo e do ambiente — como a frutaria do mercado e as condições ao redor — para aumentar a quantidade de informações da cena"
+    },
+    "zh": {
+      "content": "将 prompt 的描写细化，让指定内容更准确地反映到画面中  \n在制作追踪场景时，可以刻意在 prompt 里加入“故意做出多余的翘头动作”等具体动作  \n对市场里的水果摊、周围环境等背景与环境要素进行细致的 prompt 描写，以增加场景的信息量"
+    }
+  }
+}

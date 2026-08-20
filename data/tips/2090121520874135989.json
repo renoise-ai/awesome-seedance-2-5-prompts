@@ -1,0 +1,42 @@
+{
+  "id": "2090121520874135989",
+  "title": "Suno Studio 2.0で再生成したStem音源を参照音源としてSeedance 2.5に渡して、音源に合わせた動画を生成する",
+  "content": "Suno Studio 2.0で再生成したStem音源を参照音源としてSeedance 2.5に渡して、音源に合わせた動画を生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090115188527927296/img/WNN6wWyLX2w2Y0vG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090121520874135989.mp4",
+  "sourceLink": "https://x.com/Ka2nnAI_NekoOG/status/2090121520874135989",
+  "sourcePublishedAt": "2026-08-19",
+  "author": {
+    "name": "Katsunn AIðŸŽ¨çŒ«ä¹™å¥³âš”ï¸�è»¢ç”Ÿå…ƒç´ é¨Žå£«",
+    "link": "https://x.com/Ka2nnAI_NekoOG"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Suno Studio 2.0で再生成したStem音源を参照音源としてSeedance 2.5に渡して、音源に合わせた動画を生成する",
+  "translations": {
+    "en": {
+      "content": "Pass the Stem audio regenerated in Suno Studio 2.0 to Seedance 2.5 as a reference track, and generate a video that matches the audio.\n\n--- QUOTED TWEET ---\nSeedance 2.5 version\n\nThis intricate drum feel is insanely cool...! https://t.co/TbzFLDvQQl\n---"
+    },
+    "es": {
+      "content": "Pasar el audio Stem regenerado en Suno Studio 2.0 a Seedance 2.5 como audio de referencia y generar un video sincronizado con ese audio\n\n--- TWEET CITADO ---\nVersión de Seedance 2.5\n\n¡Este estilo de batería tan elaborado está increíblemente genial…! https://t.co/TbzFLDvQQl\n---"
+    },
+    "fr": {
+      "content": "Transmettre à Seedance 2.5 les stems audio régénérés dans Suno Studio 2.0 comme source de référence, afin de générer une vidéo synchronisée avec l’audio\n\n--- TWEET CITÉ ---\nVersion Seedance 2.5\n\nCe groove de batterie très travaillé est incroyablement stylé… ! https://t.co/TbzFLDvQQl\n---"
+    },
+    "ko": {
+      "content": "Suno Studio 2.0에서 재생성한 Stem 음원을 참조 음원으로 Seedance 2.5에 전달해, 음원에 맞춘 영상을 생성한다\n\n--- QUOTED TWEET ---\nSeedance 2.5 version\n\n이렇게 손이 많이 가는 드럼 느낌, 엄청 멋있다…! https://t.co/TbzFLDvQQl\n---"
+    },
+    "pt": {
+      "content": "Passe o áudio Stem regenerado no Suno Studio 2.0 como referência para o Seedance 2.5 e gere um vídeo sincronizado com o áudio\n\n--- TWEET CITADO ---\nVersão Seedance 2.5\n\nEsse feeling de bateria com tantos detalhes é absurdamente estiloso…! https://t.co/TbzFLDvQQl\n---"
+    },
+    "zh": {
+      "content": "将使用 Suno Studio 2.0 重新生成的 Stem 音源作为参考音源传给 Seedance 2.5，生成与音源匹配的视频\n\n--- QUOTED TWEET ---\nSeedance2.5 版本\n\n这种手数很多的鼓点感觉，真的帅爆了……！ https://t.co/TbzFLDvQQl\n---"
+    }
+  }
+}
