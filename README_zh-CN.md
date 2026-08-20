@@ -66,7 +66,7 @@
 | 📝 提示词总数 | **1654** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **1302** |
-| 🔄 最后更新 | **2026-08-19** |
+| 🔄 最后更新 | **2026-08-20** |
 
 ---
 
@@ -7440,4 +7440,4 @@ Build the workflow once (Custom Skill + references + timestamp prompting) and re
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **🎬 [Seedance 2.5 模型](https://renoise.ai/zh-CN/features/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-08-19T20:32:30.577Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-08-20T01:25:24.081Z
