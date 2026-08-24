@@ -1,0 +1,42 @@
+{
+  "id": "2090828475150057952",
+  "title": "Use Seedance 2.5 with two input images plus a single prompt to generate a…",
+  "content": "Use Seedance 2.5 with two input images plus a single prompt to generate a music-video style clip.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090828276654551041/img/2NYGHDOY0OEyWt1R.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090828475150057952.mp4",
+  "sourceLink": "https://x.com/Artedeingenio/status/2090828475150057952",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "OscarAI",
+    "link": "https://x.com/Artedeingenio"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 with two input images plus a single prompt to generate a music-video style clip.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 con dos imágenes de entrada más un solo prompt para generar un clip con estilo de video musical."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 avec deux images d’entrée et un seul prompt pour générer un clip au style de clip musical."
+    },
+    "ja": {
+      "content": "Seedance 2.5を、2枚の入力画像と1つのpromptを使って、ミュージックビデオ風のクリップを生成します。"
+    },
+    "ko": {
+      "content": "두 개의 입력 이미지와 하나의 prompt를 사용해 Seedance 2.5로 뮤직비디오 스타일의 클립을 생성하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 com duas imagens de entrada e um único prompt para gerar um clipe no estilo de videoclipe musical."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5，结合两张输入图像和一个 prompt，生成一段音乐视频风格的短片。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2090862820992942464",
+  "title": "Use Seedance 2.5 with @fal Agent by starting from a character sheet, building…",
+  "content": "Use Seedance 2.5 with @fal Agent by starting from a character sheet, building characters first, then developing scenes and assembling them into a short movie.  \nInstead of complex prompts, give Seedance 2.5 + @fal Agent conversational, iterative instructions (e.g., create next scene, change this part) and explicitly request to keep the character consistent across scenes.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090862703032324096/img/UayY6H_Yrg3_9hIG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090862820992942464.mp4",
+  "sourceLink": "https://x.com/Danzeronero/status/2090862820992942464",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "razornero",
+    "link": "https://x.com/Danzeronero"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 with @fal Agent by starting from a character sheet, building characters first, then developing scenes and assembling them into a short movie.  \nInstead of complex prompts, give Seedance 2.5 + @fal Agent conversational, iterative instructions (e.g., create next scene, change this part) and explicitly request to keep the character consistent across scenes.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 con @fal Agent partiendo de una character sheet, construyendo primero los personajes y luego desarrollando las escenas para ensamblarlas en una película corta.  \nEn lugar de prompts complejos, dale a Seedance 2.5 + @fal Agent instrucciones conversacionales e iterativas (por ejemplo, create next scene, change this part) y solicita explícitamente que mantenga la coherencia del personaje a lo largo de las escenas."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 avec @fal Agent en partant d’une character sheet, en construisant d’abord les personnages, puis en développant les scènes et en les assemblant en un court-métrage.  \nAu lieu de prompts complexes, donnez à Seedance 2.5 + @fal Agent des instructions conversationnelles et itératives (par exemple : create next scene, change this part) et demandez explicitement de conserver la cohérence du personnage d’une scène à l’autre."
+    },
+    "ja": {
+      "content": "Seedance 2.5 と @fal Agent を使う場合は、まずキャラクターシートから始めてキャラクターを先に作成し、その後でシーンを発展させ、つなぎ合わせて短編映画に仕上げます。  \n複雑な prompt の代わりに、Seedance 2.5 + @fal Agent には会話形式の反復的な指示（例: 次のシーンを作成して、この部分を変更して）を与え、各シーンを通してキャラクターの一貫性を保つよう明示的に依頼します。"
+    },
+    "ko": {
+      "content": "캐릭터 시트에서 시작해 먼저 캐릭터를 구축한 다음, 장면을 개발하고 이를 하나의 짧은 영화로 구성하는 방식으로 Seedance 2.5와 @fal Agent를 사용하세요.  \n복잡한 prompt 대신, Seedance 2.5 + @fal Agent에 대화형의 반복적인 지시(예: 다음 장면을 만들어줘, 이 부분을 바꿔줘)를 주고, 장면 전반에서 캐릭터 일관성을 유지해 달라고 명시적으로 요청하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 com o @fal Agent começando por uma character sheet, construindo os personagens primeiro e depois desenvolvendo as cenas e montando tudo em um curta-metragem.  \nEm vez de prompts complexos, dê ao Seedance 2.5 + @fal Agent instruções conversacionais e iterativas (por exemplo, criar a próxima cena, alterar esta parte) e solicite explicitamente que o personagem permaneça consistente entre as cenas."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 搭配 @fal Agent，从角色设定表开始，先构建角色，再发展场景，并将它们组装成一部短片。  \n不要使用复杂的 prompts，而是向 Seedance 2.5 + @fal Agent 提供对话式、迭代式指令（例如：创建下一场景、修改这一部分），并明确要求在不同场景中保持角色一致。"
+    }
+  }
+}

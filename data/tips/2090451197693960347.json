@@ -1,0 +1,41 @@
+{
+  "id": "2090451197693960347",
+  "title": "Use three different character images (created/modified in Grok and ChatGPT) as…",
+  "content": "Use three different character images (created/modified in Grok and ChatGPT) as inputs, adapt @aimikoda’s MiniMax H3 Character introduction prompt, and run the combined prompt in Seedance 2.5.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/MonocPhoenix/status/2090451197693960347",
+  "sourcePublishedAt": "2026-08-20",
+  "author": {
+    "name": "Monoc",
+    "link": "https://x.com/MonocPhoenix"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use three different character images (created/modified in Grok and ChatGPT) as inputs, adapt @aimikoda’s MiniMax H3 Character introduction prompt, and run the combined prompt in Seedance 2.5.",
+  "translations": {
+    "es": {
+      "content": "Usa tres imágenes de personajes diferentes (creadas/modificadas en Grok y ChatGPT) como entradas, adapta el prompt de introducción de personaje MiniMax H3 de @aimikoda y ejecuta el prompt combinado en Seedance 2.5."
+    },
+    "fr": {
+      "content": "Utilisez trois images de personnages différentes (créées/modifiées dans Grok et ChatGPT) comme entrées, adaptez le prompt d’introduction de personnage MiniMax H3 de @aimikoda, puis exécutez le prompt combiné dans Seedance 2.5."
+    },
+    "ja": {
+      "content": "Grok と ChatGPT で作成・修正した 3 つの異なるキャラクター画像を入力として使用し、@aimikoda の MiniMax H3 Character introduction prompt を調整して、組み合わせた prompt を Seedance 2.5 で実行します。"
+    },
+    "ko": {
+      "content": "Grok와 ChatGPT에서 생성/수정한 서로 다른 세 개의 캐릭터 이미지를 입력으로 사용하고, @aimikoda의 MiniMax H3 캐릭터 소개 프롬프트를 응용한 뒤, 결합된 프롬프트를 Seedance 2.5에서 실행하세요."
+    },
+    "pt": {
+      "content": "Use três imagens diferentes de personagens (criadas/modificadas no Grok e no ChatGPT) como entradas, adapte o prompt de introdução de personagem MiniMax H3 de @aimikoda e execute o prompt combinado no Seedance 2.5."
+    },
+    "zh": {
+      "content": "使用三张不同的角色图像（在 Grok 和 ChatGPT 中创建/修改）作为输入，调整 @aimikoda 的 MiniMax H3 角色介绍 prompt，并在 Seedance 2.5 中运行组合后的 prompt。"
+    }
+  }
+}

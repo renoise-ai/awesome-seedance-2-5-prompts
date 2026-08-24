@@ -1,0 +1,42 @@
+{
+  "id": "2091103091470815729",
+  "title": "Use a one-shot prompt with no image references to generate a futuristic soldier…",
+  "content": "Use a one-shot prompt with no image references to generate a futuristic soldier combat video in Seedance 2.5.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091010266918240256/img/RprJ_EOZ00R9K3md.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091103091470815729.mp4",
+  "sourceLink": "https://x.com/junwatu/status/2091103091470815729",
+  "sourcePublishedAt": "2026-08-22",
+  "author": {
+    "name": "DΞV",
+    "link": "https://x.com/junwatu"
+  },
+  "tags": [
+    "Action",
+    "Military",
+    "Photoreal",
+    "Sci-Fi",
+    "Tutorial"
+  ],
+  "tips": "Use a one-shot prompt with no image references to generate a futuristic soldier combat video in Seedance 2.5.",
+  "translations": {
+    "es": {
+      "content": "Usa un prompt de una sola toma, sin referencias de imagen, para generar un video de combate de un soldado futurista en Seedance 2.5."
+    },
+    "fr": {
+      "content": "Utilisez un prompt one-shot sans références d’image pour générer une vidéo de combat d’un soldat futuriste dans Seedance 2.5."
+    },
+    "ja": {
+      "content": "Seedance 2.5で未来的な兵士の戦闘動画を生成するには、画像参照なしのワンショットpromptを使用します。"
+    },
+    "ko": {
+      "content": "이미지 참조 없이 one-shot prompt를 사용해 Seedance 2.5에서 미래형 병사 전투 영상을 생성하세요."
+    },
+    "pt": {
+      "content": "Use um prompt de uma única tomada, sem referências de imagem, para gerar um vídeo de combate de um soldado futurista no Seedance 2.5."
+    },
+    "zh": {
+      "content": "使用一个不带图像参考的 one-shot prompt，在 Seedance 2.5 中生成一段未来士兵战斗视频。"
+    }
+  }
+}

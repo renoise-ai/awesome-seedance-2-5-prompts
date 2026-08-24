@@ -1,0 +1,42 @@
+{
+  "id": "2091199431983206481",
+  "title": "用 Codex 拆解参考视频并输出提示词，再人工校对和修改后用于 Seedance 2.5 生成一镜到底武打片段",
+  "content": "用 Codex 拆解参考视频并输出提示词，再人工校对和修改后用于 Seedance 2.5 生成一镜到底武打片段  \nSeedance 2.5 可尝试一次生成一镜到底视频（one-shot 生成）  \n生成后用后期剪辑进行调速并添加 BGM 提升节奏与观感  \n提示词动作可能会被模型误解（如写“亲吻脸颊”可能生成“手指点”），需要改写/迭代提示词来纠正动作表现",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091199098905141248/img/TruFVp12gWNFUXMS.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091199431983206481.mp4",
+  "sourceLink": "https://x.com/TanLuAI/status/2091199431983206481",
+  "sourcePublishedAt": "2026-08-22",
+  "author": {
+    "name": "探路AI",
+    "link": "https://x.com/TanLuAI"
+  },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "用 Codex 拆解参考视频并输出提示词，再人工校对和修改后用于 Seedance 2.5 生成一镜到底武打片段  \nSeedance 2.5 可尝试一次生成一镜到底视频（one-shot 生成）  \n生成后用后期剪辑进行调速并添加 BGM 提升节奏与观感  \n提示词动作可能会被模型误解（如写“亲吻脸颊”可能生成“手指点”），需要改写/迭代提示词来纠正动作表现",
+  "translations": {
+    "en": {
+      "content": "Use Codex to break down the reference video and generate prompts, then manually proofread and revise them before using Seedance 2.5 to generate a one-shot martial arts clip.  \nSeedance 2.5 can be used to try generating a one-shot video in a single pass.  \nAfter generation, use post-production editing to adjust the speed and add BGM to improve the rhythm and viewing experience.  \nPrompts may be misinterpreted by the model (for example, writing “kiss the cheek” may generate “touching with a finger”), so the prompt needs to be rewritten and iterated to correct the action performance.\n\n--- QUOTED TWEET ---\n[Wuxia] Senior Brother teasing Junior Sister — one-shot “martial arts” clip\n\nThe prompt was broken down from the video by Codex and output.\n\nThe prompt was then lightly proofread and modified manually.\n\nSeedance 2.5 generated it in one pass.\n\nPost-production editing: speed adjustment + BGM\n\nFull prompt below 👇👇👇 (the prompt said “kiss the cheek,” but the generated video turned into a finger poke 😂) https://t.co/saGLxbxuPa"
+    },
+    "es": {
+      "content": "Usa Codex para descomponer el video de referencia y generar el prompt, luego corrígelo y modifícalo manualmente para usarlo en Seedance 2.5 y generar una secuencia de artes marciales en plano secuencia.  \nSeedance 2.5 puede intentar generar un video en plano secuencia de una sola toma (one-shot).  \nDespués de generarlo, usa la edición en postproducción para ajustar la velocidad y añadir BGM, mejorando el ritmo y la experiencia visual.  \nLas acciones del prompt pueden ser malinterpretadas por el modelo (por ejemplo, si escribes “besar la mejilla”, puede generar “señalar con el dedo”), por lo que es necesario reescribir e iterar el prompt para corregir la representación de la acción.\n\n--- TWEET CITADO ---\n[Wuxia de estilo clásico] El shixiong coquetea con la shimei en una “escena de artes marciales” en plano secuencia\n\nEl prompt fue descompuesto por Codex a partir del video y luego generado\n\nSe hizo una pequeña corrección y modificación manual del prompt\n\nSeedance 2.5 lo generó de una sola vez\n\nEdición en postproducción: ajuste de velocidad + BGM\n\nPrompt completo abajo 👇👇👇 (en el prompt se escribió “besar la mejilla”, pero el video generado terminó siendo un toque con el dedo 😂) https://t.co/saGLxbxuPa"
+    },
+    "fr": {
+      "content": "Utiliser Codex pour décortiquer la vidéo de référence et en extraire un prompt, puis le relire et le modifier manuellement avant de l’utiliser dans Seedance 2.5 pour générer un extrait de combat en un seul plan  \nSeedance 2.5 peut tenter de générer une vidéo en un seul plan d’un seul coup (one-shot generation)  \nAprès la génération, utiliser le montage en post-production pour ajuster la vitesse et ajouter une BGM afin d’améliorer le rythme et le rendu visuel  \nLes actions dans le prompt peuvent être mal interprétées par le modèle (par exemple, écrire « embrasser la joue » peut générer un « doigt qui pointe »), il faut donc reformuler/itérer le prompt pour corriger la représentation des actions\n\n--- TWEET CITÉ ---\n[Wuxia ancien style] Le grand frère taquine la petite sœur cadette — extrait de « combat » en un seul plan\n\nLe prompt a été décortiqué à partir de la vidéo par Codex, puis exporté\n\nLe prompt a été légèrement relu et modifié manuellement\n\nSeedance 2.5 génération en une seule fois\n\nMontage en post-production : ajustement de la vitesse + BGM\n\nPrompt complet ci-dessous 👇👇👇 (dans le prompt, il est écrit « embrasser la joue », mais la vidéo générée a fini par montrer un doigt qui pointe 😂) https://t.co/saGLxbxuPa"
+    },
+    "ja": {
+      "content": "Codex を使って参考動画を分解し、プロンプトを出力。その後、人手で校正・修正してから Seedance 2.5 で一発撮りの武打シーンを生成  \nSeedance 2.5 では、一度で一発撮り動画（one-shot 生成）を試せる  \n生成後は、後編集で速度調整を行い、BGM を追加してリズム感と見栄えを向上させる  \nプロンプトの動作はモデルに誤解されることがある（たとえば「頬にキス」と書くと「指でつつく」動きになることがある）ため、動作表現を修正するためにプロンプトの書き換え／反復が必要\n\n--- QUOTED TWEET ---\n[古風武侠] 兄弟子が妹弟子をからかう 一発撮りの「武打」シーン\n\nCodex が動画を分解してプロンプトを出力\n\n人手で少し校正・修正したプロンプト\n\nSeedance 2.5 で一発生成\n\n後編集で速度調整 + BGM\n\n完全なプロンプトはこちら👇👇👇（プロンプトでは「頬にキス」と書いたのに、生成動画では指でつつく動きになった😂） https://t.co/saGLxbxuPa"
+    },
+    "ko": {
+      "content": "用 Codex로 참고 영상을 분해해 프롬프트를 출력한 뒤, 사람이 직접 교정하고 수정해서 Seedance 2.5로 원테이크 무술 장면을 생성  \nSeedance 2.5는 한 번에 원테이크 영상(one-shot 생성)을 시도해볼 수 있음  \n생성 후에는 후반 편집으로 속도를 조절하고 BGM을 추가해 리듬감과 시청감을 높임  \n프롬프트의 동작은 모델이 오해할 수 있음(예: “볼에 키스”라고 쓰면 “손가락으로 톡 건드리기”가 생성될 수 있음), 따라서 동작 표현을 바로잡기 위해 프롬프트를 다시 쓰거나 반복 수정해야 함\n\n--- QUOTED TWEET ---\n[고풍 무협] 사형이 사매를 희롱하는 원테이크 “무술” 장면\n\n프롬프트는 Codex가 영상을 분해해 출력\n\n사람이 프롬프트를 약간 교정하고 수정\n\nSeedance 2.5로 한 번에 생성\n\n후반 편집으로 속도 조절 + BGM\n\n전체 프롬프트👇👇👇（프롬프트에는 볼에 키스라고 적었는데, 생성된 영상은 손가락으로 톡 건드리는 걸로 나왔음😂） https://t.co/saGLxbxuPa"
+    },
+    "pt": {
+      "content": "Usar o Codex para decompor o vídeo de referência e gerar o prompt, depois revisar e ajustar manualmente para usar no Seedance 2.5 na geração de uma cena de luta em plano-sequência  \nO Seedance 2.5 pode tentar gerar um vídeo em plano-sequência de uma vez (one-shot generation)  \nDepois da geração, usar edição na pós-produção para ajustar a velocidade e adicionar BGM, melhorando o ritmo e a experiência visual  \nAs ações no prompt podem ser mal interpretadas pelo modelo (por exemplo, escrever “beijar a bochecha” pode gerar “apontar com o dedo”), então é preciso reescrever/iterar o prompt para corrigir a representação da ação\n\n--- TWEET CITADO ---\n[武侠 de época] Irmão sênior provocando a irmãzinha mais nova em um trecho “de luta” em plano-sequência\n\nO prompt foi decomposto pelo Codex a partir do vídeo e então gerado\n\nRevisão e pequenas edições manuais no prompt\n\nSeedance 2.5 gera de uma vez\n\nPós-produção: ajuste de velocidade + BGM\n\nPrompt completo👇👇👇（no prompt estava escrito beijar a bochecha, mas o vídeo gerado virou um toque com o dedo 😂） https://t.co/saGLxbxuPa"
+    }
+  }
+}

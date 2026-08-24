@@ -1,0 +1,42 @@
+{
+  "id": "2091563423226101879",
+  "title": "Add blinking to your Seedance 2.5 video (e.g., prompt for eye blinks) to…",
+  "content": "Add blinking to your Seedance 2.5 video (e.g., prompt for eye blinks) to improve realism if the result looks off.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091563318603292672/img/wUtEpMtK7hHjrArD.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091563423226101879.mp4",
+  "sourceLink": "https://x.com/MoonMatterAI/status/2091563423226101879",
+  "sourcePublishedAt": "2026-08-23",
+  "author": {
+    "name": "Scaramanga",
+    "link": "https://x.com/MoonMatterAI"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Add blinking to your Seedance 2.5 video (e.g., prompt for eye blinks) to improve realism if the result looks off.",
+  "translations": {
+    "es": {
+      "content": "Añade parpadeo a tu video de Seedance 2.5 (por ejemplo, un prompt para parpadeos de ojos) para mejorar el realismo si el resultado se ve extraño."
+    },
+    "fr": {
+      "content": "Ajoutez des clignements des yeux à votre vidéo Seedance 2.5 (par exemple, un prompt pour les clignements des yeux) afin d’améliorer le réalisme si le résultat semble étrange."
+    },
+    "ja": {
+      "content": "結果が不自然に見える場合は、リアリティを高めるために Seedance 2.5 の動画にまばたきを追加してください（例：目のまばたきを指示する prompt）。"
+    },
+    "ko": {
+      "content": "결과가 어색해 보인다면, 현실감을 높이기 위해 Seedance 2.5 비디오에 눈 깜빡임을 추가하세요(예: 눈 깜빡임을 위한 prompt)."
+    },
+    "pt": {
+      "content": "Adicione piscadas ao seu vídeo do Seedance 2.5 (por exemplo, um prompt para piscar os olhos) para melhorar o realismo se o resultado parecer estranho."
+    },
+    "zh": {
+      "content": "如果结果看起来不自然，可以为你的 Seedance 2.5 视频添加眨眼效果（例如，在 prompt 中加入眼睛眨动指令），以提升真实感。"
+    }
+  }
+}

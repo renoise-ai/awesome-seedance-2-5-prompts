@@ -1,0 +1,42 @@
+{
+  "id": "2090817894804312292",
+  "title": "Use a single character sheet attachment with text-to-video prompting to keep…",
+  "content": "Use a single character sheet attachment with text-to-video prompting to keep the same character consistent across the video.  \nFor continuity between generations, attach the last frame of the previous generation as the reference image for the next generation.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090817042953736192/img/ssi8M3UCMteRszq1.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090817894804312292.mp4",
+  "sourceLink": "https://x.com/MadMax_Series/status/2090817894804312292",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "MadMax",
+    "link": "https://x.com/MadMax_Series"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a single character sheet attachment with text-to-video prompting to keep the same character consistent across the video.  \nFor continuity between generations, attach the last frame of the previous generation as the reference image for the next generation.",
+  "translations": {
+    "es": {
+      "content": "Usa un único adjunto de hoja de personaje con prompting de texto a video para mantener al mismo personaje consistente a lo largo del video.  \nPara mantener la continuidad entre generaciones, adjunta el último frame de la generación anterior como imagen de referencia para la siguiente generación."
+    },
+    "fr": {
+      "content": "Utilisez une seule image de référence de personnage avec le prompting text-to-video pour conserver le même personnage de manière cohérente tout au long de la vidéo.  \nPour assurer la continuité entre les générations, joignez la dernière image de la génération précédente comme image de référence pour la génération suivante."
+    },
+    "ja": {
+      "content": "テキストから動画への prompting では、1枚のキャラクターシートを添付して、動画全体で同じキャラクターを一貫して維持します。  \n生成間の連続性を保つには、前回の生成の最後のフレームを次の生成の参照画像として添付します。"
+    },
+    "ko": {
+      "content": "텍스트-투-비디오 prompting에서 단일 캐릭터 시트 첨부 파일을 사용해 영상 전체에서 동일한 캐릭터를 일관되게 유지하세요.  \n생성 간 연속성을 위해, 이전 생성의 마지막 프레임을 다음 생성의 reference image로 첨부하세요."
+    },
+    "pt": {
+      "content": "Use um único anexo de character sheet com prompting de text-to-video para manter o mesmo personagem consistente ao longo do vídeo.  \nPara garantir continuidade entre as gerações, anexe o último frame da geração anterior como imagem de referência para a próxima geração."
+    },
+    "zh": {
+      "content": "使用单张角色设定图附件，并结合 text-to-video prompting，以确保视频中同一角色始终保持一致。  \n为了在不同生成结果之间保持连续性，请将上一轮生成的最后一帧作为下一轮生成的参考图像进行附加。"
+    }
+  }
+}

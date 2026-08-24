@@ -1,0 +1,42 @@
+{
+  "id": "2091238982063378521",
+  "title": "Build the key elements (e.g., mecha, soldiers, battlefield) as separate…",
+  "content": "Build the key elements (e.g., mecha, soldiers, battlefield) as separate reference assets first, then use Seedance 2.5 Omni to combine them into a single continuous ~30-second action scene.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090859726833623040/img/0Y9u5ZoYO60rc3Ta.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091238982063378521.mp4",
+  "sourceLink": "https://x.com/DrSadek_/status/2091238982063378521",
+  "sourcePublishedAt": "2026-08-22",
+  "author": {
+    "name": "DrSadek 🪶",
+    "link": "https://x.com/DrSadek_"
+  },
+  "tags": [
+    "Action",
+    "Military",
+    "3D Animation",
+    "Sci-Fi",
+    "Tutorial"
+  ],
+  "tips": "Build the key elements (e.g., mecha, soldiers, battlefield) as separate reference assets first, then use Seedance 2.5 Omni to combine them into a single continuous ~30-second action scene.",
+  "translations": {
+    "es": {
+      "content": "Construye primero los elementos clave (p. ej., mecha, soldados, campo de batalla) como assets de referencia separados, y luego usa Seedance 2.5 Omni para combinarlos en una sola escena de acción continua de ~30 segundos."
+    },
+    "fr": {
+      "content": "Créez d’abord les éléments clés (par exemple, le mecha, les soldats, le champ de bataille) sous forme d’assets de référence séparés, puis utilisez Seedance 2.5 Omni pour les combiner en une seule scène d’action continue d’environ 30 secondes."
+    },
+    "ja": {
+      "content": "まず、主要な要素（例：メカ、兵士、戦場）をそれぞれ個別の参照アセットとして作成し、その後 Seedance 2.5 Omni を使って、それらを1つの連続した約30秒のアクションシーンに統合します。"
+    },
+    "ko": {
+      "content": "메카, 병사, 전장 등 핵심 요소를 먼저 각각 개별 reference asset으로 구축한 다음, Seedance 2.5 Omni를 사용해 이를 하나의 연속된 약 30초 액션 장면으로 결합하세요."
+    },
+    "pt": {
+      "content": "Construa primeiro os elementos-chave (por exemplo, mecha, soldados, campo de batalha) como assets de referência separados e, em seguida, use o Seedance 2.5 Omni para combiná-los em uma única cena de ação contínua de aproximadamente 30 segundos."
+    },
+    "zh": {
+      "content": "先将关键元素（例如机甲、士兵、战场）分别制作成独立的参考素材，然后使用 Seedance 2.5 Omni 将它们整合为一个连续的约 30 秒动作场景。"
+    }
+  }
+}

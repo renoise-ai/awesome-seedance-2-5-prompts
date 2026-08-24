@@ -1,0 +1,43 @@
+{
+  "id": "2091426555557789714",
+  "title": "Specify camera behavior explicitly (one continuous uninterrupted shot, backward…",
+  "content": "Specify camera behavior explicitly (one continuous uninterrupted shot, backward tracking through the hallway, dynamic handheld during combat, low-angle shots for major kicks, brief slow-motion impacts, smooth 360° moves around group attacks) and add constraints like no cuts/no teleportation to enforce continuity.\n\nInclude physically grounded constraints in the prompt (realistic human movement, physically believable impacts, no supernatural powers, no exaggerated physics, no gore) to keep action choreography realistic.\n\nAdd environment/lighting detail (wet-floor reflections, flickering fluorescent lights + cold moonlight through rain-covered windows, storm atmosphere, cinematic depth of field, natural motion blur, HDR) to improve photorealism and mood.\n\nUse clear style references (Korean action thriller; Weak Hero meets The Raid meets John Wick) to steer tone and choreography.\n\nRequest high-end output characteristics directly (ultra-photorealistic, premium VFX, IMAX quality, 8K) when aiming for maximum fidelity.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/ZephyraLeigh/status/2091426555557789714",
+  "sourcePublishedAt": "2026-08-23",
+  "author": {
+    "name": "Zephyra Leigh",
+    "link": "https://x.com/ZephyraLeigh"
+  },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "Photoreal",
+    "Realistic World",
+    "VFX",
+    "Slow-Mo",
+    "POV"
+  ],
+  "tips": "Specify camera behavior explicitly (one continuous uninterrupted shot, backward tracking through the hallway, dynamic handheld during combat, low-angle shots for major kicks, brief slow-motion impacts, smooth 360° moves around group attacks) and add constraints like no cuts/no teleportation to enforce continuity.\n\nInclude physically grounded constraints in the prompt (realistic human movement, physically believable impacts, no supernatural powers, no exaggerated physics, no gore) to keep action choreography realistic.\n\nAdd environment/lighting detail (wet-floor reflections, flickering fluorescent lights + cold moonlight through rain-covered windows, storm atmosphere, cinematic depth of field, natural motion blur, HDR) to improve photorealism and mood.\n\nUse clear style references (Korean action thriller; Weak Hero meets The Raid meets John Wick) to steer tone and choreography.\n\nRequest high-end output characteristics directly (ultra-photorealistic, premium VFX, IMAX quality, 8K) when aiming for maximum fidelity.",
+  "translations": {
+    "es": {
+      "content": "Especifica explícitamente el comportamiento de la cámara (una sola toma continua e ininterrumpida, seguimiento hacia atrás por el pasillo, cámara en mano dinámica durante el combate, planos en contrapicado para las patadas principales, breves impactos en cámara lenta, movimientos suaves de 360° alrededor de ataques grupales) y añade restricciones como sin cortes/sin teletransporte para reforzar la continuidad.\n\nIncluye en el prompt restricciones físicamente fundamentadas (movimiento humano realista, impactos físicamente creíbles, sin poderes sobrenaturales, sin física exagerada, sin gore) para mantener realista la coreografía de acción.\n\nAñade detalles de entorno/iluminación (reflejos en el suelo mojado, luces fluorescentes parpadeantes + luz fría de la luna a través de ventanas cubiertas de lluvia, atmósfera de tormenta, profundidad de campo cinematográfica, motion blur natural, HDR) para mejorar el fotorrealismo y el ambiente.\n\nUsa referencias de estilo claras (thriller de acción coreano; Weak Hero se encuentra con The Raid se encuentra con John Wick) para orientar el tono y la coreografía.\n\nSolicita directamente características de salida de gama alta (ultra fotorrealista, VFX premium, calidad IMAX, 8K) cuando busques la máxima fidelidad."
+    },
+    "fr": {
+      "content": "Spécifiez explicitement le comportement de la caméra (un seul plan continu sans interruption, travelling arrière dans le couloir, caméra à l’épaule dynamique pendant le combat, plans en contre-plongée pour les coups de pied majeurs, brèves ralentis lors des impacts, mouvements fluides à 360° autour des attaques de groupe) et ajoutez des contraintes comme pas de cuts / pas de téléportation pour garantir la continuité.\n\nIncluez dans le prompt des contraintes ancrées dans la réalité physique (mouvements humains réalistes, impacts physiquement crédibles, aucun pouvoir surnaturel, aucune physique exagérée, pas de gore) afin de conserver un chorégraphie d’action réaliste.\n\nAjoutez des détails sur l’environnement et l’éclairage (reflets sur sol mouillé, lumières fluorescentes vacillantes + froide lumière de lune à travers des fenêtres couvertes de pluie, atmosphère de tempête, profondeur de champ cinématographique, flou de mouvement naturel, HDR) pour améliorer le photoréalisme et l’ambiance.\n\nUtilisez des références de style claires (thriller d’action coréen ; Weak Hero rencontre The Raid rencontre John Wick) pour orienter le ton et la chorégraphie.\n\nDemandez directement des caractéristiques de rendu haut de gamme (ultra-photorealistic, premium VFX, qualité IMAX, 8K) lorsque vous visez une fidélité maximale."
+    },
+    "ja": {
+      "content": "カメラの挙動を明確に指定する（1本の連続した途切れのないショット、廊下を後退しながらのトラッキング、戦闘中のダイナミックな手持ち撮影、決定的な蹴りに対するローアングルショット、短いスローモーションのインパクト、集団攻撃の周囲を滑らかに回る360°ムーブなど）うえで、no cuts / no teleportation のような制約を加え、連続性を強化する。\n\nプロンプトには物理的に整合した制約を含める（現実的な人間の動き、物理的に説得力のある衝撃、超自然的な力なし、誇張された物理演算なし、流血表現なし）ことで、アクションの振り付けをリアルに保つ。\n\n環境・ライティングの詳細を追加する（濡れた床の反射、ちらつく蛍光灯 + 雨に濡れた窓越しの冷たい月光、嵐のような雰囲気、cinematic な被写界深度、自然なモーションブラー、HDR）ことで、フォトリアリズムとムードを高める。\n\n明確なスタイル参照を使う（韓国のアクションスリラー；Weak Hero meets The Raid meets John Wick）ことで、トーンと振り付けの方向性を定める。\n\n最高レベルの忠実度を狙う場合は、ハイエンドな出力特性を直接指定する（ultra-photorealistic、premium VFX、IMAX quality、8K）。"
+    },
+    "ko": {
+      "content": "카메라 동작을 명시적으로 지정하세요(끊김 없는 단일 연속 샷, 복도를 따라 뒤로 트래킹, 전투 중 다이내믹한 핸드헬드, 주요 킥에서 로우 앵글 샷, 짧은 슬로모션 임팩트, 집단 공격 시 부드러운 360° 이동) 그리고 no cuts/no teleportation 같은 제약을 추가해 연속성을 강제하세요.\n\n프롬프트에 물리적으로 타당한 제약을 포함하세요(현실적인 인간의 움직임, 물리적으로 설득력 있는 임팩트, 초자연적 능력 없음, 과장된 물리 효과 없음, 고어 없음) ताकि 액션 안무가 현실적으로 유지되도록 하세요.\n\n환경/조명 디테일을 추가하세요(젖은 바닥의 반사, 깜빡이는 형광등 + 비에 젖은 창문을 통과하는 차가운 달빛, 폭풍 같은 분위기, cinematic depth of field, 자연스러운 motion blur, HDR) ताकि 사실감과 분위기를 높이세요.\n\n명확한 스타일 레퍼런스를 사용하세요(한국 액션 스릴러; Weak Hero meets The Raid meets John Wick) ताकि 톤과 안무를 원하는 방향으로 유도하세요.\n\n최고 수준의 충실도를 목표로 할 때는 고급 출력 특성을 직접 요청하세요(ultra-photorealistic, premium VFX, IMAX quality, 8K)."
+    },
+    "pt": {
+      "content": "Especifique explicitamente o comportamento da câmera (um único plano contínuo e ininterrupto, travelling para trás pelo corredor, câmera na mão dinâmica durante a luta, tomadas em ângulo baixo para chutes principais, breves impactos em câmera lenta, movimentos suaves de 360° ao redor de ataques em grupo) e adicione restrições como sem cortes/sem teletransporte para reforçar a continuidade.\n\nInclua no prompt restrições fundamentadas fisicamente (movimento humano realista, impactos fisicamente críveis, sem poderes sobrenaturais, sem física exagerada, sem gore) para manter a coreografia de ação realista.\n\nAdicione detalhes de ambiente/iluminação (reflexos no piso molhado, luzes fluorescentes piscando + luz fria da lua através de janelas cobertas de chuva, atmosfera de tempestade, profundidade de campo cinematográfica, motion blur natural, HDR) para melhorar o fotorrealismo e o clima.\n\nUse referências de estilo claras (thriller de ação coreano; Weak Hero encontra The Raid encontra John Wick) para orientar o tom e a coreografia.\n\nSolicite diretamente características de saída de alto nível (ultra-fotorrealista, VFX premium, qualidade IMAX, 8K) ao buscar máxima fidelidade."
+    },
+    "zh": {
+      "content": "明确指定镜头行为（一个连续不中断的长镜头、沿走廊向后跟拍、战斗中使用动态手持、重大踢击采用低角度镜头、短暂慢动作冲击、围绕群体攻击进行平滑的 360° 运镜），并加入诸如 no cuts / no teleportation 之类的约束，以强化连续性。\n\n在 prompt 中加入符合物理规律的约束（真实的人体动作、符合物理逻辑的冲击、没有超自然能力、没有夸张的物理效果、没有血腥），以保持动作编排的真实感。\n\n添加环境/光照细节（湿滑地面的反光、闪烁的荧光灯 + 雨水覆盖窗户透入的冷月光、暴风雨氛围、cinematic 景深、自然运动模糊、HDR），以提升写实感和氛围感。\n\n使用清晰的风格参考（韩国动作惊悚片；Weak Hero meets The Raid meets John Wick）来引导基调和动作编排。\n\n在追求最高保真度时，直接要求高端输出特征（ultra-photorealistic、premium VFX、IMAX quality、8K）。"
+    }
+  }
+}

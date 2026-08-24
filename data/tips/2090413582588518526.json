@@ -1,0 +1,42 @@
+{
+  "id": "2090413582588518526",
+  "title": "Use Seedance 2.5 text-to-video with a single detailed prompt to generate a full…",
+  "content": "Use Seedance 2.5 text-to-video with a single detailed prompt to generate a full scene including narration/dialogue and character “opinions” (native audio included).  \nGenerate an evening-news style clip by prompting for anchors and a newsroom format in one prompt on the same platform.  \nUse Seedance 2.5 image-to-video mode when you want to animate from a starting image instead of pure text.  \nKeep generations within Seedance’s clip limit (up to 30 seconds) and add captions/news graphics in post-production rather than in-model.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090410130651123712/img/9FLkDgqPi0_nNKPU.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090413582588518526.mp4",
+  "sourceLink": "https://x.com/0G_labs/status/2090413582588518526",
+  "sourcePublishedAt": "2026-08-20",
+  "author": {
+    "name": "0G Labs (Home of Infinite AI)",
+    "link": "https://x.com/0G_labs"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 text-to-video with a single detailed prompt to generate a full scene including narration/dialogue and character “opinions” (native audio included).  \nGenerate an evening-news style clip by prompting for anchors and a newsroom format in one prompt on the same platform.  \nUse Seedance 2.5 image-to-video mode when you want to animate from a starting image instead of pure text.  \nKeep generations within Seedance’s clip limit (up to 30 seconds) and add captions/news graphics in post-production rather than in-model.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 de texto a video con un único prompt detallado para generar una escena completa que incluya narración/diálogo y “opiniones” de los personajes (con audio nativo incluido).  \nGenera un clip con estilo de noticiero nocturno pidiendo presentadores y un formato de sala de redacción en un solo prompt en la misma plataforma.  \nUsa el modo image-to-video de Seedance 2.5 cuando quieras animar a partir de una imagen inicial en lugar de solo texto.  \nMantén las generaciones dentro del límite de clips de Seedance (hasta 30 segundos) y añade subtítulos/gráficos de noticias en postproducción en lugar de dentro del modelo.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] También hace el noticiero nocturno. Misma plataforma, un solo prompt, con presentadores incluidos.\n\nQuédate hasta la última pregunta. https://t.co/zZ2hDqEB7p\n\n[Hilo 2] Texto a video e image-to-video, audio nativo, clips de hasta 30 segundos. \n\nLos subtítulos y los gráficos de noticias se añadieron en postproducción. Todo lo demás sale directamente del modelo.\n\nPruébalo: https://t.co/IPt69La7Rr\n---"
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 en mode texte-vers-vidéo avec un seul prompt détaillé pour générer une scène complète incluant narration/dialogue et « opinions » des personnages (audio natif inclus).  \nGénérez un clip de style journal télévisé en demandant des présentateurs et un format de newsroom dans un seul prompt sur la même plateforme.  \nUtilisez le mode image-vers-vidéo de Seedance 2.5 lorsque vous souhaitez animer à partir d’une image de départ plutôt qu’à partir de texte pur.  \nLimitez les générations à la durée maximale des clips de Seedance (jusqu’à 30 secondes) et ajoutez les sous-titres/éléments graphiques de journal en post-production plutôt que dans le modèle.\n\n--- SUITE DU THREAD ---\n[Thread 1] Il fait aussi le journal du soir. Même plateforme, un seul prompt, présentateurs inclus.\n\nRestez jusqu’à la dernière question. https://t.co/zZ2hDqEB7p\n\n[Thread 2] Texte-vers-vidéo et image-vers-vidéo, audio natif, clips jusqu’à 30 secondes. \n\nLes sous-titres et les éléments graphiques de journal ont été ajoutés en post-production. Tout le reste provient directement du modèle.\n\nEssayez-le : https://t.co/IPt69La7Rr\n---"
+    },
+    "ja": {
+      "content": "Seedance 2.5 の text-to-video を使い、1つの詳細なプロンプトで、ナレーション／会話やキャラクターの「意見」（ネイティブ音声込み）を含む完全なシーンを生成します。  \n同じプラットフォーム上で、アンカーとニュースルーム形式を1つのプロンプトで指定して、夕方のニュース風クリップを生成します。  \n純粋なテキストではなく、開始画像からアニメーション化したい場合は、Seedance 2.5 の image-to-video モードを使います。  \n生成は Seedance のクリップ上限（最大30秒）内に収め、キャプションやニュースグラフィックはモデル内ではなくポストプロダクションで追加します。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 夕方のニュースもできます。 同じプラットフォームで、1つのプロンプト、アンカー込み。\n\n最後の質問まで見てください。 https://t.co/zZ2hDqEB7p\n\n[Thread 2] text-to-video と image-to-video、ネイティブ音声、最大30秒のクリップ。 \n\nキャプションとニュースグラフィックはポストで追加しました。 それ以外はすべてモデルからそのままです。\n\n試してみてください: https://t.co/IPt69La7Rr"
+    },
+    "ko": {
+      "content": "Seedance 2.5 텍스트-투-비디오를 사용해 하나의 상세한 프롬프트로 내레이션/대사와 캐릭터의 “의견”(네이티브 오디오 포함)까지 담긴 완전한 장면을 생성하세요.  \n같은 플랫폼에서 앵커와 뉴스룸 형식을 한 번의 프롬프트로 지정해 이브닝 뉴스 스타일 클립을 생성하세요.  \n시작 이미지에서 애니메이션을 만들고 싶을 때는 Seedance 2.5 이미지-투-비디오 모드를 사용하세요.  \n생성은 Seedance의 클립 제한(최대 30초) 안에서 유지하고, 자막/뉴스 그래픽은 모델 내부가 아니라 후반 작업에서 추가하세요.\n\n--- 스레드 계속 ---\n[스레드 1] 이브닝 뉴스도 됩니다. 같은 플랫폼, 한 번의 프롬프트, 앵커 포함.\n\n마지막 질문까지 보세요. https://t.co/zZ2hDqEB7p\n\n[스레드 2] 텍스트-투-비디오와 이미지-투-비디오, 네이티브 오디오, 최대 30초 클립.\n\n자막과 뉴스 그래픽은 후반 작업에서 추가했습니다. 나머지는 모두 모델에서 그대로 나온 것입니다.\n\n사용해 보세요: https://t.co/IPt69La7Rr"
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 de texto para vídeo com um único prompt detalhado para gerar uma cena completa, incluindo narração/diálogo e “opiniões” dos personagens (com áudio nativo incluído).  \nGere um clipe no estilo de telejornal pedindo âncoras e um formato de redação em um único prompt na mesma plataforma.  \nUse o modo imagem para vídeo do Seedance 2.5 quando quiser animar a partir de uma imagem inicial, em vez de apenas texto.  \nMantenha as gerações dentro do limite de clipe do Seedance (até 30 segundos) e adicione legendas/elementos gráficos de notícias na pós-produção, em vez de no modelo.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Ele também faz o telejornal da noite. Mesma plataforma, um prompt, âncoras incluídos.\n\nFique até a última pergunta. https://t.co/zZ2hDqEB7p\n\n[Thread 2] Texto para vídeo e imagem para vídeo, áudio nativo, clipes de até 30 segundos. \n\nAs legendas e os elementos gráficos de notícias foram adicionados na pós-produção. Todo o resto veio diretamente do modelo.\n\nExperimente: https://t.co/IPt69La7Rr\n---"
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 的文生视频功能，通过一个详细的 prompt 生成完整场景，包括旁白/对话以及角色的“观点”（内置原生音频）。  \n在同一平台上，只需在一个 prompt 中提示主播和新闻演播室格式，就能生成一段晚间新闻风格的视频。  \n当你想从一张起始图片进行动画化处理，而不是纯文本生成时，请使用 Seedance 2.5 的图生视频模式。  \n生成内容请控制在 Seedance 的片段时长限制内（最长 30 秒），并在后期制作中添加字幕/新闻图形，而不是在模型内完成。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 它也能做晚间新闻。同一平台，一个 prompt，包含主播。\n\n坚持看到最后一个问题。 https://t.co/zZ2hDqEB7p\n\n[Thread 2] 文生视频和图生视频，原生音频，片段最长 30 秒。 \n\n字幕和新闻图形是在后期添加的。其他内容都直接来自模型。\n\n试试看： https://t.co/IPt69La7Rr\n---"
+    }
+  }
+}

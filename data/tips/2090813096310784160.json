@@ -1,0 +1,43 @@
+{
+  "id": "2090813096310784160",
+  "title": "Create one clean character sheet first and reference it in every Seedance…",
+  "content": "Create one clean character sheet first and reference it in every Seedance generation to prevent character drift.  \nDescribe the camera like a game camera in your Seedance prompt (rigid follow distance, snap turns, HUD locked to the screen) to get gameplay-style movement.  \nPrompt the medium as well as the scene (e.g., use “gameplay capture” instead of “cinematic shot”) and specify flat exposure, deep focus, and no film grain to make it read like a game.  \nFor fight scenes, explicitly prompt that all actions happen at once (not turn-based) and re-render until the motion matches.  \nGenerate short Seedance clips and edit them together yourself, adding music in post, instead of relying on one long generation for more control.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090811963450249217/img/EKc7Mr9fylaItngE.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090813096310784160.mp4",
+  "sourceLink": "https://x.com/_VVSVS/status/2090813096310784160",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "Ivan Flugelman — VVSVS™",
+    "link": "https://x.com/_VVSVS"
+  },
+  "tags": [
+    "Action",
+    "Gunfight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Game UI"
+  ],
+  "tips": "Create one clean character sheet first and reference it in every Seedance generation to prevent character drift.  \nDescribe the camera like a game camera in your Seedance prompt (rigid follow distance, snap turns, HUD locked to the screen) to get gameplay-style movement.  \nPrompt the medium as well as the scene (e.g., use “gameplay capture” instead of “cinematic shot”) and specify flat exposure, deep focus, and no film grain to make it read like a game.  \nFor fight scenes, explicitly prompt that all actions happen at once (not turn-based) and re-render until the motion matches.  \nGenerate short Seedance clips and edit them together yourself, adding music in post, instead of relying on one long generation for more control.",
+  "translations": {
+    "es": {
+      "content": "---\nCrea primero una hoja de personaje limpia y úsala como referencia en cada generación de Seedance para evitar que el personaje se desvíe.  \nDescribe la cámara como si fuera una cámara de videojuego en tu prompt de Seedance (distancia de seguimiento rígida, giros bruscos, HUD fijo en la pantalla) para lograr un movimiento estilo gameplay.  \nIndica el medio además de la escena (por ejemplo, usa “gameplay capture” en lugar de “cinematic shot”) y especifica exposición plana, gran profundidad de campo y sin grano de película para que se perciba como un juego.  \nPara escenas de combate, indica explícitamente en el prompt que todas las acciones ocurren al mismo tiempo (no por turnos) y vuelve a renderizar hasta que el movimiento coincida.  \nGenera clips cortos de Seedance y edítalos tú mismo, añadiendo la música en posproducción, en lugar de depender de una sola generación larga para tener más control.\n---"
+    },
+    "fr": {
+      "content": "Créez d’abord une fiche de personnage propre et référez-vous-y dans chaque génération Seedance afin d’éviter toute dérive du personnage.  \nDécrivez la caméra comme une caméra de jeu dans votre prompt Seedance (distance de suivi rigide, rotations instantanées, HUD verrouillé à l’écran) pour obtenir un mouvement de type gameplay.  \nDécrivez le support ainsi que la scène (par exemple, utilisez « gameplay capture » plutôt que « cinematic shot ») et précisez une exposition plate, une grande profondeur de champ et l’absence de grain de film pour que le rendu évoque un jeu.  \nPour les scènes de combat, indiquez explicitement dans le prompt que toutes les actions se déroulent en même temps (et non au tour par tour), puis régénérez jusqu’à ce que le mouvement corresponde.  \nGénérez de courts clips Seedance et montez-les vous-même ensemble, en ajoutant la musique en post-production, plutôt que de compter sur une seule génération longue pour avoir plus de contrôle."
+    },
+    "ja": {
+      "content": "まずはクリーンなキャラクターシートを1枚作成し、その後のすべての Seedance 生成でそれを参照して、キャラクターのブレを防ぎます。  \nSeedance の prompt では、カメラをゲームカメラのように記述します（固定された追従距離、素早い方向転換、HUD は画面に固定）すると、ゲームプレイ風の動きが得られます。  \nシーンだけでなく媒体も prompt し（たとえば “cinematic shot” ではなく “gameplay capture” を使う）、さらにフラットな露出、深い被写界深度、フィルムグレインなしを指定して、ゲームのように見せます。  \n戦闘シーンでは、すべてのアクションが同時に起こること（ターン制ではない）を明示的に prompt し、動きが合うまで再生成します。  \n長尺の1回生成に頼るのではなく、短い Seedance クリップを生成して自分でつなぎ、後から音楽を加えることで、より細かくコントロールします。"
+    },
+    "ko": {
+      "content": "캐릭터 드리프트를 방지하려면 먼저 깔끔한 캐릭터 시트를 하나 만들고, 모든 Seedance 생성에서 이를 참조하세요.  \n게임플레이 스타일의 움직임을 얻으려면 Seedance prompt에서 카메라를 게임 카메라처럼 설명하세요(고정된 추적 거리, 즉각적인 회전, 화면에 고정된 HUD).  \n장면뿐 아니라 매체도 함께 prompt 하세요(예: “cinematic shot” 대신 “gameplay capture” 사용) 그리고 평평한 노출(flat exposure), 깊은 초점(deep focus), 필름 그레인 없음(no film grain)을 지정해 게임처럼 보이게 만드세요.  \n전투 장면에서는 모든 동작이 동시에 일어난다고 명시적으로 prompt 하세요(턴제 방식이 아니라) 그리고 움직임이 맞을 때까지 다시 렌더링하세요.  \n하나의 긴 생성에 의존하기보다 짧은 Seedance 클립들을 생성한 뒤 직접 편집해 이어 붙이고, 후반 작업에서 음악을 추가해 더 많은 제어권을 확보하세요."
+    },
+    "pt": {
+      "content": "Crie primeiro uma ficha de personagem limpa e use-a como referência em todas as gerações no Seedance para evitar variações no personagem.  \nDescreva a câmera como uma câmera de jogo no seu prompt do Seedance (distância de follow rígida, giros bruscos, HUD travado na tela) para obter um movimento no estilo gameplay.  \nEspecifique o meio, assim como a cena (por exemplo, use “gameplay capture” em vez de “cinematic shot”) e indique exposição plana, foco profundo e sem granulação de filme para que pareça um jogo.  \nPara cenas de luta, peça explicitamente no prompt que todas as ações aconteçam ao mesmo tempo (não em turnos) e re-renderize até que o movimento corresponda.  \nGere clipes curtos no Seedance e edite-os você mesmo em seguida, adicionando música na pós-produção, em vez de depender de uma única geração longa para ter mais controle."
+    },
+    "zh": {
+      "content": "先创建一张干净的角色设定表，并在每次 Seedance 生成中都引用它，以防止角色漂移。  \n在 Seedance prompt 中把镜头描述得像游戏摄像机一样（固定跟随距离、快速转向、HUD 锁定在屏幕上），以获得游戏风格的运动效果。  \n除了场景之外，也要提示媒介形式（例如，用“gameplay capture”而不是“cinematic shot”），并指定平直曝光、深景深以及无胶片颗粒，让画面更像游戏。  \n对于打斗场景，明确提示所有动作同时发生（不是回合制），并反复重新生成，直到动作匹配为止。  \n生成较短的 Seedance 片段后再自行剪辑拼接，并在后期加入音乐，而不是依赖一次长生成，以获得更强的控制力。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2090467008131281277",
+  "title": "Upload several images to Omni Reference to guide Seedance 2.5 for a music video.",
+  "content": "Upload several images to Omni Reference to guide Seedance 2.5 for a music video.  \nWrite a detailed prompt that includes the song plus all desired elements, then render the entire music video in a single generation.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090466767470518272/img/a6A6l8BmFkt5CK9t.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090467008131281277.mp4",
+  "sourceLink": "https://x.com/Artedeingenio/status/2090467008131281277",
+  "sourcePublishedAt": "2026-08-20",
+  "author": {
+    "name": "OscarAI",
+    "link": "https://x.com/Artedeingenio"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Upload several images to Omni Reference to guide Seedance 2.5 for a music video.  \nWrite a detailed prompt that includes the song plus all desired elements, then render the entire music video in a single generation.",
+  "translations": {
+    "es": {
+      "content": "Sube varias imágenes a Omni Reference para guiar a Seedance 2.5 en un video musical.  \nEscribe un prompt detallado que incluya la canción y todos los elementos deseados, y luego renderiza el video musical completo en una sola generación."
+    },
+    "fr": {
+      "content": "Téléchargez plusieurs images dans Omni Reference pour guider Seedance 2.5 dans la création d’un clip musical.  \nRédigez un prompt détaillé qui inclut la chanson ainsi que tous les éléments souhaités, puis rendez l’intégralité du clip en une seule génération."
+    },
+    "ja": {
+      "content": "Omni Reference に複数の画像をアップロードして、Seedance 2.5 のミュージックビデオ制作をガイドします。  \n曲に加えて、希望する要素をすべて含めた詳細な prompt を作成し、ミュージックビデオ全体を一度の生成でレンダリングします。"
+    },
+    "ko": {
+      "content": "Omni Reference에 여러 이미지를 업로드하여 음악 비디오용 Seedance 2.5를 안내하세요.  \n노래와 원하는 모든 요소를 포함한 상세한 prompt를 작성한 다음, 전체 음악 비디오를 한 번의 생성으로 렌더링하세요."
+    },
+    "pt": {
+      "content": "Envie várias imagens para o Omni Reference para orientar o Seedance 2.5 na criação de um videoclipe.  \nEscreva um prompt detalhado que inclua a música e todos os elementos desejados, depois renderize o videoclipe inteiro em uma única geração."
+    },
+    "zh": {
+      "content": "将多张图片上传到 Omni Reference，以引导 Seedance 2.5 制作音乐视频。  \n编写一个详细的 prompt，包含歌曲以及所有期望的元素，然后通过一次生成即可渲染完整的音乐视频。"
+    }
+  }
+}

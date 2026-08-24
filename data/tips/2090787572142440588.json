@@ -1,0 +1,42 @@
+{
+  "id": "2090787572142440588",
+  "title": "Set Seedance 2.5 format to 30 seconds duration and 16:9 aspect ratio for a…",
+  "content": "Set Seedance 2.5 format to 30 seconds duration and 16:9 aspect ratio for a blockbuster teaser output.  \nPrompt a four-location structure with physically believable spatial transitions to keep connected scenes coherent.  \nUse a single active reference image (@image1) only for character identity, and explicitly lock face, facial structure, hairstyle, hair color, skin tone, body proportions, exact outfit, outfit colors, and identity.  \nAdd a negative constraint telling Seedance not to copy the reference background, pose, text, crop, or studio lighting to avoid unwanted transfer.  \nStoryboard the prompt with timestamped beats (e.g., 00:00–00:06) and specify camera type/motion (handheld, slow push-in), lighting (neutral fluorescent), environment details (concrete corridor, metal doors, pipes, wear), and character actions/reactions to control shot composition.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090787294114373632/img/ibbLccGAgG6UTJ39.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090787572142440588.mp4",
+  "sourceLink": "https://x.com/SimplyAnnisa/status/2090787572142440588",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "Anissa",
+    "link": "https://x.com/SimplyAnnisa"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Set Seedance 2.5 format to 30 seconds duration and 16:9 aspect ratio for a blockbuster teaser output.  \nPrompt a four-location structure with physically believable spatial transitions to keep connected scenes coherent.  \nUse a single active reference image (@image1) only for character identity, and explicitly lock face, facial structure, hairstyle, hair color, skin tone, body proportions, exact outfit, outfit colors, and identity.  \nAdd a negative constraint telling Seedance not to copy the reference background, pose, text, crop, or studio lighting to avoid unwanted transfer.  \nStoryboard the prompt with timestamped beats (e.g., 00:00–00:06) and specify camera type/motion (handheld, slow push-in), lighting (neutral fluorescent), environment details (concrete corridor, metal doors, pipes, wear), and character actions/reactions to control shot composition.",
+  "translations": {
+    "es": {
+      "content": "Configura el formato Seedance 2.5 a una duración de 30 segundos y una relación de aspecto 16:9 para una salida tipo teaser de blockbuster.  \nPlantea una estructura de cuatro ubicaciones con transiciones espaciales físicamente creíbles para mantener la coherencia entre escenas conectadas.  \nUsa una sola imagen de referencia activa (@image1) únicamente para la identidad del personaje, y bloquea explícitamente el rostro, la estructura facial, el peinado, el color de cabello, el tono de piel, las proporciones corporales, el atuendo exacto, los colores del atuendo y la identidad.  \nAñade una restricción negativa indicando a Seedance que no copie el fondo, la pose, el texto, el recorte ni la iluminación de estudio de la referencia para evitar transferencias no deseadas.  \nEstructura el prompt como un storyboard con beats marcados por tiempo (por ejemplo, 00:00–00:06) y especifica el tipo de cámara/movimiento (handheld, slow push-in), la iluminación (neutral fluorescent), los detalles del entorno (pasillo de concreto, puertas metálicas, tuberías, desgaste) y las acciones/reacciones del personaje para controlar la composición de cada plano."
+    },
+    "fr": {
+      "content": "Définissez le format Seedance 2.5 sur une durée de 30 secondes et un ratio d’aspect 16:9 pour obtenir un teaser au rendu blockbuster.  \nRédigez un prompt avec une structure en quatre lieux et des transitions spatiales physiquement crédibles afin de maintenir la cohérence des scènes connectées.  \nUtilisez une seule image de référence active (@image1) uniquement pour l’identité du personnage, et verrouillez explicitement le visage, la structure faciale, la coiffure, la couleur des cheveux, le teint, les proportions du corps, la tenue exacte, les couleurs de la tenue et l’identité.  \nAjoutez une contrainte négative indiquant à Seedance de ne pas copier l’arrière-plan, la pose, le texte, le cadrage ou l’éclairage de studio de la référence afin d’éviter tout transfert indésirable.  \nStructurez le prompt sous forme de storyboard avec des temps clés horodatés (par ex. 00:00–00:06) et précisez le type de caméra/le mouvement (caméra à l’épaule, slow push-in), l’éclairage (fluorescent neutre), les détails de l’environnement (couloir en béton, portes métalliques, tuyaux, usure) et les actions/réactions du personnage pour contrôler la composition des plans."
+    },
+    "ja": {
+      "content": "Seedance 2.5 のフォーマットを、30秒の尺と16:9のアスペクト比に設定し、ブロックバスター級のティーザー出力にする。  \n4つのロケーション構成を指示し、物理的に自然な空間遷移を持たせて、連続するシーンの一貫性を保つ。  \n単一のアクティブな参照画像（@image1）はキャラクターのアイデンティティのみに使用し、顔、顔立ち、髪型、髪色、肌の色、体型、正確な衣装、衣装の色、そして同一性を明示的に固定する。  \n参照背景、ポーズ、テキスト、トリミング、スタジオ照明をコピーしないよう Seedance に指示するネガティブ制約を追加し、意図しない転写を避ける。  \nタイムスタンプ付きのビート（例: 00:00–00:06）で prompt をストーリーボード化し、カメラの種類／動き（handheld、slow push-in）、ライティング（neutral fluorescent）、環境の詳細（concrete corridor、metal doors、pipes、wear）、およびキャラクターの動作／反応を指定して、ショット構成を制御する。"
+    },
+    "ko": {
+      "content": "Seedance 2.5 형식을 30초 길이와 16:9 화면비로 설정해 블록버스터 티저용 결과물을 만드세요.  \n물리적으로 그럴듯한 공간 전환을 갖춘 4개 장소 구조를 프롬프트에 넣어, 연결된 장면들이 일관성을 유지하도록 하세요.  \n단일 활성 참조 이미지(@image1)는 캐릭터의 신원 확인에만 사용하고, 얼굴, 얼굴 구조, 헤어스타일, 머리색, 피부톤, 신체 비율, 정확한 의상, 의상 색상, 그리고 정체성을 명시적으로 고정하세요.  \n원치 않는 전이를 방지하기 위해 Seedance가 참조 배경, 포즈, 텍스트, 크롭, 또는 스튜디오 조명을 복사하지 않도록 하는 네거티브 제약을 추가하세요.  \n타임스탬프가 포함된 비트(예: 00:00–00:06)로 프롬프트를 스토리보드화하고, 카메라 종류/움직임(핸드헬드, 느린 푸시인), 조명(중성 형광등), 환경 디테일(콘크리트 복도, 금속 문, 배관, 마모감), 그리고 캐릭터의 행동/반응을 지정해 샷 구성을 제어하세요."
+    },
+    "pt": {
+      "content": "Defina o formato do Seedance 2.5 para 30 segundos de duração e proporção 16:9 para uma saída em estilo teaser de blockbuster.  \nCrie uma estrutura com quatro locações e transições espaciais fisicamente críveis para manter a coerência entre cenas conectadas.  \nUse apenas uma única imagem de referência ativa (@image1) para a identidade do personagem e bloqueie explicitamente rosto, estrutura facial, penteado, cor do cabelo, tom de pele, proporções corporais, roupa exata, cores da roupa e identidade.  \nAdicione uma restrição negativa dizendo ao Seedance para não copiar o fundo, a pose, o texto, o recorte ou a iluminação de estúdio da referência, a fim de evitar transferência indesejada.  \nEstruture o prompt como um storyboard com beats marcados por timestamp (por exemplo, 00:00–00:06) e especifique o tipo/movimento de câmera (handheld, slow push-in), a iluminação (fluorescent neutral), os detalhes do ambiente (corredor de concreto, portas de metal, canos, desgaste) e as ações/reações do personagem para controlar a composição do plano."
+    },
+    "zh": {
+      "content": "将 Seedance 2.5 格式设置为 30 秒时长和 16:9 画幅，以输出一支大片级 teaser。  \n提示采用四个场景结构，并通过符合物理规律的空间转场来保持相连场景的连贯性。  \n仅使用一张 active reference image（@image1）来确定角色身份，并明确锁定面部、面部结构、发型、发色、肤色、身体比例、精确服装、服装颜色以及身份。  \n添加负向约束，要求 Seedance 不要复制参考图中的背景、姿势、文字、裁切或棚拍灯光，以避免不必要的迁移。  \n将 prompt 以带时间戳的节拍进行分镜（例如 00:00–00:06），并指定 camera type/motion（handheld、slow push-in）、lighting（neutral fluorescent）、环境细节（concrete corridor、metal doors、pipes、wear）以及角色动作/反应，以控制镜头构图。"
+    }
+  }
+}

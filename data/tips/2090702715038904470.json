@@ -1,0 +1,42 @@
+{
+  "id": "2090702715038904470",
+  "title": "Use Claude (or another LLM) in a dedicated project to draft highly detailed…",
+  "content": "Use Claude (or another LLM) in a dedicated project to draft highly detailed Seedance prompts specifying composition, framing, lighting, and object placement for each shot.  \nFor Seedance 2.5, explicitly include the lens focal length in every shot prompt to achieve a more controlled, consistent cinematic look.  \nWhen object size/placement drifts between generations, export a frame from a good generation and reuse it as a reference image, explicitly stating it is the reference for scale and spatial placement.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090701188110888960/img/nbMQ9qTHj9JU8NHK.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090702715038904470.mp4",
+  "sourceLink": "https://x.com/ATOM_VISUAL/status/2090702715038904470",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "ATOM",
+    "link": "https://x.com/ATOM_VISUAL"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Claude (or another LLM) in a dedicated project to draft highly detailed Seedance prompts specifying composition, framing, lighting, and object placement for each shot.  \nFor Seedance 2.5, explicitly include the lens focal length in every shot prompt to achieve a more controlled, consistent cinematic look.  \nWhen object size/placement drifts between generations, export a frame from a good generation and reuse it as a reference image, explicitly stating it is the reference for scale and spatial placement.",
+  "translations": {
+    "es": {
+      "content": "Usa Claude (u otro LLM) en un proyecto dedicado para redactar prompts de Seedance altamente detallados que especifiquen la composición, el encuadre, la iluminación y la ubicación de los objetos en cada toma.  \nPara Seedance 2.5, incluye explícitamente la distancia focal del lente en cada prompt de toma para lograr un look cinematográfico más controlado y consistente.  \nCuando el tamaño o la ubicación de los objetos derive entre generaciones, exporta un frame de una buena generación y reutilízalo como imagen de referencia, indicando explícitamente que es la referencia para la escala y la colocación espacial."
+    },
+    "fr": {
+      "content": "Utilisez Claude (ou un autre LLM) dans un projet dédié pour rédiger des prompts Seedance très détaillés, en précisant la composition, le cadrage, l’éclairage et le placement des objets pour chaque plan.  \nPour Seedance 2.5, incluez explicitement la distance focale de l’objectif dans chaque prompt de plan afin d’obtenir un rendu cinématographique plus contrôlé et cohérent.  \nLorsque la taille ou le placement des objets dérive d’une génération à l’autre, exportez une image fixe d’une bonne génération et réutilisez-la comme image de référence, en précisant explicitement qu’il s’agit de la référence pour l’échelle et le placement spatial."
+    },
+    "ja": {
+      "content": "Claude（または別のLLM）を専用プロジェクトで使い、各ショットごとに構図、フレーミング、ライティング、オブジェクトの配置を明確に指定した、非常に詳細な Seedance プロンプトを作成します。  \nSeedance 2.5 では、より制御された一貫性のある cinematic な見た目を実現するために、各ショットのプロンプトにレンズの焦点距離を必ず明記してください。  \n生成ごとにオブジェクトのサイズや配置がずれる場合は、良い生成結果からフレームを書き出して reference image として再利用し、それがスケールと空間配置の reference であることを明示的に記述します。"
+    },
+    "ko": {
+      "content": "각 샷마다 composition, framing, lighting, object placement를 구체적으로 지정한 매우 상세한 Seedance prompt를 작성하기 위해 전용 프로젝트에서 Claude(또는 다른 LLM)를 사용하세요.  \nSeedance 2.5에서는 더 통제되고 일관된 cinematic look을 얻기 위해 모든 샷 prompt에 lens focal length를 명시적으로 포함하세요.  \n생성 결과마다 object size/placement가 달라질 때는 좋은 결과물에서 frame을 export해 reference image로 재사용하고, 그것이 scale과 spatial placement를 위한 reference임을 명시적으로 적으세요."
+    },
+    "pt": {
+      "content": "Use o Claude (ou outro LLM) em um projeto dedicado para elaborar prompts altamente detalhados para o Seedance, especificando composição, enquadramento, iluminação e posicionamento dos objetos em cada tomada.  \nPara o Seedance 2.5, inclua explicitamente a distância focal da lente em cada prompt de tomada para obter um visual cinematográfico mais controlado e consistente.  \nQuando o tamanho/posicionamento dos objetos variar entre gerações, exporte um frame de uma boa geração e reutilize-o como imagem de referência, deixando explícito que ela é a referência para escala e posicionamento espacial."
+    },
+    "zh": {
+      "content": "使用 Claude（或其他 LLM）在一个专门的项目中起草高度详细的 Seedance prompts，明确指定每个镜头的构图、取景、光照以及物体摆放。  \n对于 Seedance 2.5，请在每个镜头 prompt 中明确包含镜头焦距，以获得更可控、更一致的 cinematic 效果。  \n当物体大小/位置在不同生成结果之间发生漂移时，从一个效果良好的生成结果中导出一帧，并将其重新用作参考图像，明确说明它是用于尺度和空间位置的 reference。"
+    }
+  }
+}

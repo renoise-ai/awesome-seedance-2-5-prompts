@@ -1,0 +1,42 @@
+{
+  "id": "2091434745020469508",
+  "title": "Flovaの「スクリプトから動画」Skillで参考画像を入力し、ストーリーと複数カットを設計してから、映像生成をSeedance 2.5で行う",
+  "content": "Flovaの「スクリプトから動画」Skillで参考画像を入力し、ストーリーと複数カットを設計してから、映像生成をSeedance 2.5で行う  \n完成した制作フローをFlovaのSkillとして保存・再利用し、次のSeedance動画制作に流用する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091434191061946368/img/gUiJT5a-yzdDZ7q_.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091434745020469508.mp4",
+  "sourceLink": "https://x.com/akiyoshisan/status/2091434745020469508",
+  "sourcePublishedAt": "2026-08-23",
+  "author": {
+    "name": "右よし左よし秋よし@AIエンタメ",
+    "link": "https://x.com/akiyoshisan"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Flovaの「スクリプトから動画」Skillで参考画像を入力し、ストーリーと複数カットを設計してから、映像生成をSeedance 2.5で行う  \n完成した制作フローをFlovaのSkillとして保存・再利用し、次のSeedance動画制作に流用する",
+  "translations": {
+    "en": {
+      "content": "Use Flova’s “Script to Video” Skill to input reference images, design the story and multiple shots, and then generate the video with Seedance 2.5.  \nSave the completed production workflow as a Flova Skill and reuse it for your next Seedance video project.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Here’s the Flova “Script to Video” Skill used this time 👇\nhttps://t.co/TWjREbTCZl\nSince the completed production workflow itself can be reused as a Skill, you can carry it over to your next video project as well.\n@Flovaai_Japan\n#FlovaAI #FlovaSkill\n---"
+    },
+    "es": {
+      "content": "Con la Skill de Flova “de script a video”, introduce imágenes de referencia, diseña la historia y varios planos, y luego genera el video con Seedance 2.5.  \nGuarda y reutiliza el flujo de producción completado como una Skill de Flova, y reaprovéchalo para la siguiente creación de videos con Seedance.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] La Skill de Flova “de script a video” que usamos esta vez es esta 👇\nhttps://t.co/TWjREbTCZl\nComo puedes reutilizar el propio flujo de producción completado como una Skill, también puedes conectarlo con la siguiente producción de video.\n@Flovaai_Japan\n#FlovaAI #FlovaSkill\n---"
+    },
+    "fr": {
+      "content": "Avec le Skill « Script vers vidéo » de Flova, importez une image de référence, concevez l’histoire et plusieurs plans, puis générez la vidéo avec Seedance 2.5.  \nEnregistrez et réutilisez le workflow de production finalisé comme un Skill Flova, afin de le réemployer pour votre prochaine création vidéo Seedance.\n\n--- SUITE DU THREAD ---\n[Thread 1] Voici le Skill « Script vers vidéo » de Flova utilisé cette fois-ci 👇\nhttps://t.co/TWjREbTCZl\nComme le workflow de production finalisé lui-même peut être réutilisé en tant que Skill, vous pouvez aussi l’exploiter pour vos prochaines vidéos.\n@Flovaai_Japan\n#FlovaAI #FlovaSkill\n---"
+    },
+    "ko": {
+      "content": "Flova의 「스크립트에서 영상으로」 Skill에 참고 이미지를 입력하고, 스토리와 여러 컷을 설계한 뒤, 영상 생성은 Seedance 2.5로 진행한다  \n완성된 제작 플로우를 Flova의 Skill로 저장·재사용하고, 다음 Seedance 영상 제작에 활용한다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 이번에 사용한 Flova의 「스크립트에서 영상으로」 Skill은 여기입니다👇\nhttps://t.co/TWjREbTCZl\n완성된 제작 플로우 자체를 Skill로 재사용할 수 있으므로, 다음 영상 제작에도 이어갈 수 있습니다.\n@Flovaai_Japan\n#FlovaAI #FlovaSkill\n---"
+    },
+    "pt": {
+      "content": "Usando o Skill “Script to Video” do Flova, insira uma imagem de referência, planeje a história e vários cortes, e então gere o vídeo com o Seedance 2.5  \nSalve e reutilize o fluxo de produção concluído como um Skill do Flova, e reaproveite-o na próxima produção de vídeo com Seedance\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] O Skill “Script to Video” do Flova usado desta vez está aqui👇\nhttps://t.co/TWjREbTCZl\nComo o próprio fluxo de produção concluído pode ser reutilizado como um Skill, ele também pode ser aproveitado na próxima produção de vídeo.\n@Flovaai_Japan\n#FlovaAI #FlovaSkill\n---"
+    },
+    "zh": {
+      "content": "在 Flova 的「从脚本到视频」Skill 中输入参考图片，先设计故事和多个镜头，再使用 Seedance 2.5 进行视频生成  \n将完成的制作流程保存并复用为 Flova 的 Skill，以便在下一次 Seedance 视频制作中直接沿用\n\n--- THREAD CONTINUATION ---\n[Thread 1] 这次使用的 Flova「从脚本到视频」Skill 在这里👇\nhttps://t.co/TWjREbTCZl\n完成的制作流程本身也可以作为 Skill 复用，因此还能无缝衔接到下一次视频制作。\n@Flovaai_Japan\n#FlovaAI #FlovaSkill\n---"
+    }
+  }
+}

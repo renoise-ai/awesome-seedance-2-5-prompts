@@ -1,0 +1,40 @@
+{
+  "id": "2090357732184568200",
+  "title": "参考上传视频作为唯一动作、镜头节奏与剪辑参考，参考上传人物图片与橙色牛角色图片，生成一段 15秒、4:3横屏、真实街头喜剧短视频。",
+  "content": "参考上传视频作为唯一动作、镜头节奏与剪辑参考，参考上传人物图片与橙色牛角色图片，生成一段 15秒、4:3横屏、真实街头喜剧短视频。",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090357203505197056/img/6g1mp3z4Ti4BpLZ5.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090357732184568200.mp4",
+  "sourceLink": "https://x.com/Chengzilhy/status/2090357732184568200",
+  "sourcePublishedAt": "2026-08-20",
+  "author": {
+    "name": "小宇Chengzi",
+    "link": "https://x.com/Chengzilhy"
+  },
+  "tags": [
+    "Meme & Comedy",
+    "Anthropomorphic",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "en": {
+      "content": "Use the uploaded video as the sole reference for motion, camera rhythm, and editing, and use the uploaded character image and the orange cow character image as references to generate a 15-second, 4:3 landscape, realistic street-comedy short video."
+    },
+    "es": {
+      "content": "Toma el video subido como única referencia de movimiento, ritmo de cámara y edición; toma la imagen de la persona subida y la imagen del personaje de la vaca naranja como referencia, y genera un video corto de comedia callejera realista de 15 segundos, en formato horizontal 4:3."
+    },
+    "fr": {
+      "content": "En vous basant uniquement sur la vidéo téléversée comme référence pour les mouvements, le rythme des plans et le montage, ainsi que sur l’image de la personne téléversée et l’image du personnage de vache orange, générez une courte vidéo comique réaliste de 15 secondes, en format horizontal 4:3."
+    },
+    "ja": {
+      "content": "参考としてアップロードされた動画を、動き・カメラのテンポ・編集の唯一の基準とし、アップロードされた人物画像とオレンジ色の牛キャラクター画像を参考にして、15秒の、4:3横長、リアルなストリートコメディ短編動画を生成する。"
+    },
+    "ko": {
+      "content": "업로드한 영상을 유일한 동작, 카메라 리듬, 편집 참고로 삼고, 업로드한 인물 이미지와 주황색 소 캐릭터 이미지를 참고하여 15초 분량의 4:3 가로형 실사 거리 코미디 숏폼 영상을 생성하세요."
+    },
+    "pt": {
+      "content": "Use o vídeo enviado como única referência de movimento, ritmo de câmera e edição; use a imagem da pessoa enviada e a imagem do personagem da vaca laranja como referência, e gere um vídeo curto de comédia de rua realista de 15 segundos, em formato horizontal 4:3."
+    }
+  }
+}

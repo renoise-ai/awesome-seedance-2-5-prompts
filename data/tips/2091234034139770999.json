@@ -1,0 +1,42 @@
+{
+  "id": "2091234034139770999",
+  "title": "Use Seedance 2.5 to render podcast-style speakers with native audio and…",
+  "content": "Use Seedance 2.5 to render podcast-style speakers with native audio and automatic lip-sync from your scripted dialogue.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091233981689937920/img/N7uHXJFbWcyWGK6a.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091234034139770999.mp4",
+  "sourceLink": "https://x.com/tapshvee/status/2091234034139770999",
+  "sourcePublishedAt": "2026-08-22",
+  "author": {
+    "name": "Tapshvee | Ads that Scale Brands",
+    "link": "https://x.com/tapshvee"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 to render podcast-style speakers with native audio and automatic lip-sync from your scripted dialogue.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 para renderizar presentadores con estilo de podcast con audio nativo y sincronización labial automática a partir de tu diálogo guionizado."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 pour générer des intervenants au style podcast avec audio natif et synchronisation labiale automatique à partir de votre dialogue scénarisé."
+    },
+    "ja": {
+      "content": "Seedance 2.5 を使って、台本化された対話から、ネイティブ音声と自動リップシンク付きのポッドキャスト風スピーカーを生成します。"
+    },
+    "ko": {
+      "content": "Seedance 2.5를 사용해 스크립트된 대사에 맞춰 네이티브 오디오와 자동 립싱크가 적용된 팟캐스트 스타일의 화자를 렌더링하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 para renderizar apresentadores no estilo de podcast com áudio nativo e sincronização labial automática a partir do seu diálogo roteirizado."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5，根据你编写的对话脚本渲染播客风格的说话者，并实现原生音频和自动口型同步。"
+    }
+  }
+}

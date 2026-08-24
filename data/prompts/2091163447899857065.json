@@ -1,0 +1,40 @@
+{
+  "id": "2091163447899857065",
+  "title": "Use exactly 1 uploaded image asset.",
+  "content": "Use exactly 1 uploaded image asset.\nimage1 = PYONA唯一且最高优先级的人物身份与外观参考。",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091162615468920832/img/7wZdIF9CY-oTM5y5.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091163447899857065.mp4",
+  "sourceLink": "https://x.com/pyona_ai/status/2091163447899857065",
+  "sourcePublishedAt": "2026-08-22",
+  "author": {
+    "name": "Pyona",
+    "link": "https://x.com/pyona_ai"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "en": {
+      "content": "Use exactly 1 uploaded image asset.  \nimage1 = the sole and highest-priority reference for PYONA’s character identity and appearance."
+    },
+    "es": {
+      "content": "Usa exactamente 1 recurso de imagen cargado.\nimage1 = la única y de máxima prioridad referencia de identidad y apariencia del personaje de PYONA.\n---"
+    },
+    "fr": {
+      "content": "Utilisez exactement 1 image importée.\nimage1 = la référence unique et prioritaire la plus élevée pour l’identité et l’apparence du personnage de PYONA.\n---"
+    },
+    "ja": {
+      "content": "アップロードされた画像アセットをちょうど1つ使用してください。  \nimage1 = PYONAの唯一かつ最優先の人物アイデンティティおよび外観参照。"
+    },
+    "ko": {
+      "content": "업로드된 이미지 에셋을 정확히 1개 사용하세요.\nimage1 = PYONA의 유일하고 최우선인 인물 정체성과 외형 참고 자료입니다.\n---"
+    },
+    "pt": {
+      "content": "Use exatamente 1 imagem enviada como asset.\nimage1 = a única e mais alta referência de identidade e aparência do personagem PYONA.\n---"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2090758377907572842",
+  "title": "同一の構成（ショット割り）を維持したままキャラクターだけ差し替え、キャラに合わせてプロンプトを調整して別バージョンを作る",
+  "content": "同一の構成（ショット割り）を維持したままキャラクターだけ差し替え、キャラに合わせてプロンプトを調整して別バージョンを作る  \nキャラクターの一貫性を保ちたい場合はReference画像を1枚だけでも指定して生成する  \n動きの迷いを減らしたい場合は、プロンプトでアニメ寄りか実写寄りかどちらかに明確に寄せてスタイルを固定する  \n中間的なスタイル（アニメ×実写の中間）を狙う場合は難易度が高いので、世界観を明確にしつつ追加の工夫（プロンプト調整）を前提にする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090758344483209216/img/Uc5fquZDC9CvYkXR.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090758377907572842.mp4",
+  "sourceLink": "https://x.com/taziku_co/status/2090758377907572842",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "田中義弘 | taziku CEO / AI × Creative",
+    "link": "https://x.com/taziku_co"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "同一の構成（ショット割り）を維持したままキャラクターだけ差し替え、キャラに合わせてプロンプトを調整して別バージョンを作る  \nキャラクターの一貫性を保ちたい場合はReference画像を1枚だけでも指定して生成する  \n動きの迷いを減らしたい場合は、プロンプトでアニメ寄りか実写寄りかどちらかに明確に寄せてスタイルを固定する  \n中間的なスタイル（アニメ×実写の中間）を狙う場合は難易度が高いので、世界観を明確にしつつ追加の工夫（プロンプト調整）を前提にする",
+  "translations": {
+    "en": {
+      "content": "Keep the same composition (shot breakdown) and swap out only the character, then adjust the prompt to match the character and create a different version.\n\nIf you want to maintain character consistency, generate with even just one Reference image specified.\n\nIf you want to reduce uncertainty in the motion, clearly steer the prompt toward either anime or live-action and lock the style in place.\n\nIf you’re aiming for an intermediate style (somewhere between anime and live-action), the difficulty is high, so it helps to establish the world clearly and assume additional refinement (prompt adjustments) will be needed.\n\n--- QUOTED TWEET ---\nAdjusted the prompt while keeping the exact same composition as yesterday, changing only the character.\n\nI feel like leaning either toward anime or live-action makes it easier to create motion without hesitation.\n\nA strong worldbuilding foundation is necessary, but at this point, aiming squarely for something like a middle ground may be difficult without some extra ingenuity. https://t.co/RPmmvwomQn\n---"
+    },
+    "es": {
+      "content": "Manteniendo la misma composición (distribución de planos), sustituye solo al personaje y ajusta el prompt según ese personaje para crear una versión diferente.  \nSi quieres mantener la coherencia del personaje, genera la imagen especificando хотя sea una sola imagen de referencia.  \nSi quieres reducir la indecisión en el movimiento, fija el estilo en el prompt inclinándolo claramente hacia anime o hacia live action.  \nSi apuntas a un estilo intermedio (entre anime y live action), la dificultad es alta, así que conviene partir de un worldbuilding claro y asumir que harán falta ajustes adicionales (tuning del prompt).\n\n--- TWEET CITADO ---\nAjusté el prompt cambiando solo al personaje, con la misma composición exacta que ayer.\n\nCreo que, si lo orientas hacia anime o hacia live action, puedes crear movimientos con menos indecisión.\n\nHace falta un worldbuilding, pero intentar apuntar con firmeza a un punto intermedio por ahora quizá sea difícil sin algunos trucos. https://t.co/RPmmvwomQn\n---"
+    },
+    "fr": {
+      "content": "Tout en conservant la même composition (découpage des plans), remplacer uniquement le personnage et ajuster le prompt en fonction du personnage pour créer une autre version  \nSi vous souhaitez préserver la cohérence du personnage, générez en spécifiant même une seule image de référence  \nSi vous voulez réduire l’hésitation dans les mouvements, fixez clairement le style dans le prompt en l’orientant soit vers l’anime, soit vers le live-action  \nSi vous visez un style intermédiaire (entre anime et live-action), le niveau de difficulté est élevé ; il faut donc définir clairement l’univers tout en prévoyant des ajustements supplémentaires (tuning du prompt)\n\n--- TWEET CITÉ ---\nEn gardant exactement la même composition qu’hier, j’ai seulement changé le personnage et ajusté le prompt.\n\nJ’ai l’impression qu’en orientant le résultat soit vers l’anime, soit vers le live-action, on peut créer des mouvements sans hésitation.\n\nL’univers est nécessaire, mais viser clairement un point intermédiaire à ce stade peut être difficile sans quelques ajustements. https://t.co/RPmmvwomQn\n---"
+    },
+    "ko": {
+      "content": "같은 구성(샷 구성)을 유지한 채 캐릭터만 바꾸고, 캐릭터에 맞게 prompt를 조정해 다른 버전을 만든다  \n캐릭터의 일관성을 유지하고 싶다면 Reference 이미지를 한 장만이라도 지정해서 생성한다  \n움직임의 망설임을 줄이고 싶다면, prompt에서 애니메이션 쪽인지 실사 쪽인지 어느 한쪽으로 명확하게 기울여 스타일을 고정한다  \n중간적인 스타일(애니메이션×실사의 중간)을 노릴 경우 난이도가 높으므로, 세계관을 명확히 하면서 추가적인 공들임(prompt 조정)을 전제로 한다\n\n--- QUOTED TWEET ---\n어제와 완전히 동일한 구성으로, 캐릭터만 바꾸고 prompt를 조정.\n\n애니메이션이나 실사 중 어느 한쪽으로 기울이는 편이 망설임 없는 움직임을 만들 수 있을 것 같다.\n\n세계관은 필요하지만, 현시점에서 중간 지점 같은 것을 제대로 노리는 건, 공들여서 조정하지 않으면 어려울지도 모르겠다. https://t.co/RPmmvwomQn\n---"
+    },
+    "pt": {
+      "content": "Manter a mesma composição (divisão de shots), trocando apenas os personagens e ajustando o prompt de acordo com eles para criar uma versão diferente.  \nSe quiser manter a consistência do personagem, gere usando pelo menos uma imagem de referência.  \nSe quiser reduzir a hesitação no movimento, fixe o estilo no prompt, deixando claro se ele deve ser mais voltado para anime ou para live-action.  \nSe o objetivo for buscar um estilo intermediário (entre anime e live-action), a dificuldade é alta; por isso, é preciso definir bem o universo e partir do pressuposto de que serão necessários ajustes adicionais no prompt.\n\n--- TWEET CITADO ---\nCom a mesma composição de ontem, troquei apenas o personagem e ajustei o prompt.\n\nAcho que, se você puxar mais para anime ou para live-action, fica mais fácil criar movimentos sem hesitação.\n\nO universo da obra é necessário, mas, no estado atual, tentar mirar com precisão um ponto intermediário talvez seja difícil sem algumas adaptações. https://t.co/RPmmvwomQn\n---"
+    },
+    "zh": {
+      "content": "在保持相同构图（镜头分配）的前提下，只替换角色，并根据角色调整 prompt，制作不同版本  \n如果想保持角色一致性，即使只指定 1 张 Reference 图像也可以生成  \n如果想减少动作上的犹豫，建议在 prompt 中明确偏向动画风或实拍风中的一种，以固定风格  \n如果想追求中间风格（动画×实拍的中间地带），难度会比较高，因此需要先明确世界观，并以额外的技巧（prompt 调整）为前提\n\n--- QUOTED TWEET ---\n在与昨天完全相同的构图下，只更换角色，并调整 prompt。\n\n我觉得，明确偏向动画或实拍其中一边，才能更容易创作出动作不犹豫的效果。\n\n虽然需要世界观，但如果现在就想准确瞄准那种中间地带，可能还是得花些心思才行。 https://t.co/RPmmvwomQn\n---"
+    }
+  }
+}

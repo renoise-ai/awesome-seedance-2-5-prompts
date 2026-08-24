@@ -1,0 +1,42 @@
+{
+  "id": "2090923147394519321",
+  "title": "Seedance 2.5で20秒尺の動画を作る場合、INPUTに参照画像/動画URLを指定して自分のキャラクターを与え、「おはようスマイル💕」系の挨拶プロンプト…",
+  "content": "Seedance 2.5で20秒尺の動画を作る場合、INPUTに参照画像/動画URLを指定して自分のキャラクターを与え、「おはようスマイル💕」系の挨拶プロンプトに調整すると、どんなキャラでも可愛く「おはよう」させやすい",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090794906533212160/img/o4J6xVfUWKk3r79e.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090923147394519321.mp4",
+  "sourceLink": "https://x.com/TaoRInne/status/2090923147394519321",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "輪廻タヲ👁️‍🗨️👄👁️‍🗨️",
+    "link": "https://x.com/TaoRInne"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5で20秒尺の動画を作る場合、INPUTに参照画像/動画URLを指定して自分のキャラクターを与え、「おはようスマイル💕」系の挨拶プロンプトに調整すると、どんなキャラでも可愛く「おはよう」させやすい",
+  "translations": {
+    "en": {
+      "content": "When creating a 20-second video in Seedance 2.5, if you specify a reference image/video URL in the INPUT to provide your own character, and adjust it to a greeting prompt like “good morning smile💕,” it becomes easy to make almost any character say “good morning” in a cute way."
+    },
+    "es": {
+      "content": "---\nSi creas un video de 20 segundos con Seedance 2.5, al especificar una imagen o URL de video de referencia en INPUT para darle tu propio personaje, y ajustar el prompt a un saludo del tipo “おはようスマイル💕”, es fácil hacer que cualquier personaje diga “buenos días” de forma adorable.\n---"
+    },
+    "fr": {
+      "content": "Avec Seedance 2.5, si vous créez une vidéo de 20 secondes, vous pouvez spécifier une image/URL de vidéo de référence dans INPUT pour fournir votre propre personnage, puis ajuster le prompt de salutation dans le style « おはようスマイル💕 » ; ainsi, quel que soit le personnage, il devient facile de le faire dire « bonjour » de manière mignonne."
+    },
+    "ko": {
+      "content": "Seedance 2.5로 20초 분량의 영상을 만들 때는 INPUT에 참조 이미지/영상 URL을 지정해 자신의 캐릭터를 넣고, “おはようスマイル💕” 계열의 인사 prompt로 조정하면 어떤 캐릭터든 귀엽게 “おはよう”하게 만들기 쉽다"
+    },
+    "pt": {
+      "content": "Ao criar um vídeo de 20 segundos no Seedance 2.5, se você especificar uma imagem/vídeo de referência no INPUT e fornecer seu próprio personagem, ajustando para um prompt de saudação do tipo “おはようスマイル💕”, fica fácil fazer qualquer personagem dizer “bom dia” de um jeito fofo."
+    },
+    "zh": {
+      "content": "在使用 Seedance 2.5 制作 20 秒长度的视频时，如果在 INPUT 中指定参考图片/视频 URL 来提供自己的角色，并将其调整为类似「おはようスマイル💕」这类问候 prompt，那么无论什么角色，都更容易做出可爱的「おはよう」效果。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2090771280916324691",
+  "title": "Seedance 2.5の音声参照（audio reference）を使って、歌唱シーンをフルリップシンクさせる",
+  "content": "Seedance 2.5の音声参照（audio reference）を使って、歌唱シーンをフルリップシンクさせる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090769652674973696/img/_8QPUVoEm9eBequ3.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090771280916324691.mp4",
+  "sourceLink": "https://x.com/wtry1102/status/2090771280916324691",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "WTR",
+    "link": "https://x.com/wtry1102"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5の音声参照（audio reference）を使って、歌唱シーンをフルリップシンクさせる",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2.5’s audio reference to fully lip-sync a singing scene."
+    },
+    "es": {
+      "content": "Usa la referencia de audio (audio reference) de Seedance 2.5 para sincronizar completamente los labios en escenas de canto."
+    },
+    "fr": {
+      "content": "Utiliser la référence audio (audio reference) de Seedance 2.5 pour synchroniser entièrement les scènes de chant avec le lip sync"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 오디오 레퍼런스(audio reference)를 사용해 노래 장면을 풀 립싱크로 구현하기"
+    },
+    "pt": {
+      "content": "Usando a referência de áudio (audio reference) do Seedance 2.5 para fazer lip sync completo em cenas de canto"
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 的音频参考（audio reference）来让歌唱场景实现完整的口型同步（full lip sync）"
+    }
+  }
+}

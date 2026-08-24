@@ -1,0 +1,45 @@
+{
+  "id": "2090840560886038643",
+  "title": "Use Browser Use to run Seedance from the browser when MCP/CLI access isn’t…",
+  "content": "Use Browser Use to run Seedance from the browser when MCP/CLI access isn’t available  \nGive Codex the link to a reference ad/video, have it download and analyze it at 60 fps, then follow Seedance 2.5 guidelines to generate each clip and stitch them together  \nGenerate the video as separate clips and merge them afterward instead of trying to create the whole ad in one generation  \nPlan for manual human touch/edits after generation; don’t rely on full automation for final quality",
+  "language": "tr",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090840055719858176/img/fic9duFolZKdYDjX.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090840560886038643.mp4",
+  "sourceLink": "https://x.com/BeatstoBytes/status/2090840560886038643",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "Doruk",
+    "link": "https://x.com/BeatstoBytes"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Browser Use to run Seedance from the browser when MCP/CLI access isn’t available  \nGive Codex the link to a reference ad/video, have it download and analyze it at 60 fps, then follow Seedance 2.5 guidelines to generate each clip and stitch them together  \nGenerate the video as separate clips and merge them afterward instead of trying to create the whole ad in one generation  \nPlan for manual human touch/edits after generation; don’t rely on full automation for final quality",
+  "translations": {
+    "en": {
+      "content": "Use Browser Use to run Seedance from the browser when MCP/CLI access isn’t available  \nGive Codex the link to a reference ad/video, have it download and analyze it at 60 fps, then follow Seedance 2.5 guidelines to generate each clip and stitch them together  \nGenerate the video as separate clips and merge them afterward instead of trying to create the whole ad in one generation  \nPlan for manual human touch/edits after generation; don’t rely on full automation for final quality"
+    },
+    "es": {
+      "content": "Usa Browser Use para ejecutar Seedance desde el navegador cuando no haya acceso a MCP/CLI  \nDale a Codex el enlace a un anuncio/video de referencia, haz que lo descargue y lo analice a 60 fps, y luego sigue las directrices de Seedance 2.5 para generar cada clip y unirlos después  \nGenera el video como clips separados y fusiónalos al final en lugar de intentar crear todo el anuncio en una sola generación  \nPlanifica retoques/ediciones manuales por parte de una persona después de la generación; no dependas de una automatización total para lograr la calidad final"
+    },
+    "fr": {
+      "content": "Utilisez Browser Use pour exécuter Seedance depuis le navigateur lorsque l’accès MCP/CLI n’est pas disponible  \nDonnez à Codex le lien vers une publicité/vidéo de référence, demandez-lui de la télécharger et de l’analyser en 60 fps, puis suivez les directives Seedance 2.5 pour générer chaque clip et les assembler ensuite  \nGénérez la vidéo sous forme de clips séparés et fusionnez-les après coup plutôt que d’essayer de créer toute la publicité en une seule génération  \nPrévoyez des retouches manuelles humaines après la génération ; ne comptez pas sur une automatisation complète pour obtenir la qualité finale"
+    },
+    "ja": {
+      "content": "MCP/CLI にアクセスできない場合は、Browser Use を使ってブラウザから Seedance を実行する  \nCodex に参考となる広告/動画のリンクを渡し、60 fps でダウンロードして分析させたうえで、Seedance 2.5 のガイドラインに従って各クリップを生成し、それらをつなぎ合わせる  \n広告全体を一度の生成で作ろうとするのではなく、動画は個別のクリップとして生成し、その後で結合する  \n生成後に人手での微調整や編集を行う前提で計画する。最終品質を完全な自動化に頼らない"
+    },
+    "ko": {
+      "content": "MCP/CLI 접근이 불가능할 때는 Browser Use를 사용해 브라우저에서 Seedance를 실행하세요  \nCodex에 참고용 광고/비디오 링크를 제공하면, 이를 다운로드해 60fps로 분석한 뒤 Seedance 2.5 가이드라인에 따라 각 클립을 생성하고 이를 이어 붙이게 하세요  \n광고 전체를 한 번에 생성하려고 하기보다, 비디오를 개별 클립으로 생성한 다음 나중에 병합하세요  \n생성 후에는 사람이 직접 손보거나 편집할 여지를 염두에 두세요. 최종 품질을 위해 완전 자동화에 의존하지 마세요"
+    },
+    "pt": {
+      "content": "Use o Browser Use para executar o Seedance pelo navegador quando o acesso via MCP/CLI não estiver disponível  \nDê ao Codex o link de um anúncio/vídeo de referência, peça para ele baixar e analisar a 60 fps e, em seguida, siga as diretrizes do Seedance 2.5 para gerar cada clipe e uni-los depois  \nGere o vídeo como clipes separados e faça a mesclagem depois, em vez de tentar criar o anúncio inteiro em uma única geração  \nPlaneje ajustes/edições manuais após a geração; não dependa de automação total para obter a qualidade final"
+    },
+    "zh": {
+      "content": "当 MCP/CLI 无法使用时，使用 Browser Use 通过浏览器运行 Seedance  \n把参考广告/视频的链接交给 Codex，让它以 60 fps 下载并分析，然后按照 Seedance 2.5 指南生成每个片段并将它们拼接起来  \n将视频拆分为多个独立片段生成，之后再合并，而不是试图一次性生成整支广告  \n在生成后预留人工微调/编辑的空间；不要依赖全自动流程来保证最终质量"
+    }
+  }
+}

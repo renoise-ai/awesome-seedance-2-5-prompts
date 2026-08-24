@@ -1,0 +1,42 @@
+{
+  "id": "2090735999605448935",
+  "title": "ChatGPTで演者設定と歌詞を作り、Sunoで楽曲生成→Seedance2.5で動画生成→Klingでリップシンクを当てる、という分業ワークフローでAI講談・…",
+  "content": "ChatGPTで演者設定と歌詞を作り、Sunoで楽曲生成→Seedance2.5で動画生成→Klingでリップシンクを当てる、という分業ワークフローでAI講談・歌唱動画を作る",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090735823599923200/img/jVpdOKm3-v3LKRlG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090735999605448935.mp4",
+  "sourceLink": "https://x.com/nst_nakata/status/2090735999605448935",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "なぁさん",
+    "link": "https://x.com/nst_nakata"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "ChatGPTで演者設定と歌詞を作り、Sunoで楽曲生成→Seedance2.5で動画生成→Klingでリップシンクを当てる、という分業ワークフローでAI講談・歌唱動画を作る",
+  "translations": {
+    "en": {
+      "content": "Create AI kōdan and singing videos using a divided workflow: generate the performer setup and lyrics in ChatGPT, generate the music in Suno, generate the video in Seedance 2.5, and apply lip sync in Kling."
+    },
+    "es": {
+      "content": "Crear videos de kōdan y canto con IA mediante un flujo de trabajo dividido: crear la configuración del intérprete y la letra en ChatGPT, generar la música en Suno, generar el video en Seedance 2.5 y aplicar lip sync en Kling."
+    },
+    "fr": {
+      "content": "Créer des vidéos de kōdan et de chant assistées par IA grâce à un workflow réparti : définir les personnages et écrire les paroles dans ChatGPT, générer la musique avec Suno, puis générer la vidéo avec Seedance 2.5, et enfin appliquer le lip sync avec Kling."
+    },
+    "ko": {
+      "content": "ChatGPT로 연기자 설정과 가사를 만들고, Suno로 곡을 생성한 뒤 → Seedance2.5로 영상을 생성하고 → Kling으로 립싱크를 입히는 분업 워크플로로 AI 강담·노래 영상을 만든다"
+    },
+    "pt": {
+      "content": "Criar vídeos de kōdan e canto com IA por meio de um fluxo de trabalho dividido: usar o ChatGPT para definir os personagens e criar a letra, gerar a música no Suno, gerar o vídeo no Seedance 2.5 e aplicar lip sync no Kling."
+    },
+    "zh": {
+      "content": "使用 ChatGPT 创建角色设定和歌词，再用 Suno 生成音乐 → 用 Seedance2.5 生成视频 → 用 Kling 做口型同步，通过这种分工工作流制作 AI 讲谈和演唱视频"
+    }
+  }
+}

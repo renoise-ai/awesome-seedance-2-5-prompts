@@ -1,0 +1,42 @@
+{
+  "id": "2090725605872484623",
+  "title": "Tシャツなどの文字を正しく出したい場合は、プロンプトで文字内容を明示して補強する（文字が崩れるのを防ぐ）。",
+  "content": "Tシャツなどの文字を正しく出したい場合は、プロンプトで文字内容を明示して補強する（文字が崩れるのを防ぐ）。",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090697501431226368/img/kCSmSvQPv8VccMy_.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090725605872484623.mp4",
+  "sourceLink": "https://x.com/anonenonenonene/status/2090725605872484623",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "ねね@AIに夢中",
+    "link": "https://x.com/anonenonenonene"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Fashion",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Tシャツなどの文字を正しく出したい場合は、プロンプトで文字内容を明示して補強する（文字が崩れるのを防ぐ）。",
+  "translations": {
+    "en": {
+      "content": "If you want text on T-shirts and similar items to appear correctly, explicitly specify the text content in the prompt to reinforce it (to prevent the lettering from becoming distorted)."
+    },
+    "es": {
+      "content": "Si quieres que el texto de camisetas, etc. aparezca correctamente, especifica claramente el contenido del texto en el prompt para reforzarlo (y evitar que las letras se deformen)."
+    },
+    "fr": {
+      "content": "Si vous souhaitez faire apparaître correctement du texte sur un T-shirt, etc., précisez clairement le contenu du texte dans le prompt pour le renforcer (afin d’éviter que les caractères ne se déforment)."
+    },
+    "ko": {
+      "content": "티셔츠 등의 문자를 올바르게 출력하고 싶다면, prompt에서 문자 내용을 명시해 보강한다(문자가 깨지는 것을 방지한다)."
+    },
+    "pt": {
+      "content": "Se você quiser que o texto em camisetas, etc. apareça corretamente, especifique claramente o conteúdo do texto no prompt para reforçá-lo (evitando que os caracteres fiquem distorcidos)."
+    },
+    "zh": {
+      "content": "如果想让 T 恤等物品上的文字正确显示，就在 prompt 中明确写出文字内容进行强化（防止文字变形）。"
+    }
+  }
+}

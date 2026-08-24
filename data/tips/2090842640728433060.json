@@ -1,0 +1,42 @@
+{
+  "id": "2090842640728433060",
+  "title": "Stage your Seedance 2.5 shot in a 3D scene instead of describing camera moves…",
+  "content": "Stage your Seedance 2.5 shot in a 3D scene instead of describing camera moves in the prompt, then render to match the setup.  \nManually set the camera position, path, and angle in the 3D scene to precisely control motion in Seedance 2.5.  \nCreate a blockout preview of the 3D scene/camera move before running the full Seedance render to validate the shot.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090842617953353728/img/IAhAnEvnFLlZZDjc.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090842640728433060.mp4",
+  "sourceLink": "https://x.com/magnific/status/2090842640728433060",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "Magnific",
+    "link": "https://x.com/magnific"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Stage your Seedance 2.5 shot in a 3D scene instead of describing camera moves in the prompt, then render to match the setup.  \nManually set the camera position, path, and angle in the 3D scene to precisely control motion in Seedance 2.5.  \nCreate a blockout preview of the 3D scene/camera move before running the full Seedance render to validate the shot.",
+  "translations": {
+    "es": {
+      "content": "Plantea tu toma de Seedance 2.5 en una escena 3D en lugar de describir los movimientos de cámara en el prompt, y luego renderiza para que coincida con la configuración.  \nConfigura manualmente la posición, la trayectoria y el ángulo de la cámara en la escena 3D para controlar con precisión el movimiento en Seedance 2.5.  \nCrea una vista previa de blockout de la escena 3D/el movimiento de cámara antes de ejecutar el render completo de Seedance para validar la toma.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] 3D Motion Control está disponible en Magnific\n\nLa mejor herramienta para decidir dónde van tus videos"
+    },
+    "fr": {
+      "content": "Mettez en scène votre plan Seedance 2.5 dans une scène 3D au lieu de décrire les mouvements de caméra dans le prompt, puis lancez le rendu pour correspondre à la configuration.  \nDéfinissez manuellement la position, la trajectoire et l’angle de la caméra dans la scène 3D afin de contrôler précisément le mouvement dans Seedance 2.5.  \nCréez un aperçu en blockout de la scène 3D / du mouvement de caméra avant d’exécuter le rendu complet Seedance afin de valider le plan.\n\n--- SUITE DU FIL DE DISCUSSION ---  \n[Fil 1] Le contrôle du mouvement 3D est disponible sur Magnific\n\nLe meilleur outil pour décider où vont vos vidéos\n---"
+    },
+    "ja": {
+      "content": "Seedance 2.5 のショットは、プロンプトでカメラの動きを説明するのではなく、3D シーン内で構成し、そのセットアップに合わせてレンダリングしてください。  \n3D シーン内でカメラの位置、移動経路、角度を手動で設定し、Seedance 2.5 のモーションを正確に制御します。  \n本番の Seedance レンダリングを実行する前に、3D シーン／カメラ移動のブロックアウトプレビューを作成して、ショットを検証してください。\n\n--- スレッドの続き ---\n[Thread 1] 3D Motion Control は Magnific で利用可能です\n\nあなたの動画の行き先を決めるための最適なツール\n---"
+    },
+    "ko": {
+      "content": "프롬프트에서 카메라 움직임을 설명하는 대신, Seedance 2.5 샷을 3D 씬에서 구성한 다음, 그 설정에 맞게 렌더링하세요.  \n3D 씬에서 카메라 위치, 경로, 각도를 수동으로 설정해 Seedance 2.5의 모션을 정밀하게 제어할 수 있습니다.  \n전체 Seedance 렌더를 실행하기 전에 3D 씬/카메라 무브의 블록아웃 미리보기를 만들어 샷을 검증하세요.\n\n--- 스레드 계속 ---  \n[스레드 1] 3D Motion Control은 Magnific에서 사용할 수 있습니다\n\n영상이 어디로 갈지 결정하는 데 가장 좋은 도구"
+    },
+    "pt": {
+      "content": "Posicione sua cena do Seedance 2.5 em um ambiente 3D em vez de descrever movimentos de câmera no prompt e, depois, renderize para corresponder à configuração.  \nDefina manualmente a posição, o caminho e o ângulo da câmera na cena 3D para controlar com precisão o movimento no Seedance 2.5.  \nCrie uma prévia em blockout da cena 3D/do movimento de câmera antes de executar a renderização completa no Seedance para validar a tomada.\n\n--- CONTINUAÇÃO DA THREAD ---\n[Thread 1] O controle de movimento 3D está disponível no Magnific\n\nA melhor ferramenta para decidir para onde seus vídeos vão\n---"
+    },
+    "zh": {
+      "content": "将你的 Seedance 2.5 镜头先在 3D 场景中进行布置，而不是在 prompt 里描述镜头运动，然后再渲染以匹配该设置。  \n在 3D 场景中手动设置 camera position、path 和 angle，以便在 Seedance 2.5 中精确控制运动。  \n在运行完整的 Seedance 渲染之前，先创建 3D 场景/镜头运动的 blockout 预览，以验证镜头效果。\n\n--- 线程续接 ---\n[Thread 1] 3D Motion Control 已在 Magnific 上提供\n\n决定你的视频去向的最佳工具"
+    }
+  }
+}

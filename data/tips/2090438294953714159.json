@@ -1,0 +1,43 @@
+{
+  "id": "2090438294953714159",
+  "title": "Drop in any image in MakeUGC, draw a line for the camera/drone path, add a…",
+  "content": "Drop in any image in MakeUGC, draw a line for the camera/drone path, add a single prompt, and generate with Seedance 2.5 to make the camera fly that exact line  \nStack multiple subjects/landmarks into one composite image, then draw a single (even messy) line through them to create a continuous fly-through path with Seedance 2.5",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090438253363048448/img/wHHl4WPxxDzAbkge.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090438294953714159.mp4",
+  "sourceLink": "https://x.com/davidfigeira/status/2090438294953714159",
+  "sourcePublishedAt": "2026-08-20",
+  "author": {
+    "name": "David",
+    "link": "https://x.com/davidfigeira"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Landmark",
+    "Photoreal",
+    "Realistic World",
+    "FPV & Aerial",
+    "Tutorial"
+  ],
+  "tips": "Drop in any image in MakeUGC, draw a line for the camera/drone path, add a single prompt, and generate with Seedance 2.5 to make the camera fly that exact line  \nStack multiple subjects/landmarks into one composite image, then draw a single (even messy) line through them to create a continuous fly-through path with Seedance 2.5",
+  "translations": {
+    "es": {
+      "content": "Sube cualquier imagen en MakeUGC, dibuja una línea para la trayectoria de la cámara/dron, añade un solo prompt y genera con Seedance 2.5 para hacer que la cámara recorra exactamente esa línea.  \nApila varios sujetos/puntos de referencia en una sola imagen compuesta y luego dibuja una única línea (aunque sea desordenada) a través de ellos para crear una trayectoria continua de fly-through con Seedance 2.5"
+    },
+    "fr": {
+      "content": "Déposez n’importe quelle image dans MakeUGC, tracez une ligne pour le trajet de la caméra/du drone, ajoutez un seul prompt, puis générez avec Seedance 2.5 pour faire suivre à la caméra exactement cette ligne  \nEmpilez plusieurs sujets/repères dans une seule image composite, puis tracez une seule ligne (même brouillonne) à travers eux pour créer un trajet de survol continu avec Seedance 2.5"
+    },
+    "ja": {
+      "content": "MakeUGCに任意の画像を取り込み、カメラ／ドローンの軌道を線で描き、1つのpromptを追加して、Seedance 2.5で生成すれば、カメラをその正確なラインに沿って飛ばせます  \n複数の被写体／ランドマークを1枚の合成画像に重ね、そこに1本の線（多少雑でも可）を引くことで、Seedance 2.5で連続したfly-throughの軌道を作成できます"
+    },
+    "ko": {
+      "content": "MakeUGC에 원하는 이미지를 넣고, 카메라/드론 경로를 선으로 그린 다음, 프롬프트 하나만 추가하고 Seedance 2.5로 생성하면 카메라가 그 정확한 경로를 따라 날아갑니다.  \n여러 피사체/랜드마크를 하나의 합성 이미지로 겹쳐 놓은 뒤, 그 위를 하나의 선(심지어 다소 지저분한 선이어도 됨)으로 그어 Seedance 2.5로 연속적인 fly-through 경로를 만들 수 있습니다."
+    },
+    "pt": {
+      "content": "Envie qualquer imagem no MakeUGC, desenhe uma linha para o caminho da câmera/drone, adicione um único prompt e gere com o Seedance 2.5 para fazer a câmera seguir exatamente essa linha  \nEmpilhe vários sujeitos/pontos de referência em uma única imagem composta e, em seguida, desenhe uma única linha (mesmo que bagunçada) passando por eles para criar um caminho contínuo de fly-through com o Seedance 2.5"
+    },
+    "zh": {
+      "content": "在 MakeUGC 中导入任意图片，画一条相机/无人机路径线，添加一个提示词，然后使用 Seedance 2.5 生成，让镜头严格沿着那条线飞行  \n将多个主体/地标叠加到一张合成图中，然后用一条单一的（即使有些凌乱也可以）线穿过它们，借助 Seedance 2.5 创建一条连续的飞行穿越路径"
+    }
+  }
+}

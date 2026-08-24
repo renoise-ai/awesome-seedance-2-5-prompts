@@ -1,0 +1,42 @@
+{
+  "id": "2090404227138900031",
+  "title": "Build a fixed Constraints Block (sitcom-style lighting, warm 35mm film grain…",
+  "content": "Build a fixed Constraints Block (sitcom-style lighting, warm 35mm film grain, staging, audio logic, character identity, wardrobe, and background rules) and reuse it in every Seedance 2.5 prompt to maintain consistency across scenes.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090404134688071682/img/hAw0upPCGaRgrT9f.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090404227138900031.mp4",
+  "sourceLink": "https://x.com/promodenstudio/status/2090404227138900031",
+  "sourcePublishedAt": "2026-08-20",
+  "author": {
+    "name": "Promo DEN",
+    "link": "https://x.com/promodenstudio"
+  },
+  "tags": [
+    "Story",
+    "Sitcom",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Build a fixed Constraints Block (sitcom-style lighting, warm 35mm film grain, staging, audio logic, character identity, wardrobe, and background rules) and reuse it in every Seedance 2.5 prompt to maintain consistency across scenes.",
+  "translations": {
+    "es": {
+      "content": "Construye un bloque fijo de restricciones (iluminación estilo sitcom, grano cálido de película de 35 mm, puesta en escena, lógica de audio, identidad del personaje, vestuario y reglas de fondo) y reutilízalo en cada prompt de Seedance 2.5 para mantener la coherencia entre escenas."
+    },
+    "fr": {
+      "content": "Créez un bloc de contraintes fixe (éclairage de style sitcom, grain de film 35 mm chaleureux, mise en scène, logique audio, identité des personnages, garde-robe et règles d’arrière-plan) et réutilisez-le dans chaque prompt Seedance 2.5 afin de maintenir la cohérence d’une scène à l’autre."
+    },
+    "ja": {
+      "content": "固定のConstraints Block（シットコム風のライティング、温かみのある35mmフィルムグレイン、ステージング、音声ロジック、キャラクターのアイデンティティ、衣装、背景ルール）を作成し、すべてのSeedance 2.5プロンプトで再利用して、シーン間の一貫性を維持します。"
+    },
+    "ko": {
+      "content": "고정된 Constraints Block(시트콤 스타일 조명, 따뜻한 35mm 필름 그레인, 스테이징, 오디오 로직, 캐릭터 아이덴티티, 의상, 배경 규칙)을 만들어 모든 Seedance 2.5 프롬프트에 재사용하면 장면 간 일관성을 유지할 수 있습니다."
+    },
+    "pt": {
+      "content": "Crie um bloco fixo de Constraints (iluminação em estilo sitcom, granulação quente de filme 35mm, mise-en-scène, lógica de áudio, identidade dos personagens, figurino e regras de fundo) e reutilize-o em cada prompt do Seedance 2.5 para manter a consistência entre as cenas."
+    },
+    "zh": {
+      "content": "构建一个固定的约束块（情景喜剧风格灯光、温暖的 35mm 胶片颗粒、场面调度、音频逻辑、角色身份、服装和背景规则），并在每个 Seedance 2.5 prompt 中重复使用它，以保持跨场景的一致性。"
+    }
+  }
+}

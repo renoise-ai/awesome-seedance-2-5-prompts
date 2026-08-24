@@ -1,0 +1,42 @@
+{
+  "id": "2091345272236622317",
+  "title": "30秒作品を一発で生成しようとせず、5秒ごとの絵コンテ（ショット分割）にして各カットを個別に作成してから繋げる",
+  "content": "30秒作品を一発で生成しようとせず、5秒ごとの絵コンテ（ショット分割）にして各カットを個別に作成してから繋げる  \n三面図（キャラの正面・側面・背面）と背景集を用意して、Seedance 2.5の参照素材として一貫したデザインを維持する  \n作成したCanvas（構図/レイアウト）を用意して、各ショットの画面設計を固定した状態で生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091345179072671744/img/sdpWQBSuiXQRYBiX.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091345272236622317.mp4",
+  "sourceLink": "https://x.com/dave392750/status/2091345272236622317",
+  "sourcePublishedAt": "2026-08-23",
+  "author": {
+    "name": "楽園",
+    "link": "https://x.com/dave392750"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "30秒作品を一発で生成しようとせず、5秒ごとの絵コンテ（ショット分割）にして各カットを個別に作成してから繋げる  \n三面図（キャラの正面・側面・背面）と背景集を用意して、Seedance 2.5の参照素材として一貫したデザインを維持する  \n作成したCanvas（構図/レイアウト）を用意して、各ショットの画面設計を固定した状態で生成する",
+  "translations": {
+    "en": {
+      "content": "Rather than trying to generate a 30-second piece in one shot, break it into 5-second storyboards (shot divisions), create each cut individually, and then stitch them together.  \nPrepare a three-view character sheet (front, side, back) and a background set, and use them as reference materials in Seedance 2.5 to maintain a consistent design.  \nPrepare the Canvas you created (composition/layout) and generate with the screen design for each shot fixed in place.\n\n--- THREAD CONTINUATION ---\n[Thread 1] I judged that it would be difficult to turn this footage into exactly what I wanted within 30 seconds, so I created it as a storyboard in 5-second segments. I’ve also included the three-view sheet, background set, and the Canvas I created here. https://t.co/s0IBS4Ct25\n---"
+    },
+    "es": {
+      "content": "No intentes generar una pieza de 30 segundos de una sola vez; divídela en storyboards de 5 segundos (shot breakdown), crea cada plano por separado y luego júntalos.  \nPrepara una vista de tres ángulos (frontal, lateral y trasera del personaje) y una colección de fondos para mantener un diseño coherente como material de referencia en Seedance 2.5.  \nPrepara el Canvas creado (composición/layout) y genera cada shot con la planificación visual de la pantalla ya fijada.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Viendo que este video sería difícil de convertir en una pieza visual exactamente como se quería en 30 segundos, lo creé como un storyboard de 5 segundos por segmento. Aquí dejo la vista de tres ángulos, la colección de fondos y el Canvas que preparé. https://t.co/s0IBS4Ct25\n---"
+    },
+    "fr": {
+      "content": "Ne cherchez pas à générer d’un seul coup une œuvre de 30 secondes ; découpez-la en storyboard de 5 secondes (shot division), créez chaque plan séparément, puis assemblez-les  \nPréparez des vues à trois angles (face, profil, dos) du personnage ainsi qu’une collection de backgrounds, et utilisez-les comme références pour Seedance 2.5 afin de conserver une cohérence visuelle  \nPréparez le Canvas créé (composition / layout) et générez chaque shot en gardant la mise en scène de l’écran figée\n\n--- THREAD CONTINUATION ---\n[Thread 1] J’ai estimé qu’il serait difficile d’obtenir exactement le rendu souhaité sur 30 secondes, alors j’ai réalisé la vidéo sous forme de storyboard de 5 secondes. J’ai laissé ici les vues à trois angles, la collection de backgrounds et le Canvas créé. https://t.co/s0IBS4Ct25\n---"
+    },
+    "ko": {
+      "content": "30초짜리 작품을 한 번에 생성하려고 하지 말고, 5초 단위의 스토리보드(샷 분할)로 나눠 각 컷을 개별적으로 만든 뒤 이어 붙이기  \n삼면도(캐릭터의 정면·측면·후면)와 배경 자료를 준비해 Seedance 2.5의 참조 소재로 활용하면 일관된 디자인을 유지할 수 있음  \n작성한 Canvas(구도/레이아웃)를 준비해 각 샷의 화면 설계를 고정한 상태로 생성하기\n\n--- THREAD CONTINUATION ---\n[Thread 1] 이 영상은 30초 분량으로는 원하는 대로 영상화하기 어렵다고 판단해, 5초 단위의 스토리보드로 제작했습니다. 여기에 삼면도와 배경 자료, 그리고 작성한 Canvas를 올려둡니다. https://t.co/s0IBS4Ct25\n---"
+    },
+    "pt": {
+      "content": "Não tente gerar uma obra de 30 segundos de uma só vez; divida em storyboard de 5 segundos (shot breakdown), crie cada take separadamente e depois una tudo  \nPrepare um turnaround de três vistas (frente, lado e costas do personagem) e um conjunto de fundos para manter um design consistente como material de referência do Seedance 2.5  \nUse o Canvas criado (composição/layout) e gere com a direção de cena de cada shot fixada\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Como este vídeo seria difícil de transformar exatamente como eu queria em 30 segundos, eu o criei em storyboard de 5 segundos. Aqui estão o turnaround de três vistas, o conjunto de fundos e o Canvas que criei. https://t.co/s0IBS4Ct25\n---"
+    },
+    "zh": {
+      "content": "不要试图一次性生成 30 秒作品，而是按每 5 秒拆分成分镜（shot 分割），先分别制作每个镜头，再将它们连接起来  \n准备三视图（角色正面、侧面、背面）和背景素材集，作为 Seedance 2.5 的参考素材，以保持设计的一致性  \n准备好已制作的 Canvas（构图/布局），在固定各个镜头画面设计的状态下进行生成\n\n--- THREAD CONTINUATION ---\n[Thread 1] 我判断这段视频很难在 30 秒内按预期完成影像化，所以改为按每 5 秒的分镜来制作。这里放上三视图、背景素材集以及制作好的 Canvas。 https://t.co/s0IBS4Ct25\n---"
+    }
+  }
+}

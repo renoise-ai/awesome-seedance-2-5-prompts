@@ -1,0 +1,42 @@
+{
+  "id": "2091134339451072726",
+  "title": "最終カット（着地点）だけ先に用意し、そのカットに繋がるようにChatGPTでプロンプトを設計してSeedance2.5で動画生成する",
+  "content": "最終カット（着地点）だけ先に用意し、そのカットに繋がるようにChatGPTでプロンプトを設計してSeedance2.5で動画生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091133517644349440/img/DKpc9N--OQd_WMUM.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091134339451072726.mp4",
+  "sourceLink": "https://x.com/nukegala83/status/2091134339451072726",
+  "sourcePublishedAt": "2026-08-22",
+  "author": {
+    "name": "ヌケがら🔥",
+    "link": "https://x.com/nukegala83"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "最終カット（着地点）だけ先に用意し、そのカットに繋がるようにChatGPTでプロンプトを設計してSeedance2.5で動画生成する",
+  "translations": {
+    "en": {
+      "content": "Prepare only the final shot (the landing point) first, then design a prompt in ChatGPT so it connects to that shot, and generate the video in Seedance 2.5."
+    },
+    "es": {
+      "content": "Primero prepara solo el corte final (el punto de llegada) y, a partir de ese corte, diseña el prompt en ChatGPT para generar el video en Seedance2.5."
+    },
+    "fr": {
+      "content": "Prépare d’abord uniquement le plan final (le point d’arrivée), puis conçois le prompt dans ChatGPT de manière à ce qu’il mène à ce plan, et génère la vidéo avec Seedance2.5."
+    },
+    "ko": {
+      "content": "최종 컷(착지점)만 먼저 준비해 두고, 그 컷으로 자연스럽게 이어지도록 ChatGPT로 prompt를 설계해 Seedance2.5로 영상 생성하기"
+    },
+    "pt": {
+      "content": "Prepare primeiro apenas o corte final (o ponto de chegada) e, em seguida, use o ChatGPT para criar o prompt de forma que ele leve a esse corte, gerando o vídeo no Seedance 2.5."
+    },
+    "zh": {
+      "content": "先准备好最终镜头（落点），再用 ChatGPT 设计与该镜头衔接的 prompt，并在 Seedance2.5 中生成视频"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2091067516483453232",
+  "title": "Claude CodeでSeedance 2.5を扱えるように環境を整え、既存の自分の動画コンテンツのコンテキストを入力してタイトル（例：年収1000万円になる…",
+  "content": "Claude CodeでSeedance 2.5を扱えるように環境を整え、既存の自分の動画コンテンツのコンテキストを入力してタイトル（例：年収1000万円になるまでのリアルで地味な話し）から自動生成させるワークフローにする",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091066775442280448/img/86YDcFhZiFLRtneM.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091067516483453232.mp4",
+  "sourceLink": "https://x.com/keitowebai/status/2091067516483453232",
+  "sourcePublishedAt": "2026-08-22",
+  "author": {
+    "name": "KEITO💻AIディレクター",
+    "link": "https://x.com/keitowebai"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Claude CodeでSeedance 2.5を扱えるように環境を整え、既存の自分の動画コンテンツのコンテキストを入力してタイトル（例：年収1000万円になるまでのリアルで地味な話し）から自動生成させるワークフローにする",
+  "translations": {
+    "en": {
+      "content": "Set up the environment so that Seedance 2.5 can be used with Claude Code, and turn it into a workflow where you input the context of your existing video content and have it automatically generate from a title (for example: “The real, unglamorous story of how I reached an annual income of 10 million yen”).\n\n--- THREAD CONTINUATION ---\n[Thread 1] You can find the thinking behind it and the production flow here ↓\nhttps://t.co/xGcDsIcdy3 https://t.co/54zsS1vUMN\n---"
+    },
+    "es": {
+      "content": "Configura el entorno para poder trabajar con Seedance 2.5 en Claude Code, e introduce el contexto de tu contenido de video existente para convertirlo en un flujo de trabajo que genere automáticamente, a partir del título (por ejemplo: una historia real y discreta de cómo llegué a ganar 10 millones de yenes al año).\n\n--- CONTINUACIÓN DEL HILO ---\n[Thread 1] La forma de pensar y el flujo de producción están aquí ↓\nhttps://t.co/xGcDsIcdy3 https://t.co/54zsS1vUMN\n---"
+    },
+    "fr": {
+      "content": "Mettre en place un environnement permettant d’utiliser Seedance 2.5 avec Claude Code, puis créer un workflow où l’on saisit le contexte de ses propres contenus vidéo existants afin de générer automatiquement, à partir d’un titre (par exemple : « l’histoire réelle et sans fard de comment je suis devenu à 10 millions de yens de revenus annuels »), le contenu.\n\n--- SUITE DU THREAD ---\n[Thread 1] La réflexion et le processus de production sont disponibles ici ↓\nhttps://t.co/xGcDsIcdy3 https://t.co/54zsS1vUMN\n---"
+    },
+    "ko": {
+      "content": "Claude Code에서 Seedance 2.5를 다룰 수 있도록 환경을 세팅하고, 기존에 내가 만든 영상 콘텐츠의 컨텍스트를 입력해 제목(예: 연봉 1,000만 원이 될 때까지의 현실적이고 소소한 이야기)만으로 자동 생성되도록 하는 워크플로로 만들기\n\n--- THREAD CONTINUATION ---\n[Thread 1] 생각하는 방식과 제작 흐름은 여기에서↓\nhttps://t.co/xGcDsIcdy3 https://t.co/54zsS1vUMN\n---"
+    },
+    "pt": {
+      "content": "Configurar o ambiente para que o Claude Code consiga lidar com o Seedance 2.5 e transformar isso em um workflow no qual eu insiro o contexto dos meus conteúdos de vídeo já existentes e deixo a geração automática acontecer a partir do título (por exemplo: “uma história real e sem glamour de como cheguei a uma renda anual de 10 milhões de ienes”).\n\n--- THREAD CONTINUATION ---\n[Thread 1] A ideia e o fluxo de produção estão aqui ↓\nhttps://t.co/xGcDsIcdy3 https://t.co/54zsS1vUMN\n---"
+    },
+    "zh": {
+      "content": "在 Claude Code 中配置好环境，使其能够使用 Seedance 2.5，并输入我现有视频内容的上下文，构建一个从标题（例如：年收入达到1000万日元之前的真实而平淡的故事）自动生成内容的工作流\n\n--- THREAD CONTINUATION ---\n[Thread 1] 思路和制作流程请看这里↓\nhttps://t.co/xGcDsIcdy3 https://t.co/54zsS1vUMN\n---"
+    }
+  }
+}

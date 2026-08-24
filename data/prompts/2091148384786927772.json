@@ -1,0 +1,40 @@
+{
+  "id": "2091148384786927772",
+  "title": "コンテンポラリーダンス",
+  "content": "コンテンポラリーダンス",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090981115863711744/img/clt9QetytboHzHYG.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091148384786927772.mp4",
+  "sourceLink": "https://x.com/kurageanime/status/2091148384786927772",
+  "sourcePublishedAt": "2026-08-22",
+  "author": {
+    "name": "NAKAGAWA Hirokazu 動遊楽",
+    "link": "https://x.com/kurageanime"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "en": {
+      "content": "Contemporary dance"
+    },
+    "es": {
+      "content": "Danza contemporánea"
+    },
+    "fr": {
+      "content": "Danse contemporaine"
+    },
+    "ko": {
+      "content": "컨템포러리 댄스"
+    },
+    "pt": {
+      "content": "Dança contemporânea"
+    },
+    "zh": {
+      "content": "当代舞蹈"
+    }
+  }
+}

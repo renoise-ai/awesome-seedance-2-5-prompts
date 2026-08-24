@@ -1,0 +1,43 @@
+{
+  "id": "2091149641341362682",
+  "title": "Write your Seedance prompt as a second-by-second shot list (e.g., 0–5s / 5–10s…",
+  "content": "Write your Seedance prompt as a second-by-second shot list (e.g., 0–5s / 5–10s / 10–15s / 15–20s) to control pacing and continuity in a single continuous POV sequence.  \nStoryboard every second in the prompt with explicit actions and camera behavior (push through leaves → slow/search foliage → reveal → stumble back/lunge → cut to black) to make the model follow a directed sequence.  \nSpecify POV and camera style cues like rough handheld POV, foliage brushing the lens, and “zero cinematic polish” to increase realism and avoid the polished “AI” look.  \nAdd concrete sensory/prop details in each shot (machete in frame, heavy breathing on the mic, growl ahead) to anchor the scene and improve consistency.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2091149617672982528/pu/img/BfvI08rxTfcUySts.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091149641341362682.mp4",
+  "sourceLink": "https://x.com/Genflickmovies/status/2091149641341362682",
+  "sourcePublishedAt": "2026-08-22",
+  "author": {
+    "name": "GenFlick | Making Movies with AI | Join Us",
+    "link": "https://x.com/Genflickmovies"
+  },
+  "tags": [
+    "Horror",
+    "Monster Chase",
+    "Photoreal",
+    "Realistic World",
+    "POV",
+    "Tutorial"
+  ],
+  "tips": "Write your Seedance prompt as a second-by-second shot list (e.g., 0–5s / 5–10s / 10–15s / 15–20s) to control pacing and continuity in a single continuous POV sequence.  \nStoryboard every second in the prompt with explicit actions and camera behavior (push through leaves → slow/search foliage → reveal → stumble back/lunge → cut to black) to make the model follow a directed sequence.  \nSpecify POV and camera style cues like rough handheld POV, foliage brushing the lens, and “zero cinematic polish” to increase realism and avoid the polished “AI” look.  \nAdd concrete sensory/prop details in each shot (machete in frame, heavy breathing on the mic, growl ahead) to anchor the scene and improve consistency.",
+  "translations": {
+    "es": {
+      "content": "Escribe tu prompt de Seedance como una lista de planos segundo a segundo (por ejemplo, 0–5 s / 5–10 s / 10–15 s / 15–20 s) para controlar el ritmo y la continuidad en una sola secuencia POV continua.  \nHaz un storyboard de cada segundo en el prompt con acciones explícitas y comportamiento de cámara (push through leaves → slow/search foliage → reveal → stumble back/lunge → cut to black) para que el modelo siga una secuencia dirigida.  \nEspecifica indicaciones de POV y estilo de cámara como rough handheld POV, foliage brushing the lens y “zero cinematic polish” para aumentar el realismo y evitar el aspecto pulido de “AI”.  \nAñade detalles concretos sensoriales y de utilería en cada plano (machete in frame, heavy breathing on the mic, growl ahead) para anclar la escena y mejorar la consistencia."
+    },
+    "fr": {
+      "content": "Rédigez votre prompt Seedance sous forme de shot list seconde par seconde (par ex. 0–5 s / 5–10 s / 10–15 s / 15–20 s) afin de contrôler le rythme et la continuité dans une séquence POV unique et continue.  \nStoryborez chaque seconde du prompt avec des actions explicites et le comportement de la caméra (push through leaves → slow/search foliage → reveal → stumble back/lunge → cut to black) pour amener le modèle à suivre une séquence dirigée.  \nPrécisez des indications de POV et de style caméra comme rough handheld POV, foliage brushing the lens, et « zero cinematic polish » pour renforcer le réalisme et éviter l’aspect “AI” trop léché.  \nAjoutez dans chaque plan des détails sensoriels et d’accessoires concrets (machete in frame, heavy breathing on the mic, growl ahead) pour ancrer la scène et améliorer la cohérence."
+    },
+    "ja": {
+      "content": "Seedanceのpromptは、1秒ごとのショットリストとして書きましょう（例: 0–5s / 5–10s / 10–15s / 15–20s）。これにより、1つの連続したPOVシーケンス内でテンポと連続性をコントロールできます。  \nprompt内では毎秒ごとに絵コンテを作るようにし、明確なアクションとカメラの挙動（push through leaves → slow/search foliage → reveal → stumble back/lunge → cut to black）を指定して、モデルが指示されたシーケンスに従うようにします。  \nrough handheld POV、foliage brushing the lens、そして “zero cinematic polish” のようなPOVとカメラスタイルの手がかりを指定して、リアリズムを高め、洗練された「AI」っぽさを避けましょう。  \n各ショットには、具体的な感覚的・小道具的ディテール（machete in frame、mic越しの荒い呼吸、前方のうなり声など）を加えて、シーンを固定し、一貫性を高めます。"
+    },
+    "ko": {
+      "content": "Seedance prompt를 초 단위 샷 리스트로 작성하세요(예: 0–5초 / 5–10초 / 10–15초 / 15–20초). 이렇게 하면 단일 연속 POV 시퀀스에서 페이싱과 연속성을 제어할 수 있습니다.  \nprompt의 매 초를 명시적인 동작과 카메라 동작으로 스토리보드화하세요(예: 나뭇잎을 헤치고 전진 → 천천히 수풀을 살피기 → 드러남 → 뒤로 비틀거리며 물러나기/돌진하기 → black으로 cut) ताकि 모델이 지시된 순서를 따르도록 만드세요.  \n거친 handheld POV, 렌즈를 스치는 foliage, “zero cinematic polish” 같은 POV 및 카메라 스타일 신호를 지정해 사실감을 높이고 매끈한 “AI” 느낌을 피하세요.  \n각 샷에 machete가 프레임 안에 보인다, 마이크에 거친 숨소리, 앞쪽에서 들려오는 growl처럼 구체적인 감각/소품 디테일을 추가해 장면을 고정하고 일관성을 높이세요."
+    },
+    "pt": {
+      "content": "Escreva seu prompt do Seedance como uma lista de planos segundo a segundo (por exemplo, 0–5s / 5–10s / 10–15s / 15–20s) para controlar o ritmo e a continuidade em uma única sequência contínua em POV.  \nFaça o storyboard de cada segundo no prompt com ações explícitas e comportamento de câmera (avançar entre as folhas → mover-se devagar/examinar a folhagem → revelar → recuar aos tropeços/investir → cortar para preto) para fazer o modelo seguir uma sequência dirigida.  \nEspecifique POV e pistas de estilo de câmera como rough handheld POV, folhagem roçando a lente e “zero cinematic polish” para aumentar o realismo e evitar o visual polido de “IA”.  \nAdicione detalhes concretos de sensações/props em cada plano (machete em quadro, respiração pesada no microfone, rosnado à frente) para ancorar a cena e melhorar a consistência."
+    },
+    "zh": {
+      "content": "将你的 Seedance prompt 写成按秒划分的镜头列表（例如 0–5s / 5–10s / 10–15s / 15–20s），以便在单一连续的 POV 序列中控制节奏和连贯性。  \n在 prompt 中为每一秒做 storyboard，并明确写出动作和镜头行为（push through leaves → slow/search foliage → reveal → stumble back/lunge → cut to black），让模型按既定顺序执行。  \n指定 POV 和 camera style 线索，例如 rough handheld POV、foliage brushing the lens，以及 “zero cinematic polish”，以增强真实感并避免那种过于精致的 “AI” 感。  \n在每个镜头中加入具体的感官/道具细节（machete in frame、heavy breathing on the mic、growl ahead），以锚定场景并提升一致性。"
+    }
+  }
+}

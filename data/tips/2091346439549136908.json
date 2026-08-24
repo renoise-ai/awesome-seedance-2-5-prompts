@@ -1,0 +1,42 @@
+{
+  "id": "2091346439549136908",
+  "title": "CodexからTopViewプラグイン経由でSeedance 2.5を実行する",
+  "content": "CodexからTopViewプラグイン経由でSeedance 2.5を実行する  \n自分の自画像と使用したい楽器（例：REVE 5弦ベース）の画像を参照素材としてSeedanceに渡して被写体と小物を固定する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091345994478927872/img/-24OUanzbgO64lU7.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091346439549136908.mp4",
+  "sourceLink": "https://x.com/akiyoshisan/status/2091346439549136908",
+  "sourcePublishedAt": "2026-08-23",
+  "author": {
+    "name": "右よし左よし秋よし@AIエンタメ",
+    "link": "https://x.com/akiyoshisan"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "CodexからTopViewプラグイン経由でSeedance 2.5を実行する  \n自分の自画像と使用したい楽器（例：REVE 5弦ベース）の画像を参照素材としてSeedanceに渡して被写体と小物を固定する",
+  "translations": {
+    "en": {
+      "content": "Run Seedance 2.5 via the TopView plugin from Codex  \nPass your self-portrait and an image of the instrument you want to use (e.g., a REVE 5-string bass) to Seedance as reference materials to lock the subject and props in place"
+    },
+    "es": {
+      "content": "Ejecutar Seedance 2.5 desde Codex a través del plugin TopView  \nPasa a Seedance una imagen de tu autorretrato y una imagen del instrumento que quieres usar (por ejemplo, un bajo REVE de 5 cuerdas) como material de referencia para fijar al sujeto y los accesorios"
+    },
+    "fr": {
+      "content": "Exécuter Seedance 2.5 depuis Codex via le plugin TopView  \nTransmettre à Seedance, comme matériaux de référence, son propre autoportrait et l’image de l’instrument que l’on souhaite utiliser (par exemple, une basse REVE à 5 cordes) afin de figer le sujet et les accessoires."
+    },
+    "ko": {
+      "content": "Codex에서 TopView 플러그인을 통해 Seedance 2.5를 실행하기  \n자신의 자화상과 사용하고 싶은 악기(예: REVE 5현 베이스)의 이미지를 참고 자료로 Seedance에 전달해 피사체와 소품을 고정한다"
+    },
+    "pt": {
+      "content": "Executar o Seedance 2.5 a partir do Codex via o plugin TopView  \nPassar ao Seedance, como materiais de referência, uma imagem do meu autorretrato e uma imagem do instrumento que quero usar (por exemplo, um baixo REVE de 5 cordas), para fixar o sujeito e os acessórios"
+    },
+    "zh": {
+      "content": "通过 Codex 经由 TopView 插件运行 Seedance 2.5  \n将自己的自画像以及想要使用的乐器（例如 REVE 5 弦贝斯）的图片作为参考素材传给 Seedance，以固定主体和道具"
+    }
+  }
+}

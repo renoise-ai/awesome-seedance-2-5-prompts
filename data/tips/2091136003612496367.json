@@ -1,0 +1,41 @@
+{
+  "id": "2091136003612496367",
+  "title": "Start Seedance 2.5 projects by creating a detailed character sheet (hairstyle…",
+  "content": "Start Seedance 2.5 projects by creating a detailed character sheet (hairstyle, face, eyes, costume, proportions, color palette, movement references, expressions, poses) and use it as the visual reference to anchor every shot.  \nUse Seedance 2.5’s reference-based generation in CapCut so the model doesn’t reinvent the character each shot; keep the reference constant and prompt only what should change (camera movement, choreography, transitions, typography, framing, timing).  \nApply timestamp-based control to lock in timing beats, then iterate in CapCut with a generate → review → refine → localized changes loop to build the sequence without breaking continuity.  \nTreat the workflow as a production pipeline: reference images define visual identity, prompts define creative direction, timestamp controls define timing, and editing stitches generations into a coherent story.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/kicknost/status/2091136003612496367",
+  "sourcePublishedAt": "2026-08-22",
+  "author": {
+    "name": "Kick Nost",
+    "link": "https://x.com/kicknost"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Start Seedance 2.5 projects by creating a detailed character sheet (hairstyle, face, eyes, costume, proportions, color palette, movement references, expressions, poses) and use it as the visual reference to anchor every shot.  \nUse Seedance 2.5’s reference-based generation in CapCut so the model doesn’t reinvent the character each shot; keep the reference constant and prompt only what should change (camera movement, choreography, transitions, typography, framing, timing).  \nApply timestamp-based control to lock in timing beats, then iterate in CapCut with a generate → review → refine → localized changes loop to build the sequence without breaking continuity.  \nTreat the workflow as a production pipeline: reference images define visual identity, prompts define creative direction, timestamp controls define timing, and editing stitches generations into a coherent story.",
+  "translations": {
+    "es": {
+      "content": "Comienza los proyectos de Seedance 2.5 creando una ficha detallada del personaje (peinado, rostro, ojos, vestuario, proporciones, paleta de colores, referencias de movimiento, expresiones, poses) y úsala como referencia visual para anclar cada toma.  \nUsa la generación basada en referencias de Seedance 2.5 en CapCut para que el modelo no reinvente al personaje en cada toma; mantén constante la referencia y especifica solo lo que debe cambiar (movimiento de cámara, coreografía, transiciones, tipografía, encuadre, timing).  \nAplica control basado en timestamps para fijar los beats de tiempo y luego itera en CapCut con un ciclo generate → review → refine → localized changes para construir la secuencia sin romper la continuidad.  \nTrata el flujo de trabajo como una pipeline de producción: las imágenes de referencia definen la identidad visual, los prompts definen la dirección creativa, los controles de timestamp definen el timing y la edición entrelaza las generaciones en una historia coherente."
+    },
+    "fr": {
+      "content": "Commencez les projets Seedance 2.5 en créant une fiche personnage détaillée (coiffure, visage, yeux, costume, proportions, palette de couleurs, références de mouvement, expressions, poses) et utilisez-la comme référence visuelle pour ancrer chaque plan.  \nUtilisez la génération basée sur des références de Seedance 2.5 dans CapCut afin que le modèle ne réinvente pas le personnage à chaque plan ; gardez la référence constante et ne prompt que ce qui doit changer (mouvement de caméra, chorégraphie, transitions, typographie, cadrage, timing).  \nAppliquez un contrôle basé sur les timestamps pour verrouiller les temps forts, puis itérez dans CapCut avec une boucle générer → revoir → affiner → modifications localisées afin de construire la séquence sans rompre la continuité.  \nConsidérez le workflow comme une chaîne de production : les images de référence définissent l’identité visuelle, les prompts définissent la direction créative, les contrôles par timestamp définissent le timing, et le montage assemble les générations en une histoire cohérente."
+    },
+    "ja": {
+      "content": "Seedance 2.5 のプロジェクトは、詳細なキャラクターシート（髪型、顔、目、衣装、プロポーション、カラーパレット、動きの参考、表情、ポーズ）を作成することから始め、それを各ショットの基準となるビジュアルリファレンスとして使用します。  \nCapCut で Seedance 2.5 の reference-based generation を使い、モデルがショットごとにキャラクターを作り直してしまわないようにします。リファレンスは固定したままにし、変化させるべき要素だけを prompt します（camera movement、choreography、transitions、typography、framing、timing）。  \ntimestamp-based control を適用して timing のビートを固定し、その後は CapCut で generate → review → refine → localized changes のループを回しながら、continuity を崩さずにシーケンスを構築します。  \nこのワークフローは制作パイプラインとして捉えます。reference images は visual identity を定義し、prompts は creative direction を定義し、timestamp controls は timing を定義し、editing は生成結果をつなぎ合わせて一貫したストーリーに仕上げます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5 프로젝트는 상세한 캐릭터 시트(헤어스타일, 얼굴, 눈, 의상, 비율, 컬러 팔레트, 움직임 레퍼런스, 표정, 포즈)를 만들어 시작하고, 이를 모든 샷을 고정하는 시각적 레퍼런스로 사용하세요.  \nCapCut에서 Seedance 2.5의 reference-based generation을 활용해 모델이 샷마다 캐릭터를 새로 만들어내지 않도록 하세요. 레퍼런스는 고정한 채, 바뀌어야 하는 요소만 프롬프트로 지정합니다(카메라 움직임, 안무, 전환, 타이포그래피, 프레이밍, 타이밍).  \ntimestamp-based control을 적용해 타이밍 비트를 고정한 다음, CapCut에서 generate → review → refine → localized changes 루프로 반복하며 continuity를 깨지 않고 시퀀스를 완성하세요.  \n이 워크플로우를 production pipeline으로 생각하세요. reference images는 visual identity를 정의하고, prompts는 creative direction을 정의하며, timestamp controls는 timing을 정의하고, editing은 생성된 결과물을 하나의 일관된 스토리로 엮어줍니다."
+    },
+    "pt": {
+      "content": "Comece projetos no Seedance 2.5 criando uma ficha detalhada do personagem (penteado, rosto, olhos, figurino, proporções, paleta de cores, referências de movimento, expressões, poses) e use-a como referência visual para ancorar cada cena.  \nUse a geração baseada em referência do Seedance 2.5 no CapCut para que o modelo não reinvente o personagem a cada cena; mantenha a referência constante e descreva apenas o que deve mudar (movimento de câmera, coreografia, transições, tipografia, enquadramento, timing).  \nAplique controle baseado em timestamp para travar os beats de timing e, em seguida, itere no CapCut com um ciclo de gerar → revisar → refinar → alterações localizadas para construir a sequência sem quebrar a continuidade.  \nTrate o workflow como um pipeline de produção: imagens de referência definem a identidade visual, prompts definem a direção criativa, controles de timestamp definem o timing, e a edição costura as gerações em uma história coerente."
+    },
+    "zh": {
+      "content": "通过创建一份详细的角色设定表（发型、脸部、眼睛、服装、比例、配色方案、动作参考、表情、姿势）来启动 Seedance 2.5 项目，并将其作为视觉参考，锚定每一个镜头。  \n在 CapCut 中使用 Seedance 2.5 的基于参考图的生成能力，这样模型就不会在每个镜头里重新“发明”角色；保持参考图不变，只提示需要变化的内容（镜头运动、编排、转场、字体排版、构图、节奏）。  \n应用基于时间戳的控制来锁定节拍，然后在 CapCut 中通过“生成 → 审核 → 优化 → 局部修改”的循环进行迭代，在不破坏连贯性的前提下构建整个序列。  \n将这一工作流视为一条制作流水线：参考图像定义视觉身份，prompt 定义创意方向，时间戳控制定义节奏，剪辑则把各次生成拼接成一个连贯的故事。"
+    }
+  }
+}

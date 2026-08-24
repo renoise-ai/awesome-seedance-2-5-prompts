@@ -1,0 +1,42 @@
+{
+  "id": "2090725613770551762",
+  "title": "Seedance 2.5で映像生成し、Flovaで絵コンテ→キャラ/声/背景アセット作成→各カット生成→タイムラインまでの制作フロー管理をエージェントに自走させ…",
+  "content": "Seedance 2.5で映像生成し、Flovaで絵コンテ→キャラ/声/背景アセット作成→各カット生成→タイムラインまでの制作フロー管理をエージェントに自走させる  \nプリプロ（事前制作）で合意を固めてからSeedance 2.5の各カット生成に進むと、以降は待つだけの運用にできる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2090721940122279936/pu/img/xTVGRcWYcjz1rrR-.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090725613770551762.mp4",
+  "sourceLink": "https://x.com/yachimat_manga/status/2090725613770551762",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "yachimat - AI Short Anime",
+    "link": "https://x.com/yachimat_manga"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5で映像生成し、Flovaで絵コンテ→キャラ/声/背景アセット作成→各カット生成→タイムラインまでの制作フロー管理をエージェントに自走させる  \nプリプロ（事前制作）で合意を固めてからSeedance 2.5の各カット生成に進むと、以降は待つだけの運用にできる",
+  "translations": {
+    "en": {
+      "content": "Have an agent autonomously manage the production workflow: generate video with Seedance 2.5, create storyboards in Flova, produce character/voice/background assets, generate each shot, and handle timeline management.  \nIf you lock in agreement during pre-production, then move on to generating each shot in Seedance 2.5, the rest of the process can be run as a wait-only operation."
+    },
+    "es": {
+      "content": "Hacer que un agente gestione de forma autónoma el flujo de producción: generar video con Seedance 2.5, crear el storyboard en Flova, producir los assets de personajes/voz/fondo, generar cada plano y administrar hasta la línea de tiempo.  \nSi se consolidan los acuerdos en la preproducción (prerproducción) antes de pasar a la generación de cada plano en Seedance 2.5, a partir de ahí la operación puede convertirse en un proceso en el que solo hay que esperar."
+    },
+    "fr": {
+      "content": "Laisser l’agent gérer de manière autonome le workflow de production : génération vidéo avec Seedance 2.5, puis, dans Flova, création du storyboard → des assets de personnages/voix/fonds → génération de chaque plan → gestion du flux de production jusqu’à la timeline.  \nSi l’on verrouille les accords en préproduction avant de passer à la génération de chaque plan dans Seedance 2.5, on peut ensuite fonctionner en mode « il n’y a plus qu’à attendre »."
+    },
+    "ko": {
+      "content": "Seedance 2.5로 영상 생성하고, Flova에서 스토리보드 → 캐릭터/목소리/배경 에셋 제작 → 각 컷 생성 → 타임라인까지의 제작 플로우 관리를 에이전트가 자율적으로 수행하게 한다  \n프리프로덕션(사전 제작)에서 합의를 확실히 한 뒤 Seedance 2.5의 각 컷 생성으로 넘어가면, 이후에는 기다리기만 하면 되는 운영 방식으로 만들 수 있다"
+    },
+    "pt": {
+      "content": "Fazer a geração de vídeo no Seedance 2.5 e deixar o agente conduzir de forma autônoma o fluxo de produção no Flova — do storyboard à criação de assets de personagem/voz/fundo, passando pela geração de cada corte e até a timeline.  \nSe, na pré-produção, o alinhamento for consolidado antes de avançar para a geração de cada corte no Seedance 2.5, a operação pode passar a ser apenas de espera a partir daí."
+    },
+    "zh": {
+      "content": "让 agent 自主完成从 Seedance 2.5 进行视频生成，到在 Flova 中完成分镜 → 角色/声音/背景素材制作 → 各镜头生成 → 时间线管理的制作流程  \n在 pre-production（前期制作）阶段先把共识敲定，再推进到 Seedance 2.5 的各镜头生成，之后就可以变成只需等待的运用方式"
+    }
+  }
+}

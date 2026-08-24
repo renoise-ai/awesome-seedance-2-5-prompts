@@ -1,0 +1,42 @@
+{
+  "id": "2091544163070165050",
+  "title": "Use a text prompt plus a reference image in Seedance 2.5 to generate a…",
+  "content": "Use a text prompt plus a reference image in Seedance 2.5 to generate a realistic, fully AI-generated ad.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091543701759668224/img/FhhignlqD5z0rW2L.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091544163070165050.mp4",
+  "sourceLink": "https://x.com/deivcodes/status/2091544163070165050",
+  "sourcePublishedAt": "2026-08-23",
+  "author": {
+    "name": "David",
+    "link": "https://x.com/deivcodes"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a text prompt plus a reference image in Seedance 2.5 to generate a realistic, fully AI-generated ad.",
+  "translations": {
+    "es": {
+      "content": "Usa un prompt de texto junto con una imagen de referencia en Seedance 2.5 para generar un anuncio realista, completamente generado por IA."
+    },
+    "fr": {
+      "content": "Utilisez un prompt textuel ainsi qu’une image de référence dans Seedance 2.5 pour générer une publicité réaliste, entièrement générée par IA."
+    },
+    "ja": {
+      "content": "Seedance 2.5 では、text prompt と reference image を使って、リアルで完全に AI 生成された広告を作成できます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 텍스트 prompt와 reference image를 함께 사용해, 사실적이고 완전히 AI로 생성된 광고를 만들어보세요."
+    },
+    "pt": {
+      "content": "Use um prompt de texto junto com uma imagem de referência no Seedance 2.5 para gerar um anúncio realista, totalmente gerado por IA."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中，使用文本 prompt 加参考图像来生成一个逼真、完全由 AI 生成的广告。"
+    }
+  }
+}

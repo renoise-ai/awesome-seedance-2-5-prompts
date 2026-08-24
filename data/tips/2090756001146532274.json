@@ -1,0 +1,42 @@
+{
+  "id": "2090756001146532274",
+  "title": "キャラクターシート（参照画像）とプロンプトだけで30秒動画を生成する（PolloAIのSeedance2.5を使用）",
+  "content": "キャラクターシート（参照画像）とプロンプトだけで30秒動画を生成する（PolloAIのSeedance2.5を使用）",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090754416664354816/img/d2QxeirJ8gjXB3Fy.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090756001146532274.mp4",
+  "sourceLink": "https://x.com/Ameilo_1/status/2090756001146532274",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "Ameilo",
+    "link": "https://x.com/Ameilo_1"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "キャラクターシート（参照画像）とプロンプトだけで30秒動画を生成する（PolloAIのSeedance2.5を使用）",
+  "translations": {
+    "en": {
+      "content": "Generate a 30-second video using only a character sheet (reference image) and a prompt (using PolloAI’s Seedance 2.5)\n\n--- THREAD CONTINUATION ---\n[Thread 1] #PolloAI\n@PolloAIJP\nhttps://t.co/k0sSzQRcZc\n---"
+    },
+    "es": {
+      "content": "Generar un video de 30 segundos solo con una character sheet (imagen de referencia) y un prompt (usando Seedance 2.5 de PolloAI)\n\n--- CONTINUACIÓN DEL THREAD ---\n[Thread 1] #PolloAI\n@PolloAIJP\nhttps://t.co/k0sSzQRcZc\n---"
+    },
+    "fr": {
+      "content": "Générer une vidéo de 30 secondes uniquement à partir d’une character sheet (image de référence) et d’un prompt (en utilisant Seedance2.5 de PolloAI)\n\n--- SUITE DU THREAD ---\n[Thread 1] #PolloAI\n@PolloAIJP\nhttps://t.co/k0sSzQRcZc\n---"
+    },
+    "ko": {
+      "content": "캐릭터 시트(참조 이미지)와 prompt만으로 30초 영상을 생성하기 (PolloAI의 Seedance2.5 사용)\n\n--- THREAD CONTINUATION ---\n[Thread 1] #PolloAI\n@PolloAIJP\nhttps://t.co/k0sSzQRcZc\n---"
+    },
+    "pt": {
+      "content": "Gerar um vídeo de 30 segundos apenas com a character sheet (imagem de referência) e o prompt (usando o Seedance 2.5 da PolloAI)\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] #PolloAI\n@PolloAIJP\nhttps://t.co/k0sSzQRcZc\n---"
+    },
+    "zh": {
+      "content": "仅凭角色设定图（参考图像）和 prompt 生成 30 秒视频（使用 PolloAI 的 Seedance2.5）\n\n--- 线程续篇 ---\n[Thread 1] #PolloAI\n@PolloAIJP\nhttps://t.co/k0sSzQRcZc\n---"
+    }
+  }
+}

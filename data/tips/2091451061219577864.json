@@ -1,0 +1,42 @@
+{
+  "id": "2091451061219577864",
+  "title": "Design your Seedance 2.5 animation assets as flat 2.5D paper-cut layers with…",
+  "content": "Design your Seedance 2.5 animation assets as flat 2.5D paper-cut layers with clearly separated foreground/midground/background elements to enable parallax camera movement.  \nKeep major objects as independent, cleanly separable layers (river, bridge, roofs, trees, landmark towers, skyline, mountains, buildings, railway, color blocks, foreground foliage) and avoid excessive overlap so they can be animated individually.  \nUse a consistent visual language across multiple scenes (e.g., Seoul/Tokyo/Paris) so they match as a series for later animation in Seedance 2.5.  \nSpecify a vertical 9:16 aspect ratio when generating image prompts intended for Seedance vertical video output.  \nForce a plain, cloudless sky (e.g., completely plain warm cream with no clouds) to simplify layer separation and animation.  \nExclude moving/complex elements (people, cars, boats, birds, fog, smoke, particles, reflections, lens flare) to keep the scene animation-ready and easier to composite in Seedance.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/FutureVibesAi/status/2091451061219577864",
+  "sourcePublishedAt": "2026-08-23",
+  "author": {
+    "name": "Future Vibes AI - Educator",
+    "link": "https://x.com/FutureVibesAi"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Hand-drawn",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Design your Seedance 2.5 animation assets as flat 2.5D paper-cut layers with clearly separated foreground/midground/background elements to enable parallax camera movement.  \nKeep major objects as independent, cleanly separable layers (river, bridge, roofs, trees, landmark towers, skyline, mountains, buildings, railway, color blocks, foreground foliage) and avoid excessive overlap so they can be animated individually.  \nUse a consistent visual language across multiple scenes (e.g., Seoul/Tokyo/Paris) so they match as a series for later animation in Seedance 2.5.  \nSpecify a vertical 9:16 aspect ratio when generating image prompts intended for Seedance vertical video output.  \nForce a plain, cloudless sky (e.g., completely plain warm cream with no clouds) to simplify layer separation and animation.  \nExclude moving/complex elements (people, cars, boats, birds, fog, smoke, particles, reflections, lens flare) to keep the scene animation-ready and easier to composite in Seedance.",
+  "translations": {
+    "es": {
+      "content": "Diseña tus recursos de animación para Seedance 2.5 como capas planas de papel recortado en 2.5D, con elementos de primer plano, plano medio y fondo claramente separados para permitir el movimiento de cámara con parallax.  \nMantén los objetos principales como capas independientes y claramente separables (río, puente, tejados, árboles, torres emblemáticas, skyline, montañas, edificios, vía férrea, bloques de color, follaje del primer plano) y evita un solapamiento excesivo para que puedan animarse individualmente.  \nUsa un lenguaje visual coherente en varias escenas (por ejemplo, Seúl/Tokio/París) para que funcionen como una serie y puedan animarse posteriormente en Seedance 2.5.  \nEspecifica una relación de aspecto vertical 9:16 al generar prompts de imagen destinados a la salida de video vertical de Seedance.  \nFuerza un cielo liso y sin nubes (por ejemplo, completamente uniforme en un cálido tono crema, sin nubes) para simplificar la separación de capas y la animación.  \nExcluye elementos en movimiento o complejos (personas, coches, barcos, pájaros, niebla, humo, partículas, reflejos, lens flare) para mantener la escena lista para animación y facilitar el compositing en Seedance."
+    },
+    "fr": {
+      "content": "Concevez vos assets d’animation Seedance 2.5 sous forme de couches plates en papier découpé 2.5D, avec des éléments d’avant-plan, de plan intermédiaire et d’arrière-plan clairement séparés afin de permettre un mouvement de caméra en parallax.  \nConservez les objets principaux comme des couches indépendantes et facilement séparables (rivière, pont, toits, arbres, tours emblématiques, skyline, montagnes, bâtiments, voie ferrée, aplats de couleur, feuillage au premier plan) et évitez les chevauchements excessifs afin qu’ils puissent être animés individuellement.  \nUtilisez un langage visuel cohérent à travers plusieurs scènes (par ex. Séoul/Tokyo/Paris) afin qu’elles s’harmonisent comme une série pour une animation ultérieure dans Seedance 2.5.  \nPrécisez un format vertical 9:16 lors de la génération de prompts d’image destinés à la sortie vidéo verticale de Seedance.  \nImposez un ciel uni, sans nuages (par ex. un crème chaud totalement uniforme, sans nuages) afin de simplifier la séparation des couches et l’animation.  \nExcluez les éléments mobiles/complexes (personnes, voitures, bateaux, oiseaux, brouillard, fumée, particules, reflets, lens flare) pour garder la scène prête à l’animation et plus facile à composer dans Seedance."
+    },
+    "ja": {
+      "content": "Seedance 2.5 のアニメーション素材は、前景・中景・背景の要素が明確に分かれたフラットな 2.5D のペーパーカットレイヤーとして設計し、パララックスのカメラ移動を可能にしてください。  \n川、橋、屋根、木、ランドマークの塔、スカイライン、山、建物、鉄道、カラーブロック、前景の植生など、主要なオブジェクトは独立した、きれいに分離可能なレイヤーとして保持し、過度な重なりは避けて、個別にアニメーションできるようにしてください。  \n複数のシーン（例：ソウル／東京／パリ）にわたって一貫したビジュアル言語を使用し、後で Seedance 2.5 でアニメーション化する際にシリーズとして統一感が出るようにしてください。  \nSeedance の縦型動画出力向けの画像 prompt を生成する場合は、縦長の 9:16 アスペクト比を指定してください。  \nレイヤー分離とアニメーションを सरल化するため、雲のないプレーンな空（例：雲の一切ない、完全にフラットな暖かいクリーム色）を必ず指定してください。  \nシーンをアニメーション対応に保ち、Seedance で合成しやすくするため、動きのある／複雑な要素（人、車、ボート、鳥、霧、煙、粒子、反射、レンズフレア）は除外してください。"
+    },
+    "ko": {
+      "content": "Seedance 2.5 애니메이션 에셋은 전경/중경/배경 요소가 명확히 분리된 평면적인 2.5D 페이퍼컷 레이어로 디자인하여, 패럴랙스 카메라 움직임이 가능하도록 하세요.  \n강, 다리, 지붕, 나무, 랜드마크 타워, 스카이라인, 산, 건물, 철도, 컬러 블록, 전경의 식생 등 주요 오브젝트는 서로 독립적이고 깔끔하게 분리 가능한 레이어로 유지하고, 개별적으로 애니메이션할 수 있도록 과도한 겹침은 피하세요.  \n여러 장면(예: 서울/도쿄/파리) 전반에 걸쳐 일관된 비주얼 언어를 사용하여, 나중에 Seedance 2.5에서 애니메이션할 때 하나의 시리즈처럼 자연스럽게 맞물리도록 하세요.  \nSeedance 세로형 비디오 출력용 이미지를 생성할 때는 세로 9:16 화면 비율을 명시하세요.  \n레이어 분리와 애니메이션을 단순화하기 위해, 구름이 전혀 없는 단색의 하늘(예: 구름 없는 완전히 평평한 따뜻한 크림색)을 강제하세요.  \n사람, 자동차, 보트, 새, 안개, 연기, 파티클, 반사, 렌즈 플레어 등 움직이거나 복잡한 요소는 제외하여 장면이 애니메이션에 바로 사용할 수 있고 Seedance에서 합성하기 더 쉽도록 하세요."
+    },
+    "pt": {
+      "content": "Projete seus assets de animação para o Seedance 2.5 como camadas planas de paper-cut 2.5D, com elementos de foreground/midground/background claramente separados para permitir movimento de câmera com parallax.  \nMantenha os principais objetos como camadas independentes e facilmente separáveis (rio, ponte, telhados, árvores, torres de marcos, skyline, montanhas, edifícios, ferrovia, blocos de cor, folhagem em primeiro plano) e evite sobreposição excessiva para que possam ser animados individualmente.  \nUse uma linguagem visual consistente em várias cenas (por exemplo, Seoul/Tokyo/Paris) para que elas funcionem como uma série para animação posterior no Seedance 2.5.  \nEspecifique uma proporção vertical de 9:16 ao gerar prompts de imagem destinados à saída de vídeo vertical do Seedance.  \nForce um céu liso e sem nuvens (por exemplo, completamente uniforme em creme quente, sem nuvens) para simplificar a separação das camadas e a animação.  \nExclua elementos em movimento/complexos (pessoas, carros, barcos, pássaros, neblina, fumaça, partículas, reflexos, lens flare) para manter a cena pronta para animação e mais fácil de compor no Seedance."
+    },
+    "zh": {
+      "content": "将你的 Seedance 2.5 动画素材设计为扁平的 2.5D 剪纸分层，清晰区分前景/中景/背景元素，以实现视差 camera movement。  \n将主要对象保持为独立、可干净分离的图层（河流、桥梁、屋顶、树木、地标塔楼、天际线、山脉、建筑、铁路、色块、前景植被），并避免过度重叠，这样它们就可以被单独动画化。  \n在多个场景中（例如 Seoul/Tokyo/Paris）使用一致的视觉语言，使它们作为一个系列保持统一，便于后续在 Seedance 2.5 中进行动画制作。  \n在生成用于 Seedance vertical video 输出的 image prompts 时，指定竖版 9:16 的画幅比例。  \n强制使用纯净、无云的天空（例如完全纯净的暖奶油色天空，不要有云），以简化图层分离和动画处理。  \n排除会移动或过于复杂的元素（人物、汽车、船只、鸟、雾、烟、粒子、反射、lens flare），以保持场景具备动画制作条件，并更便于在 Seedance 中进行合成。"
+    }
+  }
+}

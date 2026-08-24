@@ -1,0 +1,42 @@
+{
+  "id": "2090818191089979669",
+  "title": "在 Seedance 2.5 提示词中加入风格关键词：恋爱反转轻喜剧（Romantic…",
+  "content": "在 Seedance 2.5 提示词中加入风格关键词：恋爱反转轻喜剧（Romantic Comedy）、霓虹棚拍质感、真人写实、4K高清、精致皮肤纹理，以复刻抖音热门短视频质感  \n将生成时长设置为 30 秒  \n将画面比例设置为 9:16 竖屏以匹配抖音短视频格式",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2090817704106024960/img/DjjEvJGWFK1HVoZi.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2090818191089979669.mp4",
+  "sourceLink": "https://x.com/johnAGI168/status/2090818191089979669",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "John",
+    "link": "https://x.com/johnAGI168"
+  },
+  "tags": [
+    "Story",
+    "Sitcom",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "在 Seedance 2.5 提示词中加入风格关键词：恋爱反转轻喜剧（Romantic Comedy）、霓虹棚拍质感、真人写实、4K高清、精致皮肤纹理，以复刻抖音热门短视频质感  \n将生成时长设置为 30 秒  \n将画面比例设置为 9:16 竖屏以匹配抖音短视频格式",
+  "translations": {
+    "en": {
+      "content": "In Seedance 2.5 prompts, add style keywords: Romantic Comedy, neon studio-shoot texture, live-action realism, 4K HD, and refined skin texture to recreate the look and feel of trending Douyin short videos.  \nSet the generation duration to 30 seconds.  \nSet the aspect ratio to 9:16 vertical to match the Douyin short-video format."
+    },
+    "es": {
+      "content": "---\nAñade palabras clave de estilo en el prompt de Seedance 2.5: comedia romántica con giro amoroso (Romantic Comedy), textura de estudio con neón, estilo realista con actores reales, 4K de alta definición y textura de piel refinada, para recrear la estética de los videos cortos populares de Douyin  \nConfigura la duración de generación en 30 segundos  \nConfigura la relación de aspecto en 9:16 en formato vertical para que coincida con el formato de videos cortos de Douyin\n---"
+    },
+    "fr": {
+      "content": "Ajoutez des mots-clés de style dans le prompt Seedance 2.5 : comédie romantique à rebondissements, esthétique de studio néon, réalisme live-action, 4K haute définition, texture de peau raffinée, afin de recréer l’esthétique des vidéos courtes populaires sur Douyin  \nRéglez la durée de génération sur 30 secondes  \nRéglez le format d’image sur 9:16 en vertical afin de correspondre au format des vidéos courtes Douyin"
+    },
+    "ja": {
+      "content": "Seedance 2.5 の prompt にスタイルキーワードを追加する：ロマンティック・コメディ（Romantic Comedy）、ネオンのスタジオ撮影風の質感、実写のリアルさ、4K高画質、繊細な肌の質感。これにより、Douyin で人気のショート動画の質感を再現する。  \n生成時間を 30 秒に設定する。  \n画面比率を 9:16 の縦画面に設定し、Douyin のショート動画フォーマットに合わせる。"
+    },
+    "ko": {
+      "content": "Seedance 2.5 prompt에 스타일 키워드를 추가하세요: 로맨틱 코미디(Romantic Comedy), 네온 스튜디오 촬영 질감, 실사풍, 4K 고화질, 정교한 피부 텍스처를 넣어 Douyin(抖音) 인기 숏폼 영상의 질감을 재현합니다.  \n생성 길이를 30초로 설정하세요.  \n화면 비율을 9:16 세로형으로 설정해 Douyin 숏폼 영상 형식에 맞추세요."
+    },
+    "pt": {
+      "content": "Adicione palavras-chave de estilo ao prompt do Seedance 2.5: comédia romântica com reviravolta, textura de estúdio com neon, realismo live-action, 4K em alta definição, textura de pele refinada, para reproduzir a estética dos vídeos curtos populares do Douyin  \nDefina a duração da geração para 30 segundos  \nDefina a proporção da imagem para 9:16 em formato vertical, para corresponder ao formato de vídeos curtos do Douyin"
+    }
+  }
+}

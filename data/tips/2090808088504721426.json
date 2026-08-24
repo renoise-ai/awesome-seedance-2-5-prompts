@@ -1,0 +1,41 @@
+{
+  "id": "2090808088504721426",
+  "title": "Use a reference image (@[ref image]) to lock the cockpit layout, driver…",
+  "content": "Use a reference image (@[ref image]) to lock the cockpit layout, driver hand/steering-wheel placement, and first-person driver’s-seat composition in Seedance 2.5.\n\nAdd extreme fisheye to the prompt to enforce a wide, immersive driver POV look for a fast driving sequence.\n\nSpecify “animated-film” and “futuristic city at night” to steer Seedance 2.5 toward a stylized cinematic night-racing aesthetic.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/aimikoda/status/2090808088504721426",
+  "sourcePublishedAt": "2026-08-21",
+  "author": {
+    "name": "Kōda",
+    "link": "https://x.com/aimikoda"
+  },
+  "tags": [
+    "Auto",
+    "POV Drive",
+    "3D Animation",
+    "Sci-Fi",
+    "POV"
+  ],
+  "tips": "Use a reference image (@[ref image]) to lock the cockpit layout, driver hand/steering-wheel placement, and first-person driver’s-seat composition in Seedance 2.5.\n\nAdd extreme fisheye to the prompt to enforce a wide, immersive driver POV look for a fast driving sequence.\n\nSpecify “animated-film” and “futuristic city at night” to steer Seedance 2.5 toward a stylized cinematic night-racing aesthetic.",
+  "translations": {
+    "es": {
+      "content": "Usa una imagen de referencia (@[ref image]) para fijar la disposición del cockpit, la colocación de las manos del conductor y del volante, y la composición en primera persona desde el asiento del conductor en Seedance 2.5.\n\nAñade extreme fisheye al prompt para imponer un look de POV del conductor amplio e inmersivo para una secuencia de conducción rápida.\n\nEspecifica “animated-film” y “futuristic city at night” para orientar a Seedance 2.5 hacia una estética cinematográfica estilizada de carreras nocturnas."
+    },
+    "fr": {
+      "content": "Utilisez une image de référence (@[ref image]) pour verrouiller la disposition du cockpit, la position des mains du conducteur et du volant, ainsi que la composition en vue à la première personne depuis le siège du conducteur dans Seedance 2.5.\n\nAjoutez « extreme fisheye » au prompt pour imposer un rendu large et immersif en POV conducteur pour une séquence de conduite rapide.\n\nPrécisez « animated-film » et « futuristic city at night » pour orienter Seedance 2.5 vers une esthétique cinématographique stylisée de course nocturne."
+    },
+    "ja": {
+      "content": "Seedance 2.5 では、参照画像（@[ref image]）を使って、コックピットのレイアウト、ドライバーの手とステアリングホイールの位置、そして一人称のドライバーシート構図を固定します。\n\nプロンプトに extreme fisheye を追加して、スピード感のある走行シーケンスにふさわしい、広角で没入感のあるドライバー視点の見た目を強調します。\n\n“animated-film” と “futuristic city at night” を指定して、Seedance 2.5 をスタイライズされたシネマティックな夜のレース美学へ誘導します。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 조종석 레이아웃, 운전자의 손/스티어링 휠 배치, 그리고 1인칭 운전석 구도를 고정하려면 참조 이미지(@[ref image])를 사용하세요.\n\n빠르게 주행하는 시퀀스에서 넓고 몰입감 있는 운전자 POV 느낌을 강화하려면 프롬프트에 extreme fisheye를 추가하세요.\n\nSeedance 2.5가 스타일화된 cinematic 야간 레이싱 미학을 따르도록 하려면 “animated-film”과 “futuristic city at night”를 지정하세요."
+    },
+    "pt": {
+      "content": "Use uma imagem de referência (@[ref image]) para travar o layout do cockpit, a posição das mãos do piloto/volante e a composição em primeira pessoa do banco do motorista no Seedance 2.5.\n\nAdicione extreme fisheye ao prompt para reforçar um visual de POV do motorista amplo e imersivo em uma sequência de direção em alta velocidade.\n\nEspecifique “animated-film” e “futuristic city at night” para orientar o Seedance 2.5 para uma estética cinematográfica estilizada de corrida noturna."
+    },
+    "zh": {
+      "content": "使用参考图像（@[ref image]）来锁定座舱布局、驾驶员手部/方向盘位置，以及 Seedance 2.5 中第一人称驾驶座构图。\n\n在提示词中加入 extreme fisheye，以强化宽广、沉浸式的驾驶员 POV 视觉效果，适用于高速驾驶序列。\n\n指定 “animated-film” 和 “futuristic city at night”，引导 Seedance 2.5 朝向风格化的 cinematic 夜间赛车美学。"
+    }
+  }
+}
