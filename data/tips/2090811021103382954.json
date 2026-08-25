@@ -11,6 +11,14 @@
     "name": "Voyz",
     "link": "https://x.com/voyzlab"
   },
+  "tags": [
+    "Horror",
+    "Eerie",
+    "Photoreal",
+    "Realistic World",
+    "VFX",
+    "Tutorial"
+  ],
   "tips": "Record a simple one-take performance (e.g., stretching/leaning) in a normal room with a regular camera to serve as the motion base.  \nBuild a detailed creature reference (face, skin, atmosphere) using Nano Banana before running Seedance.  \nLock choreography and keep the camera position unchanged to preserve consistent motion for replacement.  \nUse Seedance 2.5 to replace the performer’s face/skin/lighting while keeping the original movement intact.  \nPush contrast and color grading so an ordinary room reads as the intended genre location (e.g., horror bedroom).  \nCompare the Seedance output to the original frame-by-frame to ensure floor/object contact and alignment don’t drift.",
   "translations": {
     "es": {

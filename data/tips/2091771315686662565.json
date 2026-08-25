@@ -1,0 +1,45 @@
+{
+  "id": "2091771315686662565",
+  "title": "Hindari menulis “cinematic” di prompt; buat prompt yang mendeskripsikan visual…",
+  "content": "Hindari menulis “cinematic” di prompt; buat prompt yang mendeskripsikan visual yang terasa sinematik lewat detail gerakan dan angle kamera, ukuran lensa, karakter, lokasi, dan lighting.  \nAlih-alih minta AI “buat visual sinematik”, instruksikan Seedance untuk mengatur camera movement dan camera angles secara spesifik.  \nTambahkan spesifikasi ukuran lensa (focal length/jenis lensa) di prompt untuk mengarahkan look sinematik.  \nSertakan detail karakter, tempat, dan lighting di prompt untuk membangun nuansa sinematik tanpa kata “cinematic”.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091771238800932865/img/TT8W7TJKVkZeqLWW.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091771315686662565.mp4",
+  "sourceLink": "https://x.com/apilpirman/status/2091771315686662565",
+  "sourcePublishedAt": "2026-08-24",
+  "author": {
+    "name": "Apil",
+    "link": "https://x.com/apilpirman"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Hindari menulis “cinematic” di prompt; buat prompt yang mendeskripsikan visual yang terasa sinematik lewat detail gerakan dan angle kamera, ukuran lensa, karakter, lokasi, dan lighting.  \nAlih-alih minta AI “buat visual sinematik”, instruksikan Seedance untuk mengatur camera movement dan camera angles secara spesifik.  \nTambahkan spesifikasi ukuran lensa (focal length/jenis lensa) di prompt untuk mengarahkan look sinematik.  \nSertakan detail karakter, tempat, dan lighting di prompt untuk membangun nuansa sinematik tanpa kata “cinematic”.",
+  "translations": {
+    "en": {
+      "content": "Avoid writing “cinematic” in the prompt; instead, create a prompt that describes visuals that feel cinematic through details of movement and camera angle, lens size, characters, location, and lighting.  \nRather than asking the AI to “make it cinematic,” instruct Seedance to set the camera movement and camera angles specifically.  \nAdd lens size specifications (focal length/lens type) in the prompt to guide a cinematic look.  \nInclude details about the character, setting, and lighting in the prompt to build a cinematic atmosphere without using the word “cinematic”."
+    },
+    "es": {
+      "content": "Evita escribir “cinematic” en el prompt; crea un prompt que describa un visual que se sienta cinematográfico mediante detalles de movimiento y ángulo de cámara, tamaño de lente, personaje, ubicación e iluminación.  \nEn lugar de pedirle a la IA que “cree un visual cinematográfico”, instruye a Seedance para que ajuste de forma específica el camera movement y los camera angles.  \nAñade especificaciones sobre el tamaño de la lente (focal length/tipo de lente) en el prompt para orientar el look cinematográfico.  \nIncluye detalles del personaje, el lugar y la iluminación en el prompt para construir una atmósfera cinematográfica sin usar la palabra “cinematic”."
+    },
+    "fr": {
+      "content": "Évitez d’écrire « cinematic » dans le prompt ; créez plutôt un prompt qui décrit un visuel à l’allure cinématographique à travers des détails sur le mouvement, les angles de caméra, la focale, les personnages, le lieu et l’éclairage.  \nAu lieu de demander à l’IA de « créer un visuel cinématographique », demandez à Seedance de définir précisément le camera movement et les camera angles.  \nAjoutez des spécifications sur la taille de l’objectif (focal length/type d’objectif) dans le prompt afin d’orienter le rendu vers un look cinématographique.  \nIncluez des détails sur les personnages, le lieu et l’éclairage dans le prompt pour construire une ambiance cinématographique sans utiliser le mot « cinematic »."
+    },
+    "ja": {
+      "content": "prompt に「cinematic」と書くのは避け、動きやカメラアングル、レンズの焦点距離、キャラクター、ロケーション、ライティングの詳細によって、シネマティックに感じられるビジュアルを描写する prompt を作成してください。  \nAI に「シネマティックなビジュアルを作って」と頼む代わりに、Seedance に camera movement と camera angles を具体的に指定するよう指示してください。  \nシネマティックな見た目を誘導するために、prompt にレンズの仕様（focal length／レンズの種類）を追加してください。  \n「cinematic」という言葉を使わずにシネマティックな雰囲気を構築するため、prompt にはキャラクター、場所、lighting の詳細を含めてください。"
+    },
+    "ko": {
+      "content": "프롬프트에 “cinematic”이라고 쓰는 것은 피하세요. 대신 움직임과 카메라 앵글, 렌즈 크기, 캐릭터, 장소, 조명 같은 세부 요소를 통해 시네마틱하게 느껴지는 비주얼을 묘사하는 프롬프트를 작성하세요.  \nAI에게 “시네마틱 비주얼을 만들어 달라”고 요청하는 대신, Seedance가 camera movement와 camera angles를 구체적으로 설정하도록 지시하세요.  \n시네마틱한 느낌을 유도하기 위해 프롬프트에 렌즈 크기(focal length/렌즈 종류) 사양을 추가하세요.  \n“cinematic”이라는 단어 없이도 시네마틱한 분위기를 만들 수 있도록, 프롬프트에 캐릭터, 장소, 조명에 대한 세부 정보를 포함하세요."
+    },
+    "pt": {
+      "content": "Evite escrever “cinematic” no prompt; crie um prompt que descreva visuais com aparência cinematográfica por meio de detalhes de movimento e ângulo de câmera, tamanho da lente, personagem, localização e iluminação.  \nEm vez de pedir para a IA “criar um visual cinematográfico”, instrua o Seedance a definir o camera movement e os camera angles de forma específica.  \nAdicione especificações de tamanho da lente (focal length/tipo de lente) no prompt para orientar o look cinematográfico.  \nInclua detalhes de personagem, local e iluminação no prompt para construir uma atmosfera cinematográfica sem usar a palavra “cinematic”."
+    },
+    "zh": {
+      "content": "避免在 prompt 中写“cinematic”；应通过运动细节、镜头角度、镜头焦段、角色、地点和 lighting 等描述，来构建具有电影感的视觉 prompt。  \n不要直接让 AI“创建 cinematic 视觉”，而是明确指示 Seedance 具体设置 camera movement 和 camera angles。  \n在 prompt 中加入镜头规格（focal length/镜头类型），以引导出电影感的画面风格。  \n在 prompt 中包含角色、场景和 lighting 的细节，在不使用“cinematic”一词的情况下营造电影氛围。"
+    }
+  }
+}

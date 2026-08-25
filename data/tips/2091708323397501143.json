@@ -1,0 +1,42 @@
+{
+  "id": "2091708323397501143",
+  "title": "首帧（最初のフレーム）を指定し、高精度プロンプトで顔の向きや口の開き方など微妙な表情変化を細かくコントロールして動画生成する",
+  "content": "首帧（最初のフレーム）を指定し、高精度プロンプトで顔の向きや口の開き方など微妙な表情変化を細かくコントロールして動画生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091496095709048832/img/tRefETCzayVd9uoN.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091708323397501143.mp4",
+  "sourceLink": "https://x.com/ai_hakase_/status/2091708323397501143",
+  "sourcePublishedAt": "2026-08-24",
+  "author": {
+    "name": "ハカセ アイ(Ai-Hakase)🐾生成AI・ComfyUI",
+    "link": "https://x.com/ai_hakase_"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "首帧（最初のフレーム）を指定し、高精度プロンプトで顔の向きや口の開き方など微妙な表情変化を細かくコントロールして動画生成する",
+  "translations": {
+    "en": {
+      "content": "Specify the first frame (initial frame), and use a high-precision prompt to finely control subtle facial expression changes, such as the direction of the face and how wide the mouth opens, when generating the video."
+    },
+    "es": {
+      "content": "Especifica el primer frame (fotograma inicial) y genera el video controlando con precisión, mediante prompts de alta exactitud, cambios sutiles en la expresión facial, como la orientación del rostro y la apertura de la boca."
+    },
+    "fr": {
+      "content": "Spécifiez la première image (la frame initiale) et utilisez un prompt de haute précision pour contrôler finement la génération vidéo, notamment les subtiles variations d’expression comme l’orientation du visage et l’ouverture de la bouche."
+    },
+    "ko": {
+      "content": "첫 프레임(초기 프레임)을 지정하고, 고정밀 prompt로 얼굴의 방향이나 입의 벌어짐 등 미묘한 표정 변화를 세밀하게 제어하여 영상을 생성한다"
+    },
+    "pt": {
+      "content": "Especifique o primeiro frame (quadro inicial) e gere o vídeo com um prompt de alta precisão, controlando em detalhes mudanças sutis de expressão, como a direção do rosto e a abertura da boca."
+    },
+    "zh": {
+      "content": "指定首帧（最初的帧），并通过高精度 prompt 细致控制脸部朝向、嘴巴张开方式等微妙的表情变化，从而生成视频。"
+    }
+  }
+}

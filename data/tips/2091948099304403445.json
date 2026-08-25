@@ -1,0 +1,42 @@
+{
+  "id": "2091948099304403445",
+  "title": "Test Seedance 2.5 by deliberately pushing for failure cases (e.g., complex…",
+  "content": "Test Seedance 2.5 by deliberately pushing for failure cases (e.g., complex physics-heavy action like a 10‑second fight sequence) to identify where identity drift or limb artifacts start.  \nUse a strong character reference image (e.g., generate a high-fidelity likeness with GPT Image 2 first) and feed that image into Seedance for animation to improve character consistency versus generating the likeness from scratch.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091948042433773568/img/qoLqGbjvsdCmABro.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091948099304403445.mp4",
+  "sourceLink": "https://x.com/OgwoPhil/status/2091948099304403445",
+  "sourcePublishedAt": "2026-08-24",
+  "author": {
+    "name": "theAIpro | AI Video Creator",
+    "link": "https://x.com/OgwoPhil"
+  },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Test Seedance 2.5 by deliberately pushing for failure cases (e.g., complex physics-heavy action like a 10‑second fight sequence) to identify where identity drift or limb artifacts start.  \nUse a strong character reference image (e.g., generate a high-fidelity likeness with GPT Image 2 first) and feed that image into Seedance for animation to improve character consistency versus generating the likeness from scratch.",
+  "translations": {
+    "es": {
+      "content": "Prueba Seedance 2.5 empujándolo deliberadamente hacia casos de fallo (por ejemplo, acción compleja con mucha física, como una secuencia de pelea de 10 segundos) para identificar dónde empiezan la deriva de identidad o los artefactos en las extremidades.  \nUsa una imagen de referencia sólida del personaje (por ejemplo, genera primero una semejanza de alta fidelidad con GPT Image 2) y alimenta esa imagen en Seedance para la animación, con el fin de mejorar la consistencia del personaje en comparación con generar la semejanza desde cero."
+    },
+    "fr": {
+      "content": "Testez Seedance 2.5 en poussant délibérément vers des cas d’échec (par exemple, une action complexe et riche en physique comme une séquence de combat de 10 secondes) afin d’identifier à partir de quel point la dérive d’identité ou les artefacts de membres commencent.  \nUtilisez une image de référence forte du personnage (par exemple, générez d’abord une ressemblance haute fidélité avec GPT Image 2) puis fournissez cette image à Seedance pour l’animation afin d’améliorer la cohérence du personnage par rapport à une génération de la ressemblance à partir de zéro."
+    },
+    "ja": {
+      "content": "---\nSeedance 2.5 を、あえて失敗しやすいケースでテストします（例：10秒の格闘シーンのような、物理演算が複雑でアクション性の高い内容）。これにより、どのあたりから identity drift や手足のアーティファクトが発生し始めるかを特定できます。  \n強力なキャラクター参照画像を用意し（例：まず GPT Image 2 で高精細な似姿を生成する）、その画像を Seedance に入力してアニメーション化することで、ゼロから似姿を生成する場合よりもキャラクターの一貫性を向上させます。\n---"
+    },
+    "ko": {
+      "content": "---\n실패 사례를 의도적으로 유도해 Seedance 2.5를 테스트하세요(예: 10초짜리 격투 시퀀스처럼 물리 연산이 복잡한 액션) — identity drift나 limb artifact가 어디서부터 발생하는지 파악할 수 있습니다.  \n강력한 캐릭터 레퍼런스 이미지를 사용하세요(예: 먼저 GPT Image 2로 고해상도에 가까운 유사 이미지를 생성한 뒤), 그 이미지를 Seedance에 넣어 애니메이션화하면, 처음부터 유사 이미지를 생성하는 것보다 캐릭터 일관성을 높일 수 있습니다.\n---"
+    },
+    "pt": {
+      "content": "Teste o Seedance 2.5 deliberadamente forçando casos de falha (por exemplo, ação complexa com muita física, como uma sequência de luta de 10 segundos) para identificar onde começam a surgir drift de identidade ou artefatos nos membros.  \nUse uma imagem de referência forte do personagem (por exemplo, gere primeiro uma semelhança de alta fidelidade com o GPT Image 2) e envie essa imagem para o Seedance para animação, a fim de melhorar a consistência do personagem em comparação com gerar a semelhança do zero."
+    },
+    "zh": {
+      "content": "通过刻意测试失败案例来检验 Seedance 2.5（例如，像 10 秒打斗镜头这类复杂、重物理动作的场景），以识别何时开始出现身份漂移或肢体伪影。  \n使用一张强有力的角色参考图像（例如，先用 GPT Image 2 生成一张高保真相似形象），然后将该图像输入 Seedance 进行动画处理，相比从零开始生成相似形象，这样可以提升角色一致性。"
+    }
+  }
+}

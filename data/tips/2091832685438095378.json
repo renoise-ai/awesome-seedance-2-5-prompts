@@ -1,0 +1,43 @@
+{
+  "id": "2091832685438095378",
+  "title": "Use Claude to script a timecoded 12-shot storyboard, then generate each shot’s…",
+  "content": "Use Claude to script a timecoded 12-shot storyboard, then generate each shot’s images plus a character sheet in GPT Image 2.0, and render each shot in Seedance 2.5 for controlled full-body movement that matches the drawings.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091825370433499136/img/XNfGth0qjyEgHUiI.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091832685438095378.mp4",
+  "sourceLink": "https://x.com/rom1trs/status/2091832685438095378",
+  "sourcePublishedAt": "2026-08-24",
+  "author": {
+    "name": "Romain Torres",
+    "link": "https://x.com/rom1trs"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use Claude to script a timecoded 12-shot storyboard, then generate each shot’s images plus a character sheet in GPT Image 2.0, and render each shot in Seedance 2.5 for controlled full-body movement that matches the drawings.",
+  "translations": {
+    "es": {
+      "content": "Usa Claude para redactar un storyboard de 12 planos con timecodes, luego genera las imágenes de cada plano más una hoja de personaje en GPT Image 2.0, y renderiza cada plano en Seedance 2.5 para lograr un movimiento corporal completo controlado que coincida con los dibujos."
+    },
+    "fr": {
+      "content": "Utilisez Claude pour rédiger un storyboard de 12 plans avec timecodes, puis générez les images de chaque plan ainsi qu’une character sheet dans GPT Image 2.0, et rendez chaque plan dans Seedance 2.5 pour obtenir un mouvement corporel complet contrôlé, fidèle aux dessins."
+    },
+    "ja": {
+      "content": "Claudeを使って、タイムコード付きの12ショットのストーリーボードを脚本化し、その後、GPT Image 2.0で各ショットの画像とキャラクターシートを生成し、さらにSeedance 2.5で各ショットをレンダリングして、描画に一致する制御された全身の動きを実現する。"
+    },
+    "ko": {
+      "content": "Claude를 사용해 타임코드가 포함된 12컷 스토리보드를 스크립트로 작성한 다음, GPT Image 2.0에서 각 컷의 이미지와 캐릭터 시트를 생성하고, Seedance 2.5에서 각 컷을 렌더링해 드로잉과 일치하는 제어된 전신 움직임을 구현하세요."
+    },
+    "pt": {
+      "content": "Use o Claude para criar um storyboard de 12 cenas com timecode, depois gere as imagens de cada cena, além de uma character sheet, no GPT Image 2.0, e renderize cada cena no Seedance 2.5 para obter um movimento corporal completo e controlado que corresponda aos desenhos."
+    },
+    "zh": {
+      "content": "使用 Claude 编写一个带时间码的 12 镜头分镜脚本，然后在 GPT Image 2.0 中生成每个镜头的图像以及一张角色设定表，最后在 Seedance 2.5 中渲染每个镜头，以实现与绘图一致的可控全身动作。"
+    }
+  }
+}

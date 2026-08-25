@@ -1,0 +1,41 @@
+{
+  "id": "2091828554749067498",
+  "title": "Use a storyboard image as the visual reference to maintain consistent character…",
+  "content": "Use a storyboard image as the visual reference to maintain consistent character identity, facial features, and wardrobe continuity across the entire video.  \nExplicitly repeat continuity constraints in the prompt (same real child, same Mexico national team jersey with exact same design, same facial features) to reduce identity/wardrobe drift between scenes.  \nInclude a detailed negative prompt targeting common video artifacts (different child/face, inconsistent jersey/wrong colors, extra fingers/deformed hands, duplicated people, text artifacts, watermark/logo distortion, flickering, unrealistic football, low resolution) to improve realism and consistency.  \nSpecify ultra-realistic live action/photorealistic/cinematic commercial style plus technical targets (4K, HDR, shallow depth of field, dramatic lighting, smooth camera movements) to steer Seedance toward high-end sports-ad quality output.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Raul_IA_Prod/status/2091828554749067498",
+  "sourcePublishedAt": "2026-08-24",
+  "author": {
+    "name": "Raúl | Productividad & IA",
+    "link": "https://x.com/Raul_IA_Prod"
+  },
+  "tags": [
+    "Sports",
+    "Football",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a storyboard image as the visual reference to maintain consistent character identity, facial features, and wardrobe continuity across the entire video.  \nExplicitly repeat continuity constraints in the prompt (same real child, same Mexico national team jersey with exact same design, same facial features) to reduce identity/wardrobe drift between scenes.  \nInclude a detailed negative prompt targeting common video artifacts (different child/face, inconsistent jersey/wrong colors, extra fingers/deformed hands, duplicated people, text artifacts, watermark/logo distortion, flickering, unrealistic football, low resolution) to improve realism and consistency.  \nSpecify ultra-realistic live action/photorealistic/cinematic commercial style plus technical targets (4K, HDR, shallow depth of field, dramatic lighting, smooth camera movements) to steer Seedance toward high-end sports-ad quality output.",
+  "translations": {
+    "es": {
+      "content": "Usa una imagen de storyboard como referencia visual para mantener una identidad de personaje, rasgos faciales y continuidad del vestuario consistentes en todo el video.  \nRepite explícitamente las restricciones de continuidad en el prompt (el mismo niño real, la misma camiseta de la selección de México con el mismo diseño exacto, los mismos rasgos faciales) para reducir la deriva de identidad/vestuario entre escenas.  \nIncluye un negative prompt detallado que apunte a artefactos comunes de video (niño/rostro diferente, camiseta inconsistente/colores incorrectos, dedos extra/manos deformadas, personas duplicadas, artefactos de texto, distorsión de marca de agua/logo, parpadeo, fútbol poco realista, baja resolución) para mejorar el realismo y la consistencia.  \nEspecifica un estilo ultra-realista de live action/fotorealista/cinematográfico comercial, además de objetivos técnicos (4K, HDR, shallow depth of field, iluminación dramática, movimientos de cámara suaves) para orientar a Seedance hacia una calidad de salida de nivel publicitario deportivo premium."
+    },
+    "fr": {
+      "content": "Utilisez une image de storyboard comme référence visuelle afin de maintenir une identité de personnage cohérente, des traits du visage constants et une continuité de la tenue sur l’ensemble de la vidéo.  \nRépétez explicitement les contraintes de continuité dans le prompt (même enfant réel, même maillot de l’équipe nationale du Mexique avec exactement le même design, mêmes traits du visage) afin de réduire les dérives d’identité/de tenue entre les scènes.  \nIncluez un negative prompt détaillé ciblant les artefacts vidéo courants (enfant/visage différent, maillot incohérent/couleurs incorrectes, doigts supplémentaires/mains déformées, personnes dupliquées, artefacts de texte, déformation du watermark/logo, scintillement, football irréaliste, basse résolution) pour améliorer le réalisme et la cohérence.  \nPrécisez un style ultra-réaliste live action/photorealistic/cinematic commercial, ainsi que des objectifs techniques (4K, HDR, faible profondeur de champ, éclairage dramatique, mouvements de caméra fluides) afin d’orienter Seedance vers un rendu haut de gamme de type publicité sportive."
+    },
+    "ja": {
+      "content": "ストーリーボード画像をビジュアル参照として使用し、動画全体を通してキャラクターの一貫したアイデンティティ、顔立ち、衣装の連続性を維持します。  \nプロンプト内で継続性の制約を明示的に繰り返し（同じ実在の子ども、まったく同じデザインのメキシコ代表ユニフォーム、同じ顔立ち）、シーン間でのアイデンティティ／衣装のブレを抑えます。  \n一般的な動画アーティファクトを対象にした詳細な negative prompt を含めます（別の子ども／顔、統一されていないユニフォーム／誤った色、余分な指／変形した手、重複した人物、文字のアーティファクト、ウォーターマーク／ロゴの歪み、ちらつき、不自然なサッカーボール、低解像度など）ことで、リアリズムと一貫性を向上させます。  \nSeedance をハイエンドなスポーツ広告品質の出力へ誘導するため、ultra-realistic live action／photorealistic／cinematic commercial style に加え、技術的な目標（4K、HDR、浅い被写界深度、ドラマチックなライティング、滑らかなカメラワーク）を指定します。"
+    },
+    "ko": {
+      "content": "스토리보드 이미지를 시각적 레퍼런스로 사용하여 영상 전체에서 캐릭터의 일관된 정체성, 얼굴 특징, 의상 연속성을 유지하세요.  \n프롬프트에서 연속성 제약을 명시적으로 반복해(같은 실제 어린이, 정확히 동일한 디자인의 멕시코 국가대표팀 유니폼, 동일한 얼굴 특징) 장면 간 정체성/의상 드리프트를 줄이세요.  \n다른 어린이/얼굴, 일관성 없는 유니폼/잘못된 색상, 여분의 손가락/변형된 손, 중복된 인물, 텍스트 아티팩트, 워터마크/로고 왜곡, 깜빡임, 비현실적인 축구, 낮은 해상도 등 흔한 영상 아티팩트를 겨냥한 상세한 negative prompt를 포함해 사실감과 일관성을 높이세요.  \n초현실적인 실사/포토리얼/시네마틱 광고 스타일과 함께 기술적 목표(4K, HDR, 얕은 심도, 드라마틱한 조명, 부드러운 카메라 움직임)를 지정하여 Seedance가 고급 스포츠 광고 수준의 결과물을 내도록 유도하세요."
+    },
+    "pt": {
+      "content": "Use uma imagem de storyboard como referência visual para manter a identidade consistente do personagem, os traços faciais e a continuidade do figurino em todo o vídeo.  \nRepita explicitamente as restrições de continuidade no prompt (a mesma criança real, a mesma camisa da seleção do México com o mesmo design exato, os mesmos traços faciais) para reduzir desvios de identidade/figurino entre as cenas.  \nInclua um negative prompt detalhado, direcionado a artefatos comuns de vídeo (criança/rosto diferente, camisa inconsistente/cores erradas, dedos extras/mãos deformadas, pessoas duplicadas, artefatos de texto, distorção de watermark/logo, flickering, futebol irrealista, baixa resolução) para melhorar o realismo e a consistência.  \nEspecifique um estilo ultra-realista de live action/fotorealista/cinematográfico/comercial, além de objetivos técnicos (4K, HDR, shallow depth of field, dramatic lighting, smooth camera movements) para orientar o Seedance a produzir uma saída de alto nível, no padrão de anúncios esportivos premium."
+    },
+    "zh": {
+      "content": "使用 storyboard 图像作为视觉参考，以在整个视频中保持角色身份、面部特征和服装的一致性。  \n在 prompt 中明确重复连续性约束（同一个真实孩子、同一件墨西哥国家队球衣且设计完全一致、相同的面部特征），以减少不同场景之间的身份/服装漂移。  \n加入详细的 negative prompt，针对常见视频瑕疵（不同的孩子/脸、球衣不一致/颜色错误、多余手指/畸形手部、重复人物、文字伪影、水印/Logo 变形、闪烁、不真实的足球、低分辨率），以提升真实感和一致性。  \n指定 ultra-realistic live action/photorealistic/cinematic commercial 风格，并加入技术目标（4K、HDR、shallow depth of field、dramatic lighting、smooth camera movements），以引导 Seedance 生成高端体育广告级输出。"
+    }
+  }
+}

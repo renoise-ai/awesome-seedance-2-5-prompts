@@ -1,0 +1,42 @@
+{
+  "id": "2092029641292988776",
+  "title": "Use Seedance 2.5 with a few car photos as image references and a simple prompt…",
+  "content": "Use Seedance 2.5 with a few car photos as image references and a simple prompt to generate an AI video.",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092029615942606848/img/DwpbjeW-WeNCnN3C.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092029641292988776.mp4",
+  "sourceLink": "https://x.com/majorforce04/status/2092029641292988776",
+  "sourcePublishedAt": "2026-08-24",
+  "author": {
+    "name": "TKKN🇯🇵",
+    "link": "https://x.com/majorforce04"
+  },
+  "tags": [
+    "Auto",
+    "Mod Showcase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 with a few car photos as image references and a simple prompt to generate an AI video.",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2.5 with a few car photos as image references and a simple prompt to generate an AI video."
+    },
+    "es": {
+      "content": "Usa Seedance 2.5 con unas cuantas fotos del coche como referencias de imagen y un prompt sencillo para generar un video con IA."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 avec quelques photos de voiture comme références d’image et un prompt simple pour générer une vidéo IA."
+    },
+    "ko": {
+      "content": "몇 장의 자동차 사진을 이미지 레퍼런스로 사용하고 간단한 prompt를 입력해 Seedance 2.5로 AI 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 com algumas fotos de carros como referências de imagem e um prompt simples para gerar um vídeo com IA."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5，配合几张汽车照片作为图像参考，并使用一个简单的 prompt 来生成 AI 视频。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2092083425142571170",
+  "title": "キャラクターシートの顔に網掛け（ハッチング）を入れてSeedanceで生成すると、キャラクターの再現性が上がりやすい",
+  "content": "キャラクターシートの顔に網掛け（ハッチング）を入れてSeedanceで生成すると、キャラクターの再現性が上がりやすい  \n網掛けなし／網掛けありのキャラクターシートを用意し、同一プロンプト・同一設定（例：Seedance2.5、30s、480p）で生成して再現性の差を検証する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092083308658339840/img/HjDPYT9evWtbicbP.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092083425142571170.mp4",
+  "sourceLink": "https://x.com/ABCkenji/status/2092083425142571170",
+  "sourcePublishedAt": "2026-08-25",
+  "author": {
+    "name": "けんじー",
+    "link": "https://x.com/ABCkenji"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "キャラクターシートの顔に網掛け（ハッチング）を入れてSeedanceで生成すると、キャラクターの再現性が上がりやすい  \n網掛けなし／網掛けありのキャラクターシートを用意し、同一プロンプト・同一設定（例：Seedance2.5、30s、480p）で生成して再現性の差を検証する",
+  "translations": {
+    "en": {
+      "content": "When you generate with Seedance using hatching on the face of a character sheet, it tends to improve character consistency.  \nPrepare character sheets with and without hatching, then generate them with the same prompt and the same settings (e.g., Seedance 2.5, 30s, 480p) to compare the difference in consistency.\n\n--- QUOTED TWEET ---\nIf you want to avoid the model’s censorship when making AI videos\nwhile preserving character identity and natural texture,\n\nit might be worth combining the method in the quoted post\nwith the Hicksfield-style character sheet creation method.\n\nThe prompt and character sheet creation method are in the thread https://t.co/K82f4Gr6rE"
+    },
+    "es": {
+      "content": "Al generar en Seedance con sombreado tramado (hatching) en el rostro de la character sheet, suele aumentar la reproducibilidad del personaje.  \nPreparar una character sheet sin sombreado y otra con sombreado, y verificar la diferencia de reproducibilidad generando con el mismo prompt y la misma configuración (por ejemplo, Seedance2.5, 30s, 480p).\n\n--- QUOTED TWEET ---\nSi quieres evitar la censura del modelo al crear videos con IA\ny mantener la identidad del personaje y una textura natural,\n\nquizá valga la pena combinar el método del texto citado\ncon la forma de crear character sheets al estilo Hicksfield.\n\nPrompt y método de creación de character sheets en el hilo: https://t.co/K82f4Gr6rE\n---"
+    },
+    "fr": {
+      "content": "En ajoutant un hachurage sur le visage d’une character sheet et en la générant avec Seedance, on améliore plus facilement la fidélité du personnage.  \nPréparez une character sheet sans hachurage et une autre avec hachurage, puis vérifiez la différence de fidélité en les générant avec le même prompt et les mêmes réglages (par exemple : Seedance2.5, 30 s, 480p).\n\n--- TWEET CITÉ ---\nSi, lors de la création d’images IA, vous voulez éviter la censure du modèle tout en conservant l’identité du personnage et une texture naturelle,\n\nil peut être intéressant d’utiliser à la fois la méthode décrite dans le tweet cité et la méthode de création de character sheets à la Hicksfield.\n\nLe prompt et la méthode de création de character sheets sont dans le thread https://t.co/K82f4Gr6rE"
+    },
+    "ko": {
+      "content": "캐릭터 시트의 얼굴에 해칭(망점)을 넣어 Seedance로 생성하면 캐릭터의 재현성이 높아지기 쉽다  \n해칭 없음/해칭 있음 캐릭터 시트를 준비해 동일한 프롬프트·동일한 설정(예: Seedance2.5, 30s, 480p)으로 생성하고 재현성의 차이를 검증한다\n\n--- 인용 트윗 ---\nAI 영상 만들 때 모델의 검열은 피하면서\n캐릭터 아이덴티티와 자연스러운 질감을 유지하고 싶다면\n\n인용글의 방법과 힉스필드식 캐릭터 시트 제작법을\n함께 활용해보는 것도 괜찮을 듯함\n\n프롬프트, 캐릭터 시트 제작법은 타래에 https://t.co/K82f4Gr6rE"
+    },
+    "pt": {
+      "content": "Ao gerar no Seedance com hachuras no rosto da character sheet, a reprodutibilidade do personagem tende a aumentar  \nPrepare character sheets sem hachuras/com hachuras e verifique a diferença de reprodutibilidade gerando com o mesmo prompt e as mesmas configurações (por exemplo, Seedance2.5, 30s, 480p)\n\n--- QUOTED TWEET ---\nAo criar vídeos de IA, se você quer evitar a censura do modelo\ne ao mesmo tempo manter a identidade do personagem e texturas naturais,\n\ntalvez valha a pena combinar o método do post citado\ncom o método de criação de character sheets no estilo Hicksfield\n\nPrompt e método de criação de character sheets no thread: https://t.co/K82f4Gr6rE\n---"
+    },
+    "zh": {
+      "content": "在角色设定图的脸部加入网线阴影（hatching）后，用 Seedance 生成时，角色的还原度往往更容易提升  \n准备一份无网线阴影／有网线阴影的角色设定图，并在相同 prompt、相同设置（例如：Seedance2.5、30s、480p）下生成，验证还原度的差异\n\n--- QUOTED TWEET ---\n在制作 AI 视频时，如果想避开模型的审查，同时\n又希望保持角色身份特征和自然的质感，\n\n可以把引用帖里的方法和 Hicksfield 式角色设定图制作方法\n一起结合使用，应该也不错\n\nprompt、角色设定图制作方法在串文里 https://t.co/K82f4Gr6rE\n---"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2091753771575476229",
+  "title": "Guide the Seedance agent step by step by explicitly telling it what to use and…",
+  "content": "Guide the Seedance agent step by step by explicitly telling it what to use and what to avoid instead of letting it run fully autonomously  \nUse the Script to video skill in Seedance 2.5 for generating videos from a script",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091752882387161088/img/IJ8HQplPxwLIeqnr.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091753771575476229.mp4",
+  "sourceLink": "https://x.com/AsmatAi786/status/2091753771575476229",
+  "sourcePublishedAt": "2026-08-24",
+  "author": {
+    "name": "AsmatAi",
+    "link": "https://x.com/AsmatAi786"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Guide the Seedance agent step by step by explicitly telling it what to use and what to avoid instead of letting it run fully autonomously  \nUse the Script to video skill in Seedance 2.5 for generating videos from a script",
+  "translations": {
+    "es": {
+      "content": "Guía al agente de Seedance paso a paso indicándole explícitamente qué usar y qué evitar, en lugar de dejar que funcione de forma totalmente autónoma  \nUsa la habilidad Script to video en Seedance 2.5 para generar videos a partir de un guion"
+    },
+    "fr": {
+      "content": "Guidez l’agent Seedance étape par étape en lui indiquant explicitement quoi utiliser et quoi éviter, au lieu de le laisser fonctionner de manière totalement autonome  \nUtilisez la compétence Script to video dans Seedance 2.5 pour générer des vidéos à partir d’un script"
+    },
+    "ja": {
+      "content": "Seedanceエージェントを段階的にガイドし、完全に自律的に動かすのではなく、何を使うべきか、何を避けるべきかを明示的に伝えます  \nSeedance 2.5 の Script to video スキルを使って、スクリプトから動画を生成します"
+    },
+    "ko": {
+      "content": "Seedance 에이전트를 단계별로 안내하려면, 완전히 자율적으로 실행하게 두는 대신 무엇을 사용하고 무엇을 피해야 하는지 명시적으로 알려주세요.  \nSeedance 2.5의 Script to video 기능을 사용해 스크립트로부터 영상을 생성하세요."
+    },
+    "pt": {
+      "content": "Guie o agente Seedance passo a passo, dizendo explicitamente o que ele deve usar e o que deve evitar, em vez de deixá-lo operar de forma totalmente autônoma  \nUse a habilidade Script to video no Seedance 2.5 para gerar vídeos a partir de um roteiro"
+    },
+    "zh": {
+      "content": "通过明确告诉 Seedance agent 应该使用什么、避免什么，逐步引导它，而不是让它完全自主运行  \n使用 Seedance 2.5 中的 Script to video 技能，根据脚本生成视频"
+    }
+  }
+}

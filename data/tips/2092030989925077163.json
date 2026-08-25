@@ -1,0 +1,41 @@
+{
+  "id": "2092030989925077163",
+  "title": "Start with a story brief in the Agent, then run a Skill and select Seedance 2.5…",
+  "content": "Start with a story brief in the Agent, then run a Skill and select Seedance 2.5 for generation.  \nUse FlovaAI to break down characters, emotions, settings, pacing, and shot sequence to build the script and storyboard before generating shots in Seedance 2.5.  \nPackage the full process into a reusable cinematic short-film Skill for repeatable Seedance 2.5 workflows.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/HOONIGALL/status/2092030989925077163",
+  "sourcePublishedAt": "2026-08-24",
+  "author": {
+    "name": "HOON",
+    "link": "https://x.com/HOONIGALL"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Start with a story brief in the Agent, then run a Skill and select Seedance 2.5 for generation.  \nUse FlovaAI to break down characters, emotions, settings, pacing, and shot sequence to build the script and storyboard before generating shots in Seedance 2.5.  \nPackage the full process into a reusable cinematic short-film Skill for repeatable Seedance 2.5 workflows.",
+  "translations": {
+    "es": {
+      "content": "Comienza con un brief de la historia en el Agent, luego ejecuta un Skill y selecciona Seedance 2.5 para la generación.  \nUsa FlovaAI para desglosar personajes, emociones, escenarios, ritmo y secuencia de planos, y así construir el guion y el storyboard antes de generar las tomas en Seedance 2.5.  \nConvierte todo el proceso en un Skill reutilizable de cortometraje cinematográfico para flujos de trabajo repetibles con Seedance 2.5."
+    },
+    "fr": {
+      "content": "Commencez par un brief narratif dans l’Agent, puis lancez une Skill et sélectionnez Seedance 2.5 pour la génération.  \nUtilisez FlovaAI pour décomposer les personnages, les émotions, les décors, le rythme et la séquence des plans afin de construire le script et le storyboard avant de générer les plans dans Seedance 2.5.  \nRegroupez l’ensemble du processus dans une Skill réutilisable de court-métrage cinématographique pour des workflows Seedance 2.5 reproductibles."
+    },
+    "ja": {
+      "content": "まず Agent でストーリーのブリーフを作成し、その後 Skill を実行して、生成には Seedance 2.5 を選択します。  \nFlovaAI を使って、キャラクター、感情、設定、テンポ、ショットの順序を分解し、Seedance 2.5 でショットを生成する前に、脚本とストーリーボードを構築します。  \nこの一連のプロセスを、再利用可能なシネマティック短編映画用 Skill としてパッケージ化し、Seedance 2.5 のワークフローを繰り返し使えるようにします。"
+    },
+    "ko": {
+      "content": "Agent에서 스토리 브리프를 먼저 작성한 다음, Skill을 실행하고 생성용으로 Seedance 2.5를 선택하세요.  \nFlovaAI를 사용해 캐릭터, 감정, 배경, 페이싱, 샷 시퀀스를 세분화하여 스크립트와 스토리보드를 구성한 뒤, Seedance 2.5에서 샷을 생성하세요.  \n전체 프로세스를 재사용 가능한 cinematic short-film Skill로 패키징하여, 반복 가능한 Seedance 2.5 워크플로를 구축하세요."
+    },
+    "pt": {
+      "content": "Comece com um resumo da história no Agent, depois execute uma Skill e selecione o Seedance 2.5 para a geração.  \nUse o FlovaAI para decompor personagens, emoções, cenários, ritmo e sequência de planos, a fim de construir o roteiro e o storyboard antes de gerar as cenas no Seedance 2.5.  \nEmpacote todo o processo em uma Skill reutilizável de curta-metragem cinematográfico para fluxos de trabalho repetíveis no Seedance 2.5."
+    },
+    "zh": {
+      "content": "先在 Agent 中输入一个故事简介，然后运行一个 Skill，并选择 Seedance 2.5 进行生成。  \n使用 FlovaAI 将角色、情绪、场景、节奏和镜头顺序拆解出来，在 Seedance 2.5 中生成镜头之前先构建脚本和分镜。  \n将整个流程打包成一个可复用的 cinematic 短片 Skill，以实现可重复的 Seedance 2.5 工作流。"
+    }
+  }
+}

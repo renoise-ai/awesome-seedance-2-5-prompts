@@ -1,0 +1,42 @@
+{
+  "id": "2091913781236683162",
+  "title": "Use Magnific 3D Motion to generate a 3D space and define camera motion, then…",
+  "content": "Use Magnific 3D Motion to generate a 3D space and define camera motion, then export the 3D motion and import it into Seedance 2.5 as a motion reference to make a new scene follow the same camera movement.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091913767559004161/img/HuiIe3lhaXcGIvRw.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091913781236683162.mp4",
+  "sourceLink": "https://x.com/jerrod_lew/status/2091913781236683162",
+  "sourcePublishedAt": "2026-08-24",
+  "author": {
+    "name": "Jerrod Lew",
+    "link": "https://x.com/jerrod_lew"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Sci-Fi",
+    "Tutorial"
+  ],
+  "tips": "Use Magnific 3D Motion to generate a 3D space and define camera motion, then export the 3D motion and import it into Seedance 2.5 as a motion reference to make a new scene follow the same camera movement.",
+  "translations": {
+    "es": {
+      "content": "Usa Magnific 3D Motion para generar un espacio 3D y definir el movimiento de la cámara; luego exporta el movimiento 3D e impórtalo en Seedance 2.5 como referencia de movimiento para que una nueva escena siga el mismo desplazamiento de cámara."
+    },
+    "fr": {
+      "content": "Utilisez Magnific 3D Motion pour générer un espace 3D et définir le mouvement de la caméra, puis exportez le mouvement 3D et importez-le dans Seedance 2.5 comme référence de mouvement afin de faire suivre à une nouvelle scène le même déplacement de caméra."
+    },
+    "ja": {
+      "content": "Magnific 3D Motionを使って3D空間を生成し、カメラモーションを定義します。その後、3DモーションをエクスポートしてSeedance 2.5にモーション参照としてインポートし、新しいシーンに同じカメラ移動を追従させます。"
+    },
+    "ko": {
+      "content": "Magnific 3D Motion을 사용해 3D 공간을 생성하고 카메라 모션을 정의한 다음, 3D 모션을 내보내 Seedance 2.5에 motion reference로 가져와 새 장면이 동일한 카메라 움직임을 따르도록 합니다."
+    },
+    "pt": {
+      "content": "Use o Magnific 3D Motion para gerar um espaço 3D e definir o movimento da câmera; em seguida, exporte o movimento 3D e importe-o no Seedance 2.5 como uma referência de movimento para fazer uma nova cena seguir o mesmo movimento de câmera."
+    },
+    "zh": {
+      "content": "使用 Magnific 3D Motion 生成 3D 空间并定义 camera motion，然后将 3D motion 导出并导入到 Seedance 2.5 中作为 motion reference，让新场景跟随相同的 camera movement。"
+    }
+  }
+}

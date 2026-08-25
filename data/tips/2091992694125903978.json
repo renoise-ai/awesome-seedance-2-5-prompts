@@ -1,0 +1,42 @@
+{
+  "id": "2091992694125903978",
+  "title": "Claude CodeにTopViewをMCPで接続し、歌詞生成はClaude Code、映像・歌声・BGM生成はTopViewのSeedance…",
+  "content": "Claude CodeにTopViewをMCPで接続し、歌詞生成はClaude Code、映像・歌声・BGM生成はTopViewのSeedance 2.5に分担させてMV制作を自動化する  \n生成した動画の登録・管理はEagleに連携して行う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2089657262952611840/img/CJqc3-8QqqN4oqEF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091992694125903978.mp4",
+  "sourceLink": "https://x.com/yarakashiyama_/status/2091992694125903978",
+  "sourcePublishedAt": "2026-08-24",
+  "author": {
+    "name": "ぴょんきち",
+    "link": "https://x.com/yarakashiyama_"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Claude CodeにTopViewをMCPで接続し、歌詞生成はClaude Code、映像・歌声・BGM生成はTopViewのSeedance 2.5に分担させてMV制作を自動化する  \n生成した動画の登録・管理はEagleに連携して行う",
+  "translations": {
+    "en": {
+      "content": "Connect TopView to Claude Code via MCP, and automate MV production by assigning lyric generation to Claude Code, while having TopView’s Seedance 2.5 handle video, vocals, and BGM generation.  \nRegister and manage the generated videos through integration with Eagle."
+    },
+    "es": {
+      "content": "Conecta TopView a Claude Code mediante MCP y automatiza la producción de videoclips dividiendo las tareas: Claude Code se encarga de la generación de letras, mientras que TopView Seedance 2.5 se encarga de generar el video, la voz cantada y la música de fondo.  \nEl registro y la gestión de los videos generados se realizan integrándolos con Eagle."
+    },
+    "fr": {
+      "content": "Connecter TopView à Claude Code via MCP, puis automatiser la production du clip en répartissant les tâches entre Claude Code pour la génération des paroles, et TopView Seedance 2.5 pour la génération des images, des voix chantées et de la musique de fond.  \nL’enregistrement et la gestion des vidéos générées sont effectués en liaison avec Eagle."
+    },
+    "ko": {
+      "content": "Claude Code에 TopView를 MCP로 연결하고, 가사 생성은 Claude Code가, 영상·보컬·BGM 생성은 TopView의 Seedance 2.5가 분담하도록 하여 MV 제작을 자동화한다  \n생성한 영상의 등록·관리는 Eagle과 연동해 진행한다"
+    },
+    "pt": {
+      "content": "Conecte o TopView ao Claude Code via MCP e automatize a produção de MV, dividindo as tarefas entre o Claude Code para a geração de letras e o Seedance 2.5 do TopView para a geração de vídeo, voz cantada e BGM.  \nO registro e o gerenciamento dos vídeos gerados são feitos em integração com o Eagle."
+    },
+    "zh": {
+      "content": "将 Claude Code 通过 MCP 连接到 TopView，并将歌词生成交给 Claude Code、将画面、歌声和 BGM 生成交给 TopView 的 Seedance 2.5 分工协作，从而自动化 MV 制作  \n生成后的视频注册与管理则通过与 Eagle 联动来完成"
+    }
+  }
+}

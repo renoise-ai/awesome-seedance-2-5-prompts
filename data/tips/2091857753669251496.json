@@ -1,0 +1,42 @@
+{
+  "id": "2091857753669251496",
+  "title": "用ImageGen先生成角色/道具/场景等资产，再用Seedance 2.5生成画面并直接生成原生对白，最后用Whisper做对口型/核音、用FFmpeg合成、…",
+  "content": "用ImageGen先生成角色/道具/场景等资产，再用Seedance 2.5生成画面并直接生成原生对白，最后用Whisper做对口型/核音、用FFmpeg合成、用Codex做连续性检查与QA的流水线来制作短剧单集",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091857038343307264/img/h6KuDvdy8i1hL3Ey.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091857753669251496.mp4",
+  "sourceLink": "https://x.com/fxmqs/status/2091857753669251496",
+  "sourcePublishedAt": "2026-08-24",
+  "author": {
+    "name": "风雪漫千山",
+    "link": "https://x.com/fxmqs"
+  },
+  "tags": [
+    "Story",
+    "Drama",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "用ImageGen先生成角色/道具/场景等资产，再用Seedance 2.5生成画面并直接生成原生对白，最后用Whisper做对口型/核音、用FFmpeg合成、用Codex做连续性检查与QA的流水线来制作短剧单集",
+  "translations": {
+    "en": {
+      "content": "Use ImageGen first to generate assets such as characters, props, and scenes, then use Seedance 2.5 to generate the visuals and directly generate native dialogue. Finally, use Whisper for lip-syncing and audio verification, FFmpeg for compositing, and Codex for continuity checks and QA to produce a single episode of a short drama series."
+    },
+    "es": {
+      "content": "Usa ImageGen primero para generar assets como personajes, props y escenarios, luego usa Seedance 2.5 para generar las imágenes y producir directamente diálogos nativos; por último, usa Whisper para la sincronización labial y la verificación de audio, FFmpeg para la composición, y Codex para el control de continuidad y QA, en un pipeline para producir un episodio de una serie corta."
+    },
+    "fr": {
+      "content": "Utiliser ImageGen pour générer d’abord les assets tels que les personnages, les accessoires et les décors, puis Seedance 2.5 pour générer les images et produire directement des dialogues natifs, ensuite Whisper pour le lip-sync / la vérification audio, FFmpeg pour le compositing, et Codex pour le contrôle de continuité et l’assurance qualité, afin de produire un épisode de série courte via un pipeline."
+    },
+    "ja": {
+      "content": "Use ImageGen to first generate assets such as characters, props, and scenes, then use Seedance 2.5 to generate the visuals and directly create native dialogue. Finally, use Whisper for lip-syncing and audio verification, FFmpeg for compositing, and Codex for continuity checks and QA to produce a single episode of a short drama series."
+    },
+    "ko": {
+      "content": "ImageGen으로 먼저 캐릭터/소품/배경 등 에셋을 생성한 뒤, Seedance 2.5로 화면을 생성하고 원본 대사를 직접 생성합니다. 마지막으로 Whisper로 립싱크/음성 검증을 하고, FFmpeg로 합성하며, Codex로 연속성 검사와 QA를 수행하는 파이프라인으로 단막극 한 편을 제작합니다."
+    },
+    "pt": {
+      "content": "Usar o ImageGen para primeiro gerar assets como personagens, props e cenários, depois usar o Seedance 2.5 para gerar as cenas e criar diretamente diálogos nativos; por fim, usar o Whisper para lip sync e verificação de áudio, o FFmpeg para a composição e o Codex para checagem de continuidade e QA — essa é a pipeline para produzir um episódio de curta-metragem/drama."
+    }
+  }
+}

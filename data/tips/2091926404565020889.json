@@ -1,0 +1,42 @@
+{
+  "id": "2091926404565020889",
+  "title": "Seedance2.5で1枚の画像を入力して長尺動画を生成する（画像→動画の長時間生成を試す）",
+  "content": "Seedance2.5で1枚の画像を入力して長尺動画を生成する（画像→動画の長時間生成を試す）\nプロンプトはセリフ（台詞）だけに絞って、25秒の動画生成を行う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091926357785935872/img/QVqaUacuM6h47YeJ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091926404565020889.mp4",
+  "sourceLink": "https://x.com/ctn_imglab2/status/2091926404565020889",
+  "sourcePublishedAt": "2026-08-24",
+  "author": {
+    "name": "cotton",
+    "link": "https://x.com/ctn_imglab2"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.5で1枚の画像を入力して長尺動画を生成する（画像→動画の長時間生成を試す）\nプロンプトはセリフ（台詞）だけに絞って、25秒の動画生成を行う",
+  "translations": {
+    "en": {
+      "content": "---\nGenerate a long-form video from a single image in Seedance 2.5 (trying extended image-to-video generation)\nThe prompt is limited to dialogue only, and a 25-second video is generated\n---"
+    },
+    "es": {
+      "content": "Generar un video de larga duración a partir de una sola imagen en Seedance2.5 (probar la generación prolongada de imagen a video)  \nEl prompt se limita solo a los diálogos y se genera un video de 25 segundos  \n---"
+    },
+    "fr": {
+      "content": "Générer une longue vidéo à partir d’une seule image avec Seedance2.5 (essayer une génération longue image → vidéo)\nLe prompt est limité aux seules répliques (dialogues), et une vidéo de 25 secondes est générée"
+    },
+    "ko": {
+      "content": "Seedance2.5에서 한 장의 이미지를 입력해 장시간 영상을 생성하기 (이미지→영상의 장시간 생성을 시도)\nprompt는 대사(세리프)만으로 제한해 25초 분량의 영상 생성을 진행한다"
+    },
+    "pt": {
+      "content": "Gerar um vídeo longo a partir de uma única imagem no Seedance 2.5 (testando a geração de longa duração de imagem → vídeo)\nO prompt é limitado apenas às falas (diálogos), e a geração do vídeo é feita com duração de 25 segundos"
+    },
+    "zh": {
+      "content": "使用 Seedance2.5 输入一张图片并生成长视频（尝试图像→视频的长时生成）\n将 prompt 仅限定为台词（对白），生成 25 秒的视频"
+    }
+  }
+}

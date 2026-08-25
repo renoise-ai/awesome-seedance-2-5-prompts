@@ -1,0 +1,42 @@
+{
+  "id": "2091722041347162432",
+  "title": "Generate a base scene/aesthetic/original character with Hailuo2.3…",
+  "content": "Generate a base scene/aesthetic/original character with Hailuo2.3 text-to-video, then take a single screengrab from the output to use as your reference frame.  \nRun NBP on the Hailuo2.3 screengrab to add iridescent elements, do a complete costume change, add extra detailing, change the character’s face, or add hair accessories before animating.  \nUse SeeDance 2.5 at 720p to generate the final video from the edited reference image.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091721002233524224/img/jtc8mkr6FBCCnpwt.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2091722041347162432.mp4",
+  "sourceLink": "https://x.com/KiraKiraKaiju/status/2091722041347162432",
+  "sourcePublishedAt": "2026-08-24",
+  "author": {
+    "name": "KiraKira Kaiju",
+    "link": "https://x.com/KiraKiraKaiju"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate a base scene/aesthetic/original character with Hailuo2.3 text-to-video, then take a single screengrab from the output to use as your reference frame.  \nRun NBP on the Hailuo2.3 screengrab to add iridescent elements, do a complete costume change, add extra detailing, change the character’s face, or add hair accessories before animating.  \nUse SeeDance 2.5 at 720p to generate the final video from the edited reference image.",
+  "translations": {
+    "es": {
+      "content": "Genera una escena base/estética/personaje original con Hailuo2.3 text-to-video, y luego toma una sola captura de pantalla del resultado para usarla como tu frame de referencia.  \nEjecuta NBP sobre la captura de Hailuo2.3 para añadir elementos iridiscentes, hacer un cambio completo de vestuario, añadir detalles extra, cambiar el rostro del personaje o agregar accesorios para el cabello antes de animar.  \nUsa SeeDance 2.5 a 720p para generar el video final a partir de la imagen de referencia editada."
+    },
+    "fr": {
+      "content": "Générez une scène de base, une esthétique ou un personnage original avec Hailuo2.3 text-to-video, puis prenez une seule capture d’écran du résultat pour l’utiliser comme image de référence.  \nExécutez NBP sur la capture d’écran Hailuo2.3 pour ajouter des éléments irisés, effectuer un changement complet de costume, ajouter des détails supplémentaires, modifier le visage du personnage ou ajouter des accessoires capillaires avant l’animation.  \nUtilisez SeeDance 2.5 en 720p pour générer la vidéo finale à partir de l’image de référence modifiée."
+    },
+    "ja": {
+      "content": "Hailuo2.3 の text-to-video でベースとなるシーン／美学／オリジナルキャラクターを生成し、その出力から1枚のスクリーングラブを取得して参照フレームとして使用します。  \nHailuo2.3 のスクリーングラブに対して NBP を実行し、イリデッセントな要素を追加したり、衣装を完全に変更したり、ディテールを追加したり、キャラクターの顔を変えたり、アニメーション前にヘアアクセサリーを加えたりします。  \n編集した参照画像から、SeeDance 2.5 の 720p を使って最終動画を生成します。"
+    },
+    "ko": {
+      "content": "Hailuo2.3 text-to-video로 기본 장면/미학/오리지널 캐릭터를 생성한 다음, 출력물에서 단일 스크린그랩을 하나 가져와 참조 프레임으로 사용하세요.  \nHailuo2.3 스크린그랩에 NBP를 실행해 iridescent 요소를 추가하고, 의상을 완전히 변경하며, 디테일을 더하고, 캐릭터의 얼굴을 바꾸거나, 애니메이션을 적용하기 전에 헤어 액세서리를 추가하세요.  \n편집된 참조 이미지를 바탕으로 SeeDance 2.5 720p를 사용해 최종 비디오를 생성하세요."
+    },
+    "pt": {
+      "content": "Gere uma cena base/estética/personagem original com o Hailuo2.3 text-to-video e, em seguida, capture uma única screenshot do resultado para usar como seu frame de referência.  \nExecute o NBP na screenshot do Hailuo2.3 para adicionar elementos iridescentes, fazer uma troca completa de figurino, adicionar detalhes extras, alterar o rosto do personagem ou incluir acessórios de cabelo antes de animar.  \nUse o SeeDance 2.5 em 720p para gerar o vídeo final a partir da imagem de referência editada."
+    },
+    "zh": {
+      "content": "使用 Hailuo2.3 文本生成视频先生成一个基础场景/美学风格/原创角色，然后从输出中截取一张单独的截图，作为你的参考帧。  \n在 Hailuo2.3 的截图上运行 NBP，以添加虹彩元素、进行完整的服装更换、增加额外细节、修改角色面部，或添加发饰，然后再进行动画生成。  \n使用 SeeDance 2.5 的 720p 版本，从编辑后的参考图像生成最终视频。"
+    }
+  }
+}
