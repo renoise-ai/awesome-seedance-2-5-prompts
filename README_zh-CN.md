@@ -66,7 +66,7 @@
 | 📝 提示词总数 | **2165** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **1616** |
-| 🔄 最后更新 | **2026-08-25** |
+| 🔄 最后更新 | **2026-08-26** |
 
 ---
 
@@ -8076,4 +8076,4 @@ After generating, review specifically for identity consistency, environment cont
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **🎬 [Seedance 2.5 模型](https://renoise.ai/zh-CN/features/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-08-25T20:32:52.960Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-08-26T01:36:56.223Z
