@@ -1,0 +1,41 @@
+{
+  "id": "2092151348431057171",
+  "title": "For Seedance 2.5 YouTube Shorts, prompt: animate this image; 15 seconds; 9:16…",
+  "content": "For Seedance 2.5 YouTube Shorts, prompt: animate this image; 15 seconds; 9:16 vertical; seamless loop; specify motion options (person picking up/examining product, slow camera push into product in environment, or before-after scene transition); require the FIRST frame to be the hook (no build up); warm natural lighting; subtle motion (nothing dramatic)  \nUse Seedance 2.5 to generate up to 30 seconds in a single pass (no stitching) to maintain character consistency across the whole clip  \nWhen generating batch creative variants, change only one variable per variant (e.g., A: change hook only; B: change environment only; C: change model demographic only) and run this weekly on whatever won",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/eCom_Amin/status/2092151348431057171",
+  "sourcePublishedAt": "2026-08-25",
+  "author": {
+    "name": "Amin",
+    "link": "https://x.com/eCom_Amin"
+  },
+  "tags": [
+    "Product Ad",
+    "Beauty",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "For Seedance 2.5 YouTube Shorts, prompt: animate this image; 15 seconds; 9:16 vertical; seamless loop; specify motion options (person picking up/examining product, slow camera push into product in environment, or before-after scene transition); require the FIRST frame to be the hook (no build up); warm natural lighting; subtle motion (nothing dramatic)  \nUse Seedance 2.5 to generate up to 30 seconds in a single pass (no stitching) to maintain character consistency across the whole clip  \nWhen generating batch creative variants, change only one variable per variant (e.g., A: change hook only; B: change environment only; C: change model demographic only) and run this weekly on whatever won",
+  "translations": {
+    "es": {
+      "content": "Para Seedance 2.5 YouTube Shorts, prompt: animate this image; 15 seconds; 9:16 vertical; seamless loop; specify motion options (person picking up/examining product, slow camera push into product in environment, or before-after scene transition); require the FIRST frame to be the hook (no build up); warm natural lighting; subtle motion (nothing dramatic)  \nUsa Seedance 2.5 para generar hasta 30 segundos en una sola pasada (sin stitching) para mantener la consistencia del personaje en todo el clip  \nAl generar variantes creativas en lote, cambia solo una variable por variante (p. ej., A: cambia solo el hook; B: cambia solo el entorno; C: cambia solo la demografía del modelo) y ejecútalo semanalmente sobre lo que haya ganado"
+    },
+    "fr": {
+      "content": "Pour les YouTube Shorts avec Seedance 2.5, prompt : animate this image; 15 seconds; 9:16 vertical; seamless loop; specify motion options (person picking up/examining product, slow camera push into product in environment, or before-after scene transition); require the FIRST frame to be the hook (no build up); warm natural lighting; subtle motion (nothing dramatic)  \nUtilisez Seedance 2.5 pour générer jusqu’à 30 secondes en un seul passage (sans assemblage) afin de maintenir la cohérence du personnage sur l’ensemble du clip  \nLors de la génération de variantes créatives en batch, ne changez qu’une seule variable par variante (par ex. A : ne changer que le hook ; B : ne changer que l’environnement ; C : ne changer que la démographie du modèle) et exécutez cela chaque semaine sur ce qui a gagné"
+    },
+    "ja": {
+      "content": "Seedance 2.5 の YouTube Shorts 用プロンプト: animate this image; 15 seconds; 9:16 vertical; seamless loop; specify motion options (person picking up/examining product, slow camera push into product in environment, or before-after scene transition); require the FIRST frame to be the hook (no build up); warm natural lighting; subtle motion (nothing dramatic)  \nSeedance 2.5 を使って、1回の生成で最大30秒まで作成する（つなぎ合わせなし）ことで、クリップ全体を通してキャラクターの一貫性を維持する  \nバッチでクリエイティブのバリエーションを生成する場合は、各バリエーションで変更する変数を1つだけにする（例: A: hook のみ変更; B: environment のみ変更; C: model demographic のみ変更）そして、勝ちパターンになったものに対して毎週これを実行する"
+    },
+    "ko": {
+      "content": "Seedance 2.5 YouTube Shorts의 경우, prompt: animate this image; 15 seconds; 9:16 vertical; seamless loop; specify motion options (person picking up/examining product, slow camera push into product in environment, or before-after scene transition); require the FIRST frame to be the hook (no build up); warm natural lighting; subtle motion (nothing dramatic)  \nSeedance 2.5를 사용해 한 번의 패스(스티칭 없이)로 최대 30초까지 생성하여 전체 클립에서 캐릭터 일관성을 유지하세요  \n배치 크리에이티브 변형을 생성할 때는 각 변형마다 변수 하나만 바꾸고(예: A: hook만 변경; B: environment만 변경; C: model demographic만 변경) 무엇이 성과가 좋았는지 기준으로 매주 실행하세요"
+    },
+    "pt": {
+      "content": "Para YouTube Shorts no Seedance 2.5, prompt: animate this image; 15 seconds; 9:16 vertical; seamless loop; specify motion options (person picking up/examining product, slow camera push into product in environment, or before-after scene transition); require the FIRST frame to be the hook (no build up); warm natural lighting; subtle motion (nothing dramatic)  \nUse Seedance 2.5 to generate up to 30 seconds in a single pass (no stitching) to maintain character consistency across the whole clip  \nWhen generating batch creative variants, change only one variable per variant (e.g., A: change hook only; B: change environment only; C: change model demographic only) and run this weekly on whatever won"
+    },
+    "zh": {
+      "content": "对于 Seedance 2.5 YouTube Shorts，prompt：animate this image; 15 seconds; 9:16 vertical; seamless loop; specify motion options (person picking up/examining product, slow camera push into product in environment, or before-after scene transition); require the FIRST frame to be the hook (no build up); warm natural lighting; subtle motion (nothing dramatic)  \n使用 Seedance 2.5 一次性生成最长 30 秒的内容（不拼接），以保持整个片段中的角色一致性  \n在批量生成创意变体时，每个变体只更改一个变量（例如：A：只更改 hook；B：只更改环境；C：只更改模特人口特征），并每周对表现最好的版本执行这一流程"
+    }
+  }
+}

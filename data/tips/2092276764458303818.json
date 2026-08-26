@@ -1,0 +1,41 @@
+{
+  "id": "2092276764458303818",
+  "title": "If nano banana or gpt-image-2 can’t produce realistic AI UGC avatars, run the…",
+  "content": "If nano banana or gpt-image-2 can’t produce realistic AI UGC avatars, run the same prompt in Seedance 2.5 and use the first frame it generates as a high-realism avatar image.  \nAfter extracting a realistic avatar from Seedance 2.5’s first frame, reuse that avatar as input in cheaper models (e.g., Seedance 2.0 Fast) to reduce ongoing generation cost.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/andrewxroas/status/2092276764458303818",
+  "sourcePublishedAt": "2026-08-25",
+  "author": {
+    "name": "Andrew",
+    "link": "https://x.com/andrewxroas"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "If nano banana or gpt-image-2 can’t produce realistic AI UGC avatars, run the same prompt in Seedance 2.5 and use the first frame it generates as a high-realism avatar image.  \nAfter extracting a realistic avatar from Seedance 2.5’s first frame, reuse that avatar as input in cheaper models (e.g., Seedance 2.0 Fast) to reduce ongoing generation cost.",
+  "translations": {
+    "es": {
+      "content": "Si nano banana o gpt-image-2 no pueden producir avatares UGC de IA realistas, ejecuta el mismo prompt en Seedance 2.5 y usa el primer frame que genere como una imagen de avatar de alta fidelidad.  \nDespués de extraer un avatar realista del primer frame de Seedance 2.5, reutiliza ese avatar como input en modelos más baratos (por ejemplo, Seedance 2.0 Fast) para reducir el coste continuo de generación.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] En lo personal, no me importa que sea bastante caro; solo quiero lo mejor y más realista.\n---"
+    },
+    "fr": {
+      "content": "Si nano banana ou gpt-image-2 ne parviennent pas à produire des avatars UGC IA réalistes, lancez le même prompt dans Seedance 2.5 et utilisez la première frame générée comme image d’avatar à très haut niveau de réalisme.  \nAprès avoir extrait un avatar réaliste à partir de la première frame de Seedance 2.5, réutilisez cet avatar comme input dans des modèles moins coûteux (par ex. Seedance 2.0 Fast) afin de réduire le coût de génération récurrent.\n\n--- SUITE DU THREAD ---\n[Thread 1] Pour ma part, je me fiche que ce soit assez cher, je veux simplement le meilleur et le plus réaliste possible\n---"
+    },
+    "ja": {
+      "content": "nano banana や gpt-image-2 でリアルな AI UGC アバターを生成できない場合は、同じ prompt を Seedance 2.5 で実行し、生成された最初のフレームを高精細なアバター画像として使用します。  \nSeedance 2.5 の最初のフレームからリアルなアバターを抽出したら、そのアバターをより安価なモデル（例: Seedance 2.0 Fast）への入力として再利用し、継続的な生成コストを抑えます。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 個人的には、かなり高価でも気にしません。とにかく、最高にリアルなものが欲しいです\n---"
+    },
+    "ko": {
+      "content": "nano banana나 gpt-image-2로는 현실적인 AI UGC 아바타를 만들 수 없다면, 같은 prompt를 Seedance 2.5에서 실행하고, 생성된 첫 번째 frame을 고해상도 사실감 아바타 이미지로 사용하세요.  \nSeedance 2.5의 첫 번째 frame에서 현실적인 아바타를 추출한 뒤에는, 그 아바타를 더 저렴한 모델(예: Seedance 2.0 Fast)의 입력으로 재사용해 지속적인 생성 비용을 줄일 수 있습니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 개인적으로는 꽤 비싸도 상관없어요. 그냥 가장 좋고 가장 현실적인 결과물을 원할 뿐입니다.\n---"
+    },
+    "pt": {
+      "content": "---\nSe nano banana ou gpt-image-2 não conseguirem produzir avatares UGC de IA realistas, execute o mesmo prompt no Seedance 2.5 e use o primeiro frame gerado como uma imagem de avatar de alta fidelidade.  \nDepois de extrair um avatar realista do primeiro frame do Seedance 2.5, reutilize esse avatar como entrada em modelos mais baratos (por exemplo, Seedance 2.0 Fast) para reduzir o custo contínuo de geração.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Para mim, pessoalmente, não me importo que seja bem caro; eu só quero o melhor e mais realista possível\n---"
+    },
+    "zh": {
+      "content": "如果 nano banana 或 gpt-image-2 无法生成逼真的 AI UGC 头像，就在 Seedance 2.5 中运行同样的 prompt，并将它生成的第一帧用作高真实感头像图像。  \n在从 Seedance 2.5 的第一帧中提取出逼真的头像后，再将该头像作为输入复用到更便宜的模型中（例如 Seedance 2.0 Fast），以降低持续生成成本。\n\n--- 线程续接 ---\n[Thread 1] 就我个人而言，我不在乎它有多贵，我只想要最棒、最逼真的效果\n---"
+    }
+  }
+}

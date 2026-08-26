@@ -1,0 +1,44 @@
+{
+  "id": "2092317922970792142",
+  "title": "Use Seedance 2.5 with a 3D reference to guide the scene and motion.",
+  "content": "Use Seedance 2.5 with a 3D reference to guide the scene and motion.  \nRetarget human motion onto real cats to transfer realistic movement to animal subjects.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092317869795323904/img/WaWUXbkDy_HodEe_.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092317922970792142.mp4",
+  "sourceLink": "https://x.com/abxxai/status/2092317922970792142",
+  "sourcePublishedAt": "2026-08-25",
+  "author": {
+    "name": "Abdul Șhakoor",
+    "link": "https://x.com/abxxai"
+  },
+  "tags": [
+    "Animals",
+    "Pets",
+    "3D Animation",
+    "Realistic World",
+    "VFX",
+    "Transformation",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 with a 3D reference to guide the scene and motion.  \nRetarget human motion onto real cats to transfer realistic movement to animal subjects.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 con una referencia 3D para guiar la escena y el movimiento.  \nReasigna el movimiento humano a gatos reales para transferir un movimiento realista a sujetos animales."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 avec une référence 3D pour guider la scène et le mouvement.  \nRetargetez le mouvement humain sur de vrais chats afin de transférer des mouvements réalistes à des sujets animaux."
+    },
+    "ja": {
+      "content": "Seedance 2.5 を 3D リファレンスと組み合わせて使用し、シーンとモーションをガイドします。  \n人間のモーションを実在の猫にリターゲットし、動物の被写体にリアルな動きを転送します。"
+    },
+    "ko": {
+      "content": "Seedance 2.5를 3D reference와 함께 사용해 장면과 motion을 가이드하세요.  \n인간의 motion을 실제 고양이에 retarget하여 동물 피사체에 사실적인 움직임을 transfer합니다."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 com uma referência 3D para orientar a cena e o movimento.  \nRedirecione o movimento humano para gatos reais para transferir movimentos realistas para sujeitos animais."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5，并结合 3D 参考来引导场景和运动。  \n将人类动作重定向到真实猫身上，把逼真的运动迁移到动物主体上。"
+    }
+  }
+}

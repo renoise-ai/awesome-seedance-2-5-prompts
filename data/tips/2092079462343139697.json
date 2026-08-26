@@ -1,0 +1,42 @@
+{
+  "id": "2092079462343139697",
+  "title": "同じキー画像と同一プロンプトで15秒ワンシーンを生成し、MiniMaxH3とSeedance 2.5の出力を比較する",
+  "content": "同じキー画像と同一プロンプトで15秒ワンシーンを生成し、MiniMaxH3とSeedance 2.5の出力を比較する  \n物理表現の正確さや15秒を一本の作品としてまとめる力を重視する場合はSeedance 2.5を選ぶ  \n演出解釈の幅を活かしてMV素材用途のバリエーション出しをしたい場合はMiniMax H3も併用する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092078004994555904/img/Z4Tx72gkTfedLVOH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092079462343139697.mp4",
+  "sourceLink": "https://x.com/wtry1102/status/2092079462343139697",
+  "sourcePublishedAt": "2026-08-25",
+  "author": {
+    "name": "WTR",
+    "link": "https://x.com/wtry1102"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Model Showcase"
+  ],
+  "tips": "同じキー画像と同一プロンプトで15秒ワンシーンを生成し、MiniMaxH3とSeedance 2.5の出力を比較する  \n物理表現の正確さや15秒を一本の作品としてまとめる力を重視する場合はSeedance 2.5を選ぶ  \n演出解釈の幅を活かしてMV素材用途のバリエーション出しをしたい場合はMiniMax H3も併用する",
+  "translations": {
+    "en": {
+      "content": "Generate a 15-second single-scene video using the same key image and identical prompt, and compare the outputs of MiniMax H3 and Seedance 2.5.  \nIf you prioritize physical realism and the ability to unify 15 seconds into a single cohesive piece, choose Seedance 2.5.  \nIf you want to leverage a wider range of directorial interpretation to create variations for MV material, use MiniMax H3 as well."
+    },
+    "es": {
+      "content": "Genera una escena única de 15 segundos con la misma imagen clave y el mismo prompt, y compara los resultados de MiniMaxH3 y Seedance 2.5.  \nSi priorizas la precisión de la representación física y la capacidad de integrar 15 segundos como una sola obra, elige Seedance 2.5.  \nSi quieres aprovechar la amplitud de interpretación de la dirección para generar variaciones destinadas a material de MV, también conviene usar MiniMax H3 en combinación."
+    },
+    "fr": {
+      "content": "Générez une scène unique de 15 secondes avec la même image clé et le même prompt, puis comparez les résultats de MiniMax H3 et de Seedance 2.5.  \nSi vous privilégiez la précision des effets physiques et la capacité à faire des 15 secondes une œuvre cohérente à part entière, choisissez Seedance 2.5.  \nSi vous souhaitez exploiter la marge d’interprétation de la mise en scène pour générer des variations destinées à des素材 de MV, utilisez également MiniMax H3."
+    },
+    "ko": {
+      "content": "같은 키 이미지와 동일한 prompt로 15초짜리 원씬을 생성하고, MiniMaxH3와 Seedance 2.5의 출력을 비교한다  \n물리 표현의 정확성과 15초를 하나의 작품으로 완성하는 힘을 중시한다면 Seedance 2.5를 선택한다  \n연출 해석의 폭을 살려 MV 소재용 버전을 다양하게 뽑고 싶다면 MiniMax H3도 병행한다"
+    },
+    "pt": {
+      "content": "Gerar uma cena única de 15 segundos com a mesma imagem-chave e o mesmo prompt, e comparar as saídas do MiniMaxH3 e do Seedance 2.5  \nSe você prioriza a precisão da representação física e a capacidade de condensar 15 segundos em uma obra coesa, escolha o Seedance 2.5  \nSe quiser aproveitar a amplitude de interpretação de direção para gerar variações para uso como material de MV, use também o MiniMax H3"
+    },
+    "zh": {
+      "content": "Using the same key image and identical prompt to generate a 15-second single-scene clip, and compare the outputs of MiniMax H3 and Seedance 2.5  \nIf you prioritize physical realism and the ability to unify 15 seconds into a single cohesive piece, choose Seedance 2.5  \nIf you want to leverage a wider range of directorial interpretations to create variations for MV material, use MiniMax H3 as well"
+    }
+  }
+}

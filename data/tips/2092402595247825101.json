@@ -1,0 +1,42 @@
+{
+  "id": "2092402595247825101",
+  "title": "Use Dreamzo + Seedance 2.5 with a story-first prompt (beginning → ache/conflict…",
+  "content": "Use Dreamzo + Seedance 2.5 with a story-first prompt (beginning → ache/conflict → warm ending) and let visuals be secondary to generate the whole video from a single prompt.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092402232771874816/img/KiOI9_j76qVGPGWK.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092402595247825101.mp4",
+  "sourceLink": "https://x.com/QtumRouter/status/2092402595247825101",
+  "sourcePublishedAt": "2026-08-26",
+  "author": {
+    "name": "Qtum.ai",
+    "link": "https://x.com/QtumRouter"
+  },
+  "tags": [
+    "Story",
+    "Heartwarming",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Dreamzo + Seedance 2.5 with a story-first prompt (beginning → ache/conflict → warm ending) and let visuals be secondary to generate the whole video from a single prompt.",
+  "translations": {
+    "es": {
+      "content": "Usa Dreamzo + Seedance 2.5 con un prompt centrado en la historia (inicio → dolor/conflicto → final cálido) y deja que lo visual sea secundario para generar todo el video a partir de un solo prompt."
+    },
+    "fr": {
+      "content": "Utilisez Dreamzo + Seedance 2.5 avec un prompt centré sur l’histoire (début → tension/conflit → fin chaleureuse) et laissez les visuels passer au second plan pour générer l’intégralité de la vidéo à partir d’un seul prompt."
+    },
+    "ja": {
+      "content": "Dreamzo + Seedance 2.5 を使い、ストーリー重視の prompt（始まり → 葛藤・切なさ → 温かい結末）で、映像は二次的なものとして扱い、1つの prompt から動画全体を生成します。"
+    },
+    "ko": {
+      "content": "Dreamzo + Seedance 2.5를 사용해 스토리 우선 prompt(시작 → 갈등/아픔 → 따뜻한 결말)로, 비주얼은 부차적으로 두고 하나의 prompt만으로 전체 영상을 생성하세요."
+    },
+    "pt": {
+      "content": "Use Dreamzo + Seedance 2.5 com um prompt focado na história (início → conflito/dor → final acolhedor) e deixe os visuais em segundo plano para gerar o vídeo inteiro a partir de um único prompt."
+    },
+    "zh": {
+      "content": "使用 Dreamzo + Seedance 2.5，采用以故事为先的 prompt（开头 → 痛点/冲突 → 温暖结尾），并让视觉效果居于次要位置，即可通过一个 prompt 生成整段视频。"
+    }
+  }
+}

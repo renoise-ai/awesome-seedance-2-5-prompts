@@ -1,0 +1,40 @@
+{
+  "id": "2092231652315640258",
+  "title": "Use the uploaded photo as the exact visual reference. Preserve the four women’s…",
+  "content": "Use the uploaded photo as the exact visual reference. Preserve the four women’s faces, hairstyles, outfits, body proportions, location, and overall composition. Do not replace or morph the subjects.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092231546954829825/img/k6EfhQ67ONUM_QJs.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092231652315640258.mp4",
+  "sourceLink": "https://x.com/jzaib4269/status/2092231652315640258",
+  "sourcePublishedAt": "2026-08-25",
+  "author": {
+    "name": "Jahan Zaib",
+    "link": "https://x.com/jzaib4269"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "es": {
+      "content": "Usa la foto subida como referencia visual exacta. Conserva los rostros, peinados, atuendos, proporciones corporales, ubicación y composición general de las cuatro mujeres. No reemplaces ni transformes a los sujetos."
+    },
+    "fr": {
+      "content": "Utilisez la photo téléchargée comme référence visuelle exacte. Préservez les visages, les coiffures, les tenues, les proportions corporelles, l’emplacement et la composition globale des quatre femmes. Ne remplacez pas les sujets et ne les transformez pas."
+    },
+    "ja": {
+      "content": "アップロードされた写真を正確なビジュアル参照として使用してください。4人の女性の顔、髪型、服装、体の比率、場所、全体の構図をそのまま維持してください。被写体を置き換えたり、変形したりしないでください。"
+    },
+    "ko": {
+      "content": "업로드된 사진을 정확한 비주얼 레퍼런스로 사용하세요. 네 명의 여성의 얼굴, 헤어스타일, 의상, 신체 비율, 위치, 전체 구도를 그대로 유지하세요. 피사체를 교체하거나 변형하지 마세요."
+    },
+    "pt": {
+      "content": "Use a foto enviada como referência visual exata. Preserve os rostos, penteados, roupas, proporções corporais, localização e a composição geral das quatro mulheres. Não substitua nem transforme os sujeitos."
+    },
+    "zh": {
+      "content": "使用上传的照片作为精确的视觉参考。保留四位女性的面部、发型、服装、身体比例、位置以及整体构图。不要替换或变形主体。"
+    }
+  }
+}

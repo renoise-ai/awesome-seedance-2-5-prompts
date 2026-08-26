@@ -1,0 +1,42 @@
+{
+  "id": "2092272025066672628",
+  "title": "Use ChatGPT to expand a rough idea into a detailed storyline and storyboard…",
+  "content": "Use ChatGPT to expand a rough idea into a detailed storyline and storyboard before generating video in Seedance.  \nUse GPT Images to lock consistent character, outfit, props (e.g., parachute), and environment across storyboard frames, then import those frames into Seedance 2.5.  \nBring storyboard frames into Seedance 2.5 and use detailed prompts that explicitly describe motion, lighting, and physics (e.g., parachute behavior) to achieve realistic animation.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/SebJefferies/status/2092272025066672628",
+  "sourcePublishedAt": "2026-08-25",
+  "author": {
+    "name": "Sebastien Jefferies",
+    "link": "https://x.com/SebJefferies"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Use ChatGPT to expand a rough idea into a detailed storyline and storyboard before generating video in Seedance.  \nUse GPT Images to lock consistent character, outfit, props (e.g., parachute), and environment across storyboard frames, then import those frames into Seedance 2.5.  \nBring storyboard frames into Seedance 2.5 and use detailed prompts that explicitly describe motion, lighting, and physics (e.g., parachute behavior) to achieve realistic animation.",
+  "translations": {
+    "es": {
+      "content": "Usa ChatGPT para convertir una idea general en una storyline y un storyboard detallados antes de generar el video en Seedance.  \nUsa GPT Images para fijar de forma consistente el personaje, el vestuario, los props (por ejemplo, un paracaídas) y el entorno en todos los frames del storyboard; luego importa esos frames a Seedance 2.5.  \nLleva los frames del storyboard a Seedance 2.5 y usa prompts detallados que describan explícitamente el movimiento, la iluminación y la física (por ejemplo, el comportamiento del paracaídas) para lograr una animación realista."
+    },
+    "fr": {
+      "content": "Utilisez ChatGPT pour transformer une idée approximative en une intrigue détaillée et un storyboard avant de générer la vidéo dans Seedance.  \nUtilisez GPT Images pour verrouiller la cohérence des personnages, des tenues, des accessoires (par exemple, un parachute) et de l’environnement d’une image de storyboard à l’autre, puis importez ces images dans Seedance 2.5.  \nImportez les images du storyboard dans Seedance 2.5 et utilisez des prompts détaillés qui décrivent explicitement le mouvement, l’éclairage et la physique (par exemple, le comportement du parachute) afin d’obtenir une animation réaliste."
+    },
+    "ja": {
+      "content": "Seedanceで動画を生成する前に、ChatGPTを使ってラフなアイデアを詳細なストーリーラインとストーリーボードに展開します。  \nGPT Imagesを使って、ストーリーボードの各フレーム間で一貫したキャラクター、衣装、小道具（例：パラシュート）、環境を固定し、そのフレームをSeedance 2.5に取り込みます。  \nストーリーボードのフレームをSeedance 2.5に読み込み、動き、ライティング、物理挙動（例：パラシュートの動き）を明確に記述した詳細なプロンプトを使うことで、リアルなアニメーションを実現します。"
+    },
+    "ko": {
+      "content": "Seedance에서 비디오를 생성하기 전에 ChatGPT를 사용해 대략적인 아이디어를 상세한 스토리라인과 스토리보드로 확장하세요.  \nGPT Images를 사용해 스토리보드 프레임 전반에서 일관된 캐릭터, 의상, 소품(예: parachute), 환경을 고정한 다음, 그 프레임들을 Seedance 2.5로 가져오세요.  \n스토리보드 프레임을 Seedance 2.5에 불러온 뒤, motion, lighting, physics(예: parachute의 움직임)를 명확하게 설명하는 상세한 prompts를 사용해 사실적인 애니메이션을 구현하세요."
+    },
+    "pt": {
+      "content": "Use o ChatGPT para transformar uma ideia inicial em uma storyline e um storyboard detalhados antes de gerar o vídeo no Seedance.  \nUse o GPT Images para manter consistentes o personagem, o figurino, os props (por exemplo, paraquedas) e o ambiente entre os frames do storyboard; depois, importe esses frames para o Seedance 2.5.  \nLeve os frames do storyboard para o Seedance 2.5 e use prompts detalhados que descrevam explicitamente movimento, iluminação e física (por exemplo, o comportamento do paraquedas) para obter uma animação realista."
+    },
+    "zh": {
+      "content": "在使用 Seedance 生成视频之前，先用 ChatGPT 将一个粗略想法扩展成详细的故事线和分镜脚本。  \n使用 GPT Images 来锁定分镜各帧中一致的角色、服装、道具（例如降落伞）和环境，然后将这些帧导入 Seedance 2.5。  \n将分镜帧导入 Seedance 2.5，并使用详细提示词，明确描述运动、光照和物理效果（例如降落伞的行为），以实现逼真的动画效果。"
+    }
+  }
+}

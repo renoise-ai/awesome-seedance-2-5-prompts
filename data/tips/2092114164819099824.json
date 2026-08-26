@@ -1,0 +1,42 @@
+{
+  "id": "2092114164819099824",
+  "title": "Magnific 3D Motionでシーン空間を作り、カメラと被写体の動きを3Dで設計してから、そのモーションをSeedance…",
+  "content": "Magnific 3D Motionでシーン空間を作り、カメラと被写体の動きを3Dで設計してから、そのモーションをSeedance 2.5に渡して生成すると、設計したカメラ軌道を保ったまま映像化できる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2091913767559004161/img/HuiIe3lhaXcGIvRw.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092114164819099824.mp4",
+  "sourceLink": "https://x.com/taziku_co/status/2092114164819099824",
+  "sourcePublishedAt": "2026-08-25",
+  "author": {
+    "name": "田中義弘 | taziku CEO / AI × Creative",
+    "link": "https://x.com/taziku_co"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Magnific 3D Motionでシーン空間を作り、カメラと被写体の動きを3Dで設計してから、そのモーションをSeedance 2.5に渡して生成すると、設計したカメラ軌道を保ったまま映像化できる",
+  "translations": {
+    "en": {
+      "content": "By creating the scene space in Magnific 3D Motion and designing the camera and subject movement in 3D first, then passing that motion to Seedance 2.5 for generation, you can turn it into video while preserving the planned camera path."
+    },
+    "es": {
+      "content": "Al crear un espacio de escena con Magnific 3D Motion y diseñar en 3D el movimiento de la cámara y del sujeto, y luego pasar ese motion a Seedance 2.5 para generarlo, se puede convertir en video manteniendo la trayectoria de cámara diseñada."
+    },
+    "fr": {
+      "content": "Avec Magnific 3D Motion, on crée l’espace de la scène et on conçoit en 3D les mouvements de la caméra et du sujet, puis on transmet ce motion à Seedance 2.5 pour la génération ; on peut ainsi obtenir une vidéo tout en conservant la trajectoire de caméra conçue."
+    },
+    "ko": {
+      "content": "Magnific 3D Motion으로 씬 공간을 만들고, 카메라와 피사체의 움직임을 3D로 설계한 다음, 그 모션을 Seedance 2.5에 전달해 생성하면, 설계한 카메라 궤적을 유지한 채 영상화할 수 있다"
+    },
+    "pt": {
+      "content": "Ao criar o espaço da cena no Magnific 3D Motion e projetar em 3D o movimento da câmera e do sujeito, e então passar esse motion para o Seedance 2.5 para gerar o vídeo, é possível transformar isso em imagem em movimento mantendo a trajetória de câmera planejada."
+    },
+    "zh": {
+      "content": "使用 Magnific 3D Motion 创建场景空间，并在 3D 中设计相机与主体的运动，然后将该 motion 传递给 Seedance 2.5 进行生成，就能在保留所设计的相机轨迹的同时将其视频化。"
+    }
+  }
+}

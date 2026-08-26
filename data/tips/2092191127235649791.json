@@ -1,0 +1,42 @@
+{
+  "id": "2092191127235649791",
+  "title": "Seedance2.5ではリファレンスに使用できる画像の枚数が増えたので、衣装チェンジなどの一貫性を出したい場合は複数枚の参照画像を入力して生成する",
+  "content": "Seedance2.5ではリファレンスに使用できる画像の枚数が増えたので、衣装チェンジなどの一貫性を出したい場合は複数枚の参照画像を入力して生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092188383951097856/img/TTdTouKsRRUpYkT0.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092191127235649791.mp4",
+  "sourceLink": "https://x.com/Artoid_XYZ/status/2092191127235649791",
+  "sourcePublishedAt": "2026-08-25",
+  "author": {
+    "name": "Artoid XYZ",
+    "link": "https://x.com/Artoid_XYZ"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Fashion",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.5ではリファレンスに使用できる画像の枚数が増えたので、衣装チェンジなどの一貫性を出したい場合は複数枚の参照画像を入力して生成する",
+  "translations": {
+    "en": {
+      "content": "With Seedance 2.5, the number of images that can be used as references has increased, so if you want to maintain consistency for things like outfit changes, input multiple reference images when generating.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/0AwckMOiE3\n---"
+    },
+    "es": {
+      "content": "En Seedance2.5, ha aumentado el número de imágenes que se pueden usar como referencia, así que, si quieres lograr consistencia en cambios de vestuario, etc., introduce varias imágenes de referencia al generar.\n\n--- CONTINUACIÓN DEL HILO ---\n[Thread 1] https://t.co/0AwckMOiE3\n---"
+    },
+    "fr": {
+      "content": "Dans Seedance2.5, le nombre d’images pouvant être utilisées comme référence a augmenté. Ainsi, si vous souhaitez obtenir de la cohérence, par exemple pour un changement de tenue, il suffit d’entrer plusieurs images de référence pour générer le résultat.\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/0AwckMOiE3\n---"
+    },
+    "ko": {
+      "content": "Seedance2.5에서는 reference로 사용할 수 있는 이미지 수가 늘어났기 때문에, 의상 변경 등에서 일관성을 살리고 싶을 때는 여러 장의 참조 이미지를 입력해 생성한다\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/0AwckMOiE3\n---"
+    },
+    "pt": {
+      "content": "No Seedance2.5, o número de imagens que podem ser usadas como referência aumentou, então, se você quiser manter consistência em coisas como troca de roupa, insira várias imagens de referência para gerar o resultado\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] https://t.co/0AwckMOiE3\n---"
+    },
+    "zh": {
+      "content": "在 Seedance2.5 中，可用于参考的图片数量增加了，因此如果想让服装更换等内容保持一致性，可以输入多张参考图片进行生成\n\n--- THREAD CONTINUATION ---\n[Thread 1] https://t.co/0AwckMOiE3\n---"
+    }
+  }
+}
