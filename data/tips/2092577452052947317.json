@@ -1,0 +1,42 @@
+{
+  "id": "2092577452052947317",
+  "title": "Seedance2.5とSeedance2.0fastを同じプロンプトで生成して比較検証し、品質が必要な場合はSeedance2.5を選ぶ",
+  "content": "Seedance2.5とSeedance2.0fastを同じプロンプトで生成して比較検証し、品質が必要な場合はSeedance2.5を選ぶ  \nキャラクターシートと背景画像を参照として入力して、棒高跳びのような動きのある映像を10秒で生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092577366732427265/img/NSByjK67NkeciZ2H.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092577452052947317.mp4",
+  "sourceLink": "https://x.com/junyait/status/2092577452052947317",
+  "sourcePublishedAt": "2026-08-26",
+  "author": {
+    "name": "海澤純 AI CREATIVE",
+    "link": "https://x.com/junyait"
+  },
+  "tags": [
+    "Sports",
+    "Extreme",
+    "Photoreal",
+    "Realistic World",
+    "Model Showcase"
+  ],
+  "tips": "Seedance2.5とSeedance2.0fastを同じプロンプトで生成して比較検証し、品質が必要な場合はSeedance2.5を選ぶ  \nキャラクターシートと背景画像を参照として入力して、棒高跳びのような動きのある映像を10秒で生成する",
+  "translations": {
+    "en": {
+      "content": "Generate and compare Seedance2.5 and Seedance2.0fast using the same prompt, and choose Seedance2.5 when quality is required.  \nInput a character sheet and background image as references, and generate a 10-second video with dynamic motion like pole vaulting.\n\n--- THREAD CONTINUATION ---\n[Thread 1] It looks like they cleared the bar, but in the next cut they haven’t...\nStill, it’s close.\nOther than that, the camera composition here is pretty good.\n\nExample of a failure with Seedance2.0fast https://t.co/tG5F7ZG0X6\n---"
+    },
+    "es": {
+      "content": "Genera y compara Seedance2.5 y Seedance2.0fast con el mismo prompt, y si se necesita calidad, elige Seedance2.5  \nIntroduce una character sheet y una imagen de fondo como referencias, y genera en 10 segundos un video con movimiento dinámico, como un salto con pértiga\n\n--- CONTINUACIÓN DEL THREAD ---\n[Thread 1] Aunque parece que ya había superado la barra, en el siguiente corte ya no la supera...\nPero bueno, estuvo cerca.\nFuera de eso, la composición de cámara aquí sí está bien.\n\nEjemplo fallido con Seedance2.0fast https://t.co/tG5F7ZG0X6\n---"
+    },
+    "fr": {
+      "content": "Générer et comparer Seedance2.5 et Seedance2.0fast avec le même prompt, puis choisir Seedance2.5 si la qualité est nécessaire  \nEntrer une character sheet et une image de fond comme références, et générer en 10 secondes une vidéo avec des mouvements dynamiques, comme du saut à la perche\n\n--- THREAD CONTINUATION ---\n[Thread 1] On dirait qu’il a franchi la barre, mais dans le plan suivant, il ne l’a plus franchie...\nEnfin bon, c’est dommage.\nÀ part ça, la composition de la caméra est bonne, ici.\n\nExemple d’échec avec Seedance2.0fast https://t.co/tG5F7ZG0X6\n---"
+    },
+    "ko": {
+      "content": "Seedance2.5와 Seedance2.0fast를 같은 prompt로 생성해 비교 검증하고, 품질이 필요할 경우 Seedance2.5를 선택한다  \n캐릭터 시트와 배경 이미지를 reference로 입력해, 장대높이뛰기처럼 동적인 영상을 10초로 생성한다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 바를 넘은 줄 알았는데 다음 컷에서는 넘지 못한 것처럼 보인다든가...\n그래도 아쉽다.\n그 외에는 이쪽의 camera composition이 좋다.\n\nSeedance2.0fast에서 실패한 예 https://t.co/tG5F7ZG0X6\n---"
+    },
+    "pt": {
+      "content": "Gerar e comparar Seedance2.5 e Seedance2.0fast com o mesmo prompt e, quando a qualidade for necessária, escolher Seedance2.5  \nInserir uma character sheet e uma imagem de fundo como referência e gerar, em 10 segundos, um vídeo com movimento dinâmico, como salto com vara\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Mesmo tendo passado a barra, no corte seguinte parece que não passou...\nMas enfim, foi por pouco.\nFora isso, a composição de câmera aqui é boa, né.\n\nExemplo de falha com Seedance2.0fast https://t.co/tG5F7ZG0X6\n---"
+    },
+    "zh": {
+      "content": "使用相同的 prompt 分别生成 Seedance2.5 和 Seedance2.0fast 并进行对比验证；如果需要更高质量，就选择 Seedance2.5  \n输入角色设定图和背景图作为参考，生成一个类似撑杆跳那样具有动态动作的 10 秒视频\n\n--- THREAD CONTINUATION ---\n[Thread 1] 明明已经越过横杆了，下一镜头却又没越过去之类的……\n不过也挺可惜的。\n除此之外，这边的镜头构图之类都还不错。\n\nSeedance2.0fast 失败案例 https://t.co/tG5F7ZG0X6\n---"
+    }
+  }
+}

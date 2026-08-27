@@ -1,0 +1,42 @@
+{
+  "id": "2092603969357156749",
+  "title": "Upload reference images, describe the vibe in your prompt, then pick a style…",
+  "content": "Upload reference images, describe the vibe in your prompt, then pick a style preset in Seedance 2.5 to generate a branded motion promo quickly without timelines or keyframes.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092603326349365248/img/Mobmnxw5Ana9ACkW.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092603969357156749.mp4",
+  "sourceLink": "https://x.com/madpencil_/status/2092603969357156749",
+  "sourcePublishedAt": "2026-08-26",
+  "author": {
+    "name": "madpencil_",
+    "link": "https://x.com/madpencil_"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Upload reference images, describe the vibe in your prompt, then pick a style preset in Seedance 2.5 to generate a branded motion promo quickly without timelines or keyframes.",
+  "translations": {
+    "es": {
+      "content": "Sube imágenes de referencia, describe la vibra en tu prompt y luego elige un preset de estilo en Seedance 2.5 para generar rápidamente una promo animada de marca, sin timelines ni keyframes."
+    },
+    "fr": {
+      "content": "Téléchargez des images de référence, décrivez l’ambiance dans votre prompt, puis choisissez un preset de style dans Seedance 2.5 pour générer rapidement une promo animée de marque, sans timelines ni keyframes."
+    },
+    "ja": {
+      "content": "参考画像をアップロードし、prompt で雰囲気を記述してから、Seedance 2.5 でスタイルプリセットを選ぶだけで、タイムラインやキーフレームなしに、ブランド化されたモーションプロモを素早く生成できます。"
+    },
+    "ko": {
+      "content": "참조 이미지를 업로드하고, prompt에서 원하는 분위기를 설명한 다음, Seedance 2.5에서 스타일 프리셋을 선택하면 타임라인이나 키프레임 없이도 브랜드 모션 프로모를 빠르게 생성할 수 있습니다."
+    },
+    "pt": {
+      "content": "Envie imagens de referência, descreva a vibe no seu prompt e depois escolha um preset de estilo no Seedance 2.5 para gerar rapidamente uma promo em motion com a sua marca, sem timelines ou keyframes."
+    },
+    "zh": {
+      "content": "上传参考图片，在 prompt 中描述氛围，然后在 Seedance 2.5 中选择一个风格预设，即可快速生成带品牌感的动态宣传片，无需时间线或关键帧。"
+    }
+  }
+}

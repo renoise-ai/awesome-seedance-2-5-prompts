@@ -1,0 +1,42 @@
+{
+  "id": "2092598353255133291",
+  "title": "Use ComfyUI with Seedance 2.5 to generate an entire multi-action skate sequence…",
+  "content": "Use ComfyUI with Seedance 2.5 to generate an entire multi-action skate sequence as ONE continuous unbroken take in a single generation pass  \nPin subject and environment continuity by supplying reference images for the skater and the location  \nMap each action beat (e.g., jump → landing → dodge → grind → flip-out → kickflip → handshake) explicitly in a detailed prompt to maintain continuity across multiple actions in one generation",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2092598330090016768/pu/img/xnGX2eoBW9wjAn6U.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092598353255133291.mp4",
+  "sourceLink": "https://x.com/Genflickmovies/status/2092598353255133291",
+  "sourcePublishedAt": "2026-08-26",
+  "author": {
+    "name": "GenFlick | Making Movies with AI | Join Us",
+    "link": "https://x.com/Genflickmovies"
+  },
+  "tags": [
+    "Sports",
+    "Extreme",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use ComfyUI with Seedance 2.5 to generate an entire multi-action skate sequence as ONE continuous unbroken take in a single generation pass  \nPin subject and environment continuity by supplying reference images for the skater and the location  \nMap each action beat (e.g., jump → landing → dodge → grind → flip-out → kickflip → handshake) explicitly in a detailed prompt to maintain continuity across multiple actions in one generation",
+  "translations": {
+    "es": {
+      "content": "Usa ComfyUI con Seedance 2.5 para generar una secuencia completa de skate con múltiples acciones como UNA sola toma continua e ininterrumpida en un único pase de generación  \nAsegura la continuidad del sujeto y del entorno proporcionando imágenes de referencia del skater y la ubicación  \nMapea explícitamente cada beat de acción (p. ej., jump → landing → dodge → grind → flip-out → kickflip → handshake) en un prompt detallado para mantener la continuidad entre múltiples acciones en una sola generación"
+    },
+    "fr": {
+      "content": "Utilisez ComfyUI avec Seedance 2.5 pour générer une séquence de skate multi-action entière en UN seul plan-séquence continu et ininterrompu, en une seule passe de génération  \nAssurez la continuité du sujet et de l’environnement en fournissant des images de référence pour le skateur et le lieu  \nDécrivez explicitement chaque temps fort de l’action (par ex. jump → landing → dodge → grind → flip-out → kickflip → handshake) dans un prompt détaillé afin de maintenir la continuité entre plusieurs actions au sein d’une même génération"
+    },
+    "ja": {
+      "content": "ComfyUI と Seedance 2.5 を使って、複数のアクションからなるスケートシーケンス全体を、1回の生成で、1本の連続した途切れのないワンテイクとして生成する  \nスケーターとロケーションの参照画像を与えることで、被写体と環境の一貫性を固定する  \n複数のアクションを1回の生成内で連続させるために、各アクションのビート（例: jump → landing → dodge → grind → flip-out → kickflip → handshake）を詳細な prompt で明示的にマッピングする"
+    },
+    "ko": {
+      "content": "ComfyUI와 Seedance 2.5를 사용해, 하나의 생성 패스에서 전체 멀티 액션 스케이트 시퀀스를 하나의 연속적이고 끊기지 않는 원테이크로 생성하세요  \n스케이터와 장소에 대한 레퍼런스 이미지를 제공해 피사체와 환경의 연속성을 고정하세요  \n하나의 생성에서 여러 액션이 이어지더라도 연속성을 유지할 수 있도록, 각 액션 비트(예: jump → landing → dodge → grind → flip-out → kickflip → handshake)를 상세한 prompt에 명시적으로 매핑하세요"
+    },
+    "pt": {
+      "content": "Use o ComfyUI com o Seedance 2.5 para gerar uma sequência completa de skate com múltiplas ações como UM único take contínuo e ininterrupto em uma única passagem de geração  \nMantenha a continuidade do sujeito e do ambiente fornecendo imagens de referência do skatista e da locação  \nMapeie explicitamente cada batida de ação (por exemplo, jump → landing → dodge → grind → flip-out → kickflip → handshake) em um prompt detalhado para manter a continuidade entre múltiplas ações em uma única geração"
+    },
+    "zh": {
+      "content": "使用 ComfyUI 搭配 Seedance 2.5，在一次生成过程中，将整个多动作滑板序列生成为一个连续、无剪切的长镜头  \n通过提供滑手和场景的参考图像，锁定主体与环境的连续性  \n在详细的 prompt 中明确映射每个动作节拍（例如：jump → landing → dodge → grind → flip-out → kickflip → handshake），以在一次生成中维持多个动作之间的连续性"
+    }
+  }
+}

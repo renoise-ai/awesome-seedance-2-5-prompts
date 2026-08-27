@@ -1,0 +1,43 @@
+{
+  "id": "2092688244618010825",
+  "title": "Generate a Seedance 2.5 video from a sequence of 10 images in the same Lovart…",
+  "content": "Generate a Seedance 2.5 video from a sequence of 10 images in the same Lovart canvas to animate your stick-figure frames.\n\nPrompt Seedance 2.5 to replace a plain/white background by explicitly asking for a realistic background to get background transformation while preserving the subject.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/media/HQq5W7NW8AI4oAa.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092688244618010825.mp4",
+  "sourceLink": "https://x.com/Shinebynous/status/2092688244618010825",
+  "sourcePublishedAt": "2026-08-26",
+  "author": {
+    "name": "Shine by Nous ✨",
+    "link": "https://x.com/Shinebynous"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Transformation"
+  ],
+  "tips": "Generate a Seedance 2.5 video from a sequence of 10 images in the same Lovart canvas to animate your stick-figure frames.\n\nPrompt Seedance 2.5 to replace a plain/white background by explicitly asking for a realistic background to get background transformation while preserving the subject.",
+  "translations": {
+    "es": {
+      "content": "Genera un video de Seedance 2.5 a partir de una secuencia de 10 imágenes en el mismo lienzo de Lovart para animar tus fotogramas de figuras de palo.\n\nIndica a Seedance 2.5 que reemplace un fondo liso/blanco solicitando explícitamente un fondo realista para lograr la transformación del fondo mientras se preserva el sujeto."
+    },
+    "fr": {
+      "content": "Générez une vidéo Seedance 2.5 à partir d’une séquence de 10 images dans le même canvas Lovart afin d’animer vos frames en bonhommes allumettes.\n\nPrompt Seedance 2.5 pour remplacer un fond uni/blanc en demandant explicitement un fond réaliste, afin d’obtenir une transformation du fond tout en préservant le sujet."
+    },
+    "ja": {
+      "content": "同じ Lovart キャンバス上の 10 枚の画像シーケンスから Seedance 2.5 の動画を生成し、棒人間のフレームをアニメーション化します。\n\nSeedance 2.5 には、白紙の／白い背景をリアルな背景に置き換えるよう明示的に指示し、被写体を保持したまま背景変換を行うよう prompt してください。"
+    },
+    "ko": {
+      "content": "같은 Lovart 캔버스에 있는 10장의 이미지 시퀀스로 Seedance 2.5 비디오를 생성하여 스틱 피겨 프레임에 애니메이션을 적용하세요.\n\nSeedance 2.5에 plain/white background를 realistic background로 명시적으로 요청해 배경을 바꾸도록 프롬프트를 넣으면, 피사체는 유지한 채 배경 변환을 얻을 수 있습니다."
+    },
+    "pt": {
+      "content": "Gere um vídeo no Seedance 2.5 a partir de uma sequência de 10 imagens no mesmo canvas do Lovart para animar seus frames de stick figure.\n\nPrompt Seedance 2.5 para substituir um fundo simples/branco, solicitando explicitamente um fundo realista para obter a transformação do background enquanto preserva o sujeito."
+    },
+    "zh": {
+      "content": "使用同一 Lovart 画布中的 10 张图片生成一段 Seedance 2.5 视频，让你的火柴人分镜动起来。\n\nPrompt Seedance 2.5 通过明确要求一个逼真的背景来替换纯色/白色背景，从而实现背景转换，同时保留主体。"
+    }
+  }
+}

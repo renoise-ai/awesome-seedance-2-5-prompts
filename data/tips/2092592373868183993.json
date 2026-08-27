@@ -1,0 +1,42 @@
+{
+  "id": "2092592373868183993",
+  "title": "Seedance2.5で成人男性と指定するとラーメン屋店主っぽい顔になりやすいので、狙う場合はプロンプトに成人男性を入れる",
+  "content": "Seedance2.5で成人男性と指定するとラーメン屋店主っぽい顔になりやすいので、狙う場合はプロンプトに成人男性を入れる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092591183138848768/img/NKwhX_ZBF9SesrfW.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092592373868183993.mp4",
+  "sourceLink": "https://x.com/mimosa8151/status/2092592373868183993",
+  "sourcePublishedAt": "2026-08-26",
+  "author": {
+    "name": "ミモザ|海外生活とAI",
+    "link": "https://x.com/mimosa8151"
+  },
+  "tags": [
+    "Food",
+    "Cooking",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.5で成人男性と指定するとラーメン屋店主っぽい顔になりやすいので、狙う場合はプロンプトに成人男性を入れる",
+  "translations": {
+    "en": {
+      "content": "When you specify an adult male in Seedance 2.5, it tends to produce a face that looks like a ramen shop owner, so if that’s what you want, include “adult male” in the prompt."
+    },
+    "es": {
+      "content": "Al especificar un hombre adulto en Seedance2.5, es fácil que termine con un rostro que parece el de un dueño de una tienda de ramen, así que, si eso es lo que buscas, incluye “adult man” en el prompt."
+    },
+    "fr": {
+      "content": "Avec Seedance2.5, si vous spécifiez simplement « homme adulte », le visage a tendance à ressembler à celui d’un patron de restaurant de ramen ; donc, si c’est l’effet recherché, ajoutez « homme adulte » dans le prompt."
+    },
+    "ko": {
+      "content": "Seedance2.5에서 성인 남성이라고 지정하면 라멘집 주인 같은 얼굴이 되기 쉬우므로, 그런 느낌을 노릴 경우에는 prompt에 성인 남성을 넣는다"
+    },
+    "pt": {
+      "content": "No Seedance2.5, ao especificar um homem adulto, ele tende a ficar com uma aparência de dono de restaurante de ramen; então, se esse for o objetivo, inclua “homem adulto” no prompt."
+    },
+    "zh": {
+      "content": "在 Seedance2.5 中，如果指定“成人男性”，很容易生成出像拉面店老板一样的脸，所以如果想要更准确地命中目标，建议在 prompt 里加入“成人男性”。"
+    }
+  }
+}

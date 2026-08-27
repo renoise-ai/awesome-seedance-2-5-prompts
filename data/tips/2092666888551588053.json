@@ -1,0 +1,41 @@
+{
+  "id": "2092666888551588053",
+  "title": "Give Claude your character files and script, then instruct it to split the…",
+  "content": "Give Claude your character files and script, then instruct it to split the story into multiple segments and output Seedance 2.5 prompts using a predefined prompt structure.  \nIn Seedance 2.5 prompts, tag each character in the [Characters] section using their exact attached file names whenever they appear.  \nPrompt for lots of cuts and cinematic angles, and base shots on properly established stills to maintain character, environment, and spatial consistency across segments.  \nAdd a constraint in every prompt that characters must not face or acknowledge the camera/audience (keep them “in their own world”).  \nSpecify precise movement blocking in each prompt (how they walk, direction, and other detailed motions) to control animation.  \nInclude personality/behavior directives per character (match meme lore and signature reactions) to keep performances consistent.  \nPopulate scenes with NPCs/extras and explicit “lively street” activity so the world doesn’t feel empty or desolate.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/maxescu/status/2092666888551588053",
+  "sourcePublishedAt": "2026-08-26",
+  "author": {
+    "name": "Alex Patrascu",
+    "link": "https://x.com/maxescu"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Give Claude your character files and script, then instruct it to split the story into multiple segments and output Seedance 2.5 prompts using a predefined prompt structure.  \nIn Seedance 2.5 prompts, tag each character in the [Characters] section using their exact attached file names whenever they appear.  \nPrompt for lots of cuts and cinematic angles, and base shots on properly established stills to maintain character, environment, and spatial consistency across segments.  \nAdd a constraint in every prompt that characters must not face or acknowledge the camera/audience (keep them “in their own world”).  \nSpecify precise movement blocking in each prompt (how they walk, direction, and other detailed motions) to control animation.  \nInclude personality/behavior directives per character (match meme lore and signature reactions) to keep performances consistent.  \nPopulate scenes with NPCs/extras and explicit “lively street” activity so the world doesn’t feel empty or desolate.",
+  "translations": {
+    "es": {
+      "content": "Dale a Claude tus archivos de personaje y el guion, y luego indícale que divida la historia en múltiples segmentos y genere prompts de Seedance 2.5 usando una estructura de prompt predefinida.  \nEn los prompts de Seedance 2.5, etiqueta a cada personaje en la sección [Characters] usando exactamente los nombres de archivo adjuntos correspondientes cada vez que aparezcan.  \nPide muchos cortes y ángulos cinematográficos, y basa los planos en stills correctamente establecidos para mantener la coherencia del personaje, el entorno y el espacio entre segmentos.  \nAñade una restricción en cada prompt para que los personajes no miren ni reconozcan a la cámara o al público (manteniéndolos “en su propio mundo”).  \nEspecifica un blocking de movimiento preciso en cada prompt (cómo caminan, en qué dirección y otros movimientos detallados) para controlar la animación.  \nIncluye directrices de personalidad/comportamiento para cada personaje (que coincidan con el meme lore y sus reacciones características) para mantener la coherencia de las interpretaciones.  \nLlena las escenas con NPCs/extras y actividad explícita de “calle animada” para que el mundo no se sienta vacío o desolado."
+    },
+    "fr": {
+      "content": "Donnez à Claude vos fichiers de personnages et votre script, puis demandez-lui de découper l’histoire en plusieurs segments et de générer des prompts Seedance 2.5 à l’aide d’une structure de prompt prédéfinie.  \nDans les prompts Seedance 2.5, taguez chaque personnage dans la section [Characters] en utilisant exactement les noms de leurs fichiers joints chaque fois qu’ils apparaissent.  \nDemandez beaucoup de cuts et d’angles cinématographiques, et basez les plans sur des stills correctement établis afin de maintenir la cohérence des personnages, de l’environnement et de l’espace d’un segment à l’autre.  \nAjoutez dans chaque prompt une contrainte indiquant que les personnages ne doivent pas regarder ni reconnaître la caméra/le public (restez dans leur « propre monde »).  \nPrécisez un blocking de mouvement exact dans chaque prompt (comment ils marchent, dans quelle direction, et autres mouvements détaillés) afin de contrôler l’animation.  \nIncluez des directives de personnalité/comportement pour chaque personnage (en accord avec le lore des mèmes et leurs réactions signatures) afin de conserver une performance cohérente.  \nPeuplez les scènes avec des NPCs/figurants et une activité explicite de « rue animée » pour que le monde ne paraisse pas vide ou désert."
+    },
+    "ja": {
+      "content": "Claude にキャラクターファイルと脚本を渡し、物語を複数のセグメントに分割して、あらかじめ定義されたプロンプト構造を使って Seedance 2.5 のプロンプトを出力するよう指示します。  \nSeedance 2.5 のプロンプトでは、[Characters] セクション内で各キャラクターが登場するたびに、添付されたファイル名を正確に使ってタグ付けします。  \nカットを多めにし、cinematic なアングルを意識してプロンプトを作成し、各セグメント間でキャラクター、環境、空間の一貫性を保つために、適切に確立された静止画を基にショットを構成します。  \n各プロンプトには、キャラクターがカメラ／観客の方を向いたり、それに気づいたりしてはならないという制約を必ず入れます（彼らを「自分たちの世界の中」に留める）。  \nアニメーションを制御するために、各プロンプトで正確な movement blocking（歩き方、進行方向、その他の詳細な動き）を指定します。  \nキャラクターごとに性格／行動の निर्देशを含め（meme lore やお決まりのリアクションに合わせる）、演技の一貫性を保ちます。  \nNPC／エキストラと、明確な「活気のある街」のアクティビティをシーンに配置し、世界が空っぽで荒涼として見えないようにします。"
+    },
+    "ko": {
+      "content": "Claude에게 캐릭터 파일과 스크립트를 제공한 다음, 스토리를 여러 세그먼트로 나누고 미리 정의된 프롬프트 구조를 사용해 Seedance 2.5 프롬프트를 출력하도록 지시하세요.  \nSeedance 2.5 프롬프트에서는 [Characters] 섹션의 각 캐릭터를 등장할 때마다 정확히 첨부된 파일명으로 태그하세요.  \n컷이 많고 cinematic한 앵글을 사용하도록 프롬프트를 작성하고, 세그먼트 간 캐릭터, 환경, 공간적 일관성을 유지하기 위해 적절히 확립된 스틸을 바탕으로 샷을 구성하세요.  \n모든 프롬프트에 캐릭터가 카메라/관객을 바라보거나 인지해서는 안 된다는 제약을 추가하세요(캐릭터가 “자기 세계 안에” 머물도록 유지).  \n각 프롬프트에서 정확한 movement blocking을 명시해 애니메이션을 제어하세요(어떻게 걷는지, 방향, 기타 세부 동작 포함).  \n캐릭터별로 성격/행동 지시를 포함해(meme lore와 시그니처 리액션에 맞게) 퍼포먼스의 일관성을 유지하세요.  \nNPC/엑스트라와 명시적인 “lively street” 활동으로 장면을 채워 세계가 비어 있거나 황량하게 느껴지지 않도록 하세요."
+    },
+    "pt": {
+      "content": "Dê ao Claude os arquivos dos seus personagens e o roteiro, depois instrua-o a dividir a história em vários segmentos e gerar prompts do Seedance 2.5 usando uma estrutura de prompt predefinida.  \nNos prompts do Seedance 2.5, marque cada personagem na seção [Characters] usando exatamente os nomes dos arquivos anexados sempre que eles aparecerem.  \nPeça muitos cortes e ângulos cinematográficos, e baseie os planos em stills devidamente estabelecidos para manter a consistência de personagem, ambiente e espacial entre os segmentos.  \nAdicione uma restrição em cada prompt de que os personagens não devem encarar nem reconhecer a câmera/audiência (mantendo-os “no próprio mundo”).  \nEspecifique um blocking de movimento preciso em cada prompt (como eles andam, a direção e outros movimentos detalhados) para controlar a animação.  \nInclua diretrizes de personalidade/comportamento para cada personagem (combine o lore dos memes e as reações características) para manter as performances consistentes.  \nPreencha as cenas com NPCs/figurantes e atividade explícita de “rua movimentada” para que o mundo não pareça vazio ou desolado."
+    },
+    "zh": {
+      "content": "将你的角色文件和剧本交给 Claude，然后指示它把故事拆分成多个片段，并使用预定义的 prompt 结构输出 Seedance 2.5 prompts。  \n在 Seedance 2.5 prompts 中，每当角色出现在 [Characters] 部分时，都要使用其精确的附件文件名进行标注。  \n提示加入大量 cuts 和 cinematic angles，并基于已正确建立的静帧来设计镜头，以在不同片段之间保持角色、环境和空间一致性。  \n在每个 prompt 中都加入一条约束：角色不得面对或回应 camera/audience（让他们保持“活在自己的世界里”）。  \n在每个 prompt 中指定精确的 movement blocking（他们如何行走、朝哪个方向移动，以及其他细节动作），以控制动画表现。  \n为每个角色加入 personality/behavior 指令（匹配 meme lore 和标志性反应），以保持表演风格一致。  \n在场景中填充 NPCs/extras 和明确的 “lively street” 活动，让世界看起来不空旷、不荒凉。"
+    }
+  }
+}

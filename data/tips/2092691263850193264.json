@@ -1,0 +1,42 @@
+{
+  "id": "2092691263850193264",
+  "title": "Write the full 30-second sequence first, then split it into two connected…",
+  "content": "Write the full 30-second sequence first, then split it into two connected 15-second parts for generation.  \nCreate a simple 12-frame storyboard for each part before prompting.  \nLock consistent elements across shots (rider, bike, mountain geography, downhill direction) to maintain continuity.  \nIn Dreamina, use AI Video → Dreamina Seedance 2.5 → Omni Reference for this workflow.  \nAdd the storyboard plus character and bike reference images in Omni Reference to guide the model.  \nPrompt each shot with real bike-physics actions (weight transfer, braking, suspension, landing, recovery) to improve realism.  \nGenerate Part 1 first, then continue Part 2 from Part 1’s final state to preserve continuity.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092691179053981696/img/gncAV2AqYCTmMEfk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092691263850193264.mp4",
+  "sourceLink": "https://x.com/beginnersblog1/status/2092691263850193264",
+  "sourcePublishedAt": "2026-08-26",
+  "author": {
+    "name": "Beginnersblog",
+    "link": "https://x.com/beginnersblog1"
+  },
+  "tags": [
+    "Sports",
+    "Extreme",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Write the full 30-second sequence first, then split it into two connected 15-second parts for generation.  \nCreate a simple 12-frame storyboard for each part before prompting.  \nLock consistent elements across shots (rider, bike, mountain geography, downhill direction) to maintain continuity.  \nIn Dreamina, use AI Video → Dreamina Seedance 2.5 → Omni Reference for this workflow.  \nAdd the storyboard plus character and bike reference images in Omni Reference to guide the model.  \nPrompt each shot with real bike-physics actions (weight transfer, braking, suspension, landing, recovery) to improve realism.  \nGenerate Part 1 first, then continue Part 2 from Part 1’s final state to preserve continuity.",
+  "translations": {
+    "es": {
+      "content": "Escribe primero la secuencia completa de 30 segundos y luego divídela en dos partes conectadas de 15 segundos para la generación.  \nCrea un storyboard sencillo de 12 fotogramas para cada parte antes de hacer el prompt.  \nBloquea elementos consistentes entre tomas (jinete, bicicleta, geografía de la montaña, dirección cuesta abajo) para mantener la continuidad.  \nEn Dreamina, usa AI Video → Dreamina Seedance 2.5 → Omni Reference para este flujo de trabajo.  \nAñade el storyboard junto con imágenes de referencia del personaje y de la bicicleta en Omni Reference para guiar al modelo.  \nHaz el prompt de cada toma con acciones reales de física de la bicicleta (transferencia de peso, frenado, suspensión, aterrizaje, recuperación) para mejorar el realismo.  \nGenera primero la Parte 1 y luego continúa la Parte 2 desde el estado final de la Parte 1 para preservar la continuidad."
+    },
+    "fr": {
+      "content": "Écrivez d’abord la séquence complète de 30 secondes, puis divisez-la en deux parties connectées de 15 secondes pour la génération.  \nCréez un storyboard simple de 12 images pour chaque partie avant de rédiger le prompt.  \nVerrouillez les éléments cohérents d’un plan à l’autre (pilote, vélo, géographie de la montagne, direction de la descente) afin de maintenir la continuité.  \nDans Dreamina, utilisez AI Video → Dreamina Seedance 2.5 → Omni Reference pour ce workflow.  \nAjoutez le storyboard ainsi que des images de référence du personnage et du vélo dans Omni Reference pour guider le modèle.  \nRédigez le prompt de chaque plan avec des actions de vraie physique du vélo (transfert de poids, freinage, suspension, réception, récupération) afin d’améliorer le réalisme.  \nGénérez d’abord la Partie 1, puis enchaînez la Partie 2 à partir de l’état final de la Partie 1 pour préserver la continuité."
+    },
+    "ja": {
+      "content": "まず全体の30秒シーケンスを書き出し、その後、生成用に連続した2つの15秒パートに分割します。  \nプロンプトを作成する前に、各パートごとにシンプルな12フレームのストーリーボードを作成します。  \nショット間で一貫性のある要素（ライダー、バイク、山の地形、下り方向）を固定し、連続性を維持します。  \nDreaminaでは、このワークフローに AI Video → Dreamina Seedance 2.5 → Omni Reference を使用します。  \nモデルのガイドとして、ストーリーボードに加えて、キャラクターとバイクの参照画像を Omni Reference に追加します。  \n各ショットのプロンプトには、実際のバイクの物理挙動（体重移動、ブレーキング、サスペンション、着地、リカバリー）を入れて、リアリズムを高めます。  \nまず Part 1 を生成し、その後 Part 1 の最終状態から Part 2 を続けて生成して、連続性を保ちます。"
+    },
+    "ko": {
+      "content": "먼저 전체 30초 시퀀스를 작성한 다음, 이를 생성용으로 서로 연결되는 두 개의 15초 파트로 나누세요.  \n프롬프트를 넣기 전에 각 파트마다 간단한 12프레임 스토리보드를 만드세요.  \n연속성을 유지하기 위해 샷 전반에서 일관된 요소(라이더, 자전거, 산 지형, 내리막 방향)를 고정하세요.  \nDreamina에서는 이 워크플로에 AI Video → Dreamina Seedance 2.5 → Omni Reference를 사용하세요.  \n모델을 안내하기 위해 Omni Reference에 스토리보드와 캐릭터 및 자전거 레퍼런스 이미지를 추가하세요.  \n더 높은 사실감을 위해 각 샷을 실제 자전거 물리 동작(체중 이동, 브레이킹, 서스펜션, 착지, 복구)으로 프롬프트하세요.  \n먼저 Part 1을 생성한 다음, 연속성을 유지하기 위해 Part 1의 최종 상태에서 이어서 Part 2를 생성하세요."
+    },
+    "pt": {
+      "content": "Escreva primeiro a sequência completa de 30 segundos e, em seguida, divida-a em duas partes conectadas de 15 segundos para a geração.  \nCrie um storyboard simples de 12 quadros para cada parte antes de fazer o prompting.  \nTrave elementos consistentes entre os planos (piloto, bicicleta, geografia da montanha, direção da descida) para manter a continuidade.  \nNo Dreamina, use AI Video → Dreamina Seedance 2.5 → Omni Reference para este fluxo de trabalho.  \nAdicione o storyboard, além de imagens de referência do personagem e da bicicleta, no Omni Reference para orientar o modelo.  \nFaça o prompt de cada plano com ações reais de física da bicicleta (transferência de peso, frenagem, suspensão, aterrissagem, recuperação) para aumentar o realismo.  \nGere primeiro a Parte 1 e, depois, continue a Parte 2 a partir do estado final da Parte 1 para preservar a continuidade."
+    },
+    "zh": {
+      "content": "先完整写出 30 秒的序列，然后将其拆分为两个相互衔接的 15 秒部分进行生成。  \n在开始提示词之前，为每个部分创建一个简单的 12 帧分镜脚本。  \n锁定各镜头之间的一致元素（骑手、自行车、山地地形、下坡方向），以保持连续性。  \n在 Dreamina 中，使用 AI Video → Dreamina Seedance 2.5 → Omni Reference 来完成这一工作流。  \n在 Omni Reference 中添加分镜脚本以及角色和自行车参考图像，以引导模型。  \n在每个镜头的 prompt 中加入真实的自行车物理动作（重心转移、刹车、悬挂、落地、恢复），以提升真实感。  \n先生成 Part 1，然后从 Part 1 的最终状态继续生成 Part 2，以保持连续性。"
+    }
+  }
+}

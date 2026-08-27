@@ -1,0 +1,42 @@
+{
+  "id": "2092428121085800885",
+  "title": "Seedance2.5を480pで生成してから、OiiOii内のTopazlabsで高画質化（アップスケール）するワークフローを使う",
+  "content": "Seedance2.5を480pで生成してから、OiiOii内のTopazlabsで高画質化（アップスケール）するワークフローを使う  \nイメージショット1枚を入力してOiiOiiでアニメシーンを作る",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092427394783252480/img/ean2tz_inpudoZy3.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092428121085800885.mp4",
+  "sourceLink": "https://x.com/neco1751662/status/2092428121085800885",
+  "sourcePublishedAt": "2026-08-26",
+  "author": {
+    "name": "neco - AI Anime",
+    "link": "https://x.com/neco1751662"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.5を480pで生成してから、OiiOii内のTopazlabsで高画質化（アップスケール）するワークフローを使う  \nイメージショット1枚を入力してOiiOiiでアニメシーンを作る",
+  "translations": {
+    "en": {
+      "content": "Use a workflow where you generate with Seedance 2.5 at 480p, then enhance the quality (upscale) in Topaz Labs within OiiOii.  \nInput a single image shot and create an anime scene in OiiOii.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Image shot used: https://t.co/jDIXX7N0dl\n---"
+    },
+    "es": {
+      "content": "Usar un flujo de trabajo en el que se genera Seedance2.5 en 480p y luego se mejora la calidad (upscale) con Topazlabs dentro de OiiOii  \nIntroducir una sola imagen de referencia para crear una escena de anime en OiiOii\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Imagen de referencia utilizada https://t.co/jDIXX7N0dl\n---"
+    },
+    "fr": {
+      "content": "Utiliser un workflow consistant à générer avec Seedance2.5 en 480p, puis à améliorer la qualité (upscale) dans Topazlabs au sein d’OiiOii  \nCréer une scène d’animation dans OiiOii à partir d’une seule image de référence\n\n--- THREAD CONTINUATION ---\n[Thread 1] Image de référence utilisée https://t.co/jDIXX7N0dl\n---"
+    },
+    "ko": {
+      "content": "Seedance2.5를 480p로 생성한 뒤, OiiOii 내의 Topazlabs에서 고화질화(업스케일)하는 워크플로를 사용  \n이미지 샷 1장을 입력해 OiiOii에서 애니메이션 장면을 만든다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 사용한 이미지 샷 https://t.co/jDIXX7N0dl\n---"
+    },
+    "pt": {
+      "content": "Usar um workflow em que o Seedance2.5 é gerado em 480p e depois aprimorado em alta qualidade (upscale) no Topazlabs dentro do OiiOii  \nInserir uma única imagem de referência e criar uma cena de anime no OiiOii\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Imagem de referência utilizada https://t.co/jDIXX7N0dl\n---"
+    },
+    "zh": {
+      "content": "使用 Seedance2.5 以 480p 生成后，再在 OiiOii 内的 Topazlabs 进行高画质化（upscale）的工作流程  \n输入一张 image shot，在 OiiOii 中制作动画场景\n\n--- THREAD CONTINUATION ---\n[Thread 1] 使用的 image shot https://t.co/jDIXX7N0dl\n---"
+    }
+  }
+}

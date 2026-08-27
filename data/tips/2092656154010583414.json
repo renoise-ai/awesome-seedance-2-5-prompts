@@ -1,0 +1,41 @@
+{
+  "id": "2092656154010583414",
+  "title": "Specify the exact clip length in the prompt (e.g., 15 seconds) and break the…",
+  "content": "Specify the exact clip length in the prompt (e.g., 15 seconds) and break the timeline into timestamped beats (e.g., 0:00–0:02, 0:02–0:04) to control pacing and rapid location cuts.\n\nUse an uploaded character sheet as a strict visual reference and explicitly lock identity traits (face/expression, outfit, running style) to keep the character consistent across scene changes.\n\nCall out “sudden cut” between locations and define the camera language per beat (wide/close/overhead/low-angle/side-profile tracking) to steer shot variety and motion.\n\nIf generating with audio, specify the music style and continuity rules (starts at frame one, never fades/drops) and tie audio beats to visual events (synced to each location change, comedic hits on surprises).\n\nDefine a consistent visual style stack (cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality) and assign distinct lighting/atmosphere per location to differentiate scenes.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/TechieBySA/status/2092656154010583414",
+  "sourcePublishedAt": "2026-08-26",
+  "author": {
+    "name": "TechieSA",
+    "link": "https://x.com/TechieBySA"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Specify the exact clip length in the prompt (e.g., 15 seconds) and break the timeline into timestamped beats (e.g., 0:00–0:02, 0:02–0:04) to control pacing and rapid location cuts.\n\nUse an uploaded character sheet as a strict visual reference and explicitly lock identity traits (face/expression, outfit, running style) to keep the character consistent across scene changes.\n\nCall out “sudden cut” between locations and define the camera language per beat (wide/close/overhead/low-angle/side-profile tracking) to steer shot variety and motion.\n\nIf generating with audio, specify the music style and continuity rules (starts at frame one, never fades/drops) and tie audio beats to visual events (synced to each location change, comedic hits on surprises).\n\nDefine a consistent visual style stack (cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality) and assign distinct lighting/atmosphere per location to differentiate scenes.",
+  "translations": {
+    "es": {
+      "content": "Especifica la duración exacta del clip en el prompt (por ejemplo, 15 segundos) y divide la línea de tiempo en beats con marcas de tiempo (por ejemplo, 0:00–0:02, 0:02–0:04) para controlar el ritmo y los cortes rápidos de ubicación.\n\nUsa una hoja de personaje subida como referencia visual estricta y bloquea explícitamente los rasgos de identidad (rostro/expresión, vestuario, estilo de carrera) para mantener al personaje consistente entre cambios de escena.\n\nIndica “sudden cut” entre ubicaciones y define el lenguaje de cámara por beat (wide/close/overhead/low-angle/side-profile tracking) para guiar la variedad de planos y el movimiento.\n\nSi generas con audio, especifica el estilo musical y las reglas de continuidad (empieza en el frame uno, nunca se desvanece ni se corta) y vincula los beats de audio a eventos visuales (sincronizados con cada cambio de ubicación, golpes cómicos en los momentos sorpresa).\n\nDefine un stack de estilo visual consistente (cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, calidad Unreal Engine) y asigna una iluminación/atmósfera distinta para cada ubicación para diferenciar las escenas."
+    },
+    "fr": {
+      "content": "Précisez la durée exacte du clip dans le prompt (par exemple, 15 secondes) et découpez la timeline en beats horodatés (par exemple, 0:00–0:02, 0:02–0:04) afin de contrôler le rythme et les coupes rapides entre les lieux.\n\nUtilisez une character sheet importée comme référence visuelle stricte et verrouillez explicitement les traits d’identité (visage/expression, tenue, style de course) pour maintenir la cohérence du personnage d’une scène à l’autre.\n\nIndiquez « sudden cut » entre les lieux et définissez le langage caméra pour chaque beat (wide/close/overhead/low-angle/side-profile tracking) afin d’orienter la variété des plans et le mouvement.\n\nSi vous générez avec de l’audio, précisez le style musical et les règles de continuité (commence à la première frame, ne fade jamais, ne drop jamais) et reliez les beats audio aux événements visuels (synchronisés à chaque changement de lieu, accents comiques sur les surprises).\n\nDéfinissez une stack de style visuel cohérente (cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, qualité Unreal Engine) et attribuez un éclairage/une atmosphère distincts à chaque lieu pour différencier les scènes."
+    },
+    "ja": {
+      "content": "プロンプト内で正確なクリップ長を指定し（例：15秒）、タイムラインをタイムスタンプ付きのビートに分割します（例：0:00–0:02、0:02–0:04）。これにより、テンポと素早いロケーション切り替えをコントロールできます。\n\nアップロードしたキャラクターシートを厳密なビジュアル参照として使用し、顔・表情、衣装、走り方といったアイデンティティ要素を明示的に固定して、シーンが変わってもキャラクターの一貫性を保ちます。\n\nロケーション間の切り替えでは「sudden cut」を明記し、各ビートごとにカメラ言語（wide/close/overhead/low-angle/side-profile tracking）を定義して、ショットのバリエーションと動きを誘導します。\n\n音声付きで生成する場合は、音楽のスタイルと継続ルール（1フレーム目から始まり、フェードアウトや音量低下はしない）を指定し、音のビートを視覚的なイベントに結び付けます（各ロケーション変更に同期、驚きの場面ではコメディ調のヒット音を入れる）。\n\n一貫したビジュアルスタイルのスタック（cinematic cel-shaded 3D anime、semi-realistic CGI、hand-painted textures、Unreal Engine quality）を定義し、各ロケーションごとに異なるライティング／雰囲気を割り当ててシーンを差別化します。"
+    },
+    "ko": {
+      "content": "프롬프트에 정확한 클립 길이(예: 15초)를 명시하고, 타임라인을 타임스탬프가 표시된 비트(예: 0:00–0:02, 0:02–0:04)로 나누어 페이싱과 빠른 장소 전환을 제어하세요.\n\n업로드한 캐릭터 시트를 엄격한 시각적 레퍼런스로 사용하고, 얼굴/표정, 의상, 달리는 스타일 같은 정체성 특징을 명시적으로 고정해 장면이 바뀌어도 캐릭터가 일관되게 유지되도록 하세요.\n\n장소가 바뀔 때는 “sudden cut”을 명시하고, 각 비트마다 카메라 언어(wide/close/overhead/low-angle/side-profile tracking)를 정의해 샷의 다양성과 움직임을 유도하세요.\n\n오디오를 생성하는 경우, 음악 스타일과 연속성 규칙(첫 프레임에서 시작, 절대 페이드아웃/드롭 없음)을 지정하고, 오디오 비트를 시각적 이벤트와 연결하세요(각 장소 전환에 맞춰 동기화, 놀라운 순간에는 코믹한 히트).\n\n일관된 비주얼 스타일 스택(cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality)을 정의하고, 장면을 구분하기 위해 각 장소마다 고유한 조명/분위기를 지정하세요."
+    },
+    "pt": {
+      "content": "Especifique a duração exata do clipe no prompt (por exemplo, 15 segundos) e divida a linha do tempo em beats com marcação de tempo (por exemplo, 0:00–0:02, 0:02–0:04) para controlar o ritmo e as mudanças rápidas de locação.\n\nUse uma character sheet enviada como referência visual rigorosa e trave explicitamente os traços de identidade (rosto/expressão, roupa, estilo de corrida) para manter o personagem consistente entre as mudanças de cena.\n\nIndique “sudden cut” entre as locações e defina a linguagem de câmera por beat (wide/close/overhead/low-angle/side-profile tracking) para orientar a variedade de enquadramentos e o movimento.\n\nSe estiver gerando com áudio, especifique o estilo musical e as regras de continuidade (começa no frame one, nunca faz fade/drops) e conecte os beats de áudio aos eventos visuais (sincronizados com cada mudança de locação, impactos cômicos em surpresas).\n\nDefina uma visual style stack consistente (cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality) e atribua iluminação/atmosfera distintas para cada locação para diferenciar as cenas."
+    },
+    "zh": {
+      "content": "在 prompt 中明确指定精确的片段时长（例如 15 秒），并将时间线拆分为带时间戳的节拍（例如 0:00–0:02、0:02–0:04），以控制节奏和快速的地点切换。\n\n使用上传的角色设定表作为严格的视觉参考，并明确锁定身份特征（面部/表情、服装、奔跑风格），以确保角色在不同场景切换中保持一致。\n\n明确标注地点之间的“sudden cut”，并为每个节拍定义 camera language（wide/close/overhead/low-angle/side-profile tracking），以引导镜头多样性和运动方式。\n\n如果生成内容包含音频，请指定音乐风格和连续性规则（从第一个 frame 开始，绝不淡出/中断），并将音频节拍与视觉事件对应起来（与每次地点变化同步，在惊喜时加入喜剧性重音）。\n\n定义统一的视觉风格栈（cinematic cel-shaded 3D anime、semi-realistic CGI、hand-painted textures、Unreal Engine quality），并为每个地点分配不同的 lighting/atmosphere，以区分各个场景。"
+    }
+  }
+}

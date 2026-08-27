@@ -1,0 +1,41 @@
+{
+  "id": "2092478071781621874",
+  "title": "Start with your brand brief inside Flova Agent, then run a Flova Skill built…",
+  "content": "Start with your brand brief inside Flova Agent, then run a Flova Skill built for brand commercials/creative ads to structure the workflow before generating in Seedance.  \nUse Seedance 2.5 to generate each shot with up to 50 reference images to keep the product consistent across different visual styles.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/alxcz_dev/status/2092478071781621874",
+  "sourcePublishedAt": "2026-08-26",
+  "author": {
+    "name": "alex developer",
+    "link": "https://x.com/alxcz_dev"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Start with your brand brief inside Flova Agent, then run a Flova Skill built for brand commercials/creative ads to structure the workflow before generating in Seedance.  \nUse Seedance 2.5 to generate each shot with up to 50 reference images to keep the product consistent across different visual styles.",
+  "translations": {
+    "es": {
+      "content": "Comienza con el brief de tu marca dentro de Flova Agent, y luego ejecuta una Flova Skill diseñada para comerciales de marca/anuncios creativos para estructurar el flujo de trabajo antes de generar en Seedance.  \nUsa Seedance 2.5 para generar cada plano con hasta 50 imágenes de referencia, a fin de mantener el producto consistente en distintos estilos visuales."
+    },
+    "fr": {
+      "content": "Commencez par votre brief de marque dans Flova Agent, puis lancez une Flova Skill conçue pour les publicités de marque / ads créatives afin de structurer le workflow avant de générer dans Seedance.  \nUtilisez Seedance 2.5 pour générer chaque plan avec jusqu’à 50 images de référence afin de conserver la cohérence du produit à travers différents styles visuels."
+    },
+    "ja": {
+      "content": "Flova Agent内でブランドブリーフから始め、その後、ブランドCM／クリエイティブ広告向けに構築されたFlova Skillを実行して、Seedanceで生成する前にワークフローを整理します。  \nSeedance 2.5を使って各ショットを生成し、最大50枚の参照画像を活用することで、異なるビジュアルスタイルでも製品の一貫性を保てます。"
+    },
+    "ko": {
+      "content": "Flova Agent 안에서 브랜드 브리프를 먼저 입력한 다음, Seedance에서 생성하기 전에 브랜드 광고/크리에이티브 광고용으로 제작된 Flova Skill을 실행해 워크플로를 구조화하세요.  \nSeedance 2.5를 사용해 각 샷을 생성하고, 최대 50장의 레퍼런스 이미지를 활용해 서로 다른 비주얼 스타일에서도 제품의 일관성을 유지하세요."
+    },
+    "pt": {
+      "content": "Comece com o briefing da sua marca dentro do Flova Agent e, em seguida, execute uma Flova Skill criada para comerciais de marca/anúncios criativos para estruturar o fluxo de trabalho antes de gerar no Seedance.  \nUse o Seedance 2.5 para gerar cada cena com até 50 imagens de referência, mantendo o produto consistente em diferentes estilos visuais."
+    },
+    "zh": {
+      "content": "先在 Flova Agent 中输入你的品牌 brief，然后运行一个专为品牌广告/创意广告设计的 Flova Skill，在 Seedance 中生成之前先把工作流程结构化。  \n使用 Seedance 2.5 为每个镜头生成内容，并最多可使用 50 张参考图像，以确保产品在不同视觉风格下保持一致。"
+    }
+  }
+}

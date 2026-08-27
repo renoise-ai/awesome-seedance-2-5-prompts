@@ -1,0 +1,43 @@
+{
+  "id": "2092624781946347659",
+  "title": "Lock motion first by creating a 3D white-model previz with the exact camera…",
+  "content": "Lock motion first by creating a 3D white-model previz with the exact camera, trajectories, and timing you want, then keep that motion unchanged while using Seedance 2.5 prompts and reference inputs to overlay the final stylized look.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092624707229016064/img/dCr8UzNPC81KjWN2.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092624781946347659.mp4",
+  "sourceLink": "https://x.com/ai_mov_director/status/2092624781946347659",
+  "sourcePublishedAt": "2026-08-26",
+  "author": {
+    "name": "Volodymyr Kondratenko",
+    "link": "https://x.com/ai_mov_director"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "Model Showcase"
+  ],
+  "tips": "Lock motion first by creating a 3D white-model previz with the exact camera, trajectories, and timing you want, then keep that motion unchanged while using Seedance 2.5 prompts and reference inputs to overlay the final stylized look.",
+  "translations": {
+    "es": {
+      "content": "Bloquea primero el movimiento creando una previz en modelo blanco 3D con la cámara, las trayectorias y el timing exactos que quieres, y luego mantén ese movimiento sin cambios mientras usas prompts de Seedance 2.5 y entradas de referencia para superponer el look estilizado final."
+    },
+    "fr": {
+      "content": "Verrouillez d’abord le mouvement en créant un previz en modèle blanc 3D avec la caméra, les trajectoires et le timing exacts que vous souhaitez, puis conservez ce mouvement inchangé tout en utilisant des prompts Seedance 2.5 et des inputs de référence pour superposer le rendu stylisé final."
+    },
+    "ja": {
+      "content": "まず、希望するカメラ、軌道、タイミングを正確に反映した3Dの白モデルprevizを作成してモーションを固定し、そのモーションを変更せずに、Seedance 2.5のpromptとreference inputを使って最終的なスタイライズされた見た目を重ねます。"
+    },
+    "ko": {
+      "content": "먼저 원하는 정확한 카메라, 궤적, 타이밍으로 3D 화이트 모델 previz를 만들어 모션을 고정한 다음, 그 모션은 그대로 유지한 채 Seedance 2.5 prompts와 reference inputs를 사용해 최종 스타일링된 룩을 입히세요."
+    },
+    "pt": {
+      "content": "Trave primeiro o movimento criando uma previz em modelo branco 3D com a câmera, as trajetórias e o timing exatos que você deseja; depois, mantenha esse movimento inalterado enquanto usa prompts do Seedance 2.5 e inputs de referência para sobrepor o visual estilizado final."
+    },
+    "zh": {
+      "content": "先通过创建一个 3D 白模 previz，精确设定你想要的镜头、运动轨迹和时间节奏，先锁定 motion；然后在保持该 motion 不变的前提下，使用 Seedance 2.5 prompts 和 reference inputs 叠加最终的风格化效果。"
+    }
+  }
+}

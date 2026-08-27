@@ -1,0 +1,43 @@
+{
+  "id": "2092590188493205623",
+  "title": "Midjourneyで生成したアニメスタイルのイラストからキャラシートを作成し、同一プロンプトでR2V生成してモデル比較を行う",
+  "content": "Midjourneyで生成したアニメスタイルのイラストからキャラシートを作成し、同一プロンプトでR2V生成してモデル比較を行う",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092588482258665472/img/ThJCQw6IDBrXx5BT.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092590188493205623.mp4",
+  "sourceLink": "https://x.com/wtry1102/status/2092590188493205623",
+  "sourcePublishedAt": "2026-08-26",
+  "author": {
+    "name": "WTR",
+    "link": "https://x.com/wtry1102"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Anime 2D",
+    "Fantasy",
+    "Creative Asset",
+    "Model Showcase"
+  ],
+  "tips": "Midjourneyで生成したアニメスタイルのイラストからキャラシートを作成し、同一プロンプトでR2V生成してモデル比較を行う",
+  "translations": {
+    "en": {
+      "content": "Create a character sheet from an anime-style illustration generated in Midjourney, then use the same prompt for R2V generation and compare the models\n\n--- THREAD CONTINUATION ---\n[Thread 1] Key image and character sheet used https://t.co/D2MsCutMC2\n---"
+    },
+    "es": {
+      "content": "Crear una character sheet a partir de una ilustración de estilo anime generada con Midjourney y realizar una generación R2V con el mismo prompt para comparar modelos\n\n--- CONTINUACIÓN DEL THREAD ---\n[Thread 1] Imagen clave y character sheet utilizadas https://t.co/D2MsCutMC2\n---"
+    },
+    "fr": {
+      "content": "Créer une character sheet à partir d’une illustration de style anime générée avec Midjourney, puis effectuer une génération R2V avec le même prompt afin de comparer les modèles\n\n--- THREAD CONTINUATION ---\n[Thread 1] Image clé utilisée et character sheet https://t.co/D2MsCutMC2\n---"
+    },
+    "ko": {
+      "content": "Midjourney로 생성한 애니메이션 스타일 일러스트에서 캐릭터 시트를 제작하고, 동일한 prompt로 R2V를 생성해 모델 비교를 진행하기\n\n--- THREAD CONTINUATION ---\n[Thread 1] 사용한 키 이미지와 캐릭터 시트 https://t.co/D2MsCutMC2\n---"
+    },
+    "pt": {
+      "content": "Criar uma character sheet a partir de ilustrações em estilo anime geradas no Midjourney e fazer a geração R2V com o mesmo prompt para comparar os modelos\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Imagem-chave e character sheet utilizadas https://t.co/D2MsCutMC2\n---"
+    },
+    "zh": {
+      "content": "从 Midjourney 生成的动漫风格插画制作角色设定表，并使用相同的 prompt 进行 R2V 生成以比较模型\n\n--- 线程续篇 ---\n[Thread 1] 使用的关键图像和角色设定表 https://t.co/D2MsCutMC2\n---"
+    }
+  }
+}

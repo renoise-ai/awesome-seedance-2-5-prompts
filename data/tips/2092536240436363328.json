@@ -1,0 +1,42 @@
+{
+  "id": "2092536240436363328",
+  "title": "上传一张自己的图片作为参考图，并在 Seedance 2.5 中输入提示词 SEEDANCE…",
+  "content": "上传一张自己的图片作为参考图，并在 Seedance 2.5 中输入提示词 SEEDANCE 2.5｜水上人形墙挑战，生成同款真人水上综艺闯关风格视频（Live-Action Water Game）。",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092535890736205824/img/Xp0GQ6C-OnRpTlfo.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092536240436363328.mp4",
+  "sourceLink": "https://x.com/johnAGI168/status/2092536240436363328",
+  "sourcePublishedAt": "2026-08-26",
+  "author": {
+    "name": "John",
+    "link": "https://x.com/johnAGI168"
+  },
+  "tags": [
+    "Sports",
+    "Other Competition",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "上传一张自己的图片作为参考图，并在 Seedance 2.5 中输入提示词 SEEDANCE 2.5｜水上人形墙挑战，生成同款真人水上综艺闯关风格视频（Live-Action Water Game）。",
+  "translations": {
+    "en": {
+      "content": "Upload one of your own images as a reference image, then enter the prompt SEEDANCE 2.5 | Water Human Wall Challenge in Seedance 2.5 to generate a live-action water variety show obstacle-course style video (Live-Action Water Game)."
+    },
+    "es": {
+      "content": "Sube una imagen tuya como imagen de referencia y, en Seedance 2.5, introduce el prompt SEEDANCE 2.5｜水上人形墙挑战 para generar un video del mismo estilo de reality show de pruebas acuáticas con personas reales (Live-Action Water Game)."
+    },
+    "fr": {
+      "content": "Téléchargez une image de vous-même comme image de référence, puis saisissez dans Seedance 2.5 le prompt SEEDANCE 2.5｜水上人形墙挑战, afin de générer une vidéo au style identique de jeu télévisé aquatique en live-action (Live-Action Water Game)."
+    },
+    "ja": {
+      "content": "自分の画像を参考画像としてアップロードし、Seedance 2.5 にプロンプト「SEEDANCE 2.5｜水上人形墙挑战」を入力すると、同じ雰囲気の実写の水上バラエティ番組チャレンジ風動画（Live-Action Water Game）を生成できます。"
+    },
+    "ko": {
+      "content": "자신의 이미지를 참고 이미지로 업로드한 뒤, Seedance 2.5에 프롬프트 **SEEDANCE 2.5｜수상 인형 벽 챌린지**를 입력하면, 같은 스타일의 실사 수상 예능 게임 도전 영상(Live-Action Water Game)을 생성할 수 있습니다."
+    },
+    "pt": {
+      "content": "Envie uma imagem sua como imagem de referência e, no Seedance 2.5, insira o prompt SEEDANCE 2.5｜水上人形墙挑战 para gerar um vídeo no mesmo estilo de reality show de desafios aquáticos com atores reais (Live-Action Water Game)."
+    }
+  }
+}

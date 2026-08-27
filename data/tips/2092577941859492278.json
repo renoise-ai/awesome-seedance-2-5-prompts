@@ -1,0 +1,41 @@
+{
+  "id": "2092577941859492278",
+  "title": "Use a 9:16 vertical composition prompt (portrait) when Seedance is only…",
+  "content": "Use a 9:16 vertical composition prompt (portrait) when Seedance is only generating portrait outputs  \nAdd Soft-light CCD aesthetic, hazy diffusion, subtle highlight bloom to get a soft, bloomy CCD look  \nSpecify low-angle shot from behind to control camera angle and framing",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/BubbleBrain/status/2092577941859492278",
+  "sourcePublishedAt": "2026-08-26",
+  "author": {
+    "name": "BubbleBrain",
+    "link": "https://x.com/BubbleBrain"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a 9:16 vertical composition prompt (portrait) when Seedance is only generating portrait outputs  \nAdd Soft-light CCD aesthetic, hazy diffusion, subtle highlight bloom to get a soft, bloomy CCD look  \nSpecify low-angle shot from behind to control camera angle and framing",
+  "translations": {
+    "es": {
+      "content": "---\nUsa un prompt de composición vertical 9:16 (retrato) cuando Seedance solo esté generando resultados en formato retrato  \nAñade una estética CCD de soft-light, difusión brumosa y un sutil bloom en las altas luces para lograr un aspecto CCD suave y luminoso  \nEspecifica una toma en ángulo bajo desde atrás para controlar el ángulo de cámara y el encuadre\n---"
+    },
+    "fr": {
+      "content": "Utilisez un prompt de composition verticale 9:16 (portrait) lorsque Seedance génère uniquement des sorties en format portrait  \nAjoutez une esthétique CCD en soft-light, une diffusion brumeuse et un léger bloom des hautes lumières pour obtenir un rendu CCD doux et lumineux  \nPrécisez une prise de vue en contre-plongée depuis l’arrière pour contrôler l’angle de caméra et le cadrage"
+    },
+    "ja": {
+      "content": "Seedance がポートレート出力のみを生成する場合は、9:16 の縦構図（portrait）プロンプトを使用する  \nSoft-light CCD aesthetic、hazy diffusion、subtle highlight bloom を加えて、柔らかくふんわりした CCD 風の見た目にする  \nカメラアングルとフレーミングをコントロールするために、後方からのローアングルショットを指定する"
+    },
+    "ko": {
+      "content": "Seedance가 세로형 출력만 생성할 때는 9:16 세로 구도 프롬프트(포트레이트)를 사용하세요  \n부드럽고 블루미한 CCD 느낌을 얻으려면 Soft-light CCD aesthetic, hazy diffusion, subtle highlight bloom을 추가하세요  \n카메라 앵글과 프레이밍을 제어하려면 뒤에서 낮은 앵글로 촬영한 구도라고 명시하세요"
+    },
+    "pt": {
+      "content": "Use um prompt de composição vertical 9:16 (retrato) quando o Seedance estiver gerando apenas saídas em retrato  \nAdicione estética CCD em soft-light, difusão enevoada e bloom sutil nos highlights para obter um visual CCD suave e com brilho  \nEspecifique um low-angle shot from behind para controlar o ângulo da câmera e o enquadramento"
+    },
+    "zh": {
+      "content": "仅在 Seedance 只生成竖屏输出时，使用 9:16 竖构图提示词（portrait）  \n添加 Soft-light CCD aesthetic、hazy diffusion、subtle highlight bloom，以获得柔和、朦胧的 CCD 质感  \n指定 low-angle shot from behind，以控制镜头角度和画面构图"
+    }
+  }
+}

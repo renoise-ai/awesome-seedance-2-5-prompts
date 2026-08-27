@@ -1,0 +1,42 @@
+{
+  "id": "2092508028268687519",
+  "title": "Use Seedance 2.5 to build animated storybooks by keeping characters…",
+  "content": "Use Seedance 2.5 to build animated storybooks by keeping characters, illustration style, and story consistent from scene to scene.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092459476783972352/img/udFat0xqIsrfH8w8.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092508028268687519.mp4",
+  "sourceLink": "https://x.com/renoiseai/status/2092508028268687519",
+  "sourcePublishedAt": "2026-08-26",
+  "author": {
+    "name": "Renoise",
+    "link": "https://x.com/renoiseai"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 to build animated storybooks by keeping characters, illustration style, and story consistent from scene to scene.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 para crear libros de cuentos animados manteniendo coherentes los personajes, el estilo de ilustración y la historia de una escena a otra."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 pour créer des livres d’histoires animés en conservant la cohérence des personnages, du style d’illustration et de l’histoire d’une scène à l’autre."
+    },
+    "ja": {
+      "content": "Seedance 2.5 を使って、キャラクター、イラストスタイル、ストーリーの一貫性をシーンごとに保ちながら、アニメーション付きの絵本を作成しましょう。"
+    },
+    "ko": {
+      "content": "Seedance 2.5를 사용해 캐릭터, 일러스트 스타일, 스토리를 장면마다 일관되게 유지하면서 애니메이션 스토리북을 만들어 보세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 para criar livros de histórias animados, mantendo os personagens, o estilo de ilustração e a história consistentes de cena para cena."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 通过在不同场景中保持角色、插画风格和故事的一致性，来制作动画故事书。"
+    }
+  }
+}

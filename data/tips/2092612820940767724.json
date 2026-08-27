@@ -1,0 +1,42 @@
+{
+  "id": "2092612820940767724",
+  "title": "Upload an image in Seedance 2.5 (via Dreamina) and add a short prompt…",
+  "content": "Upload an image in Seedance 2.5 (via Dreamina) and add a short prompt describing the everyday action to generate an “everyday twist” effect.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2092612783670198272/img/mpZdFAWHTCSZZMXV.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2092612820940767724.mp4",
+  "sourceLink": "https://x.com/HBCoop_/status/2092612820940767724",
+  "sourcePublishedAt": "2026-08-26",
+  "author": {
+    "name": "Heather Cooper",
+    "link": "https://x.com/HBCoop_"
+  },
+  "tags": [
+    "Story",
+    "Twist",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Upload an image in Seedance 2.5 (via Dreamina) and add a short prompt describing the everyday action to generate an “everyday twist” effect.",
+  "translations": {
+    "es": {
+      "content": "Sube una imagen en Seedance 2.5 (a través de Dreamina) y añade un prompt breve que describa la acción cotidiana para generar un efecto de “everyday twist”."
+    },
+    "fr": {
+      "content": "Téléchargez une image dans Seedance 2.5 (via Dreamina) et ajoutez un court prompt décrivant l’action du quotidien afin de générer un effet « everyday twist »."
+    },
+    "ja": {
+      "content": "Seedance 2.5（Dreamina経由）に画像をアップロードし、日常の動作を説明する短いpromptを追加して、「everyday twist」効果を生成します。"
+    },
+    "ko": {
+      "content": "Seedance 2.5(Dreamina를 통해)에 이미지를 업로드한 뒤, 일상적인 동작을 설명하는 짧은 prompt를 추가해 “everyday twist” 효과를 생성하세요."
+    },
+    "pt": {
+      "content": "Envie uma imagem no Seedance 2.5 (via Dreamina) e adicione um prompt curto descrevendo a ação cotidiana para gerar um efeito de “everyday twist”."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5（通过 Dreamina）中上传一张图片，并添加一段简短的 prompt，描述日常动作，以生成“everyday twist”效果。"
+    }
+  }
+}
