@@ -1,0 +1,40 @@
+{
+  "id": "2093440986902823386",
+  "title": "Bob marley and the wailers in a concert singing a song about Donald Trump",
+  "content": "Bob marley and the wailers in a concert singing a song about Donald Trump",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093311751580274688/img/mtViMznvpS7Uq2tj.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093440986902823386.mp4",
+  "sourceLink": "https://x.com/markgadala/status/2093440986902823386",
+  "sourcePublishedAt": "2026-08-28",
+  "author": {
+    "name": "Mark Gadala-Maria",
+    "link": "https://x.com/markgadala"
+  },
+  "tags": [
+    "Music & Dance",
+    "Concert",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "es": {
+      "content": "Bob Marley y The Wailers en un concierto cantando una canción sobre Donald Trump"
+    },
+    "fr": {
+      "content": "Bob Marley et les Wailers en concert, chantant une chanson sur Donald Trump"
+    },
+    "ja": {
+      "content": "ボブ・マーリー・アンド・ザ・ウェイラーズがコンサートでドナルド・トランプについての歌を歌っている。"
+    },
+    "ko": {
+      "content": "밥 말리와 더 웨일러스가 콘서트에서 도널드 트럼프에 관한 노래를 부르고 있다"
+    },
+    "pt": {
+      "content": "Bob Marley e The Wailers em um show cantando uma música sobre Donald Trump"
+    },
+    "zh": {
+      "content": "鲍勃·马利和 The Wailers 在一场演唱会上演唱一首关于唐纳德·特朗普的歌曲"
+    }
+  }
+}

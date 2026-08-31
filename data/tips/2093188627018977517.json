@@ -1,0 +1,41 @@
+{
+  "id": "2093188627018977517",
+  "title": "Generate a full ~1-minute video in Seedance 2.5 from a single prompt",
+  "content": "Generate a full ~1-minute video in Seedance 2.5 from a single prompt  \nStoryboard every shot beforehand to dial in character expressions before generating in Seedance  \nBuild both characters up front (faces, outfits, personalities) before generating in Seedance  \nApply a selective color grade after generating the video in Seedance",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/john_my07/status/2093188627018977517",
+  "sourcePublishedAt": "2026-08-28",
+  "author": {
+    "name": "Johnn",
+    "link": "https://x.com/john_my07"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate a full ~1-minute video in Seedance 2.5 from a single prompt  \nStoryboard every shot beforehand to dial in character expressions before generating in Seedance  \nBuild both characters up front (faces, outfits, personalities) before generating in Seedance  \nApply a selective color grade after generating the video in Seedance",
+  "translations": {
+    "es": {
+      "content": "Genera un video completo de ~1 minuto en Seedance 2.5 a partir de un solo prompt  \nHaz un storyboard de cada plano con antelación para ajustar las expresiones de los personajes antes de generar en Seedance  \nDefine ambos personajes desde el principio (rostros, vestuario, personalidades) antes de generar en Seedance  \nAplica una corrección de color selectiva después de generar el video en Seedance"
+    },
+    "fr": {
+      "content": "Générez une vidéo complète d’environ 1 minute dans Seedance 2.5 à partir d’un seul prompt  \nStoryboardez chaque plan à l’avance pour affiner les expressions des personnages avant de générer dans Seedance  \nCréez les deux personnages en amont (visages, tenues, personnalités) avant de générer dans Seedance  \nAppliquez un étalonnage colorimétrique sélectif après avoir généré la vidéo dans Seedance"
+    },
+    "ja": {
+      "content": "Seedance 2.5で、1つのpromptから約1分のフル動画を生成する  \nSeedanceで生成する前に、各ショットを事前に絵コンテ化して、キャラクターの表情を細かく詰める  \nSeedanceで生成する前に、2人のキャラクターをあらかじめ作り込む（顔、衣装、性格）  \nSeedanceで動画を生成した後、選択的なカラーグレーディングを適用する"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 단일 prompt로 약 1분 분량의 전체 영상을 생성  \nSeedance에서 생성하기 전에 모든 shot을 미리 storyboard로 구성해 캐릭터 표정을 세밀하게 조정  \nSeedance에서 생성하기 전에 두 캐릭터를 먼저 구축(얼굴, 의상, 성격)  \nSeedance에서 영상을 생성한 뒤 선택적 color grade 적용"
+    },
+    "pt": {
+      "content": "Gere um vídeo completo de ~1 minuto no Seedance 2.5 a partir de um único prompt  \nPlaneje cada cena com antecedência para ajustar as expressões dos personagens antes de gerar no Seedance  \nDesenvolva ambos os personagens desde o início (rostos, roupas, personalidades) antes de gerar no Seedance  \nAplique uma color grading seletiva depois de gerar o vídeo no Seedance"
+    },
+    "zh": {
+      "content": "使用单个 prompt 在 Seedance 2.5 中生成一段完整的约 1 分钟视频  \n在 Seedance 中生成之前，先为每个镜头绘制分镜，以便精准调整角色表情  \n在生成之前，先提前构建两个角色（面部、服装、性格）  \n在 Seedance 中生成视频后，再进行选择性色彩分级"
+    }
+  }
+}

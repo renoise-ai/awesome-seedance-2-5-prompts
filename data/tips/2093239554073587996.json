@@ -1,0 +1,42 @@
+{
+  "id": "2093239554073587996",
+  "title": "参照(@)を使って各リファレンスの役割をプロンプト内で明示的に宣言し、意図しない構図や動きの継承を防ぐ",
+  "content": "参照(@)を使って各リファレンスの役割をプロンプト内で明示的に宣言し、意図しない構図や動きの継承を防ぐ  \nステージ画像を参照する場合は@ステージ=地形・素材・空気感のみ(アングル継承禁止)のように指定して、アングル/構図を引っ張らせない  \nキャラ参照は@キャラ=100%一致のように指定して、キャラクターの一致度を明確に固定する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093239446313582592/img/AwcJjCJukcRieBse.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093239554073587996.mp4",
+  "sourceLink": "https://x.com/LapisAi27677/status/2093239554073587996",
+  "sourcePublishedAt": "2026-08-28",
+  "author": {
+    "name": "Lapis",
+    "link": "https://x.com/LapisAi27677"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "参照(@)を使って各リファレンスの役割をプロンプト内で明示的に宣言し、意図しない構図や動きの継承を防ぐ  \nステージ画像を参照する場合は@ステージ=地形・素材・空気感のみ(アングル継承禁止)のように指定して、アングル/構図を引っ張らせない  \nキャラ参照は@キャラ=100%一致のように指定して、キャラクターの一致度を明確に固定する",
+  "translations": {
+    "en": {
+      "content": "Using @ references, explicitly declare the role of each reference in the prompt to prevent unintended inheritance of composition or motion.  \nWhen referencing a stage image, specify it like @stage = terrain, materials, and atmosphere only (no angle inheritance) so that the angle/composition is not carried over.  \nFor character references, specify @character = 100% match to clearly lock in the degree of character consistency.\n\n--- QUOTED TWEET ---\n【AI video generation has come this far】\n\nCreated a 3D-style idol live stage video using only AI\n\nIt’s been a little while since people started saying AI VTubers are coming, but by this time next year, they’ll probably already be a normal presence, and before we know it, people will be casually doing stan activities...\nOr rather, it wouldn’t be surprising if that were already normal by the end of this year\n\nVideo generation: Seedance2.5\n #AI"
+    },
+    "es": {
+      "content": "Usa referencias (@) para declarar explícitamente el rol de cada referencia dentro del prompt y evitar que se hereden composiciones o movimientos no deseados.  \nCuando uses una imagen de escenario como referencia, especifica algo como @escenario=solo terreno, materiales y atmósfera (prohibir heredar el ángulo), para que no arrastre el ángulo/composición.  \nPara referencias de personajes, especifica @personaje=100% coincidente para fijar claramente el grado de coincidencia del personaje.\n\n--- TWEET CITADO ---\n【La IA de generación de video ha llegado hasta este punto】\n\nSolo con IA, se produce un video de escenario en vivo de un ídolo con estilo 3D\n\nHa pasado un tiempo desde que empezaron a decir que llegarían los VTubers de IA, pero creo que para esta misma época el año que viene ya existirán por completo, y cuando nos demos cuenta habrá gente haciendo fan activities con total normalidad...\nDe hecho, no sería raro que ya fuera algo común este mismo año\n\nGeneración de video: Seedance2.5\n #AI"
+    },
+    "fr": {
+      "content": "Utilisez les références (@) pour déclarer explicitement le rôle de chaque référence dans le prompt, afin d’éviter l’héritage involontaire de la composition ou du mouvement  \nLorsque vous utilisez une image de scène comme référence, précisez par exemple @scène=terrain・matériaux・ambiance uniquement (héritage de l’angle interdit), afin de ne pas faire reprendre l’angle/la composition  \nPour les références de personnage, indiquez par exemple @personnage=100 % de correspondance, afin de fixer clairement le degré de correspondance du personnage\n\n--- TWEET CITÉ ---\n【La génération vidéo par IA en est arrivée là】\n\nCréer, uniquement avec l’IA, des images de scène de concert d’une idole en 3D\n\nCela fait un moment qu’on commence à dire que les AI VTuber arrivent, mais je pense que d’ici l’an prochain à la même époque, ils existeront déjà depuis longtemps, et qu’on verra des gens faire naturellement du soutien à leur oshi...\nEn fait, ce ne serait pas étonnant que ce soit déjà devenu courant d’ici la fin de l’année\n\nGénération vidéo : Seedance2.5\n #AI"
+    },
+    "ko": {
+      "content": "참조(@)를 사용해 각 리퍼런스의 역할을 프롬프트 내에서 명시적으로 선언하고, 의도하지 않은 구도나 움직임의 계승을 방지한다  \n스테이지 이미지를 참조할 경우에는 @스테이지=지형·소재·공기감만(앵글 계승 금지)처럼 지정해, 앵글/구도를 끌어오지 않도록 한다  \n캐릭터 참조는 @캐릭터=100% 일치처럼 지정해, 캐릭터의 일치도를 명확하게 고정한다\n\n--- QUOTED TWEET ---\n【영상 생성 AI는 여기까지 왔다】\n\nAI만으로, 3D풍 아이돌 라이브 스테이지 영상을 제작\n\nAI VTuber가 온다고 말하기 시작한 지 조금 지났지만, 내년 이맘때쯤이면 이미 그런 존재는 당연히 있을 것이고, 어느새 덕질 같은 것도 자연스럽게 하는 사람들이 나올 것 같다는 생각이 들었습니다...\n아니, 올해 안에 당연해져도 이상하지 않다\n\n영상 생성 : Seedance2.5\n #AI\n---"
+    },
+    "pt": {
+      "content": "Use referências (@) para declarar explicitamente o papel de cada referência no prompt, evitando a herança indesejada de composição ou movimento.  \nAo usar uma imagem de palco como referência, especifique algo como @palco = apenas terreno, materiais e atmosfera (proibir herança de ângulo), para não puxar ângulo/composição.  \nPara referência de personagem, especifique @personagem = 100% de correspondência, para fixar claramente o grau de fidelidade do personagem.\n\n--- TWEET CITADO ---\n【A geração de vídeo com IA já chegou a esse nível】\n\nProdução, só com IA, de um vídeo de palco de show de idol em estilo 3D\n\nJá faz um tempo desde que começaram a dizer que os VTubers de IA viriam, mas acho que, por volta desta época no ano que vem, já vai haver esse tipo de presença há muito tempo, e as pessoas vão acabar fazendo coisas como acompanhar seus favoritos normalmente...\nOu melhor, não seria estranho se isso já se tornasse algo comum ainda este ano\n\nGeração de vídeo: Seedance2.5\n#AI"
+    },
+    "zh": {
+      "content": "通过使用参照（@），在提示词中明确声明每个参考对象的作用，防止意外继承构图或动作  \n在参考舞台图像时，可指定为 @ステージ=仅地形・素材・氛围（禁止继承角度），避免带入角度/构图  \n角色参考可指定为 @キャラ=100%一致，以明确固定角色的一致度\n\n--- QUOTED TWEET ---\n【视频生成AI已经发展到这种程度了】\n\n仅用AI，就制作出了3D风格偶像的现场舞台视频\n\n自从开始有人说AI VTuber要来了之后，已经过了一段时间，但我觉得到了明年这个时候，这种存在早就已经出现了，回过神来，应该会有很多人开始自然地追星了吧...\n或者说，就算在今年内变得普及也一点都不奇怪\n\n视频生成：Seedance2.5\n #AI\n---"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2093604239939625427",
+  "title": "Seedance 2.5のプロンプト掲載ページを参考にして、既存のジェットコースター映像向けプロンプトを「実写動物版」に置き換える形でアレンジして生成する",
+  "content": "Seedance 2.5のプロンプト掲載ページを参考にして、既存のジェットコースター映像向けプロンプトを「実写動物版」に置き換える形でアレンジして生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093604091931021312/img/VDBpzoWFJJFFwb04.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093604239939625427.mp4",
+  "sourceLink": "https://x.com/pochire_ai5/status/2093604239939625427",
+  "sourcePublishedAt": "2026-08-29",
+  "author": {
+    "name": "ぽちれだよ",
+    "link": "https://x.com/pochire_ai5"
+  },
+  "tags": [
+    "Animals",
+    "Wildlife",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5のプロンプト掲載ページを参考にして、既存のジェットコースター映像向けプロンプトを「実写動物版」に置き換える形でアレンジして生成する",
+  "translations": {
+    "en": {
+      "content": "Refer to the Seedance 2.5 prompt showcase page and adapt the existing roller coaster video prompt by replacing it with a “live-action animal version” for generation."
+    },
+    "es": {
+      "content": "Generar una versión adaptada tomando como referencia la página de publicación de prompts de Seedance 2.5, sustituyendo el prompt existente para imágenes de montañas rusas por una versión de “animales en acción real”."
+    },
+    "fr": {
+      "content": "En vous référant à la page de publication des prompts de Seedance 2.5, adaptez et générez le prompt existant pour des images de montagnes russes en le remplaçant par une version « animaux en prise de vue réelle »."
+    },
+    "ko": {
+      "content": "Seedance 2.5의 prompt 게시 페이지를 참고하여, 기존의 롤러코스터 영상용 prompt를 “실사 동물 버전”으로 바꾸는 형태로 응용해 생성한다"
+    },
+    "pt": {
+      "content": "Usando a página de exemplos de prompts do Seedance 2.5 como referência, adapte o prompt existente para vídeos de montanha-russa, substituindo-o por uma versão em “animais em live-action” para gerar o resultado."
+    },
+    "zh": {
+      "content": "参考 Seedance 2.5 的 prompt 展示页面，将现有的过山车视频用 prompt 改编为“实拍动物版”并生成。"
+    }
+  }
+}

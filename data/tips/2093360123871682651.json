@@ -1,0 +1,41 @@
+{
+  "id": "2093360123871682651",
+  "title": "Find a TikTok video that’s already performing well, have Gemini break it down…",
+  "content": "Find a TikTok video that’s already performing well, have Gemini break it down scene-by-scene, then use that scene breakdown as your Seedance 2.5 generation prompt to recreate a proven structure.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/BrianFrydberg/status/2093360123871682651",
+  "sourcePublishedAt": "2026-08-28",
+  "author": {
+    "name": "Brian Frydberg",
+    "link": "https://x.com/BrianFrydberg"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Find a TikTok video that’s already performing well, have Gemini break it down scene-by-scene, then use that scene breakdown as your Seedance 2.5 generation prompt to recreate a proven structure.",
+  "translations": {
+    "es": {
+      "content": "Encuentra un video de TikTok que ya esté funcionando bien, haz que Gemini lo desglosé escena por escena y luego usa ese desglose de escenas como tu prompt de generación de Seedance 2.5 para recrear una estructura que ya ha demostrado funcionar."
+    },
+    "fr": {
+      "content": "Trouvez une vidéo TikTok qui fonctionne déjà bien, demandez à Gemini de la décortiquer scène par scène, puis utilisez ce découpage comme prompt de génération pour Seedance 2.5 afin de recréer une structure qui a déjà fait ses preuves."
+    },
+    "ja": {
+      "content": "すでに好調なTikTok動画を見つけたら、Geminiにシーンごとに分解させ、そのシーン構成をSeedance 2.5の生成promptとして使って、実績のある構成を再現します。"
+    },
+    "ko": {
+      "content": "이미 성과가 좋은 TikTok 영상을 찾아 Gemini로 장면별로 분석한 다음, 그 장면 구성을 Seedance 2.5 생성 프롬프트로 활용해 검증된 구조를 재현하세요."
+    },
+    "pt": {
+      "content": "Encontre um vídeo do TikTok que já esteja performando bem, peça ao Gemini para analisá-lo cena por cena e, em seguida, use essa divisão de cenas como seu prompt de geração do Seedance 2.5 para recriar uma estrutura já comprovada."
+    },
+    "zh": {
+      "content": "找到一个已经表现不错的 TikTok 视频，让 Gemini 按场景逐段拆解，然后把这个场景拆解结果作为你的 Seedance 2.5 生成 prompt，用来复现一个经过验证的结构。"
+    }
+  }
+}

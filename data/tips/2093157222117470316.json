@@ -1,0 +1,42 @@
+{
+  "id": "2093157222117470316",
+  "title": "Seedance2.5 on Higgsfieldで全編生成し、プロンプト作成はClaudeに任せ、キャラクターやロケーション素材はMidjourneyで事前に…",
+  "content": "Seedance2.5 on Higgsfieldで全編生成し、プロンプト作成はClaudeに任せ、キャラクターやロケーション素材はMidjourneyで事前に作ってからSeedanceに投入するワークフローで短編を作る",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093155852236808192/img/lBULqQm77-Ct9L_P.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093157222117470316.mp4",
+  "sourceLink": "https://x.com/onihachi/status/2093157222117470316",
+  "sourcePublishedAt": "2026-08-28",
+  "author": {
+    "name": "Michiyoshi Shirota",
+    "link": "https://x.com/onihachi"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.5 on Higgsfieldで全編生成し、プロンプト作成はClaudeに任せ、キャラクターやロケーション素材はMidjourneyで事前に作ってからSeedanceに投入するワークフローで短編を作る",
+  "translations": {
+    "en": {
+      "content": "Create a short film by generating the entire piece in Seedance 2.5 on Higgsfield, letting Claude handle prompt creation, and preparing character and location assets in advance with Midjourney before feeding them into Seedance."
+    },
+    "es": {
+      "content": "Crear un cortometraje con un flujo de trabajo en el que se genera toda la pieza en Seedance2.5 en Higgsfield, se deja la creación del prompt a Claude y se preparan previamente en Midjourney los materiales de personajes y localizaciones antes de introducirlos en Seedance."
+    },
+    "fr": {
+      "content": "Créer un court-métrage en générant l’intégralité avec Seedance2.5 sur Higgsfield, en confiant la rédaction du prompt à Claude, et en préparant à l’avance les éléments de personnages et de décors avec Midjourney avant de les intégrer dans Seedance."
+    },
+    "ko": {
+      "content": "Seedance2.5 on Higgsfield에서 전편을 생성하고, prompt 작성은 Claude에 맡기며, 캐릭터와 로케이션 소재는 Midjourney로 미리 만든 뒤 Seedance에 투입하는 워크플로로 단편을 제작한다"
+    },
+    "pt": {
+      "content": "Criar um curta-metragem gerando tudo no Seedance2.5 no Higgsfield, deixando a criação do prompt por conta do Claude e, antes disso, produzindo previamente os materiais de personagens e locações no Midjourney para então inseri-los no Seedance, em um workflow assim."
+    },
+    "zh": {
+      "content": "使用 Higgsfield 上的 Seedance2.5 完整生成，prompt 由 Claude 负责撰写，角色和场景素材则先用 Midjourney 预先制作，再投入 Seedance 的工作流来制作短片。"
+    }
+  }
+}

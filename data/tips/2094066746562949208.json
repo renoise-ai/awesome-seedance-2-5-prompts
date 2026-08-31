@@ -1,0 +1,42 @@
+{
+  "id": "2094066746562949208",
+  "title": "Use Seedance 2.5’s Script-to-Video feature to turn a simple product idea/script…",
+  "content": "Use Seedance 2.5’s Script-to-Video feature to turn a simple product idea/script into a fun, realistic video ad.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094066351803596800/img/3ThUKj9hMpuiN8uk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094066746562949208.mp4",
+  "sourceLink": "https://x.com/alizagori1/status/2094066746562949208",
+  "sourcePublishedAt": "2026-08-30",
+  "author": {
+    "name": "Lucia Ai",
+    "link": "https://x.com/alizagori1"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5’s Script-to-Video feature to turn a simple product idea/script into a fun, realistic video ad.",
+  "translations": {
+    "es": {
+      "content": "Usa la función Script-to-Video de Seedance 2.5 para convertir una simple idea o guion de producto en un anuncio de video divertido y realista."
+    },
+    "fr": {
+      "content": "Utilisez la fonctionnalité Script-to-Video de Seedance 2.5 pour transformer une simple idée de produit ou un script en une publicité vidéo amusante et réaliste."
+    },
+    "ja": {
+      "content": "Seedance 2.5のScript-to-Video機能を使って、シンプルな商品アイデアやスクリプトを、楽しくリアルな動画広告に変えましょう。"
+    },
+    "ko": {
+      "content": "Seedance 2.5의 Script-to-Video 기능을 사용해 간단한 제품 아이디어/스크립트를 재미있고 사실적인 영상 광고로 바꿔보세요."
+    },
+    "pt": {
+      "content": "Use o recurso Script-to-Video do Seedance 2.5 para transformar uma ideia/roteiro simples de produto em um anúncio em vídeo divertido e realista."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 的 Script-to-Video 功能，将一个简单的产品创意/脚本转化为有趣、逼真的视频广告。"
+    }
+  }
+}

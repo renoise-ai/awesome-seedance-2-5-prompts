@@ -1,0 +1,42 @@
+{
+  "id": "2093200787191246935",
+  "title": "Wan 3.0はReferenceかFL2Vを選べるので、出だしの人物が別人になりやすい場合はReferenceではなくFL2Vで試す",
+  "content": "Wan 3.0はReferenceかFL2Vを選べるので、出だしの人物が別人になりやすい場合はReferenceではなくFL2Vで試す  \n参照画像／フレーム画像はグリッド画像ではなく、1枚ずつ個別に入力する  \nWan 3.0のFL2Vではファーストフレーム＋エンドフレーム画像を用意して指定すると、表情（例：笑顔）が自然になりやすい  \nプロンプトの書き方が原因で被写体が自分で回転してしまうことがあるので、回転させたくない場合は回転を誘発する表現を避ける",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093193667796496384/img/0HD4eU_A8FZ24vjO.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093200787191246935.mp4",
+  "sourceLink": "https://x.com/yoko_y__/status/2093200787191246935",
+  "sourcePublishedAt": "2026-08-28",
+  "author": {
+    "name": "横　優羽子(ゆうこ)",
+    "link": "https://x.com/yoko_y__"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Wan 3.0はReferenceかFL2Vを選べるので、出だしの人物が別人になりやすい場合はReferenceではなくFL2Vで試す  \n参照画像／フレーム画像はグリッド画像ではなく、1枚ずつ個別に入力する  \nWan 3.0のFL2Vではファーストフレーム＋エンドフレーム画像を用意して指定すると、表情（例：笑顔）が自然になりやすい  \nプロンプトの書き方が原因で被写体が自分で回転してしまうことがあるので、回転させたくない場合は回転を誘発する表現を避ける",
+  "translations": {
+    "en": {
+      "content": "Wan 3.0 lets you choose either Reference or FL2V, so if the person at the beginning tends to turn into a different person, try FL2V instead of Reference.  \nReference images / frame images should be input one by one, not as a grid image.  \nIn Wan 3.0 FL2V, if you prepare and specify a first-frame + end-frame image, expressions (e.g., a smile) are more likely to look natural.  \nBecause the way the prompt is written can sometimes cause the subject to rotate on their own, if you do not want rotation, avoid expressions that induce rotation.\n\n--- THREAD CONTINUATION ---\n[Thread 1] By the way, these are the images used as references or frames. Input them one by one, not as a grid. https://t.co/zjwSDOhtVN\n\n[Thread 2] wan3.0FL2V — since I had first and end frame images, I should have used this. The smile looks very natural. https://t.co/v3HO9KA0Wp\n---"
+    },
+    "es": {
+      "content": "Wan 3.0 permite elegir entre Reference o FL2V, así que si el personaje del inicio tiende a convertirse en otra persona, prueba con FL2V en lugar de Reference.  \nLas imágenes de referencia / imágenes de fotogramas deben introducirse una por una, no como una imagen en cuadrícula.  \nEn FL2V de Wan 3.0, si preparas y especificas una imagen de primer fotograma + una de fotograma final, las expresiones faciales (por ejemplo, una sonrisa) tienden a verse más naturales.  \nComo la forma de redactar el prompt puede hacer que el sujeto gire por sí solo, si no quieres que rote, evita expresiones que induzcan la rotación.\n\n--- CONTINUACIÓN DEL HILO ---\n[Thread 1] Por cierto, esto es lo que se usó como imagen de referencia o fotograma. Se introdujo una por una, no en cuadrícula https://t.co/zjwSDOhtVN\n\n[Thread 2] wan3.0FL2V　Como había imágenes de fotograma inicial y final, debería haberlo hecho así. La sonrisa es muy natural. https://t.co/v3HO9KA0Wp\n---"
+    },
+    "fr": {
+      "content": "Wan 3.0 permet de choisir entre Reference et FL2V, donc si le personnage du début a tendance à devenir une autre personne, essayez FL2V plutôt que Reference.  \nLes images de référence / images de frame doivent être importées une par une, et non sous forme d’image en grille.  \nAvec le FL2V de Wan 3.0, si vous préparez et spécifiez une image de first frame + end frame, les expressions faciales (par ex. un sourire) ont plus de chances de devenir naturelles.  \nComme la formulation du prompt peut parfois faire tourner le sujet de lui-même, si vous ne voulez pas qu’il tourne, évitez les expressions qui déclenchent une rotation.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Au passage, voici ce qui a été utilisé comme image de référence ou frame. Importé une par une, pas en grille https://t.co/zjwSDOhtVN\n\n[Thread 2] wan3.0FL2V　Comme il y a des images de first frame et end frame, j’aurais dû faire comme ça. Le sourire est très naturel. https://t.co/v3HO9KA0Wp\n---"
+    },
+    "ko": {
+      "content": "Wan 3.0에서는 Reference와 FL2V 중에서 선택할 수 있으므로, 시작 부분의 인물이 다른 사람처럼 바뀌기 쉬운 경우에는 Reference 대신 FL2V로 시도한다.  \n참조 이미지/프레임 이미지는 그리드 이미지가 아니라, 한 장씩 개별로 입력한다.  \nWan 3.0의 FL2V에서는 첫 프레임 + 엔드 프레임 이미지를 준비해 지정하면, 표정(예: 미소)이 더 자연스러워지기 쉽다.  \n프롬프트 작성 방식 때문에 피사체가 스스로 회전해 버리는 경우가 있으므로, 회전시키고 싶지 않다면 회전을 유발하는 표현은 피한다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 참고로 참조 이미지 또는 프레임으로 사용한 것은 이것. 그리드가 아니라 한 장씩 입력 https://t.co/zjwSDOhtVN\n\n[Thread 2] wan3.0FL2V 첫 프레임·엔드 프레임 이미지가 있으니, 이걸로 했어야 했다. 미소가 매우 자연스럽다. https://t.co/v3HO9KA0Wp\n---"
+    },
+    "pt": {
+      "content": "Wan 3.0 permite escolher entre Reference ou FL2V, então, se o personagem do início tende a virar outra pessoa, vale testar FL2V em vez de Reference.  \nAs imagens de referência/frame devem ser inseridas individualmente, uma por uma, e não como uma imagem em grade.  \nNo FL2V do Wan 3.0, se você preparar e especificar imagens de first frame + end frame, a expressão facial (por exemplo, sorriso) tende a ficar mais natural.  \nComo a forma de escrever o prompt pode fazer com que o sujeito gire sozinho, se você não quiser que ele gire, evite expressões que induzam rotação.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Aliás, isto foi o que usei como imagem de referência ou frame. Inserido uma por uma, não em grade https://t.co/zjwSDOhtVN\n\n[Thread 2] wan3.0FL2V　como havia imagens de first/end frame, eu deveria ter feito por aqui. O sorriso ficou muito natural. https://t.co/v3HO9KA0Wp"
+    },
+    "zh": {
+      "content": "Wan 3.0 可以选择 Reference 或 FL2V，所以如果开头的人物容易变成另一个人，建议不要用 Reference，而是试试 FL2V  \n参考图／帧图不要用网格拼图，而要一张一张单独输入  \n在 Wan 3.0 的 FL2V 中，如果准备并指定首帧＋尾帧图片，表情（例如笑容）往往会更自然  \n由于 prompt 的写法有时会导致主体自己旋转，如果不想让它旋转，就要避免会诱发旋转的表述\n\n--- THREAD CONTINUATION ---\n[Thread 1] 顺便说一下，作为参考图或帧图使用的就是这些。不是网格图，而是逐张输入 https://t.co/zjwSDOhtVN\n\n[Thread 2] wan3.0FL2V　因为有首帧和尾帧图片，本来应该用这个来做。笑容非常自然。 https://t.co/v3HO9KA0Wp"
+    }
+  }
+}

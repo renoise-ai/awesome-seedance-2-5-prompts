@@ -1,0 +1,43 @@
+{
+  "id": "2093200447205204464",
+  "title": "同じプロンプトでWAN3とSeedance2.5（Seedream2.5）をそれぞれ30秒生成して比較テストし、モデル差を確認する",
+  "content": "同じプロンプトでWAN3とSeedance2.5（Seedream2.5）をそれぞれ30秒生成して比較テストし、モデル差を確認する  \n剣戟シーンのスピード感はWAN3向けにプロンプトや設定を調整して最適化する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093200326052765696/img/KzMQMEiyPCp9dvlk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093200447205204464.mp4",
+  "sourceLink": "https://x.com/challenger_ND/status/2093200447205204464",
+  "sourcePublishedAt": "2026-08-28",
+  "author": {
+    "name": "ノダッチ@NDT_AI研究所",
+    "link": "https://x.com/challenger_ND"
+  },
+  "tags": [
+    "Action",
+    "Wuxia",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Model Showcase"
+  ],
+  "tips": "同じプロンプトでWAN3とSeedance2.5（Seedream2.5）をそれぞれ30秒生成して比較テストし、モデル差を確認する  \n剣戟シーンのスピード感はWAN3向けにプロンプトや設定を調整して最適化する",
+  "translations": {
+    "en": {
+      "content": "Generate 30-second clips with the same prompt using WAN3 and Seedance2.5 (Seedream2.5) respectively, then compare them to verify the differences between the models.  \nFor sword-fight scenes, adjust the prompt and settings to optimize for WAN3’s sense of speed."
+    },
+    "es": {
+      "content": "Generar 30 segundos con el mismo prompt en WAN3 y Seedance2.5 (Seedream2.5) por separado, compararlos en una prueba y verificar las diferencias entre modelos.  \nAjustar el prompt y la configuración para optimizar la sensación de velocidad en escenas de combate con espada para WAN3."
+    },
+    "fr": {
+      "content": "Générer 30 secondes avec le même prompt sur WAN3 et Seedance2.5 (Seedream2.5), puis effectuer un test comparatif pour vérifier les différences entre les modèles.  \nAjuster le prompt et les paramètres pour optimiser le rythme et la sensation de vitesse des scènes de combat à l’épée pour WAN3."
+    },
+    "ko": {
+      "content": "같은 prompt로 WAN3와 Seedance2.5(Seedream2.5)를 각각 30초씩 생성해 비교 테스트하고, 모델 차이를 확인한다  \n검술 장면의 속도감은 WAN3에 맞게 prompt와 설정을 조정해 최적화한다"
+    },
+    "pt": {
+      "content": "Gerar 30 segundos com o mesmo prompt no WAN3 e no Seedance2.5 (Seedream2.5) para comparar e verificar as diferenças entre os modelos.  \nAjustar o prompt e as configurações para otimizar a sensação de velocidade nas cenas de combate com espadas para o WAN3."
+    },
+    "zh": {
+      "content": "使用相同的 prompt 分别用 WAN3 和 Seedance2.5（Seedream2.5）生成 30 秒内容并进行对比测试，以确认模型差异。  \n剑戟场景的速度感会针对 WAN3 调整 prompt 和设置进行优化。"
+    }
+  }
+}

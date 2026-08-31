@@ -1,0 +1,42 @@
+{
+  "id": "2093363129660928166",
+  "title": "Usa Story Studio (Pippit) como Canvas para organizar guion, escenas y…",
+  "content": "Usa Story Studio (Pippit) como Canvas para organizar guion, escenas y personajes en un solo proyecto en lugar de generar clips sueltos, para mejorar la continuidad del personaje.  \nGenera tomas continuas de hasta 30s con Seedance 2.5 para mantener la misma cara del personaje a lo largo de varias escenas.  \nAprovecha el control por timestamp en Seedance 2.5 para indicar en qué segundo exacto el personaje camina, gira o sonríe.",
+  "language": "es",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093363033372278784/img/M3laE6zZWIPrWpMq.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093363129660928166.mp4",
+  "sourceLink": "https://x.com/Antonio_RodriIA/status/2093363129660928166",
+  "sourcePublishedAt": "2026-08-28",
+  "author": {
+    "name": "Antonio Rodríguez",
+    "link": "https://x.com/Antonio_RodriIA"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Usa Story Studio (Pippit) como Canvas para organizar guion, escenas y personajes en un solo proyecto en lugar de generar clips sueltos, para mejorar la continuidad del personaje.  \nGenera tomas continuas de hasta 30s con Seedance 2.5 para mantener la misma cara del personaje a lo largo de varias escenas.  \nAprovecha el control por timestamp en Seedance 2.5 para indicar en qué segundo exacto el personaje camina, gira o sonríe.",
+  "translations": {
+    "en": {
+      "content": "Use Story Studio (Pippit) as a canvas to organize the script, scenes, and characters in a single project instead of generating separate clips, to improve character continuity.  \nGenerate continuous shots of up to 30 seconds with Seedance 2.5 to keep the character’s face consistent across multiple scenes.  \nTake advantage of timestamp control in Seedance 2.5 to specify the exact second when the character walks, turns, or smiles."
+    },
+    "fr": {
+      "content": "Utilisez Story Studio (Pippit) comme Canvas pour organiser le script, les scènes et les personnages dans un seul projet, au lieu de générer des clips isolés, afin d’améliorer la continuité du personnage.  \nGénérez des prises continues allant jusqu’à 30 s avec Seedance 2.5 pour conserver le même visage du personnage sur plusieurs scènes.  \nExploitez le contrôle par timestamp dans Seedance 2.5 pour indiquer à quelle seconde exacte le personnage marche, se tourne ou sourit."
+    },
+    "ja": {
+      "content": "Story Studio（Pippit）をCanvasとして使い、脚本・シーン・キャラクターを1つのプロジェクトにまとめて整理することで、ばらばらのクリップを生成するよりもキャラクターの一貫性を高められます。  \nSeedance 2.5で最大30秒の連続ショットを生成し、複数のシーンを通して同じキャラクターの顔を維持します。  \nSeedance 2.5のtimestamp制御を活用して、キャラクターが何秒目に歩くのか、振り向くのか、笑うのかを正確に指定します。"
+    },
+    "ko": {
+      "content": "Usa Story Studio(Pippit)를 Canvas로 활용해, 흩어진 클립을 따로 생성하는 대신 대본, 장면, 캐릭터를 하나의 프로젝트에서 정리하여 캐릭터의 연속성을 높이세요.  \nSeedance 2.5로 최대 30초까지 이어지는 연속 샷을 생성해 여러 장면에 걸쳐 캐릭터의 같은 얼굴을 유지하세요.  \nSeedance 2.5의 timestamp 제어를 활용해 캐릭터가 정확히 몇 초에 걷고, 돌아서고, 미소 짓는지 지정하세요."
+    },
+    "pt": {
+      "content": "Use o Story Studio (Pippit) como Canvas para organizar roteiro, cenas e personagens em um único projeto, em vez de gerar clipes soltos, para melhorar a continuidade do personagem.  \nGere tomadas contínuas de até 30s com o Seedance 2.5 para manter o mesmo rosto do personagem ao longo de várias cenas.  \nAproveite o controle por timestamp no Seedance 2.5 para indicar em qual segundo exato o personagem caminha, gira ou sorri."
+    },
+    "zh": {
+      "content": "使用 Story Studio（Pippit）作为 Canvas，将剧本、场景和角色整合到一个项目中，而不是生成零散的片段，以提升角色连贯性。  \n使用 Seedance 2.5 生成最长 30 秒的连续镜头，以在多个场景中保持角色面部一致。  \n利用 Seedance 2.5 的 timestamp 控制，精确指定角色在第几秒行走、转身或微笑。"
+    }
+  }
+}

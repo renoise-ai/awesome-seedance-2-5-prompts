@@ -1,0 +1,42 @@
+{
+  "id": "2093552388686918135",
+  "title": "パスタをフォークに巻き取るような難しい動作は、尺（動画長）を長くしても改善しない場合があるため、尺延長だけに頼らず別アプローチ（別モデル/別演出）を検討する",
+  "content": "パスタをフォークに巻き取るような難しい動作は、尺（動画長）を長くしても改善しない場合があるため、尺延長だけに頼らず別アプローチ（別モデル/別演出）を検討する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093551982367952896/img/G3awVlBHXSiIFD0m.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093552388686918135.mp4",
+  "sourceLink": "https://x.com/IsekaiBardGuild/status/2093552388686918135",
+  "sourcePublishedAt": "2026-08-29",
+  "author": {
+    "name": "AI Bard Guild",
+    "link": "https://x.com/IsekaiBardGuild"
+  },
+  "tags": [
+    "Food",
+    "Cooking",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "パスタをフォークに巻き取るような難しい動作は、尺（動画長）を長くしても改善しない場合があるため、尺延長だけに頼らず別アプローチ（別モデル/別演出）を検討する",
+  "translations": {
+    "en": {
+      "content": "For difficult actions like twirling pasta around a fork, simply increasing the duration of the clip may not improve the result. Rather than relying only on longer footage, consider a different approach (another model / different direction).\n\n--- QUOTED TWEET ---\nI’m trying LTX2.5/H3/Wan3.0\n\nThis is a fairly difficult challenge (the pasta test)\n\n1st: MiniMax H3  \n2nd: LTX 2.5  \n3rd: Wan 3.0  \n4th: FLUX3\n\nNone of the models could handle the twirling motion with the fork.\n\nH3 looks more like yaki-udon.\nLTX may be the most straightforward, in a way.\nWan 3.0 is noodles that can be twirled just by scooping them up.\nFLUX has very short noodles. https://t.co/zO1ingYBwt\n---"
+    },
+    "es": {
+      "content": "Las acciones difíciles, como enrollar la pasta en un tenedor, pueden no mejorar aunque aumentes la duración del video, así que conviene no depender solo de alargar el metraje y considerar otro enfoque (otro modelo / otra puesta en escena).\n\n--- TUIT CITADO ---\nEstoy probando LTX2.5/H3/Wan3.0\n\nEs un reto bastante difícil (la prueba de la pasta)\n\nPrimer clip: MiniMax H3\nSegundo clip: LTX 2.5\nTercer clip: Wan 3.0\nCuarto clip: FLUX3\n\nEn ninguno de los modelos funcionó la acción de enrollarla en el tenedor\n\nH3 parece más bien yakiudon\nLTX quizá sea, en cierto sentido, el más honesto\nWan3.0: fideos que se enrollan con solo levantarlos\nFLUX: los fideos son muy cortos https://t.co/zO1ingYBwt"
+    },
+    "fr": {
+      "content": "Les gestes difficiles, comme enrouler des pâtes autour d’une fourchette, peuvent ne pas s’améliorer même en augmentant la durée de la vidéo ; il vaut donc mieux ne pas compter uniquement sur l’allongement du plan et envisager une autre approche (autre modèle / autre mise en scène)\n\n--- TWEET CITÉ ---\nJ’essaie LTX2.5/H3/Wan3.0\n\nC’est un défi assez difficile (le test des pâtes)\n\n1er : MiniMax H3\n2e : LTX 2.5\n3e : Wan 3.0\n4e : FLUX3\n\nAucun des modèles n’a réussi le geste d’enrouler les pâtes autour de la fourchette\n\nH3 ressemble à des yaki-udon\nLTX est peut-être, d’une certaine manière, le plus franc\nWan3.0 : des nouilles qu’on peut enrouler juste en les soulevant\nFLUX : les nouilles sont très courtes https://t.co/zO1ingYBwt\n---"
+    },
+    "ko": {
+      "content": "파스타를 포크에 감아 올리는 것처럼 어려운 동작은, 길이(영상 길이)를 늘려도 개선되지 않는 경우가 있기 때문에, 길이 연장만에 의존하지 말고 다른 접근(다른 모델/다른 연출)을 검토한다\n\n--- 인용 트윗 ---\nLTX2.5/H3/Wan3.0를 시험해 보고 있습니다\n\n꽤 어려운 과제(파스타 대결)입니다\n\n1번째: MiniMax H3\n2번째: LTX 2.5\n3번째: Wan 3.0\n4번째: FLUX3\n\n어느 모델도 포크에 감는 동작은 잘 되지 않았습니다\n\nH3는 볶음우동처럼 보입니다\nLTX는 어떤 의미에서는 가장 깔끔할지도\nWan3.0은 떠올리기만 해도 감기는 면\nFLUX는 면이 매우 짧습니다 https://t.co/zO1ingYBwt"
+    },
+    "pt": {
+      "content": "Movimentos difíceis, como enrolar macarrão no garfo, podem não melhorar mesmo aumentando a duração do vídeo; por isso, em vez de depender apenas de estender a duração, considere uma abordagem diferente (outro modelo/ou outra direção criativa)\n\n--- TWEET CITADO ---\nEstou testando LTX2.5/H3/Wan3.0\n\nÉ um desafio mais difícil (a disputa do macarrão)\n\n1º: MiniMax H3\n2º: LTX 2.5\n3º: Wan 3.0\n4º: FLUX3\n\nNenhum dos modelos conseguiu fazer o movimento de enrolar no garfo\n\nO H3 parece mais yakisoba/udon salteado\nO LTX talvez seja, de certa forma, o mais honesto\nO Wan3.0 é um macarrão que já enrola só de pegar\nO FLUX tem o macarrão muito curto https://t.co/zO1ingYBwt"
+    },
+    "zh": {
+      "content": "像把意大利面卷到叉子上这种难度较高的动作，即使拉长时长（视频长度）也未必能改善，因此不要只依赖延长时长，而应考虑其他方法（换模型/换演出）\n\n--- QUOTED TWEET ---\n我在试用 LTX2.5/H3/Wan3.0\n\n这是个比较难的课题（意面挑战）\n\n第1个：MiniMax H3  \n第2个：LTX 2.5  \n第3个：Wan 3.0  \n第4个：FLUX3\n\n所有模型都没法做好把面条卷到叉子上的动作\n\nH3 看起来像炒乌冬面  \nLTX 某种意义上可能是最干脆的  \nWan3.0 是那种只要一捞就能卷起来的面  \nFLUX 的面条非常短 https://t.co/zO1ingYBwt\n---"
+    }
+  }
+}

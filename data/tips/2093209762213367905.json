@@ -1,0 +1,42 @@
+{
+  "id": "2093209762213367905",
+  "title": "Seedance 2.5は絵コンテ画像1枚だけでも動画生成できるので、複数カットをまとめたストーリーボード1枚を用意して入力する",
+  "content": "Seedance 2.5は絵コンテ画像1枚だけでも動画生成できるので、複数カットをまとめたストーリーボード1枚を用意して入力する  \nClaudeに画像12枚を渡して絵コンテ（ストーリーボード）を作らせ、画像の順番とストーリー構成もClaudeに任せてからSeedanceに投入する  \nSeedanceのプロンプトは公式プロンプトガイドと異なる書き方でも動く場合があるので、ガイド外の表現でも試して動作確認する",
+  "language": "ja",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/PPP_if/status/2093209762213367905",
+  "sourcePublishedAt": "2026-08-28",
+  "author": {
+    "name": "PPP　AI動画イラスト好き・青チーム応援団",
+    "link": "https://x.com/PPP_if"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Seedance 2.5は絵コンテ画像1枚だけでも動画生成できるので、複数カットをまとめたストーリーボード1枚を用意して入力する  \nClaudeに画像12枚を渡して絵コンテ（ストーリーボード）を作らせ、画像の順番とストーリー構成もClaudeに任せてからSeedanceに投入する  \nSeedanceのプロンプトは公式プロンプトガイドと異なる書き方でも動く場合があるので、ガイド外の表現でも試して動作確認する",
+  "translations": {
+    "en": {
+      "content": "Seedance 2.5 can generate videos from just a single storyboard image, so prepare one storyboard image that combines multiple shots and use that as input.  \nYou can give Claude 12 images and have it create the storyboard, then let Claude decide the image order and story structure before feeding it into Seedance.  \nSeedance prompts may still work even if written differently from the official prompt guide, so try expressions outside the guide as well and verify what works.\n\n--- QUOTED TWEET ---\nCharacter [Enjo Homura: Enjō Homura]\nSpecial Move [Flame Fist]\n#AI Special Move Contest https://t.co/B3MrZwL4KT\n---"
+    },
+    "es": {
+      "content": "Seedance 2.5 puede generar video incluso con una sola imagen de storyboard, así que prepara una sola lámina de storyboard que reúna varios cortes y úsala como entrada.  \nPásale 12 imágenes a Claude para que cree el storyboard (絵コンテ), y deja que Claude también decida el orden de las imágenes y la estructura de la historia antes de enviarlo a Seedance.  \nEl prompt de Seedance puede funcionar incluso si está escrito de forma distinta a la guía oficial de prompts, así que conviene probar expresiones fuera de la guía y comprobar si funcionan.\n\n--- TUIT CITADO ---\nPersonaje【炎翯 焔：えんじょう　ほむら】\nTécnica especial【Puño de llamas】\n#AI必殺技コンテスト https://t.co/B3MrZwL4KT\n---"
+    },
+    "fr": {
+      "content": "Seedance 2.5 peut générer une vidéo à partir d’une seule image de storyboard, donc préparez une seule planche de storyboard regroupant plusieurs plans et utilisez-la comme entrée.  \nConfiez à Claude 12 images pour qu’il crée le storyboard, puis laissez aussi Claude décider de l’ordre des images et de la structure narrative avant d’envoyer le tout à Seedance.  \nLes prompts pour Seedance peuvent parfois fonctionner même s’ils sont rédigés différemment du guide officiel ; essayez donc aussi des formulations hors guide pour vérifier ce qui fonctionne.\n\n--- TWEET CITÉ ---\nPersonnage【炎翯 焔 : Enjō Homura】\nTechnique spéciale【Poing de flammes】\n#AI必殺技コンテスト https://t.co/B3MrZwL4KT\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5는 그림 콘티 이미지 1장만으로도 영상 생성이 가능하므로, 여러 컷을 묶은 스토리보드 1장을 준비해 입력한다  \nClaude에 이미지 12장을 전달해 콘티(스토리보드)를 만들게 하고, 이미지의 순서와 스토리 구성도 Claude에게 맡긴 뒤 Seedance에 넣는다  \nSeedance의 prompt는 공식 prompt guide와 다른 방식으로 작성해도 동작하는 경우가 있으므로, 가이드 밖의 표현도 시도해 보며 작동 여부를 확인한다\n\n--- QUOTED TWEET ---\n캐릭터【炎翯 焔：えんじょう　ほむら】\n필살기【焔拳】\n#AI필살기콘테스트 https://t.co/B3MrZwL4KT\n---"
+    },
+    "pt": {
+      "content": "Seedance 2.5 consegue gerar vídeo mesmo com apenas uma imagem de storyboard, então prepare uma única imagem de storyboard reunindo vários cortes e use-a como entrada  \nPasse 12 imagens para o Claude para que ele crie o storyboard (絵コンテ), e deixe o Claude também definir a ordem das imagens e a estrutura da história antes de enviar tudo para o Seedance  \nOs prompts do Seedance podem funcionar mesmo com uma redação diferente da do guia oficial de prompts, então vale testar expressões fora do guia para verificar se funcionam\n\n--- TWEET CITADO ---\nPersonagem【炎翯 焔：えんじょう　ほむら】\nTécnica especial【Punho em Chamas】\n#AI必殺技コンテスト https://t.co/B3MrZwL4KT\n---"
+    },
+    "zh": {
+      "content": "Seedance 2.5 即使只有一张分镜图也能生成视频，所以可以先准备一张汇总多个镜头的 storyboard 再输入。  \n把 12 张图片交给 Claude 让它制作分镜（storyboard），并让 Claude 负责图片顺序和故事结构，然后再投入 Seedance。  \nSeedance 的 prompt 即使采用与官方 prompt guide 不同的写法也可能正常工作，所以也可以尝试指南之外的表达，并确认其是否可用。\n\n--- QUOTED TWEET ---\n角色【炎翯 焔：えんじょう　ほむら】\n必杀技【焔拳】\n#AI必杀技コンテスト https://t.co/B3MrZwL4KT\n---"
+    }
+  }
+}

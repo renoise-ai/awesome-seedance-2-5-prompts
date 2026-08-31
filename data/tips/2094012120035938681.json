@@ -1,0 +1,44 @@
+{
+  "id": "2094012120035938681",
+  "title": "Use 3 photos of your subject (front, left side, right side) as inputs to create…",
+  "content": "Use 3 photos of your subject (front, left side, right side) as inputs to create an AI vlog in Seedance 2.5  \nAccess Seedance 2.5 through a wrapper (e.g., Higgsfield) to run the workflow  \nDownload meme video files from the internet and use them as source clips for the vlog",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094005772770537472/img/Goz-YetFvzjF_vZA.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094012120035938681.mp4",
+  "sourceLink": "https://x.com/abhishek/status/2094012120035938681",
+  "sourcePublishedAt": "2026-08-30",
+  "author": {
+    "name": "Abhishek Bhatnagar",
+    "link": "https://x.com/abhishek"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Meme & Comedy",
+    "Internet Meme",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use 3 photos of your subject (front, left side, right side) as inputs to create an AI vlog in Seedance 2.5  \nAccess Seedance 2.5 through a wrapper (e.g., Higgsfield) to run the workflow  \nDownload meme video files from the internet and use them as source clips for the vlog",
+  "translations": {
+    "es": {
+      "content": "Usa 3 fotos de tu sujeto (frontal, lado izquierdo, lado derecho) como inputs para crear un AI vlog en Seedance 2.5  \nAccede a Seedance 2.5 a través de un wrapper (por ejemplo, Higgsfield) para ejecutar el workflow  \nDescarga archivos de video meme de internet y úsalos como clips de origen para el vlog"
+    },
+    "fr": {
+      "content": "Utilisez 3 photos de votre sujet (de face, de profil gauche, de profil droit) comme inputs pour créer un AI vlog dans Seedance 2.5  \nAccédez à Seedance 2.5 via un wrapper (par exemple, Higgsfield) pour exécuter le workflow  \nTéléchargez des fichiers vidéo de mèmes depuis Internet et utilisez-les comme clips sources pour le vlog"
+    },
+    "ja": {
+      "content": "被写体の正面・左側・右側の3枚の写真を入力として使用し、Seedance 2.5でAI vlogを作成します。  \nワークフローを実行するには、ラッパー（例：Higgsfield）経由でSeedance 2.5にアクセスします。  \nインターネットからミーム動画ファイルをダウンロードし、vlogのソースクリップとして使用します。"
+    },
+    "ko": {
+      "content": "대상 인물의 사진 3장(정면, 왼쪽 측면, 오른쪽 측면)을 입력으로 사용해 Seedance 2.5에서 AI vlog를 생성하세요  \n워크플로를 실행하려면 wrapper(예: Higgsfield)를 통해 Seedance 2.5에 접속하세요  \n인터넷에서 meme video 파일을 다운로드해 vlog의 소스 클립으로 사용하세요"
+    },
+    "pt": {
+      "content": "Use 3 fotos do seu sujeito (frente, lado esquerdo, lado direito) como inputs para criar um AI vlog no Seedance 2.5  \nAcesse o Seedance 2.5 por meio de um wrapper (por exemplo, Higgsfield) para executar o workflow  \nBaixe arquivos de vídeo de meme da internet e use-os como source clips para o vlog"
+    },
+    "zh": {
+      "content": "使用你拍摄对象的 3 张照片（正面、左侧、右侧）作为输入，在 Seedance 2.5 中创建一个 AI vlog  \n通过封装工具（例如 Higgsfield）访问 Seedance 2.5 来运行工作流  \n从互联网上下载 meme 视频文件，并将它们用作 vlog 的源素材片段"
+    }
+  }
+}

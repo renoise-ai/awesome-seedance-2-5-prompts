@@ -1,0 +1,42 @@
+{
+  "id": "2093216359320855018",
+  "title": "Compare 420 vs 720 outputs in Seedance 2.5 to judge quality differences…",
+  "content": "Compare 420 vs 720 outputs in Seedance 2.5 to judge quality differences, especially reference character detail.  \nUse 420 resolution for quick motion-only checks before committing to higher-res renders.  \nIf you need better reference character detail, generate at 720 (higher tier) rather than 420.  \nCreate separate prompts for beast-type characters and humanoid characters instead of using one combined prompt.",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093216161433554944/img/jFoXfQVzeR6wuDTK.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093216359320855018.mp4",
+  "sourceLink": "https://x.com/ewotanosimo2310/status/2093216359320855018",
+  "sourcePublishedAt": "2026-08-28",
+  "author": {
+    "name": "のいしろ@AI遊び",
+    "link": "https://x.com/ewotanosimo2310"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Compare 420 vs 720 outputs in Seedance 2.5 to judge quality differences, especially reference character detail.  \nUse 420 resolution for quick motion-only checks before committing to higher-res renders.  \nIf you need better reference character detail, generate at 720 (higher tier) rather than 420.  \nCreate separate prompts for beast-type characters and humanoid characters instead of using one combined prompt.",
+  "translations": {
+    "en": {
+      "content": "Compare 420 vs 720 outputs in Seedance 2.5 to judge quality differences, especially reference character detail.  \nUse 420 resolution for quick motion-only checks before committing to higher-res renders.  \nIf you need better reference character detail, generate at 720 (higher tier) rather than 420.  \nCreate separate prompts for beast-type characters and humanoid characters instead of using one combined prompt."
+    },
+    "es": {
+      "content": "Compara las salidas en 420 vs 720 en Seedance 2.5 para evaluar las diferencias de calidad, especialmente en el detalle del personaje de referencia.  \nUsa la resolución 420 para comprobaciones rápidas centradas solo en el movimiento antes de comprometerte con renders de mayor resolución.  \nSi necesitas un mejor detalle del personaje de referencia, genera en 720 (nivel superior) en lugar de 420.  \nCrea prompts separados para personajes de tipo bestia y personajes humanoides en lugar de usar un único prompt combinado."
+    },
+    "fr": {
+      "content": "Comparez les rendus en 420 et en 720 dans Seedance 2.5 pour évaluer les différences de qualité, en particulier le niveau de détail du personnage de référence.  \nUtilisez la résolution 420 pour des vérifications rapides axées uniquement sur le mouvement avant de passer à des rendus en plus haute résolution.  \nSi vous avez besoin d’un meilleur niveau de détail pour le personnage de référence, générez en 720 (niveau supérieur) plutôt qu’en 420.  \nCréez des prompts séparés pour les personnages de type bête et les personnages humanoïdes, au lieu d’utiliser un seul prompt combiné."
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 420과 720 출력물을 비교해 품질 차이, 특히 레퍼런스 캐릭터 디테일을 판단하세요.  \n고해상도 렌더링으로 진행하기 전에 빠른 모션 확인용으로는 420 해상도를 사용하세요.  \n레퍼런스 캐릭터 디테일을 더 좋게 얻고 싶다면 420보다 720(상위 티어)로 생성하세요.  \n야수형 캐릭터와 인간형 캐릭터는 하나의 통합 프롬프트를 사용하지 말고, 각각 별도의 프롬프트를 작성하세요."
+    },
+    "pt": {
+      "content": "Compare as saídas em 420 vs 720 no Seedance 2.5 para avaliar as diferenças de qualidade, especialmente nos detalhes do personagem de referência.  \nUse a resolução 420 para verificações rápidas apenas de movimento antes de investir em renders de maior resolução.  \nSe você precisar de melhores detalhes do personagem de referência, gere em 720 (tier superior) em vez de 420.  \nCrie prompts separados para personagens do tipo besta e personagens humanoides, em vez de usar um único prompt combinado."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中对比 420 和 720 的输出，以判断质量差异，尤其是参考角色细节。  \n在投入更高分辨率渲染之前，先使用 420 分辨率进行快速的仅动作检查。  \n如果你需要更好的参考角色细节，请生成 720（更高档位），而不是 420。  \n为兽型角色和人形角色分别创建独立的 prompt，不要使用一个合并的 prompt。"
+    }
+  }
+}

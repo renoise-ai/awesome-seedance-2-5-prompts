@@ -1,0 +1,42 @@
+{
+  "id": "2093195620647661574",
+  "title": "Structure your Seedance prompt with explicit timecodes (e.g., 00:00–00:03…",
+  "content": "Structure your Seedance prompt with explicit timecodes (e.g., 00:00–00:03, 00:03–00:06, etc.) to control a 15-second sequence beat-by-beat  \nSpecify a lo-fi camera aesthetic (early-2000s consumer DV, handheld, imperfect framing, autofocus hunting, blown highlights, soft digital noise, mild motion blur) to steer the model away from cinematic polish  \nInclude diegetic audio details (rooftop wind, distant traffic, birds, faint coin clink) and explicitly state no music/subtitles to keep the output grounded and unpolished",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093018119967248384/img/0ZDJzU5628MYGApJ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093195620647661574.mp4",
+  "sourceLink": "https://x.com/Trumpal_trn/status/2093195620647661574",
+  "sourcePublishedAt": "2026-08-28",
+  "author": {
+    "name": "BoPo",
+    "link": "https://x.com/Trumpal_trn"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Structure your Seedance prompt with explicit timecodes (e.g., 00:00–00:03, 00:03–00:06, etc.) to control a 15-second sequence beat-by-beat  \nSpecify a lo-fi camera aesthetic (early-2000s consumer DV, handheld, imperfect framing, autofocus hunting, blown highlights, soft digital noise, mild motion blur) to steer the model away from cinematic polish  \nInclude diegetic audio details (rooftop wind, distant traffic, birds, faint coin clink) and explicitly state no music/subtitles to keep the output grounded and unpolished",
+  "translations": {
+    "es": {
+      "content": "Estructura tu prompt de Seedance con timecodes explícitos (por ejemplo, 00:00–00:03, 00:03–00:06, etc.) para controlar una secuencia de 15 segundos beat by beat  \nEspecifica una estética de cámara lo-fi (DV de consumo de principios de los 2000, handheld, encuadre imperfecto, autofocus hunting, altas luces quemadas, ruido digital suave, ligero motion blur) para alejar al modelo del acabado cinematográfico  \nIncluye detalles de audio diegético (viento en la azotea, tráfico lejano, pájaros, leve tintineo de monedas) y especifica explícitamente sin música/subtítulos para mantener el resultado realista y sin pulir"
+    },
+    "fr": {
+      "content": "Structurez votre prompt Seedance avec des timecodes explicites (par ex. 00:00–00:03, 00:03–00:06, etc.) pour contrôler une séquence de 15 secondes, beat par beat  \nPrécisez une esthétique caméra lo-fi (DV grand public du début des années 2000, handheld, cadrage imparfait, autofocus qui hésite, hautes lumières brûlées, léger bruit numérique, flou de mouvement modéré) pour orienter le modèle loin d’un rendu cinématographique trop léché  \nIncluez des détails audio diégétiques (vent sur le toit, circulation lointaine, oiseaux, léger tintement de pièce) et indiquez explicitement no music/subtitles afin de garder un rendu ancré et brut"
+    },
+    "ja": {
+      "content": "Seedanceのpromptは、明確なタイムコード（例: 00:00–00:03、00:03–00:06 など）で構成し、15秒のシーケンスをビートごとに制御します。  \nlo-fiなカメラの質感（2000年代初頭の一般向けDV、手持ち撮影、完璧ではないフレーミング、オートフォーカスの迷い、白飛び、やわらかなデジタルノイズ、軽いモーションブラー）を指定して、モデルがcinematicな洗練さに寄りすぎないようにします。  \nダイジェティックな音のディテール（屋上を吹き抜ける風、遠くの交通音、鳥の声、かすかな硬貨の触れ合う音）を含め、さらに音楽なし／字幕なしと明記して、出力が地に足のついた、飾り気のないものになるようにします。"
+    },
+    "ko": {
+      "content": "Seedance prompt를 명시적인 타임코드(예: 00:00–00:03, 00:03–00:06 등)로 구성해 15초 시퀀스를 비트 단위로 제어하세요.  \nlo-fi 카메라 미학(2000년대 초반 소비자용 DV, 핸드헬드, 불완전한 프레이밍, autofocus hunting, blown highlights, 부드러운 디지털 노이즈, 약한 motion blur)을 지정해 모델이 cinematic한 세련미에서 벗어나도록 유도하세요.  \ndiegetic audio 디테일(옥상 바람, 멀리서 들리는 차량 소리, 새소리, 희미한 동전 부딪히는 소리)을 포함하고, 음악/subtitles 없음이라고 명시해 결과물이 현실적이고 다듬어지지 않은 느낌을 유지하도록 하세요."
+    },
+    "pt": {
+      "content": "Estruture seu prompt do Seedance com timecodes explícitos (por exemplo, 00:00–00:03, 00:03–00:06 etc.) para controlar uma sequência de 15 segundos beat by beat  \nEspecifique uma estética de câmera lo-fi (DV de consumo do início dos anos 2000, handheld, enquadramento imperfeito, autofocus hunting, highlights estourados, ruído digital suave, leve motion blur) para orientar o modelo a se afastar de um acabamento cinematográfico  \nInclua detalhes de áudio diegético (vento no rooftop, tráfego distante, pássaros, leve som de moeda tilintando) e declare explicitamente sem música/legendas para manter a saída com aspecto realista e sem polimento"
+    },
+    "zh": {
+      "content": "用明确的时间码来构建你的 Seedance prompt（例如 00:00–00:03、00:03–00:06 等），以逐拍控制一个 15 秒的序列  \n指定一种 lo-fi camera aesthetic（2000 年代初的消费级 DV、手持拍摄、构图不完美、自动对焦拉风箱、过曝高光、柔和的数字噪点、轻微运动模糊），引导模型避开 cinematic polish  \n加入 diegetic audio 细节（屋顶风声、远处车流、鸟鸣、隐约的硬币碰撞声），并明确注明 no music/subtitles，以保持输出 grounded 且 unpolished"
+    }
+  }
+}

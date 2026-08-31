@@ -1,0 +1,41 @@
+{
+  "id": "2094063881744211973",
+  "title": "Generate a single continuous 30-second clip in Seedance 2.5 by setting 16:9…",
+  "content": "Generate a single continuous 30-second clip in Seedance 2.5 by setting 16:9 aspect ratio, native 4K resolution, and 24fps.\n\nUse one uploaded image as an identity reference to keep the protagonist consistent across the entire Seedance generation.\n\nWrite your Seedance prompt like a production spec: explicitly define physics/causality rules (e.g., water only originates from the protagonist’s gestures, with a visible path and real contact before reactions).\n\nChoreograph the sequence shot-by-shot inside the Seedance prompt (e.g., spiral breach → surface run → geyser staircase → lane-wide water ribbon → collapsing tidal turbine).\n\nAdd explicit negative constraints/prohibitions in the Seedance prompt to prevent common failures (e.g., no water spawning from enemies, no teleporting, no cloned faces, no plastic skin).",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/TraffAlex/status/2094063881744211973",
+  "sourcePublishedAt": "2026-08-30",
+  "author": {
+    "name": "AlexAImaginator",
+    "link": "https://x.com/TraffAlex"
+  },
+  "tags": [
+    "Action",
+    "Superpower",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate a single continuous 30-second clip in Seedance 2.5 by setting 16:9 aspect ratio, native 4K resolution, and 24fps.\n\nUse one uploaded image as an identity reference to keep the protagonist consistent across the entire Seedance generation.\n\nWrite your Seedance prompt like a production spec: explicitly define physics/causality rules (e.g., water only originates from the protagonist’s gestures, with a visible path and real contact before reactions).\n\nChoreograph the sequence shot-by-shot inside the Seedance prompt (e.g., spiral breach → surface run → geyser staircase → lane-wide water ribbon → collapsing tidal turbine).\n\nAdd explicit negative constraints/prohibitions in the Seedance prompt to prevent common failures (e.g., no water spawning from enemies, no teleporting, no cloned faces, no plastic skin).",
+  "translations": {
+    "es": {
+      "content": "Genera un clip único y continuo de 30 segundos en Seedance 2.5 configurando una relación de aspecto 16:9, resolución nativa 4K y 24 fps.\n\nUsa una sola imagen subida como referencia de identidad para mantener al protagonista consistente durante toda la generación en Seedance.\n\nEscribe tu prompt de Seedance como una especificación de producción: define explícitamente las reglas de física/causalidad (por ejemplo, el agua solo se origina a partir de los gestos del protagonista, con una trayectoria visible y contacto real antes de las reacciones).\n\nCoreografía la secuencia plano por plano dentro del prompt de Seedance (por ejemplo, spiral breach → surface run → geyser staircase → lane-wide water ribbon → collapsing tidal turbine).\n\nAñade restricciones/prohibiciones negativas explícitas en el prompt de Seedance para evitar fallos comunes (por ejemplo, no water spawning from enemies, no teleporting, no cloned faces, no plastic skin)."
+    },
+    "fr": {
+      "content": "Générez un clip unique et continu de 30 secondes dans Seedance 2.5 en définissant un format d’image 16:9, une résolution native 4K et 24 fps.\n\nUtilisez une seule image importée comme référence d’identité afin de conserver la cohérence du protagoniste tout au long de la génération Seedance.\n\nRédigez votre prompt Seedance comme une spécification de production : définissez explicitement les règles de physique/de causalité (par ex., l’eau ne peut provenir que des gestes du protagoniste, avec un trajet visible et un contact réel avant toute réaction).\n\nChorégraphiez la séquence plan par plan dans le prompt Seedance (par ex., rupture en spirale → course à la surface → escalier de geysers → ruban d’eau sur toute la voie → turbine de marée qui s’effondre).\n\nAjoutez dans le prompt Seedance des contraintes/interdictions négatives explicites pour éviter les échecs courants (par ex., pas d’eau apparaissant depuis les ennemis, pas de téléportation, pas de visages clonés, pas de peau en plastique)."
+    },
+    "ja": {
+      "content": "Seedance 2.5 で、16:9 のアスペクト比、ネイティブ 4K 解像度、24fps を設定し、30秒の単一の連続クリップを生成します。\n\n1枚のアップロード画像をアイデンティティ参照として使用し、Seedance 全体の生成を通して主人公の一貫性を保ちます。\n\nSeedance の prompt は制作仕様書のように書き、物理法則／因果関係のルールを明示的に定義します（例：水は主人公のジェスチャーからのみ発生し、目に見える経路をたどり、反応の前に実際の接触があること）。\n\nSeedance prompt 内で、シーケンスを shot-by-shot で演出します（例：spiral breach → surface run → geyser staircase → lane-wide water ribbon → collapsing tidal turbine）。\n\nよくある失敗を防ぐため、Seedance prompt に明示的な negative constraints／禁止事項を追加します（例：敵から水が出現しない、teleport しない、顔のクローンを作らない、plastic skin にしない）。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 16:9 화면 비율, 네이티브 4K 해상도, 24fps로 설정해 하나의 연속된 30초 클립을 생성하세요.\n\n업로드한 이미지 하나를 정체성 레퍼런스로 사용해, Seedance 전체 생성 과정에서 주인공의 일관성을 유지하세요.\n\nSeedance prompt는 제작 사양서처럼 작성하세요. 물리/인과 규칙을 명시적으로 정의합니다(예: 물은 오직 주인공의 제스처에서만 발생하며, 반응이 일어나기 전에 보이는 경로와 실제 접촉이 있어야 함).\n\nSeedance prompt 안에서 시퀀스를 shot-by-shot으로 구성하세요(예: spiral breach → surface run → geyser staircase → lane-wide water ribbon → collapsing tidal turbine).\n\nSeedance prompt에 명시적인 negative constraints/prohibitions를 추가해 흔한 실패를 방지하세요(예: 적에게서 물이 생성되지 않기, 순간이동 금지, 복제된 얼굴 금지, 플라스틱 같은 피부 금지)."
+    },
+    "pt": {
+      "content": "Gere um único clipe contínuo de 30 segundos no Seedance 2.5, definindo proporção 16:9, resolução nativa 4K e 24fps.\n\nUse uma única imagem enviada como referência de identidade para manter o protagonista consistente durante toda a geração no Seedance.\n\nEscreva seu prompt do Seedance como uma especificação de produção: defina explicitamente as regras de física/causalidade (por exemplo, a água só pode se originar dos gestos do protagonista, com um caminho visível e contato real antes das reações).\n\nCoreografe a sequência plano a plano dentro do prompt do Seedance (por exemplo, spiral breach → surface run → geyser staircase → lane-wide water ribbon → collapsing tidal turbine).\n\nAdicione restrições/proibições negativas explícitas no prompt do Seedance para evitar falhas comuns (por exemplo, sem água surgindo dos inimigos, sem teletransporte, sem rostos clonados, sem pele plástica)."
+    },
+    "zh": {
+      "content": "通过在 Seedance 2.5 中设置 16:9 画幅、原生 4K 分辨率和 24fps，生成一段连续的 30 秒单镜头片段。\n\n使用一张上传的图片作为身份参考，以确保主角在整个 Seedance 生成过程中保持一致。\n\n将你的 Seedance prompt 写得像一份制作规格说明：明确规定物理/因果规则（例如，水只能源自主角的手势，且在产生反应之前必须有可见路径和真实接触）。\n\n在 Seedance prompt 中按镜头逐一编排整个序列（例如，spiral breach → surface run → geyser staircase → lane-wide water ribbon → collapsing tidal turbine）。\n\n在 Seedance prompt 中加入明确的 negative constraints/prohibitions，以防止常见失败（例如，no water spawning from enemies, no teleporting, no cloned faces, no plastic skin）。"
+    }
+  }
+}

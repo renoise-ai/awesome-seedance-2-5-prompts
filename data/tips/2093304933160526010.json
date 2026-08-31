@@ -1,0 +1,43 @@
+{
+  "id": "2093304933160526010",
+  "title": "Remotionでパルクールのモーションを複数生成し、気に入ったモーションだけ選んでモーションコンテ（動きの絵コンテ）を組み立ててからSeedance2.5に読…",
+  "content": "Remotionでパルクールのモーションを複数生成し、気に入ったモーションだけ選んでモーションコンテ（動きの絵コンテ）を組み立ててからSeedance2.5に読み込ませてカスタムパルクール動画を作る  \n生成した動画の速度が遅いと感じたらプロンプトにモーションを早くしてと指示してスピードを上げる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093304855406481408/img/9PlLtgB9Dh__GR10.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093304933160526010.mp4",
+  "sourceLink": "https://x.com/Kashiko_AIart/status/2093304933160526010",
+  "sourcePublishedAt": "2026-08-28",
+  "author": {
+    "name": "かし子🍩",
+    "link": "https://x.com/Kashiko_AIart"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset"
+  ],
+  "tips": "Remotionでパルクールのモーションを複数生成し、気に入ったモーションだけ選んでモーションコンテ（動きの絵コンテ）を組み立ててからSeedance2.5に読み込ませてカスタムパルクール動画を作る  \n生成した動画の速度が遅いと感じたらプロンプトにモーションを早くしてと指示してスピードを上げる",
+  "translations": {
+    "en": {
+      "content": "Generate multiple parkour motions in Remotion, then select only the ones you like and assemble them into a motion storyboard (an animation storyboard), then load that into Seedance 2.5 to create a custom parkour video.  \nIf the generated video feels too slow, tell the prompt to make the motion faster to increase the speed.\n\n--- THREAD CONTINUATION ---\n[Thread 1] By the way, here are the three types of action names Codex created this time:\n\nA Acceleration Sprint  \nB Backflip  \nC Cat Leap  \nD Dash Vault  \nE Dive Roll  \nF Front Flip  \nG Gap Jump  \nH Hurdle Vault  \nI Wall Kick  \nJ Precision  \nK Kong Vault  \nL Lazy Vault  \nM Muscle-Up  \nN Shoulder Roll  \nO One-Hand Vault  \nP Palm Spin  \nQ Quick Step  \nR Reverse Vault  \nS Speed Vault  \nT Tic Tac  \nU Underbar  \nV Vertical Wall Climb  \nW Wall Run  \nX Cross Vault  \nY Turn Vault  \nZ Rail Balance  \nAA Side Flip  \nAB Corkscrew  \nAC Lache  \nAD Drop Roll"
+    },
+    "es": {
+      "content": "Generar múltiples movimientos de parkour con Remotion, elegir solo los que te gusten y, a partir de ellos, montar un motion storyboard (guion gráfico de movimiento) para luego cargarlo en Seedance2.5 y crear un video de parkour personalizado.  \nSi sientes que la velocidad del video generado es lenta, indícalo en el prompt diciendo que el movimiento sea más rápido para aumentar la velocidad.\n\n--- CONTINUACIÓN DEL HILO ---\n[Thread 1] Por cierto, estos son los nombres de las 3 tipos de acciones que Codex creó esta vez:\n\nA Sprint de aceleración  \nB Backflip  \nC Cat leap  \nD Dash vault  \nE Dive roll  \nF Front flip  \nG Gap jump  \nH Hurdle vault  \nI Wall kick  \nJ Precision  \nK Kong vault  \nL Lazy vault  \nM Muscle-up  \nN Shoulder roll  \nO One-hand vault  \nP Palm spin  \nQ Quick step  \nR Reverse vault  \nS Speed vault  \nT Tic-tac  \nU Underbar  \nV Escalada vertical de pared  \nW Wall run  \nX Cross vault  \nY Turn vault  \nZ Rail balance  \nAA Side flip  \nAB Corkscrew  \nAC Lache  \nAD Drop roll"
+    },
+    "fr": {
+      "content": "Remotion permet de générer plusieurs motions de parkour, puis de sélectionner uniquement celles qui vous plaisent pour composer un motion board (storyboard des mouvements) avant de les importer dans Seedance2.5 afin de créer une vidéo de parkour personnalisée.  \nSi vous trouvez que la vidéo générée est trop lente, indiquez dans le prompt qu’il faut accélérer les mouvements pour augmenter la vitesse.\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Fil 1] Au passage, voici les 3 types d’actions que Codex a créés cette fois-ci :\n\nA Sprint d’accélération  \nB Backflip  \nC Cat Leap  \nD Dash Vault  \nE Dive Roll  \nF Frontflip  \nG Gap Jump  \nH Hurdle Vault  \nI Wall Kick  \nJ Precision  \nK Kong Vault  \nL Lazy Vault  \nM Muscle-up  \nN Shoulder Roll  \nO One-Hand Vault  \nP Palm Spin  \nQ Quick Step  \nR Reverse Vault  \nS Speed Vault  \nT Tic-tac  \nU Underbar  \nV Escalade verticale du mur  \nW Wall Run  \nX Cross Vault  \nY Turn Vault  \nZ Équilibre sur rail  \nAA Side Flip  \nAB Corkscrew  \nAC Laché  \nAD Drop Roll"
+    },
+    "ko": {
+      "content": "Remotion에서 파쿠르 모션을 여러 개 생성한 뒤, 마음에 드는 모션만 골라 모션 콘티(움직임의 스토리보드)를 구성하고, 이를 Seedance2.5에 불러와 커스텀 파쿠르 영상을 만든다.  \n생성된 영상의 속도가 느리다고 느껴지면 prompt에 모션을 더 빠르게 해달라고 지시해 속도를 높인다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 참고로 이번에 Codex가 만들어 준 3가지 액션명은 다음과 같다\n\nA 가속 스프린트  \nB 백플립  \nC 캣 리프  \nD 대시 볼트  \nE 다이브 롤  \nF 프론트 플립  \nG 갭 점프  \nH 허들 볼트  \nI 월 킥  \nJ 프리시전  \nK 콩 볼트  \nL 레이지 볼트  \nM 머슬업  \nN 숄더 롤  \nO 원핸드 볼트  \nP 팜 스핀  \nQ 퀵 스텝  \nR 리버스 볼트  \nS 스피드 볼트  \nT 틱택  \nU 언더바  \nV 수직 월 클라임  \nW 월 런  \nX 크로스 볼트  \nY 턴 볼트  \nZ 레일 밸런스  \nAA 사이드 플립  \nAB 코크스크루  \nAC 라셰  \nAD 드롭 롤"
+    },
+    "pt": {
+      "content": "Gerar várias motions de parkour no Remotion, selecionar apenas as que você gostar e montar um motion board (storyboard de movimento) antes de carregá-lo no Seedance2.5 para criar um vídeo customizado de parkour.  \nSe sentir que a velocidade do vídeo gerado está lenta, instrua no prompt para acelerar o movimento e aumentar a velocidade.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] A propósito, estes são os nomes das 3 ações que o Codex criou desta vez\n\nA Sprint com aceleração\nB Backflip\nC Cat Leap\nD Dash Vault\nE Dive Roll\nF Front Flip\nG Gap Jump\nH Hurdle Vault\nI Wall Kick\nJ Precision\nK Kong Vault\nL Lazy Vault\nM Muscle Up\nN Shoulder Roll\nO One-Hand Vault\nP Palm Spin\nQ Quick Step\nR Reverse Vault\nS Speed Vault\nT Tic Tac\nU Underbar\nV Escalada vertical na parede\nW Wall Run\nX Cross Vault\nY Turn Vault\nZ Equilíbrio na barra\nAA Side Flip\nAB Corkscrew\nAC Lache\nAD Drop Roll"
+    },
+    "zh": {
+      "content": "使用 Remotion 生成多个跑酷动作，只挑选自己喜欢的动作，先组装成动作分镜（motion storyboard），再导入 Seedance2.5，制作自定义跑酷视频。  \n如果觉得生成的视频速度太慢，就在 prompt 里指示把动作加快，以提升速度\n\n--- THREAD CONTINUATION ---\n[Thread 1] 顺便说一下，这次 Codex 帮我生成的 3 种动作名称如下\n\nA 加速冲刺  \nB 后空翻  \nC 猫跃  \nD 冲刺越障  \nE 跳跃翻滚  \nF 前空翻  \nG 跨越跳  \nH 栏杆越障  \nI 蹬墙跳  \nJ 精准跳  \nK 猩猩跳  \nL 懒人越障  \nM 引体上翻  \nN 肩滚翻  \nO 单手越障  \nP 掌旋  \nQ 快步  \nR 反向越障  \nS 速度越障  \nT 踏墙  \nU 下穿  \nV 垂直爬墙  \nW 墙跑  \nX 交叉越障  \nY 转体越障  \nZ 栏杆平衡  \nAA 侧空翻  \nAB 螺旋翻  \nAC 拉谢  \nAD 落地滚翻"
+    }
+  }
+}

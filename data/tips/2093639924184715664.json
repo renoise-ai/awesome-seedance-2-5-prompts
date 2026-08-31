@@ -1,0 +1,41 @@
+{
+  "id": "2093639924184715664",
+  "title": "台本を書く→カットを割る→Seedance 2.5をAPI経由で生成に投げる→生成映像を確認する→カットをつないで編集する、の工程をループ化して連載制作を回す",
+  "content": "台本を書く→カットを割る→Seedance 2.5をAPI経由で生成に投げる→生成映像を確認する→カットをつないで編集する、の工程をループ化して連載制作を回す  \n各話は指示出しと最終チェックだけ人間が行い、生成〜確認〜編集の反復はエージェントハーネス（例: beancat）＋Seedance 2.5＋APIで自動化する",
+  "language": "ja",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/onofumi_AI/status/2093639924184715664",
+  "sourcePublishedAt": "2026-08-29",
+  "author": {
+    "name": "おのふみ| AIクリエーター×個人開発",
+    "link": "https://x.com/onofumi_AI"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "台本を書く→カットを割る→Seedance 2.5をAPI経由で生成に投げる→生成映像を確認する→カットをつないで編集する、の工程をループ化して連載制作を回す  \n各話は指示出しと最終チェックだけ人間が行い、生成〜確認〜編集の反復はエージェントハーネス（例: beancat）＋Seedance 2.5＋APIで自動化する",
+  "translations": {
+    "en": {
+      "content": "Loop the workflow of writing the script → breaking it into cuts → sending it to Seedance 2.5 for generation via API → reviewing the generated footage → stitching the cuts together in editing, and use that loop to run serialized production.\n\nFor each episode, humans only handle the instructions and the final check, while the repetition of generation → review → editing is automated with an agent harness (e.g., beancat) + Seedance 2.5 + API.\n\n--- QUOTED TWEET ---\nAtlas - Episode 5 is here!\n\nFull playlist - https://t.co/825JJLRU0h\n\nBuilt with custom \"beancat\" agent harness, seedance 2.5, and generated via @atlas_cloud_ai API https://t.co/41NChSiLmZ\n---"
+    },
+    "es": {
+      "content": "台本を書く→カットを割る→Seedance 2.5をAPI経由で生成に投げる→生成映像を確認する→カットをつないで編集する、という工程をループ化して連載制作を回す  \n各話は指示出しと最終チェックだけ人間が行い、生成〜確認〜編集の反復はエージェントハーネス（例: beancat）＋Seedance 2.5＋APIで自動化する\n\n--- TWEET CITADO ---\n¡Atlas - Episodio 5 ya está aquí!  \n\nLista de reproducción completa - https://t.co/825JJLRU0h\n\nCreado con un agente personalizado \"beancat\", seedance 2.5, y generado a través de la API de @atlas_cloud_ai https://t.co/41NChSiLmZ\n---"
+    },
+    "fr": {
+      "content": "Écrire le script → découper les plans → envoyer la génération à Seedance 2.5 via l’API → vérifier les images générées → relier les plans et monter le tout : il faut boucler ce processus pour faire tourner une production en série.  \nPour chaque épisode, l’humain ne s’occupe que des consignes et de la vérification finale ; l’itération génération → contrôle → montage est automatisée via un agent harness (par ex. beancat) + Seedance 2.5 + API.\n\n--- TWEET CITÉ ---\nAtlas - Episode 5 est là !  \n\nPlaylist complète - https://t.co/825JJLRU0h\n\nRéalisé avec un agent harness personnalisé « beancat », Seedance 2.5, et généré via l’API @atlas_cloud_ai https://t.co/41NChSiLmZ\n---"
+    },
+    "ko": {
+      "content": "대본을 쓰고 → 컷을 나누고 → Seedance 2.5를 API를 통해 생성에 넘기고 → 생성된 영상을 확인하고 → 컷을 이어 편집하는 과정을 루프화해 연재 제작을 운영한다  \n각 화는 지시와 최종 체크만 사람이 수행하고, 생성~확인~편집의 반복은 에이전트 하네스(예: beancat) + Seedance 2.5 + API로 자동화한다\n\n--- QUOTED TWEET ---\nAtlas - Episode 5가 나왔습니다!  \n\n전체 플레이리스트 - https://t.co/825JJLRU0h\n\n커스텀 \"beancat\" 에이전트 하네스, seedance 2.5로 제작했으며, @atlas_cloud_ai API를 통해 생성되었습니다 https://t.co/41NChSiLmZ\n---"
+    },
+    "pt": {
+      "content": "台本を書く→カットを割る→Seedance 2.5をAPI経由で生成に投げる→生成映像を確認する→カットをつないで編集する、という工程をループ化して連載制作を回す  \n各話は指示出しと最終チェックだけ人間が行い、生成〜確認〜編集の反復はエージェントハーネス（例: beancat）＋Seedance 2.5＋APIで自動化する\n\n--- TWEET CITADO ---\nAtlas - Episódio 5 já está no ar!  \n\nPlaylist completa - https://t.co/825JJLRU0h\n\nFeito com um agent harness personalizado \"beancat\", seedance 2.5, e gerado via a API @atlas_cloud_ai https://t.co/41NChSiLmZ\n---"
+    },
+    "zh": {
+      "content": "把“写剧本→拆分镜头→通过 API 将内容提交给 Seedance 2.5 生成→确认生成视频→剪辑拼接镜头”这一流程循环化，用于连载内容制作  \n每一集只由人类负责下达指令和最终检查，生成→确认→编辑的反复过程则通过 agent harness（例如：beancat）+ Seedance 2.5 + API 自动化完成\n\n--- QUOTED TWEET ---\nAtlas - 第 5 集来了！  \n\n完整播放列表 - https://t.co/825JJLRU0h\n\n使用自定义的 “beancat” agent harness、seedance 2.5 构建，并通过 @atlas_cloud_ai API 生成 https://t.co/41NChSiLmZ\n---"
+    }
+  }
+}

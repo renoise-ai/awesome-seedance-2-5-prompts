@@ -1,0 +1,42 @@
+{
+  "id": "2093641173957267494",
+  "title": "Seedance 2.5でアニメを高速に動かすと480p以上では溶けやすいので、超高速アクションは低解像度（480p）で試す",
+  "content": "Seedance 2.5でアニメを高速に動かすと480p以上では溶けやすいので、超高速アクションは低解像度（480p）で試す  \n480pでは線をシャープにしすぎると粗が目立つため、線のシャープさを上げすぎない  \n低解像度の粗さを誤魔化すためにスミアフレーム（動きの残像線）を使って線表現にする  \n溶けが目立ちにくいように、イラストデザイン（線やディテール）を調整して作る  \n一発撮りにせず、複数テイク（複数生成）で素材を作って組み立てる",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093641135260659712/img/80Ah_OFllCmYGoiy.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093641173957267494.mp4",
+  "sourceLink": "https://x.com/tebasaki3D/status/2093641173957267494",
+  "sourcePublishedAt": "2026-08-29",
+  "author": {
+    "name": "てばさき",
+    "link": "https://x.com/tebasaki3D"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5でアニメを高速に動かすと480p以上では溶けやすいので、超高速アクションは低解像度（480p）で試す  \n480pでは線をシャープにしすぎると粗が目立つため、線のシャープさを上げすぎない  \n低解像度の粗さを誤魔化すためにスミアフレーム（動きの残像線）を使って線表現にする  \n溶けが目立ちにくいように、イラストデザイン（線やディテール）を調整して作る  \n一発撮りにせず、複数テイク（複数生成）で素材を作って組み立てる",
+  "translations": {
+    "en": {
+      "content": "When animating quickly in Seedance 2.5, things tend to melt at 480p and above, so try ultra-fast action at a low resolution (480p).\n\nAt 480p, if the lines are made too sharp, the roughness becomes more noticeable, so don’t overdo the sharpness of the linework.\n\nTo disguise the roughness of the low resolution, use smear frames (motion blur/trailing lines) to create the line expression.\n\nDesign the illustration so the melting is less noticeable by adjusting the linework and details.\n\nDon’t rely on a single take; create material through multiple takes (multiple generations) and assemble it afterward.\n\n--- QUOTED TWEET ---\nI tried an ultra-fast spinning motion with a slightly sharper anime illustration✨\n\nSince it’s 480p, if you make the lines too sharp, the roughness really stands out🫠\nSeedance 2.5 originally tends to melt when anime is animated quickly at 480p or higher, so I tried using smear frames to turn the motion into lines and hide the low-resolution roughness.\nBut at this level of roughness, maybe it’s still tough?\n\nI should think about an illustration design that makes melting less noticeable🤔\nThis time, it wasn’t a one-shot take🤣\n(PolloAI × Seedance2.5)"
+    },
+    "es": {
+      "content": "Hacer que el anime se mueva a gran velocidad en Seedance 2.5 tiende a “derretirse” a partir de 480p, así que conviene probar las acciones ultrarrápidas en baja resolución (480p).  \nEn 480p, si afinas demasiado las líneas, los defectos se vuelven más evidentes, así que no conviene subir demasiado la nitidez de las líneas.  \nPara disimular la粗さ de la baja resolución, usa smear frames (estelas de movimiento) para construir la expresión de las líneas.  \nPara que el “derretimiento” se note menos, ajusta el diseño de la ilustración (líneas y detalles) al crearla.  \nEn lugar de hacerlo en una sola toma, genera varios takes (múltiples generaciones) y luego compón el material.\n\n--- TWEET CITADO ---\nProbé a hacer un giro ultrarrápido con una ilustración de anime un poco más nítida✨\n\nComo es 480p, si afinas demasiado las líneas, los defectos se notan mucho🫠  \nOriginalmente, Seedance 2.5 tiende a “derretirse” cuando el anime se mueve a gran velocidad a partir de 480p, así que intenté usar smear frames para convertirlo en líneas y disimular la baja resolución.  \nPero con tanta粗さ, ¿quizá sigue siendo demasiado difícil?\n\nVoy a pensar en un diseño de ilustración en el que el “derretimiento” se note menos🤔  \nEsta vez no fue una toma única🤣  \n(PolloAI × Seedance2.5)\n---"
+    },
+    "fr": {
+      "content": "Avec Seedance 2.5, quand on fait bouger l’animation très rapidement, elle a tendance à « fondre » à partir de 480p et au-delà, donc il vaut mieux tester les actions ultra rapides en basse résolution (480p).  \nÀ 480p, si les lignes sont trop nettes, les défauts deviennent visibles, donc il ne faut pas pousser trop loin la netteté des traits.  \nPour masquer la rugosité de la basse résolution, on peut utiliser des smear frames (traînées de mouvement) pour créer un rendu de lignes.  \nPour que la « fonte » soit moins visible, il faut ajuster le design de l’illustration (lignes et détails) en conséquence.  \nAu lieu de tout faire en une seule prise, il vaut mieux créer des éléments avec plusieurs takes (plusieurs générations) puis les assembler.\n\n--- TWEET CITÉ ---\nJ’ai essayé un mouvement ultra rapide avec une illustration d’anime un peu plus nette ✨\n\nComme c’est en 480p, si on rend les lignes trop nettes, les défauts ressortent 🫠  \nÀ l’origine, Seedance 2.5 a tendance à fondre quand on fait bouger l’animation rapidement en 480p ou plus, alors j’ai essayé de contourner la basse résolution en utilisant des smear frames pour transformer ça en lignes.  \nMais vu à quel point c’est grossier, c’est peut-être quand même un peu difficile ?\n\nJe vais essayer de réfléchir à un design d’illustration où la fonte se voit moins 🤔  \nCette fois, ce n’était pas une prise unique 🤣  \n(PolloAI × Seedance2.5)"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 애니메이션을 빠르게 움직이면 480p 이상에서는 쉽게 뭉개지므로, 초고속 액션은 저해상도(480p)로 시도한다  \n480p에서는 선을 너무 샤프하게 하면 거친 부분이 눈에 띄기 때문에, 선의 샤프함을 지나치게 올리지 않는다  \n저해상도의 거칠음을 가리기 위해 스미어 프레임(움직임의 잔상선)을 사용해 선 표현으로 만든다  \n뭉개짐이 눈에 덜 띄도록 일러스트 디자인(선과 디테일)을 조정해 제작한다  \n원테이크로 하지 않고, 여러 테이크(여러 번 생성)로 소재를 만들어 조립한다\n\n--- 인용 트윗 ---\n초고속 회전을, 조금 더 샤프한 애니메이션 일러스트로 시도해 봤습니다✨\n\n480p라서 선을 너무 샤프하게 하면 거친 부분이 눈에 띄네요🫠\n원래 Seedance 2.5는 480p 이상에서 애니메이션을 빠르게 움직이면 뭉개지기 때문에, 저해상도를 가리기 위해 스미어 프레임으로 선처럼 보이게 만들어 봤는데.\n이 정도로 거칠면 역시 힘들까요?\n\n조금 더 뭉개짐이 눈에 덜 띄는 일러스트 디자인을 생각해 봐야겠네요🤔\n이번에는 원테이크가 아닙니다🤣\n(PolloAI × Seedance2.5)"
+    },
+    "pt": {
+      "content": "Ao fazer a animação se mover muito rápido no Seedance 2.5, acima de 480p ela tende a “derreter” com facilidade, então vale testar ações super-rápidas em baixa resolução (480p).  \nEm 480p, se as linhas ficarem nítidas demais, os defeitos ficam mais aparentes, então é melhor não exagerar na nitidez das linhas.  \nPara disfarçar a aspereza da baixa resolução, use smear frames (rastros de movimento) para transformar isso em uma expressão de linhas.  \nPara que o “derretimento” fique menos perceptível, ajuste o design da ilustração (linhas e detalhes) ao criar.  \nEm vez de fazer em uma única tomada, crie o material com várias takes (múltiplas gerações) e depois monte.\n\n--- TWEET CITADO ---\nTestei uma animação super-rápida com uma ilustração de anime um pouco mais nítida✨\n\nComo é 480p, se as linhas ficarem nítidas demais, os defeitos ficam bem visíveis🫠  \nComo o Seedance 2.5 originalmente tende a “derreter” quando a animação se move rápido em 480p ou acima, tentei usar smear frames para transformar isso em linhas e disfarçar a baixa resolução.  \nMas, sendo tão áspero assim, será que ainda fica difícil?\n\nVou pensar em um design de ilustração que deixe o “derretimento” menos perceptível🤔  \nDesta vez não foi uma única tomada🤣  \n(PolloAI × Seedance2.5)"
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中让动画高速运动时，超过 480p 就很容易“融化”，所以超高速动作最好先用低分辨率（480p）来尝试  \n在 480p 下，如果把线条做得过于锐利，粗糙感会更明显，因此不要把线条锐度提得太高  \n为了掩盖低分辨率带来的粗糙感，可以使用 smear frame（运动残影线）来做线条表现  \n为了让“融化”不那么显眼，制作时要调整插画设计（线条和细节）  \n不要一次成片，而是通过多个 take（多次生成）来收集素材再进行组合\n\n--- QUOTED TWEET ---\n我试着用更锐利一点的动画插画来表现超高速旋转✨\n\n因为是 480p，如果把线条做得太锐利，粗糙感就会很明显🫠\n原本 Seedance 2.5 在 480p 以上让动画高速运动时就容易“融化”，所以我想用 smear frame 把它做成线条来掩盖低分辨率的缺点，不过。\n这么粗糙的话，果然还是有点难吗？\n\n还是再想想怎样设计出更不容易显得“融化”的插画吧🤔\n这次不是一发撮り🤣\n(PolloAI × Seedance2.5)\n---"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2094202377612218785",
+  "title": "Seedance2.5で30秒生成した動画をPixVerse Canvasでアップスケールする場合、15秒単位の制限に合わせて動画を15秒×2に分割してからCa…",
+  "content": "Seedance2.5で30秒生成した動画をPixVerse Canvasでアップスケールする場合、15秒単位の制限に合わせて動画を15秒×2に分割してからCanvas上で個別にアップスケールする  \nSeedance2.5の480p生成を前提に、PixVerse Canvasのアップスケール（約60クレジット/10秒）を組み合わせて低コストで高解像度化する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094202139476414464/img/XJTKulwz8XAgNbDd.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094202377612218785.mp4",
+  "sourceLink": "https://x.com/tea_story_hoshi/status/2094202377612218785",
+  "sourcePublishedAt": "2026-08-30",
+  "author": {
+    "name": "おちゃばなし | tea_and_stories",
+    "link": "https://x.com/tea_story_hoshi"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance2.5で30秒生成した動画をPixVerse Canvasでアップスケールする場合、15秒単位の制限に合わせて動画を15秒×2に分割してからCanvas上で個別にアップスケールする  \nSeedance2.5の480p生成を前提に、PixVerse Canvasのアップスケール（約60クレジット/10秒）を組み合わせて低コストで高解像度化する",
+  "translations": {
+    "en": {
+      "content": "When upscaling a 30-second video generated with Seedance2.5 in PixVerse Canvas, split the video into two 15-second segments to match the 15-second limit, then upscale each segment individually in Canvas.  \nAssuming Seedance2.5 is generated at 480p, combining it with PixVerse Canvas upscaling (about 60 credits per 10 seconds) makes it possible to achieve higher resolution at low cost.\n\n--- QUOTED TWEET ---\nI tried it since upscaling has become easy in pixvers canvas. The cost is very low at around 60 credits for 10 seconds, so it seems like it could be a great deal when used with Seedance2.5 480p generation. (FHD-10s → 1190 cr, 480p-10s → 350 cr, so even with an extra 60 credits, it’s basically negligible.)\n\nSince the output can only be set to 4K, it would be nice if other options were available and the cost could be lowered further, but even as it is now, I feel it’s quite usable.\n\nI also previously sent an official request asking for improvements to the upscaler, so I’m glad they responded to that.\n\nNext, I’m waiting for them to improve the prompt character limit 🍵\n\n@pixverse #pixversecpp\n---"
+    },
+    "es": {
+      "content": "Si vas a hacer upscale en PixVerse Canvas de un video generado en 30 segundos con Seedance2.5, divídelo primero en dos clips de 15 segundos para ajustarte al límite por bloques de 15 segundos, y luego haz el upscale de cada uno por separado en Canvas.  \nPartiendo de una generación en 480p con Seedance2.5, combina el upscale de PixVerse Canvas (aprox. 60 créditos/10 segundos) para convertirlo a alta resolución a bajo costo.\n\n--- TWEET CITADO ---\nComo ahora es más fácil hacer upscale en pixvers canvas, lo probé. El costo es muy bajo, alrededor de 60 créditos por 10 segundos, así que parece que puede aprovecharse bastante bien junto con la generación en 480p de seedance2.5. (FHD-10s → 1190cr, 480p-10s → 350cr, así que incluso sumando 60 créditos, la diferencia es mínima).\n\nComo solo se puede elegir 4K como output, estaría bien que también se pudieran elegir otras opciones para reducir aún más el costo, pero por ahora ya me da la impresión de que puede ser bastante útil.\n\nYo mismo, hace tiempo, incluso envié a la cuenta oficial una solicitud para mejorar el upscaler, así que me alegra mucho esta respuesta.\n\nAhora solo queda esperar a que mejoren el límite de caracteres del prompt 🍵\n\n@pixverse #pixversecpp"
+    },
+    "fr": {
+      "content": "Si vous souhaitez upscaler dans PixVerse Canvas une vidéo générée en 30 secondes avec Seedance2.5, il faut la découper en deux segments de 15 secondes pour respecter la limite par tranche de 15 secondes, puis les upscaler séparément dans Canvas.  \nEn partant d’une génération Seedance2.5 en 480p, on peut combiner l’upscale de PixVerse Canvas (environ 60 crédits / 10 secondes) pour obtenir une haute résolution à moindre coût.\n\n--- TWEET CITÉ ---\nComme l’upscale est désormais facile à faire avec pixvers canvas, j’ai essayé. Le coût est très bas, autour de 60 crédits pour 10 secondes, donc en l’utilisant avec une génération Seedance2.5 en 480p, ça semble vraiment rentable. (FHD-10s → 1190 cr, 480p-10s → 350 cr, donc même avec 60 crédits de plus, c’est presque négligeable.)\n\nComme seule l’option 4K est disponible pour l’output, ce serait bien de pouvoir choisir d’autres résolutions afin de réduire encore les coûts, mais à l’heure actuelle, j’ai l’impression que c’est déjà très utilisable.\n\nJ’avais moi-même déjà envoyé auparavant une demande officielle pour améliorer l’upscaler, donc je suis content de cette réponse.\n\nJ’attends maintenant qu’ils améliorent la limite de caractères du prompt 🍵\n\n@pixverse #pixversecpp\n---"
+    },
+    "ko": {
+      "content": "Seedance2.5에서 30초 생성한 영상을 PixVerse Canvas로 업스케일할 경우, 15초 단위 제한에 맞춰 영상을 15초 × 2로 분할한 뒤 Canvas에서 각각 개별적으로 업스케일한다  \nSeedance2.5의 480p 생성을 전제로, PixVerse Canvas의 업스케일(약 60크레딧/10초)을 조합해 저비용으로 고해상도화한다\n\n--- QUOTED TWEET ---\npixvers canvas에서 upscale을 쉽게 할 수 있게 되어 시험해봤습니다. 10초에 약 60크레딧 정도로 비용이 매우 저렴해서 seedance2.5의 480p 생성과 함께 활용하면 꽤 가성비 좋게 쓸 수 있을 것 같습니다. (FHD-10s → 1190cr, 480p-10s → 350cr 이므로 60크레딧이 늘어나도 오차 수준)\n\noutput은 4k만 선택할 수 있어서, 다른 해상도도 선택할 수 있게 되고 비용도 더 내려가면 좋겠지만, 현재 시점에서도 꽤 쓸 만하다고 느꼈습니다.\n\n저도 예전에 공식에 업스케일러 개선 요청을 보낸 적이 있었기 때문에, 이번 대응이 반갑습니다.\n\n다음은 prompt 글자 수 제한이 개선되기를 기다리고 있습니다🍵\n\n@pixverse #pixversecpp\n---"
+    },
+    "pt": {
+      "content": "Ao fazer upscale de um vídeo gerado em 30 segundos no Seedance2.5 usando o PixVerse Canvas, é preciso dividir o vídeo em dois trechos de 15 segundos para atender ao limite de 15 segundos e então fazer o upscale de cada parte separadamente no Canvas.  \nPartindo da geração em 480p do Seedance2.5, a combinação com o upscale do PixVerse Canvas (cerca de 60 créditos/10 segundos) permite aumentar a resolução com baixo custo.\n\n--- QUOTED TWEET ---\nComo o upscale no pixvers canvas ficou fácil de fazer, resolvi testar. O custo é bem baixo, cerca de 60 créditos por 10 segundos, então, se usado com a geração em 480p do seedance2.5, parece que dá para aproveitar de forma bem vantajosa. (FHD-10s → 1190cr, 480p-10s → 350cr, então mesmo com mais 60 créditos, a diferença fica praticamente na margem de erro)\n\nComo o output só pode ser selecionado em 4K, seria ótimo se também fosse possível escolher outras opções e reduzir ainda mais o custo, mas, por enquanto, já senti que isso pode ser bem útil.\n\nEu mesmo já tinha enviado antes uma solicitação oficial pedindo melhorias no upscaler, então fiquei feliz com essa atualização.\n\nAgora estou esperando que melhorem o limite de caracteres do prompt 🍵\n\n@pixverse #pixversecpp\n---"
+    },
+    "zh": {
+      "content": "如果要在 PixVerse Canvas 中对用 Seedance2.5 生成的 30 秒视频进行 upscale，需要按照 15 秒的限制先将视频拆分成 15 秒 × 2，然后在 Canvas 上分别进行 upscale。  \n以 Seedance2.5 的 480p 生成作为前提，结合 PixVerse Canvas 的 upscale（约 60 credits / 10 秒），可以用较低成本实现高分辨率化。\n\n--- QUOTED TWEET ---\n因为现在在 pixvers canvas 里可以很方便地进行 upscale，所以我试着用了一下。10 秒大约只要 60 credits，成本非常低；如果配合 seedance2.5 的 480p 生成来使用，感觉会相当划算。（FHD-10s → 1190cr，480p-10s → 350cr，所以即使增加 60 credits，也几乎可以忽略不计）\n\noutput 只能选择 4k，如果还能选择其他分辨率、进一步降低成本就更好了，不过就目前来看，我已经觉得它相当实用了。\n\n我之前也曾向官方提交过“希望改进 upscaler”的请求，所以这次的更新让我很开心。\n\n接下来就等他们改善 prompt 的字数限制了🍵\n\n@pixverse #pixversecpp\n---"
+    }
+  }
+}

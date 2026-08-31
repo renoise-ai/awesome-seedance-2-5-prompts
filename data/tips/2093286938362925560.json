@@ -1,0 +1,43 @@
+{
+  "id": "2093286938362925560",
+  "title": "Provide a floor plan/top-down map of the environment (e.g., living room → foyer…",
+  "content": "Provide a floor plan/top-down map of the environment (e.g., living room → foyer → front door → porch) to keep the house layout consistent across shots.  \nUse a 3D/animation reference clip to lock Seedance 2.5 to the exact action and camera movement beat-for-beat.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093279002110623745/img/2ZpLhmPZxZ9utLKI.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093286938362925560.mp4",
+  "sourceLink": "https://x.com/kaen_sv/status/2093286938362925560",
+  "sourcePublishedAt": "2026-08-28",
+  "author": {
+    "name": "kaen_",
+    "link": "https://x.com/kaen_sv"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Creative Asset",
+    "Tutorial"
+  ],
+  "tips": "Provide a floor plan/top-down map of the environment (e.g., living room → foyer → front door → porch) to keep the house layout consistent across shots.  \nUse a 3D/animation reference clip to lock Seedance 2.5 to the exact action and camera movement beat-for-beat.",
+  "translations": {
+    "es": {
+      "content": "Proporciona un plano de planta/mapa cenital del entorno (por ejemplo, sala de estar → vestíbulo → puerta principal → porche) para mantener la distribución de la casa consistente entre tomas.  \nUsa un clip de referencia en 3D/animación para fijar Seedance 2.5 exactamente a la acción y al movimiento de cámara, compás por compás.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] ¿Cómo conseguí que mi video con IA dejara de reinventar la casa en cada toma?\n\nel plano de planta le dio a Seedance 2.5 la ruta completa: sala de estar → vestíbulo → puerta principal → porche\n\nlo tradujo de ese mapa plano y cenital a movimiento en 3D, siguiendo exactamente la acción y la cámara de la referencia de animación."
+    },
+    "fr": {
+      "content": "Fournissez un plan d’étage / une vue de dessus de l’environnement (par ex. salon → vestibule → porte d’entrée → porche) afin de conserver une disposition de la maison cohérente d’un plan à l’autre.  \nUtilisez un clip de référence 3D / d’animation pour verrouiller Seedance 2.5 sur l’action exacte et le mouvement de caméra, au rythme près.\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Fil 1] Comment j’ai empêché ma vidéo IA de réinventer la maison à chaque plan ?\n\nle plan d’étage a donné à Seedance 2.5 l’itinéraire complet : salon → vestibule → porte d’entrée → porche\n\nil a traduit cette carte plate, vue de dessus, en mouvement 3D tout en suivant exactement l’action et la caméra de la référence d’animation.\n---"
+    },
+    "ja": {
+      "content": "環境の間取り図／俯瞰マップ（例：リビングルーム → 玄関ホール → 正面玄関 → ポーチ）を用意して、ショットごとに家のレイアウトが一貫するようにします。  \n3D／アニメーションの参照クリップを使って、Seedance 2.5 をアクションとカメラの動きにビート単位で正確に固定します。\n\n--- スレッドの続き ---\n[Thread 1] AI動画で、ショットごとに家が勝手に作り変わられるのをどう止めたか？\n\n間取り図によって、Seedance 2.5 に完全な移動ルートを与えました：リビングルーム → 玄関ホール → 正面玄関 → ポーチ\n\nその平面的な俯瞰マップを 3D の動きに変換しつつ、アニメーション参照のアクションとカメラを正確に追従させました。"
+    },
+    "ko": {
+      "content": "환경을 나타내는 평면도/탑다운 맵(예: 거실 → 현관 → 정문 → 현관 포치)을 제공해 집의 레이아웃이 샷마다 일관되게 유지되도록 하세요.  \n3D/애니메이션 레퍼런스 클립을 사용해 Seedance 2.5가 정확한 액션과 카메라 움직임을 비트 단위로 그대로 따르도록 고정하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] AI 영상이 매 샷마다 집을 다시 만들어내는 걸 어떻게 멈췄나?\n\n평면도가 Seedance 2.5에 전체 동선을 제공했습니다: 거실 → 현관 → 정문 → 현관 포치\n\n그 결과, 이 평면의 탑다운 맵을 3D 움직임으로 변환하면서 애니메이션 레퍼런스의 정확한 액션과 카메라를 그대로 따라갔습니다.\n---"
+    },
+    "pt": {
+      "content": "Forneça uma planta baixa/mapa em vista superior do ambiente (por exemplo, sala de estar → hall de entrada → porta da frente → varanda) para manter o layout da casa consistente entre os planos.  \nUse um clipe de referência em 3D/animação para travar o Seedance 2.5 na ação exata e no movimento de câmera, batida por batida.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Como eu parei meu vídeo de IA de reinventar a casa a cada plano？\n\na planta baixa deu ao Seedance 2.5 a rota completa: sala de estar → hall de entrada → porta da frente → varanda\n\nela traduziu esse mapa plano, em vista superior, em movimento 3D, seguindo exatamente a ação e a câmera da referência de animação."
+    },
+    "zh": {
+      "content": "提供一张环境的平面图/俯视图（例如：客厅 → 门厅 → 前门 → 门廊），以确保房屋布局在各个镜头中保持一致。  \n使用 3D/动画参考片段，将 Seedance 2.5 锁定到精确的动作和镜头运动，做到逐拍一致。\n\n--- 线程续接 ---\n[Thread 1] 我是如何阻止我的 AI 视频每个镜头都把房子重新“发明”一遍的？\n\n这张平面图为 Seedance 2.5 提供了完整路线：客厅 → 门厅 → 前门 → 门廊\n\n它将这张二维俯视图转换为 3D 运动，同时严格遵循动画参考中的精确动作和镜头运动。"
+    }
+  }
+}

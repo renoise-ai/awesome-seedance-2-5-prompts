@@ -1,0 +1,41 @@
+{
+  "id": "2094050994128851280",
+  "title": "在提示词中明确时长与连续性：写30秒、从第0秒到第30秒全程无间断、无对话与停顿，以强制生成连续不断的动作镜头",
+  "content": "在提示词中明确时长与连续性：写30秒、从第0秒到第30秒全程无间断、无对话与停顿，以强制生成连续不断的动作镜头  \n用三张参考图最大化角色一致性：在角色设定部分上传/引用3张参考图来锁定人物外观与细节  \n复用同一提示词结构只替换角色细节：保持动作/镜头/风格描述不变，仅替换角色描述（并可将提示词翻译成中文）来快速生成不同角色版本",
+  "language": "zh",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Cia0_exe/status/2094050994128851280",
+  "sourcePublishedAt": "2026-08-30",
+  "author": {
+    "name": "Cia0",
+    "link": "https://x.com/Cia0_exe"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "在提示词中明确时长与连续性：写30秒、从第0秒到第30秒全程无间断、无对话与停顿，以强制生成连续不断的动作镜头  \n用三张参考图最大化角色一致性：在角色设定部分上传/引用3张参考图来锁定人物外观与细节  \n复用同一提示词结构只替换角色细节：保持动作/镜头/风格描述不变，仅替换角色描述（并可将提示词翻译成中文）来快速生成不同角色版本",
+  "translations": {
+    "en": {
+      "content": "Make the duration and continuity explicit in the prompt: write “30 seconds,” “continuous from 0s to 30s,” and “no dialogue or pauses” to force the generation of a seamless, uninterrupted action shot.  \nMaximize character consistency with three reference images: in the character setup section, upload or reference 3 images to lock in the character’s appearance and details.  \nReuse the same prompt structure and only swap out character details: keep the action/camera/style descriptions unchanged, and only replace the character description (you can also translate the prompt into Chinese) to quickly generate different character versions.\n\n--- QUOTED TWEET ---\nEnjoy watching this AI film by me, only replacing the character details in prompt and to chinese https://t.co/eDb1cR0qIj\n---"
+    },
+    "es": {
+      "content": "En el prompt, especifica claramente la duración y la continuidad: escribe 30 segundos, de 0 a 30 segundos sin interrupciones, sin diálogos ni pausas, para forzar la generación de una secuencia de acción continua.  \nUsa tres imágenes de referencia para maximizar la consistencia del personaje: en la sección de configuración del personaje, sube o cita 3 imágenes de referencia para fijar la apariencia y los detalles del personaje.  \nReutiliza la misma estructura de prompt y sustituye solo los detalles del personaje: mantén sin cambios la descripción de la acción, la cámara y el estilo, y reemplaza únicamente la descripción del personaje (además, puedes traducir el prompt al chino) para generar rápidamente distintas versiones del mismo personaje.\n\n--- TWEET CITADO ---\nDisfruta viendo esta película de IA hecha por mí, solo reemplazando los detalles del personaje en el prompt y al chino https://t.co/eDb1cR0qIj\n---"
+    },
+    "fr": {
+      "content": "Dans le prompt, indiquez clairement la durée et la continuité : écrivez 30 secondes, de 0 à 30 secondes sans interruption, sans dialogue ni pause, afin de forcer la génération d’un plan d’action continu.  \nUtilisez trois images de référence pour maximiser la cohérence du personnage : dans la section de configuration du personnage, téléversez/citez 3 images de référence pour verrouiller l’apparence et les détails du personnage.  \nRéutilisez la même structure de prompt en ne remplaçant que les détails du personnage : conservez inchangées les descriptions d’action/de caméra/de style, et remplacez uniquement la description du personnage (vous pouvez aussi traduire le prompt en chinois) pour générer rapidement différentes versions du même personnage.\n\n--- TWEET CITÉ ---\nEnjoy watching this AI film by me, only replacing the character details in prompt and to chinese https://t.co/eDb1cR0qIj\n---"
+    },
+    "ja": {
+      "content": "プロンプト内で尺と連続性を明確にする：30秒、第0秒から第30秒まで全編ノンストップ、会話や間を入れず、連続したアクションショットを強制的に生成する  \n3枚の参考画像でキャラクターの一貫性を最大化する：キャラクター設定部分に3枚の参考画像をアップロード／参照し、人物の外見やディテールを固定する  \n同じプロンプト構造を使い回し、キャラクターの詳細だけを差し替える：アクション／カメラ／スタイルの記述は変えず、キャラクター描写だけを置き換える（必要に応じてプロンプトを中国語に翻訳してもよい）ことで、異なるキャラクターバージョンを素早く生成する\n\n--- QUOTED TWEET ---\n私が作ったこのAI映画をぜひ見てください。プロンプトのキャラクター詳細だけを差し替え、中国語にしたものです https://t.co/eDb1cR0qIj\n---"
+    },
+    "ko": {
+      "content": "프롬프트에서 길이와 연속성을 명확히 지정하기: 30초, 0초부터 30초까지 전 구간 무중단, 대사와 멈춤 없이 작성해 연속적으로 이어지는 액션 샷이 생성되도록 강제하기  \n3장의 참고 이미지를 사용해 캐릭터 일관성을 극대화하기: 캐릭터 설정 부분에 3장의 참고 이미지를 업로드/인용해 인물의 외형과 디테일을 고정하기  \n같은 prompt 구조를 재사용하고 캐릭터 디테일만 바꾸기: 동작/샷/스타일 설명은 그대로 유지하고, 캐릭터 설명만 교체하며(필요하면 prompt를 중국어로 번역해도 됨) 서로 다른 캐릭터 버전을 빠르게 생성하기\n\n--- 인용된 트윗 ---\nprompt에서 캐릭터 디테일만 바꾸고 중국어로 번역해서 만든 제 AI 영화, 즐겁게 감상해 주세요 https://t.co/eDb1cR0qIj\n---"
+    },
+    "pt": {
+      "content": "No prompt, especifique claramente a duração e a continuidade: escreva 30 segundos, do segundo 0 ao segundo 30 sem interrupções, sem diálogos e sem pausas, para forçar a geração de um plano contínuo de ação  \nUse três imagens de referência para maximizar a consistência do personagem: na seção de configuração do personagem, faça upload/cite 3 imagens de referência para fixar a aparência e os detalhes da pessoa  \nReutilize a mesma estrutura de prompt, alterando apenas os detalhes do personagem: mantenha as descrições de ação/câmera/estilo inalteradas e substitua apenas a descrição do personagem (e você também pode traduzir o prompt para o chinês) para gerar rapidamente versões com personagens diferentes\n\n--- TWEET CITADO ---\nCurta assistir a este filme de IA feito por mim, trocando apenas os detalhes do personagem no prompt e para o chinês https://t.co/eDb1cR0qIj\n---"
+    }
+  }
+}

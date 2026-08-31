@@ -1,0 +1,42 @@
+{
+  "id": "2093986084611055993",
+  "title": "Use Blender scenes as the base for your environment/props (e.g., temple traps)…",
+  "content": "Use Blender scenes as the base for your environment/props (e.g., temple traps) to get more scene control before generating the video in Seedance 2.5.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093985733514248192/img/K4mIUrNrYKN6PAAq.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093986084611055993.mp4",
+  "sourceLink": "https://x.com/AaronOrtizDPT/status/2093986084611055993",
+  "sourcePublishedAt": "2026-08-30",
+  "author": {
+    "name": "Meta G",
+    "link": "https://x.com/AaronOrtizDPT"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Fantasy",
+    "Tutorial"
+  ],
+  "tips": "Use Blender scenes as the base for your environment/props (e.g., temple traps) to get more scene control before generating the video in Seedance 2.5.",
+  "translations": {
+    "es": {
+      "content": "Usa escenas de Blender como base para tu entorno/props (por ejemplo, trampas de templo) para tener más control sobre la escena antes de generar el video en Seedance 2.5.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] ¡Únete a nuestro Discord de Higgsfield!\n---"
+    },
+    "fr": {
+      "content": "Utilisez des scènes Blender comme base pour votre environnement/vos accessoires (par exemple, des pièges de temple) afin d’obtenir un meilleur contrôle de la scène avant de générer la vidéo dans Seedance 2.5.\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Fil 1] Rejoignez-nous sur le Discord de Higgsfield !\n---"
+    },
+    "ja": {
+      "content": "環境や小道具（例：神殿の罠）のベースとして Blender のシーンを使うと、Seedance 2.5 で動画を生成する前に、シーンをより細かくコントロールできます。\n\n--- スレッドの続き ---\n[Thread 1] Higgsfield の Discord に参加しよう！\n---"
+    },
+    "ko": {
+      "content": "환경/소품(예: 사원 함정)의 기반으로 Blender 씬을 사용하면, Seedance 2.5에서 영상을 생성하기 전에 씬을 더 세밀하게 제어할 수 있습니다.\n\n--- 스레드 계속 ---\n[Thread 1] Higgsfield Discord에 참여하세요!\n---"
+    },
+    "pt": {
+      "content": "Use cenas do Blender como base para o seu ambiente/props (por exemplo, armadilhas de templo) para ter mais controle da cena antes de gerar o vídeo no Seedance 2.5.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Junte-se a nós no Discord da Higgsfield!\n---"
+    },
+    "zh": {
+      "content": "使用 Blender 场景作为你的环境/道具基础（例如寺庙陷阱），这样在使用 Seedance 2.5 生成视频之前，你可以获得更强的场景控制。\n\n--- 线程续接 ---\n[Thread 1] 加入我们的 Higgsfield Discord！\n---"
+    }
+  }
+}

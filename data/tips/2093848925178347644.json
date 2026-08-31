@@ -1,0 +1,42 @@
+{
+  "id": "2093848925178347644",
+  "title": "Seedance 2.5で30秒のワンカット映像を作るワークフローとして、ステップ1で4枚の画像を用意する",
+  "content": "Seedance 2.5で30秒のワンカット映像を作るワークフローとして、ステップ1で4枚の画像を用意する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093275168626135040/img/2TaPt_o9TVOkj3O-.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093848925178347644.mp4",
+  "sourceLink": "https://x.com/PolloAIJP/status/2093848925178347644",
+  "sourcePublishedAt": "2026-08-29",
+  "author": {
+    "name": "Pollo AI 日本公式",
+    "link": "https://x.com/PolloAIJP"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5で30秒のワンカット映像を作るワークフローとして、ステップ1で4枚の画像を用意する",
+  "translations": {
+    "en": {
+      "content": "As a workflow for creating a 30-second one-shot video with Seedance 2.5, prepare four images in Step 1."
+    },
+    "es": {
+      "content": "Como flujo de trabajo para crear un video de 30 segundos en una sola toma con Seedance 2.5, en el paso 1 se preparan 4 imágenes."
+    },
+    "fr": {
+      "content": "Dans le workflow pour créer une vidéo en un seul plan de 30 secondes avec Seedance 2.5, préparez 4 images à l’étape 1."
+    },
+    "ko": {
+      "content": "Seedance 2.5로 30초짜리 원테이크 영상을 만드는 워크플로로, 1단계에서 4장의 이미지를 준비한다"
+    },
+    "pt": {
+      "content": "Como fluxo de trabalho para criar um vídeo de 30 segundos em plano-sequência no Seedance 2.5, prepare 4 imagens no passo 1."
+    },
+    "zh": {
+      "content": "作为使用 Seedance 2.5 制作 30 秒单镜头视频的工作流程，在步骤 1 中准备 4 张图片。"
+    }
+  }
+}

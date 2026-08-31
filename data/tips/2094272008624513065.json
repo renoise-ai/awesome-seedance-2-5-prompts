@@ -1,0 +1,42 @@
+{
+  "id": "2094272008624513065",
+  "title": "Midjourneyで生成した画像をChatGPTに渡し、その画像からストーリー作成とSeedance用のお任せプロンプト作成をさせてから、生成したプロンプトを…",
+  "content": "Midjourneyで生成した画像をChatGPTに渡し、その画像からストーリー作成とSeedance用のお任せプロンプト作成をさせてから、生成したプロンプトをSeedance2.5に入れて動画化する  \nSeedance2.5はCapCut内で使用して動画生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094271821738844160/img/W0kw8oTmYdhALY8V.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094272008624513065.mp4",
+  "sourceLink": "https://x.com/YaReYaRu30Life/status/2094272008624513065",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "ヤレヤル",
+    "link": "https://x.com/YaReYaRu30Life"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Midjourneyで生成した画像をChatGPTに渡し、その画像からストーリー作成とSeedance用のお任せプロンプト作成をさせてから、生成したプロンプトをSeedance2.5に入れて動画化する  \nSeedance2.5はCapCut内で使用して動画生成する",
+  "translations": {
+    "en": {
+      "content": "Take an image generated in Midjourney, pass it to ChatGPT, have it create a story and an automated prompt for Seedance based on that image, then feed the generated prompt into Seedance 2.5 to turn it into a video.  \nSeedance 2.5 is used within CapCut to generate videos.\n\n--- QUOTED TWEET ---\nIt’s been a while since I last tried generating with Midjourney,  \nand what came out looked nothing like what I expected from the same prompt,  \nso I’ve come to the conclusion that Midjourney is still impossible to figure out. https://t.co/p5jwfvt6CD\n---"
+    },
+    "es": {
+      "content": "Pasar la imagen generada con Midjourney a ChatGPT, hacer que cree una historia a partir de esa imagen y también un prompt automático para Seedance, y luego introducir el prompt generado en Seedance2.5 para convertirlo en video.  \nSeedance2.5 se usa dentro de CapCut para generar videos.\n\n--- TWEET CITADO ---\nDespués de mucho tiempo,\nprobé a generar con Midjourney\ny salió algo que no parecía hecho con el mismo prompt,\nasí que llegué a la conclusión de que, al final, Midjourney sigue siendo un misterio. https://t.co/p5jwfvt6CD\n---"
+    },
+    "fr": {
+      "content": "Faire passer une image générée avec Midjourney à ChatGPT, lui faire créer une histoire à partir de cette image ainsi qu’un prompt automatique pour Seedance, puis prendre le prompt généré et l’entrer dans Seedance2.5 pour le transformer en vidéo.  \nSeedance2.5 est utilisé dans CapCut pour générer des vidéos.\n\n--- TWEET CITÉ ---\nÇa faisait longtemps que je n’avais pas essayé de générer avec Midjourney,  \net quand je l’ai fait,  \nj’ai obtenu quelque chose qui ne semblait pas venir du même prompt,  \net j’en suis arrivé à la conclusion que Midjourney reste décidément incompréhensible. https://t.co/p5jwfvt6CD\n---"
+    },
+    "ko": {
+      "content": "Midjourney에서 생성한 이미지를 ChatGPT에 전달한 뒤, 그 이미지로 스토리를 작성하고 Seedance용 자동 프롬프트를 만들게 한 다음, 생성된 프롬프트를 Seedance2.5에 넣어 영상으로 만든다  \nSeedance2.5는 CapCut 내에서 사용해 영상 생성한다\n\n--- QUOTED TWEET ---\n오랜만에\nMidjourney로 생성해 봤더니\n같은 prompt라고는 생각할 수 없는 결과가 나와서\n역시 Midjourney는 알 수 없다는 결론에 이르렀습니다. https://t.co/p5jwfvt6CD\n---"
+    },
+    "pt": {
+      "content": "Passar a imagem gerada no Midjourney para o ChatGPT e, a partir dessa imagem, fazer com que ele crie uma história e um prompt automático para o Seedance; depois, inserir o prompt gerado no Seedance2.5 para transformá-lo em vídeo  \nO Seedance2.5 é usado dentro do CapCut para gerar vídeos\n\n--- TWEET CITADO ---\nDepois de muito tempo,\nfiz uma geração no Midjourney\ne saiu algo que eu jamais imaginaria\npara um prompt igual,\ne cheguei à conclusão de que o Midjourney continua sendo um mistério. https://t.co/p5jwfvt6CD\n---"
+    },
+    "zh": {
+      "content": "将 Midjourney 生成的图片交给 ChatGPT，让它基于这张图片创作故事，并生成用于 Seedance 的自动提示词，然后把生成的提示词输入 Seedance2.5 制作成视频  \nSeedance2.5 在 CapCut 内使用并生成视频\n\n--- QUOTED TWEET ---\n久违地\n用 Midjourney 生成了一下\n结果出来的东西和我想象中完全不像是同一个 prompt 生成的\n最后得出的结论还是：Midjourney 真的让人看不懂。 https://t.co/p5jwfvt6CD\n---"
+    }
+  }
+}

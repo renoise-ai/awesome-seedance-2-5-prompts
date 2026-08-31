@@ -1,0 +1,42 @@
+{
+  "id": "2094162513512591384",
+  "title": "パフェの静止画像1枚を用意し、短いプロンプトを添えてSeedance 2.5（LovartAI経由）で30秒のCM動画を生成する",
+  "content": "パフェの静止画像1枚を用意し、短いプロンプトを添えてSeedance 2.5（LovartAI経由）で30秒のCM動画を生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094161329934442496/img/B0sLNzCOCQAxsbAH.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094162513512591384.mp4",
+  "sourceLink": "https://x.com/PpaPpa152417/status/2094162513512591384",
+  "sourcePublishedAt": "2026-08-30",
+  "author": {
+    "name": "ppa(.sauna)",
+    "link": "https://x.com/PpaPpa152417"
+  },
+  "tags": [
+    "Product Ad",
+    "F&B",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "パフェの静止画像1枚を用意し、短いプロンプトを添えてSeedance 2.5（LovartAI経由）で30秒のCM動画を生成する",
+  "translations": {
+    "en": {
+      "content": "Prepare a single still image of a parfait and add a short prompt to generate a 30-second commercial video in Seedance 2.5 (via LovartAI)."
+    },
+    "es": {
+      "content": "Prepara una sola imagen fija de un parfait y, con un prompt breve, genera un video publicitario de 30 segundos con Seedance 2.5 (a través de LovartAI)."
+    },
+    "fr": {
+      "content": "Préparez une image fixe d’un parfait et ajoutez un court prompt pour générer une vidéo publicitaire de 30 secondes avec Seedance 2.5 (via LovartAI)."
+    },
+    "ko": {
+      "content": "파르페의 정지 이미지 1장을 준비하고, 짧은 프롬프트를 덧붙여 Seedance 2.5(LovartAI 경유)로 30초짜리 CM 영상을 생성한다"
+    },
+    "pt": {
+      "content": "Prepare uma única imagem estática de um parfait e, com um prompt curto, gere um vídeo publicitário de 30 segundos no Seedance 2.5 (via LovartAI)."
+    },
+    "zh": {
+      "content": "准备一张芭菲的静态图片，并附上简短的 prompt，通过 Seedance 2.5（经由 LovartAI）生成一段 30 秒的广告视频"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2094031854437626270",
+  "title": "Set duration to 15 seconds and resolution to 1080p for the generation.",
+  "content": "Set duration to 15 seconds and resolution to 1080p for the generation.  \nPrompt for an ultra-realistic Japanese personal home video set around summer 2001 with ordinary high school girls’ everyday moments.  \nSpecify it should look like casually shot footage from an old consumer MiniDV camcorder, and explicitly instruct not to make it modern or polished.",
+  "language": "ja",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/SDAI1807097011/status/2094031854437626270",
+  "sourcePublishedAt": "2026-08-30",
+  "author": {
+    "name": "SDAI@ELEMAYUちゃんねるのひと",
+    "link": "https://x.com/SDAI1807097011"
+  },
+  "tags": [
+    "Story",
+    "Heartwarming",
+    "Photoreal",
+    "Historical"
+  ],
+  "tips": "Set duration to 15 seconds and resolution to 1080p for the generation.  \nPrompt for an ultra-realistic Japanese personal home video set around summer 2001 with ordinary high school girls’ everyday moments.  \nSpecify it should look like casually shot footage from an old consumer MiniDV camcorder, and explicitly instruct not to make it modern or polished.",
+  "translations": {
+    "en": {
+      "content": "Set the duration to 15 seconds and the resolution to 1080p for the generation.  \nPrompt for an ultra-realistic Japanese personal home video set around summer 2001, capturing the everyday moments of ordinary high school girls.  \nSpecify that it should look like casually shot footage from an old consumer MiniDV camcorder, and explicitly instruct that it should not look modern or polished."
+    },
+    "es": {
+      "content": "Establece la duración en 15 segundos y la resolución en 1080p para la generación.  \nPrompt para un video doméstico personal japonés ultrarrealista ambientado en el verano de 2001, con momentos cotidianos de chicas de secundaria comunes.  \nEspecifica que debe parecer metraje grabado de forma casual con una antigua videocámara MiniDV de consumo, e indica explícitamente que no debe verse moderno ni pulido."
+    },
+    "fr": {
+      "content": "Réglez la durée à 15 secondes et la résolution à 1080p pour la génération.  \nPrompt pour une vidéo personnelle japonaise ultra-réaliste, située autour de l’été 2001, montrant des moments du quotidien de lycéennes ordinaires.  \nPrécisez qu’elle doit ressembler à des images filmées de manière spontanée avec un ancien caméscope MiniDV grand public, et indiquez explicitement de ne pas la rendre moderne ni soignée."
+    },
+    "ko": {
+      "content": "생성을 위해 duration은 15초, resolution은 1080p로 설정하세요.  \n2001년 여름을 배경으로 한, 평범한 여고생들의 일상적인 순간을 담은 초현실적인 일본 개인 홈비디오를 위한 prompt입니다.  \n오래된 소비자용 MiniDV 캠코더로 무심하게 촬영한 영상처럼 보이도록 지정하고, 현대적이거나 세련된 느낌이 나지 않도록 명시적으로 지시하세요."
+    },
+    "pt": {
+      "content": "Defina a duração para 15 segundos e a resolução para 1080p para a geração.  \nPrompt para um vídeo caseiro pessoal japonês ultrarrealista ambientado no verão de 2001, com momentos do dia a dia de garotas comuns do ensino médio.  \nEspecifique que deve parecer uma gravação casual feita com uma antiga filmadora MiniDV de consumo e instrua explicitamente para não deixá-lo moderno nem polido."
+    },
+    "zh": {
+      "content": "将生成时长设置为 15 秒，分辨率设置为 1080p。  \nPrompt：一个超写实的日本个人家庭录像，背景设定在 2001 年夏天，展现普通高中女生的日常瞬间。  \n明确指定画面应看起来像用老式消费级 MiniDV 摄像机随手拍摄的素材，并明确要求不要让它看起来现代或经过精修。"
+    }
+  }
+}

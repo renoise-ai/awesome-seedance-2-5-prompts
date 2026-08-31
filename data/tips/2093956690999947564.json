@@ -1,0 +1,42 @@
+{
+  "id": "2093956690999947564",
+  "title": "Avoid fine, rapid movements synced to high BPM when generating dance videos in…",
+  "content": "Avoid fine, rapid movements synced to high BPM when generating dance videos in H3  \nDon’t include long continuous choreography in a single H3 generation; keep choreography short per clip/scene  \nDon’t specify movements at per-second granularity in H3 prompts  \nDon’t reuse the detailed dance prompts you’d use for Seedance 2.0/2.5 when prompting H3; simplify instead  \nPre-plan dance videos with a storyboard (scene-by-scene) to reduce breakdowns when connecting moves  \nFor dance content, use Seedance 2.5 rather than H3 for better results  \nGenerate in Seedance 2.5 at 1080p for higher-quality output",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093954400029159424/img/AudHWVJ-0uGfkU8D.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093956690999947564.mp4",
+  "sourceLink": "https://x.com/sailorv321/status/2093956690999947564",
+  "sourcePublishedAt": "2026-08-30",
+  "author": {
+    "name": "C’est La Vie | AI Director",
+    "link": "https://x.com/sailorv321"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Avoid fine, rapid movements synced to high BPM when generating dance videos in H3  \nDon’t include long continuous choreography in a single H3 generation; keep choreography short per clip/scene  \nDon’t specify movements at per-second granularity in H3 prompts  \nDon’t reuse the detailed dance prompts you’d use for Seedance 2.0/2.5 when prompting H3; simplify instead  \nPre-plan dance videos with a storyboard (scene-by-scene) to reduce breakdowns when connecting moves  \nFor dance content, use Seedance 2.5 rather than H3 for better results  \nGenerate in Seedance 2.5 at 1080p for higher-quality output",
+  "translations": {
+    "en": {
+      "content": "Avoid fine, rapid movements synced to high BPM when generating dance videos in H3  \nDon’t include long continuous choreography in a single H3 generation; keep choreography short per clip/scene  \nDon’t specify movements at per-second granularity in H3 prompts  \nDon’t reuse the detailed dance prompts you’d use for Seedance 2.0/2.5 when prompting H3; simplify instead  \nPre-plan dance videos with a storyboard (scene by scene) to reduce breakdowns when connecting moves  \nFor dance content, use Seedance 2.5 rather than H3 for better results  \nGenerate in Seedance 2.5 at 1080p for higher-quality output\n\n--- QUOTED TWEET ---\nDance practice made with storyboards 💃\n\nIf you decide the scenes in advance,\nit often feels like the video breaks down when you try to force the next movement.\n\nFor dance, Seedance 2.5 is still the best❣️\n(You’re probably better off giving up on dance with H3…🥹)\n\nThe video was generated in Seedance 2.5 at 1080P.\n\n@PixVerse\n#pixverse #PixVerseCPP https://t.co/FfXMf9Zugj\n---"
+    },
+    "es": {
+      "content": "Evita movimientos finos y rápidos sincronizados con BPM altos al generar videos de baile en H3  \nNo incluyas coreografías largas y continuas en una sola generación de H3; mantén la coreografía breve por clip/escena  \nNo especifiques los movimientos con granularidad de un segundo en los prompts de H3  \nNo reutilices los prompts de baile detallados que usarías para Seedance 2.0/2.5 al hacer prompts para H3; simplifícalos en su lugar  \nPlanifica previamente los videos de baile con un storyboard (escena por escena) para reducir fallos al conectar los movimientos  \nPara contenido de baile, usa Seedance 2.5 en lugar de H3 para obtener mejores resultados  \nGenera en Seedance 2.5 a 1080p para obtener una salida de mayor calidad\n\n--- TUIT CITADO ---\nPráctica de baile hecha con storyboard 💃\n\nSi decides las escenas de antemano,\nda la impresión de que muchas veces se rompe al intentar\nconectar forzosamente el siguiente movimiento.\n\nPara baile, sin duda Seedance 2.5❣️\n(Con H3, mejor rendirse con el baile…🥹)\n\nEl video fue generado en Seedance 2.5, 1080P.\n\n@PixVerse\n#pixverse #PixVerseCPP https://t.co/FfXMf9Zugj\n---"
+    },
+    "fr": {
+      "content": "Évitez les mouvements fins et rapides synchronisés sur un BPM élevé lors de la génération de vidéos de danse dans H3  \nN’incluez pas de chorégraphie longue et continue dans une seule génération H3 ; gardez la chorégraphie courte par clip/scène  \nNe spécifiez pas les mouvements avec une granularité à la seconde près dans les prompts H3  \nNe réutilisez pas les prompts de danse détaillés que vous utiliseriez pour Seedance 2.0/2.5 lorsque vous rédigez des prompts pour H3 ; simplifiez plutôt  \nPréparez les vidéos de danse à l’avance avec un storyboard (scène par scène) afin de réduire les ruptures lors de l’enchaînement des mouvements  \nPour le contenu de danse, utilisez plutôt Seedance 2.5 que H3 pour de meilleurs résultats  \nGénérez dans Seedance 2.5 en 1080p pour une sortie de meilleure qualité\n\n--- TWEET CITÉ ---\nCréation de danse avec storyboard💃\n\nQuand on définit les scènes à l’avance,\nj’ai l’impression qu’il y a souvent des cas où l’on essaie de forcer la transition vers le mouvement suivant,\nce qui finit par casser la cohérence.\n\nPour la danse, c’est vraiment Seedance 2.5❣️\n(Mieux vaut abandonner la danse avec H3…🥹)\n\nLes images sont générées avec Seedance 2.5, en 1080P.\n\n@PixVerse\n#pixverse #PixVerseCPP https://t.co/FfXMf9Zugj"
+    },
+    "ko": {
+      "content": "H3에서 댄스 영상을 생성할 때는 BPM이 높은 곡에 맞춘 미세하고 빠른 동작은 피하세요  \nH3 한 번의 생성에서는 긴 연속 안무를 넣지 말고, 클립/씬마다 안무를 짧게 유지하세요  \nH3 프롬프트에서는 동작을 초 단위로 세세하게 지정하지 마세요  \nH3에 프롬프트를 넣을 때는 Seedance 2.0/2.5에서 쓰는 상세한 댄스 프롬프트를 그대로 재사용하지 말고, 더 단순하게 작성하세요  \n동작이 이어질 때 무너지는 것을 줄이려면 스토리보드(씬별 구성)로 댄스 영상을 미리 기획하세요  \n댄스 콘텐츠는 더 좋은 결과를 위해 H3보다 Seedance 2.5를 사용하세요  \n더 높은 품질의 결과물을 원하면 Seedance 2.5에서 1080p로 생성하세요\n\n--- 인용 트윗 ---\n스토리보드로 만드는 댄스 Practice💃\n\n사전에 씬을 정해두면,\n억지로 다음 동작으로 이어가려다\n무너지는 경우가 많은 느낌.\n\n댄스는 역시 Seedance 2.5❣️\n(H3로는 댄스를 포기하는 게 나을지도…🥹)\n\n영상은 Seedance 2.5, 1080P로 생성.\n\n@PixVerse\n#pixverse #PixVerseCPP https://t.co/FfXMf9Zugj"
+    },
+    "pt": {
+      "content": "Evite movimentos finos e rápidos sincronizados com BPM alto ao gerar vídeos de dança no H3  \nNão inclua coreografias longas e contínuas em uma única geração no H3; mantenha a coreografia curta por clipe/cena  \nNão especifique movimentos com granularidade de um segundo nos prompts do H3  \nNão reutilize os prompts de dança detalhados que você usaria para Seedance 2.0/2.5 ao criar prompts para H3; simplifique em vez disso  \nPlaneje previamente vídeos de dança com um storyboard (cena por cena) para reduzir falhas ao conectar os movimentos  \nPara conteúdo de dança, use Seedance 2.5 em vez de H3 para obter melhores resultados  \nGere em Seedance 2.5 em 1080p para obter uma saída de maior qualidade\n\n--- TWEET CITADO ---\nPrática de dança feita com storyboard 💃\n\nQuando as cenas são definidas com antecedência,\nfica a impressão de que, ao tentar conectar forçadamente o próximo movimento,\nmuitas vezes o resultado quebra.\n\nPara dança, afinal, Seedance 2.5 ❣️\n(Para dança no H3, talvez seja melhor desistir… 🥹)\n\nO vídeo foi gerado em Seedance 2.5, 1080P.\n\n@PixVerse\n#pixverse #PixVerseCPP https://t.co/FfXMf9Zugj\n---"
+    },
+    "zh": {
+      "content": "在 H3 中生成舞蹈视频时，避免与高 BPM 同步的细碎、快速动作  \n不要在单次 H3 生成中加入过长、连续的编舞；每个片段/场景的舞蹈内容要简短  \n不要在 H3 prompts 中把动作细化到每秒级别  \n给 H3 写 prompt 时，不要直接复用你会用于 Seedance 2.0/2.5 的那种详细舞蹈提示；应当简化  \n在制作舞蹈视频前先用分镜脚本（按场景）进行规划，以减少动作衔接时的崩坏  \n对于舞蹈内容，想要更好的效果，建议使用 Seedance 2.5 而不是 H3  \n使用 Seedance 2.5 以 1080p 生成，可获得更高质量的输出\n\n--- 引用推文 ---\n用分镜来做的舞蹈练习💃\n\n如果提前把场景定好，\n就会有很多时候为了硬接到下一个动作，\n结果导致画面崩坏的感觉。\n\n舞蹈果然还是 Seedance 2.5❣️\n（H3 的舞蹈还是放弃比较好…🥹）\n\n视频使用 Seedance 2.5，1080P 生成。\n\n@PixVerse\n#pixverse #PixVerseCPP https://t.co/FfXMf9Zugj\n---"
+    }
+  }
+}

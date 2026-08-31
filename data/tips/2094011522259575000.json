@@ -1,0 +1,42 @@
+{
+  "id": "2094011522259575000",
+  "title": "Block complex camera moves in 3D and feed them to Seedance 2.5 as a motion…",
+  "content": "Block complex camera moves in 3D and feed them to Seedance 2.5 as a motion reference instead of trying to describe the move in text.  \nCreate a motion reference by pinning the camera at the start position, moving it through the shot, then pinning it again at the end.  \nRecord the camera move in AR with your phone and use that recording as the motion reference for Seedance 2.5.  \nUse a single continuous motion reference to generate a multi-shot sequence in one take.  \nTreat motion reference as movement-only control; still describe the scene/content in your prompt so Seedance doesn’t invent missing details.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094011498050043904/img/AANYzNvuHXJi-WuZ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094011522259575000.mp4",
+  "sourceLink": "https://x.com/magnific/status/2094011522259575000",
+  "sourcePublishedAt": "2026-08-30",
+  "author": {
+    "name": "Magnific",
+    "link": "https://x.com/magnific"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Block complex camera moves in 3D and feed them to Seedance 2.5 as a motion reference instead of trying to describe the move in text.  \nCreate a motion reference by pinning the camera at the start position, moving it through the shot, then pinning it again at the end.  \nRecord the camera move in AR with your phone and use that recording as the motion reference for Seedance 2.5.  \nUse a single continuous motion reference to generate a multi-shot sequence in one take.  \nTreat motion reference as movement-only control; still describe the scene/content in your prompt so Seedance doesn’t invent missing details.",
+  "translations": {
+    "es": {
+      "content": "Bloquea movimientos de cámara complejos en 3D y envíalos a Seedance 2.5 como referencia de movimiento, en lugar de intentar describir el movimiento con texto.  \nCrea una referencia de movimiento fijando la cámara en la posición inicial, moviéndola a través de la toma y luego fijándola de nuevo al final.  \nGraba el movimiento de cámara en AR con tu teléfono y usa esa grabación como referencia de movimiento para Seedance 2.5.  \nUsa una única referencia de movimiento continua para generar una secuencia de varias tomas en una sola toma.  \nTrata la referencia de movimiento solo como control del movimiento; sigue describiendo la escena/el contenido en tu prompt para que Seedance no invente detalles que faltan.\n\n--- CONTINUACIÓN DEL HILO ---\n[Thread 1] Control de movimiento 3D. Pruébalo ahora en Magnific\n---"
+    },
+    "fr": {
+      "content": "Bloquez des mouvements de caméra complexes en 3D et transmettez-les à Seedance 2.5 comme référence de mouvement, au lieu d’essayer de décrire le mouvement en texte.  \nCréez une référence de mouvement en fixant la caméra à la position de départ, en la déplaçant pendant la prise, puis en la fixant à nouveau à la fin.  \nEnregistrez le mouvement de caméra en AR avec votre téléphone et utilisez cet enregistrement comme référence de mouvement pour Seedance 2.5.  \nUtilisez une seule référence de mouvement continue pour générer une séquence multi-plans en une seule prise.  \nConsidérez la référence de mouvement comme un contrôle du mouvement uniquement ; décrivez tout de même la scène/le contenu dans votre prompt afin que Seedance n’invente pas de détails manquants.\n\n--- SUITE DU FIL ---\n[Fil 1] Contrôle du mouvement 3D. Essayez-le maintenant sur Magnific\n---"
+    },
+    "ja": {
+      "content": "3Dで複雑なカメラワークを組み立て、それを動きをテキストで説明しようとする代わりに、モーションリファレンスとして Seedance 2.5 に入力します。  \nカメラを開始位置で固定し、ショットの途中を移動させ、最後にもう一度固定することで、モーションリファレンスを作成します。  \nスマートフォンでARのカメラ移動を記録し、その録画を Seedance 2.5 のモーションリファレンスとして使用します。  \n1つの連続したモーションリファレンスを使って、ワンテイクでマルチショットのシーケンスを生成します。  \nモーションリファレンスは動きのみを制御するものとして扱い、Seedance が不足しているディテールを勝手に補完しないよう、prompt ではシーンや内容をきちんと記述してください。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 3D Motion Control. 今すぐ Magnific で試す\n---"
+    },
+    "ko": {
+      "content": "복잡한 카메라 무브를 3D로 블록한 뒤, 그 움직임을 텍스트로 설명하려고 하기보다 Seedance 2.5에 motion reference로 입력하세요.  \n카메라를 시작 위치에 고정한 다음 샷을 따라 이동시키고, 끝에서 다시 고정해 motion reference를 만드세요.  \n휴대폰으로 AR에서 카메라 무브를 촬영한 뒤, 그 녹화본을 Seedance 2.5의 motion reference로 사용하세요.  \n하나의 연속된 motion reference를 사용해 멀티샷 시퀀스를 한 번에 생성하세요.  \nmotion reference는 움직임만 제어하는 용도로 사용하고, Seedance가 빠진 디테일을 임의로 만들어내지 않도록 prompt에서는 장면/콘텐츠를 여전히 구체적으로 설명하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 3D Motion Control. 지금 Magnific에서 사용해 보세요.\n---"
+    },
+    "pt": {
+      "content": "Bloqueie movimentos complexos de câmera em 3D e envie-os para o Seedance 2.5 como uma referência de movimento, em vez de tentar descrever o movimento em texto.  \nCrie uma referência de movimento fixando a câmera na posição inicial, movendo-a ao longo da tomada e, depois, fixando-a novamente no final.  \nGrave o movimento da câmera em AR com seu celular e use essa gravação como referência de movimento para o Seedance 2.5.  \nUse uma única referência de movimento contínua para gerar uma sequência com várias tomadas em um único take.  \nTrate a referência de movimento apenas como controle de movimento; ainda descreva a cena/o conteúdo no seu prompt para que o Seedance não invente detalhes ausentes.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Controle de Movimento 3D. Experimente agora no Magnific\n---"
+    },
+    "zh": {
+      "content": "在 3D 中构建复杂的镜头运动，并将其作为 motion reference 输入给 Seedance 2.5，而不是试图用文字来描述这个运动。  \n通过将相机固定在起始位置、移动完成整个镜头、然后在结束位置再次固定，来创建 motion reference。  \n用手机在 AR 中录制相机运动，并将该录制内容作为 Seedance 2.5 的 motion reference。  \n使用一段连续的 motion reference，一次性生成多镜头序列。  \n将 motion reference 仅视为运动控制；场景/内容仍需在 prompt 中描述清楚，这样 Seedance 才不会自行补全缺失细节。  \n\n--- THREAD CONTINUATION ---  \n[Thread 1] 3D Motion Control. 立即在 Magnific 试用  \n---"
+    }
+  }
+}

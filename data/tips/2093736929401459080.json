@@ -1,0 +1,43 @@
+{
+  "id": "2093736929401459080",
+  "title": "Use Seedance 2.5 white-model control by importing a 3D model or animation as…",
+  "content": "Use Seedance 2.5 white-model control by importing a 3D model or animation as the motion/scene base, then prompt Seedance to re-skin the blank figure into your desired character.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Carl_the_Llama0/status/2093736929401459080",
+  "sourcePublishedAt": "2026-08-29",
+  "author": {
+    "name": "Carl the Llama",
+    "link": "https://x.com/Carl_the_Llama0"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "Model Showcase",
+    "Transformation"
+  ],
+  "tips": "Use Seedance 2.5 white-model control by importing a 3D model or animation as the motion/scene base, then prompt Seedance to re-skin the blank figure into your desired character.",
+  "translations": {
+    "es": {
+      "content": "Usa el control del modelo blanco de Seedance 2.5 importando un modelo 3D o una animación como base de movimiento/escena, y luego indica a Seedance que retexturice la figura en blanco para convertirla en el personaje que deseas."
+    },
+    "fr": {
+      "content": "Utilisez le contrôle du modèle blanc Seedance 2.5 en important un modèle 3D ou une animation comme base de mouvement/scène, puis demandez à Seedance de re-skin la figure vierge en votre personnage souhaité."
+    },
+    "ja": {
+      "content": "3Dモデルやアニメーションをモーション／シーンのベースとしてインポートし、Seedance 2.5のwhite-model controlを使って、空のフィギュアを希望するキャラクターに再スキンします。"
+    },
+    "ko": {
+      "content": "3D 모델이나 애니메이션을 motion/scene 기반으로 가져와 Seedance 2.5 white-model control을 사용한 다음, Seedance에 빈 피겨를 원하는 캐릭터로 다시 스킨하도록 프롬프트를 입력하세요."
+    },
+    "pt": {
+      "content": "Use o controle do modelo branco do Seedance 2.5 importando um modelo 3D ou uma animação como base de movimento/cena, e então peça ao Seedance para reestilizar a figura em branco no personagem desejado."
+    },
+    "zh": {
+      "content": "通过导入 3D 模型或动画作为动作/场景基础，使用 Seedance 2.5 white-model control，然后提示 Seedance 将空白角色重新换皮为你想要的角色。"
+    }
+  }
+}

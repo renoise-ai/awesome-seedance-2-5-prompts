@@ -1,0 +1,44 @@
+{
+  "id": "2093778280599949491",
+  "title": "استخدم director agent مثل GLM 5.3 وتكلم معه بالعربي أو English ليحوّل فكرتك إلى…",
+  "content": "استخدم director agent مثل GLM 5.3 وتكلم معه بالعربي أو English ليحوّل فكرتك إلى scenes ويكتب prompts تلقائياً ثم يمرّرها إلى Seedance 2.5 لتوليد كل مشهد.  \nاشتغل عبر واجهة Studio كمحادثة مباشرة مع الـ agent لتوليد المشاهد واحدة واحدة بدل توليد فيديو كامل دفعة واحدة.  \nاستخدم Timeline كـ editor لإعادة ترتيب المشاهد والتحكم بمدة كل ثانية وإضافة transitions (حتى 11 انتقال) قبل التصدير.  \nصدّر الناتج النهائي بدمج المشاهد إلى ملف MP4 جاهز للنشر باستخدام ffmpeg.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Mr_CryptoYT/status/2093778280599949491",
+  "sourcePublishedAt": "2026-08-29",
+  "author": {
+    "name": "Fdy",
+    "link": "https://x.com/Mr_CryptoYT"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "استخدم director agent مثل GLM 5.3 وتكلم معه بالعربي أو English ليحوّل فكرتك إلى scenes ويكتب prompts تلقائياً ثم يمرّرها إلى Seedance 2.5 لتوليد كل مشهد.  \nاشتغل عبر واجهة Studio كمحادثة مباشرة مع الـ agent لتوليد المشاهد واحدة واحدة بدل توليد فيديو كامل دفعة واحدة.  \nاستخدم Timeline كـ editor لإعادة ترتيب المشاهد والتحكم بمدة كل ثانية وإضافة transitions (حتى 11 انتقال) قبل التصدير.  \nصدّر الناتج النهائي بدمج المشاهد إلى ملف MP4 جاهز للنشر باستخدام ffmpeg.",
+  "translations": {
+    "en": {
+      "content": "Use a director agent like GLM 5.3 and talk to it in Arabic or English to turn your idea into scenes and automatically write prompts, then pass them to Seedance 2.5 to generate each scene.  \nWork through the Studio interface as a direct conversation with the agent to generate scenes one by one instead of generating a full video all at once.  \nUse the Timeline as an editor to rearrange scenes, control the duration of each second, and add transitions (up to 11 transitions) before exporting.  \nExport the final result by merging the scenes into an MP4 file ready for publishing using ffmpeg.\n\n--- THREAD CONTINUATION ---\n[Thread 1] The interface:\n→ Studio: direct conversation with the agent, generates scenes one by one\n→ Timeline: full editor, 11 transitions, rearrange scenes and control every second\n\nExport? ffmpeg assembles the final MP4 ready for publishing ...\n\n[Thread 2] And the whole setup is open source, code in the first reply 👇\n\nWhat’s the first film you’d make if you had the studio?\n\n[Thread 3] https://t.co/gvFdmDTHyJ"
+    },
+    "es": {
+      "content": "Usa un director agent como GLM 5.3 y háblale en árabe o en inglés para que convierta tu idea en escenas y escriba prompts automáticamente, y luego los pase a Seedance 2.5 para generar cada escena.  \nTrabaja a través de la interfaz Studio como una conversación directa con el agent para generar las escenas una por una, en lugar de generar un video completo de una sola vez.  \nUsa Timeline como editor para reordenar las escenas, controlar la duración de cada segundo y añadir transiciones (hasta 11 transiciones) antes de exportar.  \nExporta el resultado final uniendo las escenas en un archivo MP4 listo para publicar usando ffmpeg.\n\n--- CONTINUACIÓN DEL THREAD ---\n[Thread 1] La interfaz:\n→ Studio: conversación directa con el agent, genera las escenas una por una\n→ Timeline: editor completo, 11 transiciones, reordenas las escenas y controlas cada segundo\n\n¿La exportación? ffmpeg te monta un MP4 final listo para publicar ...\n\n[Thread 2] Y todo el setup es open source, el código en la primera respuesta 👇\n\n¿Cuál sería la primera película que harías si tuvieras el estudio?\n\n[Thread 3] https://t.co/gvFdmDTHyJ\n---"
+    },
+    "fr": {
+      "content": "Utilise un director agent comme GLM 5.3 et parle-lui en arabe ou en anglais pour transformer ton idée en scènes et écrire automatiquement les prompts, puis les transmettre à Seedance 2.5 afin de générer chaque scène.  \nTravaille via l’interface Studio comme une conversation directe avec l’agent pour générer les scènes une par une, au lieu de générer une vidéo complète d’un seul coup.  \nUtilise Timeline comme éditeur pour réorganiser les scènes, contrôler la durée de chaque seconde et ajouter des transitions (jusqu’à 11 transitions) avant l’export.  \nExporte le résultat final en fusionnant les scènes dans un fichier MP4 prêt à être publié, à l’aide de ffmpeg.\n\n--- SUITE DU THREAD ---\n[Thread 1] L’interface :\n→ Studio : conversation directe avec l’agent, génère les scènes une par une\n→ Timeline : éditeur complet, 11 transitions, tu réorganises les scènes et contrôles chaque seconde\n\nL’export ? ffmpeg te compose un MP4 final prêt à être publié ...\n\n[Thread 2] Et tout le setup est open source, le code dans la première réponse 👇\n\nQuel premier film ferais-tu si tu avais le studio ?\n\n[Thread 3] https://t.co/gvFdmDTHyJ\n---"
+    },
+    "ja": {
+      "content": "director agent として GLM 5.3 のようなものを使い、アラビア語または English で話しかけると、アイデアを scenes に変換し、prompts を自動で書き出してから Seedance 2.5 に渡し、各シーンを生成できます。  \nStudio の UI を通して、agent と直接チャットしながら、動画全体を一括生成するのではなく、シーンを1つずつ生成します。  \nTimeline を editor として使い、シーンの並べ替えや各秒ごとの長さの調整、さらに transitions の追加（最大11個の transition）を行ってから書き出します。  \n最終出力は、ffmpeg を使ってシーンを結合し、公開可能な MP4 ファイルとしてエクスポートします。\n\n--- THREAD CONTINUATION ---\n[Thread 1] インターフェース:\n→ Studio: agent と直接チャットし、シーンを1つずつ生成\n→ Timeline: フル editor、11 transition、シーンの並べ替えと各秒の調整が可能\n\nエクスポート？ ffmpeg が最終的な MP4 を組み立てて、そのまま公開できる形にしてくれる...\n\n[Thread 2] しかもセットアップ全体が open source で、コードは最初の返信にある 👇\n\nもしこのスタジオがあったら、最初にどんな映画を作る？\n\n[Thread 3] https://t.co/gvFdmDTHyJ"
+    },
+    "ko": {
+      "content": "GLM 5.3 같은 director agent를 사용해서 아랍어 또는 English로 대화하면, 아이디어를 scenes로 변환하고 prompts를 자동으로 작성한 뒤 Seedance 2.5로 넘겨 각 장면을 생성할 수 있습니다.  \nStudio 인터페이스를 통해 agent와 직접 대화하면서 전체 비디오를 한 번에 생성하는 대신, 장면을 하나씩 생성하는 방식으로 작업할 수 있습니다.  \nTimeline을 editor로 사용해 장면 순서를 다시 배치하고, 각 초 단위 길이를 조절하며, 내보내기 전에 transitions(최대 11개 전환)를 추가할 수 있습니다.  \n최종 결과는 ffmpeg를 사용해 장면들을 하나의 MP4 파일로 합쳐, 바로 게시할 수 있는 형태로 내보낼 수 있습니다.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 인터페이스:\n→ Studio: agent와 직접 대화하며 장면을 하나씩 생성\n→ Timeline: 완전한 editor, 11개 transition, 장면 재배치 및 초 단위 제어 가능\n\n내보내기? ffmpeg가 최종 MP4를 바로 게시 가능한 형태로 조합해줌 ...\n\n[Thread 2] 그리고 전체 setup은 open source고, 코드는 첫 번째 답글에 👇\n\nStudio가 있다면, 가장 먼저 어떤 영화를 만들 건가요?\n\n[Thread 3] https://t.co/gvFdmDTHyJ"
+    },
+    "pt": {
+      "content": "Use um director agent como o GLM 5.3 e converse com ele em árabe ou English para transformar sua ideia em scenes e escrever prompts automaticamente, depois encaminhá-los para o Seedance 2.5 para gerar cada cena.  \nTrabalhe pela interface Studio como uma conversa direta com o agent para gerar as cenas uma por uma, em vez de gerar um vídeo completo de uma só vez.  \nUse a Timeline como editor para reorganizar as cenas, controlar a duração de cada segundo e adicionar transitions (até 11 transições) antes da exportação.  \nExporte o resultado final mesclando as cenas em um arquivo MP4 pronto para publicação usando ffmpeg.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] A interface:\n→ Studio: conversa direta com o agent, gera as cenas uma por uma\n→ Timeline: editor completo, 11 transitions, reorganiza as cenas e controla cada segundo\n\nA exportação? ffmpeg monta pra você um MP4 final pronto para publicação ...\n\n[Thread 2] E todo o setup é open source, o código está na primeira resposta 👇\n\nQual seria o primeiro filme que você faria se tivesse o estúdio?\n\n[Thread 3] https://t.co/gvFdmDTHyJ"
+    },
+    "zh": {
+      "content": "使用像 GLM 5.3 这样的 director agent，用阿拉伯语或 English 和它对话，把你的想法转换成 scenes，并自动写出 prompts，然后再传给 Seedance 2.5 来生成每个镜头。  \n通过 Studio 界面以直接对话的方式和 agent 协作，逐个生成场景，而不是一次性生成整段视频。  \n使用 Timeline 作为 editor 来重新排列场景、控制每一秒的时长，并在导出前添加 transitions（最多 11 种转场）。  \n最后用 ffmpeg 将各个场景合并成可直接发布的 MP4 文件，导出最终成片。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 界面：\n→ Studio：与 agent 直接对话，逐个生成场景\n→ Timeline：完整 editor，11 种 transition，可重新排列场景并控制每一秒\n\n导出？ffmpeg 会帮你把最终 MP4 组装好，直接可发布 ...\n\n[Thread 2] 而且整个 setup 都是 open source，代码在第一条回复里 👇\n\n如果你有这个 studio，你会先做什么电影？\n\n[Thread 3] https://t.co/gvFdmDTHyJ\n---"
+    }
+  }
+}

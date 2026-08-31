@@ -1,0 +1,42 @@
+{
+  "id": "2093650183330353539",
+  "title": "Use Seedance 2.5 on Picsart to animate a meme template by reusing the provided…",
+  "content": "Use Seedance 2.5 on Picsart to animate a meme template by reusing the provided prompt and template assets from the linked page.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093647814647742464/img/g8hJN18Kj_hZy14k.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093650183330353539.mp4",
+  "sourceLink": "https://x.com/Just_sharon7/status/2093650183330353539",
+  "sourcePublishedAt": "2026-08-29",
+  "author": {
+    "name": "Sharon Riley",
+    "link": "https://x.com/Just_sharon7"
+  },
+  "tags": [
+    "Meme & Comedy",
+    "Internet Meme",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 on Picsart to animate a meme template by reusing the provided prompt and template assets from the linked page.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 en Picsart para animar una plantilla de meme reutilizando el prompt proporcionado y los recursos de la plantilla de la página enlazada."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 sur Picsart pour animer un modèle de mème en réutilisant le prompt fourni et les assets du template depuis la page liée."
+    },
+    "ja": {
+      "content": "リンク先ページにある提供済みのpromptとテンプレート素材を再利用して、PicsartのSeedance 2.5でミームテンプレートをアニメーション化します。"
+    },
+    "ko": {
+      "content": "링크된 페이지에서 제공된 prompt와 템플릿 에셋을 재사용하여 Picsart의 Seedance 2.5로 밈 템플릿에 애니메이션을 적용하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 no Picsart para animar um template de meme reutilizando o prompt fornecido e os assets do template da página vinculada."
+    },
+    "zh": {
+      "content": "在 Picsart 上使用 Seedance 2.5，通过复用链接页面中提供的 prompt 和模板素材，将一个 meme 模板制作成动画。"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2094059955472990517",
+  "title": "Write a 9-shot claymation YouTube ad script for [PRODUCT] following the…",
+  "content": "Write a 9-shot claymation YouTube ad script for [PRODUCT] following the problem-villain-hero arc. Each shot is one sentence under 20 words. Make the villain visually distinctive and slightly funny. Then write the GPT Images 2.0 prompt for each shot with lighting, camera angle, and clay texture direction that I’ll later animate with Seedance 2.5.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094059022047449089/img/Q41n6QN9zTpKhYZX.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094059955472990517.mp4",
+  "sourceLink": "https://x.com/lifemaximised/status/2094059955472990517",
+  "sourcePublishedAt": "2026-08-30",
+  "author": {
+    "name": "Max | Google Ads",
+    "link": "https://x.com/lifemaximised"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "translations": {
+    "es": {
+      "content": "Escribe un guion publicitario de YouTube en claymation de 9 planos para [PRODUCT] siguiendo la estructura problema-villano-héroe. Cada plano debe ser una sola frase de menos de 20 palabras. Haz que el villano sea visualmente distintivo y ligeramente divertido. Luego escribe el prompt de GPT Images 2.0 para cada plano con indicaciones de iluminación, ángulo de cámara y textura de arcilla, que luego animaré con Seedance 2.5."
+    },
+    "fr": {
+      "content": "Rédigez un script publicitaire YouTube en claymation de 9 plans pour [PRODUCT], en suivant l’arc problème-vilain-héros. Chaque plan doit tenir en une seule phrase de moins de 20 mots. Rendez le vilain visuellement distinctif et légèrement drôle. Puis rédigez le prompt GPT Images 2.0 pour chaque plan, avec les indications d’éclairage, d’angle de caméra et de texture de la pâte à modeler, que j’animerai ensuite avec Seedance 2.5."
+    },
+    "ja": {
+      "content": "[PRODUCT] を題材に、problem-villain-hero の構成に沿った9ショットのクレイメーションYouTube広告スクリプトを書いてください。各ショットは20語未満の1文にしてください。ヴィランは見た目に個性的で、少しユーモラスにしてください。次に、各ショットごとに、照明、カメラアングル、クレイの質感の指示を含む GPT Images 2.0 用のプロンプトを書いてください。これは後で Seedance 2.5 でアニメーション化します。"
+    },
+    "ko": {
+      "content": "[PRODUCT]를 위한 9컷 클레이메이션 YouTube 광고 스크립트를 문제-악당-영웅 구조에 따라 작성하세요. 각 샷은 20단어 미만의 한 문장으로 구성하세요. 악당은 시각적으로 독특하고 약간 우스꽝스럽게 만드세요. 그런 다음 각 샷에 대해, 나중에 Seedance 2.5로 애니메이션할 수 있도록 조명, 카메라 앵글, 클레이 질감 지시를 포함한 GPT Images 2.0 프롬프트를 작성하세요."
+    },
+    "pt": {
+      "content": "Escreva um roteiro de anúncio para YouTube em claymation com 9 cenas para [PRODUCT], seguindo a estrutura problema-vilão-herói. Cada cena deve ter uma frase com menos de 20 palavras. Torne o vilão visualmente marcante e levemente engraçado. Depois, escreva o prompt do GPT Images 2.0 para cada cena, com direção de iluminação, ângulo de câmera e textura de clay, que eu depois vou animar com o Seedance 2.5."
+    },
+    "zh": {
+      "content": "为 [PRODUCT] 撰写一个 9 镜头的黏土定格动画 YouTube 广告脚本，遵循“问题-反派-英雄”叙事结构。每个镜头用一句话描述，且少于 20 个词。让反派在视觉上鲜明独特，并带一点幽默感。然后为每个镜头写出 GPT Images 2.0 提示词，包含灯光、镜头角度和黏土质感方向，之后我会用 Seedance 2.5 将其制作成动画。"
+    }
+  }
+}

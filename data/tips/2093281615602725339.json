@@ -1,0 +1,42 @@
+{
+  "id": "2093281615602725339",
+  "title": "Lock the character reference once and use multi-reference locking in Seedance…",
+  "content": "Lock the character reference once and use multi-reference locking in Seedance 2.5 to prevent face drift and keep the same character consistent across multiple shots and scenes.  \nGenerate your sequence shot-by-shot (shot 1, then shot 2, then shot 3) with the same locked character references so the character holds consistently across the entire edit.  \nUse Seedance 2.5 to render continuous takes up to 30 seconds in 4K with native audio baked in when you need long, high-res clips with synced sound.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093280207260315648/img/ZVunePSvUqGebbZQ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093281615602725339.mp4",
+  "sourceLink": "https://x.com/madpencil_/status/2093281615602725339",
+  "sourcePublishedAt": "2026-08-28",
+  "author": {
+    "name": "madpencil_",
+    "link": "https://x.com/madpencil_"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Lock the character reference once and use multi-reference locking in Seedance 2.5 to prevent face drift and keep the same character consistent across multiple shots and scenes.  \nGenerate your sequence shot-by-shot (shot 1, then shot 2, then shot 3) with the same locked character references so the character holds consistently across the entire edit.  \nUse Seedance 2.5 to render continuous takes up to 30 seconds in 4K with native audio baked in when you need long, high-res clips with synced sound.",
+  "translations": {
+    "es": {
+      "content": "Bloquea la referencia del personaje una sola vez y usa el bloqueo de múltiples referencias en Seedance 2.5 para evitar la deriva facial y mantener al mismo personaje consistente a lo largo de múltiples tomas y escenas.  \nGenera tu secuencia toma por toma (toma 1, luego toma 2, luego toma 3) con las mismas referencias de personaje bloqueadas para que el personaje se mantenga consistente durante toda la edición.  \nUsa Seedance 2.5 para renderizar tomas continuas de hasta 30 segundos en 4K con audio nativo integrado cuando necesites clips largos y de alta resolución con sonido sincronizado."
+    },
+    "fr": {
+      "content": "Verrouillez une fois la référence du personnage et utilisez le verrouillage multi-références dans Seedance 2.5 pour éviter la dérive du visage et conserver le même personnage de manière cohérente à travers plusieurs plans et scènes.  \nGénérez votre séquence plan par plan (plan 1, puis plan 2, puis plan 3) avec les mêmes références de personnage verrouillées afin que le personnage reste cohérent sur l’ensemble du montage.  \nUtilisez Seedance 2.5 pour produire des prises continues jusqu’à 30 secondes en 4K avec l’audio natif intégré lorsque vous avez besoin de clips longs, en haute résolution, avec un son synchronisé."
+    },
+    "ja": {
+      "content": "キャラクター参照を一度ロックし、Seedance 2.5 の multi-reference locking を使って face drift を防ぎ、複数のショットやシーンを通して同じキャラクターを一貫して維持します。  \n同じロック済みのキャラクター参照を使って、シーケンスを shot-by-shot（shot 1、shot 2、shot 3 の順）で生成し、編集全体を通してキャラクターの見た目を安定させます。  \n長尺で高解像度、かつ音声同期済みのクリップが必要な場合は、Seedance 2.5 を使って native audio を内蔵した最大30秒の連続テイクを 4K でレンダリングします。"
+    },
+    "ko": {
+      "content": "캐릭터 레퍼런스를 한 번 고정한 뒤, Seedance 2.5의 multi-reference locking을 사용해 face drift를 방지하고 여러 샷과 장면에 걸쳐 동일한 캐릭터를 일관되게 유지하세요.  \n같은 고정 캐릭터 레퍼런스를 사용해 시퀀스를 shot-by-shot(shot 1, 그다음 shot 2, 그다음 shot 3)으로 생성하면, 편집 전체에서 캐릭터가 일관되게 유지됩니다.  \n긴 고해상도 클립과 싱크된 사운드가 필요할 때는 Seedance 2.5를 사용해 최대 30초 길이의 continuous take를 4K로 렌더링하고, native audio를 내장하세요."
+    },
+    "pt": {
+      "content": "Bloqueie a referência do personagem uma vez e use o multi-reference locking no Seedance 2.5 para evitar o face drift e manter o mesmo personagem consistente em múltiplos takes e cenas.  \nGere sua sequência take por take (take 1, depois take 2, depois take 3) com as mesmas referências de personagem bloqueadas, para que o personagem se mantenha consistente em toda a edição.  \nUse o Seedance 2.5 para renderizar takes contínuos de até 30 segundos em 4K, com áudio nativo incorporado, quando precisar de clipes longos e em alta resolução com som sincronizado."
+    },
+    "zh": {
+      "content": "先锁定角色参考，并在 Seedance 2.5 中使用多参考锁定，防止面部漂移，确保同一角色在多个镜头和场景中保持一致。  \n按镜头逐个生成你的序列（shot 1，然后 shot 2，然后 shot 3），并使用相同的已锁定角色参考，这样角色就能在整个剪辑中保持一致。  \n当你需要带同步声音的长时长、高分辨率片段时，可使用 Seedance 2.5 渲染最长 30 秒的连续镜头，支持 4K，并内置原生音频。"
+    }
+  }
+}

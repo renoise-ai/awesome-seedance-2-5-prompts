@@ -1,0 +1,42 @@
+{
+  "id": "2093663876692754713",
+  "title": "Connect Claude Desktop to Blender using the Higgsfield MCP bridge to speed up…",
+  "content": "Connect Claude Desktop to Blender using the Higgsfield MCP bridge to speed up previs creation for Seedance 2.5 shots.  \nHave Claude generate a 3D gray-box blockout scene in Blender, then manually tweak the camera path before exporting.  \nRender a 1080p playblast of your Blender blockout and use it as a motion reference input in Seedance 2.5 to lock camera movement and framing.  \nFor multi-character dialogue scenes, lock blocking and seating in Blender first (use simple boxes as actor stand-ins) before generating the final video in Seedance 2.5.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093663529169469440/img/XzZvPIaQUr4Zibt_.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093663876692754713.mp4",
+  "sourceLink": "https://x.com/JSFILMZ0412/status/2093663876692754713",
+  "sourcePublishedAt": "2026-08-29",
+  "author": {
+    "name": "JSFILMZ",
+    "link": "https://x.com/JSFILMZ0412"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Connect Claude Desktop to Blender using the Higgsfield MCP bridge to speed up previs creation for Seedance 2.5 shots.  \nHave Claude generate a 3D gray-box blockout scene in Blender, then manually tweak the camera path before exporting.  \nRender a 1080p playblast of your Blender blockout and use it as a motion reference input in Seedance 2.5 to lock camera movement and framing.  \nFor multi-character dialogue scenes, lock blocking and seating in Blender first (use simple boxes as actor stand-ins) before generating the final video in Seedance 2.5.",
+  "translations": {
+    "es": {
+      "content": "Conecta Claude Desktop con Blender usando el puente MCP de Higgsfield para acelerar la creación de previs para planos de Seedance 2.5.  \nHaz que Claude genere una escena de blockout 3D en gray-box en Blender y luego ajusta manualmente la trayectoria de la cámara antes de exportar.  \nRenderiza un playblast en 1080p de tu blockout de Blender y úsalo como entrada de motion reference en Seedance 2.5 para fijar el movimiento de cámara y el encuadre.  \nPara escenas de diálogo con varios personajes, bloquea primero la blocking y la disposición de los asientos en Blender (usa cajas simples como sustitutos de los actores) antes de generar el video final en Seedance 2.5.\n\n--- TUIT CITADO ---\nEl diálogo y la blocking son lo más difícil en el video con IA. \n\nEsta escena mantiene a seis personas a lo largo de cuatro cortes sin ningún cambio de asiento. \n\nCada asiento se bloqueó primero en Blender. Las cajas son los actores. https://t.co/BS7IepdtOS\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] tutorial completo de Blender a Seedance 2.5 @higgsfield_ai @Blender https://t.co/5MEtoLf3KC\n---"
+    },
+    "fr": {
+      "content": "Connectez Claude Desktop à Blender à l’aide du pont Higgsfield MCP pour accélérer la création de previs pour les plans Seedance 2.5.  \nDemandez à Claude de générer une scène de blockout 3D en gray-box dans Blender, puis ajustez manuellement le trajet de la caméra avant l’export.  \nRendez un playblast 1080p de votre blockout Blender et utilisez-le comme référence de mouvement dans Seedance 2.5 afin de verrouiller le mouvement de caméra et le cadrage.  \nPour les scènes de dialogue avec plusieurs personnages, verrouillez d’abord le blocking et le placement des sièges dans Blender (utilisez de simples boîtes comme substituts des acteurs) avant de générer la vidéo finale dans Seedance 2.5.\n\n--- TWEET CITÉ ---\nLe dialogue et le blocking sont les aspects les plus difficiles de la vidéo IA. \n\nCette scène maintient six personnes à travers quatre cuts, sans aucun échange de siège. \n\nChaque siège a d’abord été verrouillé dans Blender. Les boîtes sont les acteurs. https://t.co/BS7IepdtOS\n\n--- SUITE DU THREAD ---\n[Thread 1] tutoriel complet de Blender vers Seedance 2.5 @higgsfield_ai @Blender https://t.co/5MEtoLf3KC\n---"
+    },
+    "ja": {
+      "content": "Claude Desktop を Higgsfield MCP ブリッジ経由で Blender に接続し、Seedance 2.5 のショット用プリビズ制作を高速化します。  \nまず Claude に Blender 内で 3D のグレーボックス・ブロックアウトシーンを生成させ、その後、書き出し前にカメラパスを手動で微調整します。  \nBlender のブロックアウトを 1080p の playblast としてレンダリングし、それを Seedance 2.5 の motion reference 入力として使用して、カメラの動きとフレーミングを固定します。  \n複数キャラクターの会話シーンでは、まず Blender で blocking と seating を固定し（俳優の代役としてシンプルな箱を使用）、その後 Seedance 2.5 で最終動画を生成します。\n\n--- QUOTED TWEET ---\nAI動画で最も難しいのは、会話と blocking だ。 \n\nこのシーンでは、4回のカットを通して6人を、座席の入れ替えゼロで維持している。 \n\n各席は最初に Blender で固定した。箱が俳優だ。 https://t.co/BS7IepdtOS\n\n--- THREAD CONTINUATION ---\n[Thread 1] Blender から Seedance 2.5 までの完全チュートリアル @higgsfield_ai @Blender https://t.co/5MEtoLf3KC"
+    },
+    "ko": {
+      "content": "Claude Desktop를 Higgsfield MCP 브리지로 Blender에 연결해 Seedance 2.5 샷의 프리비주얼(previs) 제작 속도를 높이세요.  \nClaude가 Blender에서 3D 그레이박스(gray-box) 블로킹 씬을 생성하게 한 다음, 내보내기 전에 카메라 경로를 수동으로 조정합니다.  \nBlender 블로킹의 1080p 플레이블라스트(playblast)를 렌더링한 뒤, 이를 Seedance 2.5의 모션 레퍼런스 입력으로 사용해 카메라 움직임과 프레이밍을 고정합니다.  \n다중 캐릭터 대화 장면의 경우, 최종 영상을 Seedance 2.5에서 생성하기 전에 먼저 Blender에서 블로킹과 좌석 배치를 고정하세요(배우 대역으로는 단순한 박스를 사용).\n\n--- 인용 트윗 ---\n대화와 블로킹은 AI 비디오에서 가장 어려운 부분입니다. \n\n이 장면은 네 번의 컷 동안 여섯 명을 한 번도 좌석 교체 없이 유지합니다. \n\n모든 좌석은 먼저 Blender에서 고정했습니다. 박스가 배우입니다. https://t.co/BS7IepdtOS\n\n--- 스레드 이어짐 ---\n[Thread 1] full blender to seedance 2.5 tutorial @higgsfield_ai @Blender https://t.co/5MEtoLf3KC\n---"
+    },
+    "pt": {
+      "content": "Conecte o Claude Desktop ao Blender usando a ponte Higgsfield MCP para acelerar a criação de previs para cenas do Seedance 2.5.  \nPeça ao Claude para gerar uma cena de blockout 3D em gray-box no Blender e, depois, ajuste manualmente o caminho da câmera antes de exportar.  \nRenderize um playblast em 1080p do seu blockout no Blender e use-o como entrada de motion reference no Seedance 2.5 para travar o movimento da câmera e o enquadramento.  \nPara cenas de diálogo com vários personagens, trave primeiro o blocking e o posicionamento dos assentos no Blender (use caixas simples como stand-ins dos atores) antes de gerar o vídeo final no Seedance 2.5.\n\n--- TWEET CITADO ---\nDiálogo e blocking são as coisas mais difíceis em vídeo com IA. \n\nEsta cena mantém seis pessoas em quatro cortes, sem nenhuma troca de assento. \n\nCada assento foi travado primeiro no Blender. As caixas são os atores. https://t.co/BS7IepdtOS\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] tutorial completo de Blender para Seedance 2.5 @higgsfield_ai @Blender https://t.co/5MEtoLf3KC\n---"
+    },
+    "zh": {
+      "content": "通过 Higgsfield MCP bridge 将 Claude Desktop 连接到 Blender，以加快 Seedance 2.5 镜头的预演（previs）制作。  \n让 Claude 在 Blender 中生成一个 3D gray-box blockout 场景，然后在导出前手动微调 camera path。  \n渲染一段 1080p 的 Blender blockout playblast，并将其作为 motion reference 输入到 Seedance 2.5 中，以锁定 camera movement 和 framing。  \n对于多角色对白场景，先在 Blender 中锁定 blocking 和 seating（使用简单的 box 作为演员替身），再在 Seedance 2.5 中生成最终视频。\n\n--- QUOTED TWEET ---\n对白和 blocking 是 AI 视频里最难的部分。 \n\n这个场景在四个 cut 中保持了六个人物，且没有一次座位互换。 \n\n每个座位都是先在 Blender 里锁定的。那些 box 就是演员。 https://t.co/BS7IepdtOS\n\n--- THREAD CONTINUATION ---\n[Thread 1] 完整的 Blender 到 Seedance 2.5 教程 @higgsfield_ai @Blender https://t.co/5MEtoLf3KC\n---"
+    }
+  }
+}

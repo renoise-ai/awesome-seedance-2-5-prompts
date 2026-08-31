@@ -1,0 +1,44 @@
+{
+  "id": "2093377271771865267",
+  "title": "Build the 3D scene first in Blender and lock the camera before generating in…",
+  "content": "Build the 3D scene first in Blender and lock the camera before generating in Seedance 2.5 to keep the shot consistent  \nUse the Higgsfield Blender plugin to prompt a scene blockout, generate an animated camera move, then adjust the camera path by hand before sending to Seedance  \nCreate a low‑poly previz (car, road, exact camera path) in Blender and use that previz as the structural guide for Seedance 2.5  \nFeed Seedance reference images for the target location/night look, both characters, and the car to control style and identity while following the Blender camera move  \nConstrain the Seedance prompt to prevent unwanted changes by specifying no new shots, no swapped seats, and no falling rain",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093376782397243392/img/m7k8rzSs3tkwuD5t.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093377271771865267.mp4",
+  "sourceLink": "https://x.com/abyssallD/status/2093377271771865267",
+  "sourcePublishedAt": "2026-08-28",
+  "author": {
+    "name": "Abyssal",
+    "link": "https://x.com/abyssallD"
+  },
+  "tags": [
+    "Auto",
+    "POV Drive",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial",
+    "Creative Asset",
+    "Model Showcase"
+  ],
+  "tips": "Build the 3D scene first in Blender and lock the camera before generating in Seedance 2.5 to keep the shot consistent  \nUse the Higgsfield Blender plugin to prompt a scene blockout, generate an animated camera move, then adjust the camera path by hand before sending to Seedance  \nCreate a low‑poly previz (car, road, exact camera path) in Blender and use that previz as the structural guide for Seedance 2.5  \nFeed Seedance reference images for the target location/night look, both characters, and the car to control style and identity while following the Blender camera move  \nConstrain the Seedance prompt to prevent unwanted changes by specifying no new shots, no swapped seats, and no falling rain",
+  "translations": {
+    "es": {
+      "content": "Construye primero la escena 3D en Blender y bloquea la cámara antes de generar en Seedance 2.5 para mantener la toma consistente  \nUsa el plugin Higgsfield para Blender para pedir un blockout de la escena, generar un movimiento de cámara animado y luego ajustar la trayectoria de la cámara manualmente antes de enviarlo a Seedance  \nCrea un previz low-poly (coche, carretera, trayectoria exacta de cámara) en Blender y usa ese previz como guía estructural para Seedance 2.5  \nProporciona a Seedance imágenes de referencia de la ubicación objetivo/aspecto nocturno, ambos personajes y el coche para controlar el estilo y la identidad mientras sigue el movimiento de cámara de Blender  \nRestringe el prompt de Seedance para evitar cambios no deseados especificando que no haya nuevas tomas, no se intercambien los asientos y no haya lluvia cayendo\n\n--- TUIT CITADO ---\nPresentamos Higgsfield en Blender.\n\n&gt; Haz el prompt de la escena y construye el blockout  \n&gt; Describe el movimiento de cámara y haz que se anime  \n&gt; Ajusta cualquier cosa a mano  \n&gt; Rehaz el blockout de toda la toma en segundos\n\nAhora disponible a través de Higgsfield MCP o Supercomputer. https://t.co/TWGEwn4YGv\n---"
+    },
+    "fr": {
+      "content": "Construisez d’abord la scène 3D dans Blender et verrouillez la caméra avant de générer dans Seedance 2.5 afin de conserver la cohérence du plan  \nUtilisez le plugin Higgsfield pour Blender pour prompt une ébauche de scène, générer un mouvement de caméra animé, puis ajuster le trajet de la caméra à la main avant d’envoyer vers Seedance  \nCréez un previz low-poly (voiture, route, trajet exact de la caméra) dans Blender et utilisez ce previz comme guide structurel pour Seedance 2.5  \nFournissez à Seedance des images de référence pour le lieu cible/l’ambiance nocturne, les deux personnages et la voiture afin de contrôler le style et l’identité tout en suivant le mouvement de caméra de Blender  \nContraignez le prompt Seedance pour éviter les changements indésirables en précisant : aucun nouveau plan, aucun échange de sièges et aucune pluie qui tombe\n\n--- TWEET CITÉ ---\n\nPrésentation de Higgsfield dans Blender.\n\n&gt; Prompt the scene and build the blockout  \n&gt; Describe the camera move and get it animated  \n&gt; Adjust anything by hand  \n&gt; Reblock the whole shot in seconds\n\nDésormais disponible via Higgsfield MCP ou Supercomputer. https://t.co/TWGEwn4YGv\n---"
+    },
+    "ja": {
+      "content": "まずBlenderで3Dシーンを作成し、カメラを固定してからSeedance 2.5で生成すると、ショットの一貫性を保てます  \nHiggsfield Blenderプラグインを使ってシーンのブロックアウトをプロンプトし、アニメーション付きのカメラ移動を生成してから、Seedanceに送る前にカメラパスを手作業で調整します  \nBlenderで低ポリのpreviz（車、道路、正確なカメラパス）を作成し、そのprevizをSeedance 2.5の構造ガイドとして使用します  \nSeedanceには、対象ロケーションの夜景ルック、両キャラクター、そして車の参照画像を入力して、Blenderのカメラ移動に従いながらスタイルとアイデンティティをコントロールします  \nSeedanceのpromptを制約し、不要な変更を防ぐために、新しいショットなし、座席の入れ替えなし、雨が落ちないことを指定します\n\n--- QUOTED TWEET ---\nBlenderでHiggsfieldを導入。\n\n> シーンをpromptしてブロックアウトを作成\n> カメラ移動を記述してアニメーション化\n> 必要な箇所を手作業で調整\n> ショット全体を数秒で再ブロック\n\n現在はHiggsfield MCPまたはSupercomputer経由で利用可能です。 https://t.co/TWGEwn4YGv\n---"
+    },
+    "ko": {
+      "content": "먼저 Blender에서 3D 씬을 만들고 카메라를 고정한 뒤 Seedance 2.5에서 생성해야 샷의 일관성을 유지할 수 있습니다  \nHiggsfield Blender 플러그인을 사용해 씬 블로아웃을 프롬프트로 만들고, 애니메이션 카메라 무브를 생성한 다음, Seedance로 보내기 전에 카메라 경로를 직접 조정하세요  \nBlender에서 로우폴리 previz(차, 도로, 정확한 카메라 경로)를 만들고, 그 previz를 Seedance 2.5의 구조적 가이드로 사용하세요  \nSeedance에 대상 장소/야간 분위기, 두 캐릭터, 그리고 차에 대한 reference images를 입력해 스타일과 아이덴티티를 제어하면서 Blender의 카메라 무브를 따르게 하세요  \n원치 않는 변경을 막기 위해 Seedance prompt를 제한하세요. 예를 들어 새 샷 금지, 좌석 변경 금지, 빗방울 낙하 금지 등을 명시합니다\n\n--- \"인용된 트윗\" ---\nBlender에서 Higgsfield를 소개합니다.\n\n> 씬을 프롬프트로 만들고 블로아웃을 구성하세요\n> 카메라 무브를 설명하면 애니메이션으로 만들어 줍니다\n> 필요한 부분은 직접 손으로 조정하세요\n> 전체 샷을 몇 초 만에 다시 블로아웃하세요\n\n이제 Higgsfield MCP 또는 Supercomputer를 통해 사용 가능합니다. https://t.co/TWGEwn4YGv\n---"
+    },
+    "pt": {
+      "content": "Construa primeiro a cena 3D no Blender e trave a câmera antes de gerar no Seedance 2.5 para manter a tomada consistente  \nUse o plugin Higgsfield para Blender para fazer o prompt de um blockout da cena, gerar um movimento de câmera animado e, em seguida, ajustar o caminho da câmera manualmente antes de enviar para o Seedance  \nCrie um previz low-poly (carro, estrada, caminho exato da câmera) no Blender e use esse previz como guia estrutural para o Seedance 2.5  \nForneça ao Seedance imagens de referência do local/visual noturno desejado, dos dois personagens e do carro para controlar estilo e identidade enquanto segue o movimento de câmera do Blender  \nRestrinja o prompt do Seedance para evitar mudanças indesejadas, especificando sem novos planos, sem troca de assentos e sem chuva caindo\n\n--- TWEET CITADO ---\n\nApresentando o Higgsfield no Blender.\n\n&gt; Faça o prompt da cena e construa o blockout  \n&gt; Descreva o movimento de câmera e veja-o animado  \n&gt; Ajuste qualquer coisa manualmente  \n&gt; Refaça o blockout de toda a tomada em segundos\n\nAgora disponível via Higgsfield MCP ou Supercomputer. https://t.co/TWGEwn4YGv"
+    },
+    "zh": {
+      "content": "先在 Blender 中搭建 3D 场景，并在使用 Seedance 2.5 生成前锁定相机，以保持镜头一致性  \n使用 Higgsfield Blender 插件来提示场景 blockout，生成一段动画相机运动，然后在发送到 Seedance 之前手动调整相机路径  \n在 Blender 中创建一个低多边形 previz（汽车、道路、精确相机路径），并将该 previz 作为 Seedance 2.5 的结构参考  \n向 Seedance 提供目标地点/夜景效果、两个角色以及汽车的参考图像，以在跟随 Blender 相机运动的同时控制风格和身份一致性  \n通过指定 no new shots、no swapped seats 和 no falling rain 来约束 Seedance prompt，防止出现不需要的变化\n\n--- QUOTED TWEET ---\nBlender 中的 Higgsfield 介绍。\n\n&gt; 对场景进行 prompt 并搭建 blockout  \n&gt; 描述相机运动并让它动起来  \n&gt; 手动调整任何细节  \n&gt; 在几秒钟内重新 block 整个镜头\n\n现已可通过 Higgsfield MCP 或 Supercomputer 使用。 https://t.co/TWGEwn4YGv\n---"
+    }
+  }
+}

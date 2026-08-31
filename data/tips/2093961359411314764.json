@@ -1,0 +1,42 @@
+{
+  "id": "2093961359411314764",
+  "title": "15秒尺の動画に合わせてプロンプトを調整する",
+  "content": "15秒尺の動画に合わせてプロンプトを調整する  \n顔が崩れる場合は、プロンプトに顔のズームや上半身のアングル指定を追加して安定させる  \nSeedance 2.0/2.5の出力をTopaz AIでアップスケールして比較・品質向上する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093958737270870016/img/-iNJ_z1Mhpl7kSKY.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093961359411314764.mp4",
+  "sourceLink": "https://x.com/poruru_ai/status/2093961359411314764",
+  "sourcePublishedAt": "2026-08-30",
+  "author": {
+    "name": "AI_poruru(world)",
+    "link": "https://x.com/poruru_ai"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "15秒尺の動画に合わせてプロンプトを調整する  \n顔が崩れる場合は、プロンプトに顔のズームや上半身のアングル指定を追加して安定させる  \nSeedance 2.0/2.5の出力をTopaz AIでアップスケールして比較・品質向上する",
+  "translations": {
+    "en": {
+      "content": "Adjust the prompt to match a 15-second video  \nIf the face becomes distorted, add face zoom or upper-body angle instructions to the prompt to stabilize it  \nUpscale Seedance 2.0/2.5 outputs with Topaz AI to compare and improve quality\n\n--- QUOTED TWEET ---\nTutorial is here. Based on a video I saw on Douyin, I made a new version and added the 15-second storyline at the end. The prompt and asset images for the first 20 seconds are in the comments below 👇 If you need them, feel free to tweak them yourself and have fun. Looking forward to more creative ideas. https://t.co/CihOipZXXx\n---"
+    },
+    "es": {
+      "content": "Ajustar el prompt para que encaje con un video de 15 segundos  \nSi el rostro se deforma, añade al prompt un zoom al rostro o una indicación del ángulo del torso superior para estabilizarlo  \nUsar Topaz AI para hacer upscaling de la salida de Seedance 2.0/2.5 y compararla/mejorar la calidad\n\n--- TWEET CITADO ---\nAquí va el tutorial: hice una nueva versión basada en un video que vi en Douyin, y le añadí la trama de los últimos 15 s. El prompt de los primeros 20 s y las imágenes de assets están en los comentarios 👇. Si lo necesitas, puedes intentar modificarlo tú mismo y jugar con ello; espero ver más ideas creativas. https://t.co/CihOipZXXx\n---"
+    },
+    "fr": {
+      "content": "Ajuster le prompt en fonction d’une vidéo de 15 secondes  \nSi le visage se déforme, ajoutez au prompt un zoom sur le visage ou une indication d’angle en plan poitrine pour le stabiliser  \nUtiliser Topaz AI pour upscaler les sorties de Seedance 2.0/2.5 et comparer/améliorer la qualité\n\n--- TWEET CITÉ ---\nLe tutoriel est là : j’ai fait une nouvelle version à partir d’une vidéo vue sur Douyin, avec une intrigue ajoutée pour les 15 dernières secondes. Le prompt et les assets des 20 premières secondes sont dans les commentaires 👇 Ceux qui veulent peuvent essayer de les modifier eux-mêmes et s’amuser avec, en attendant encore plus de créativité. https://t.co/CihOipZXXx\n---"
+    },
+    "ko": {
+      "content": "15초 길이의 영상에 맞게 prompt를 조정하기  \n얼굴이 무너지는 경우에는 prompt에 얼굴 줌이나 상반신 앵글 지정을 추가해 안정화하기  \nSeedance 2.0/2.5의 출력을 Topaz AI로 업스케일해 비교하고 품질 향상하기\n\n--- 인용 트윗 ---\n튜토리얼이 올라왔습니다. Douyin에서 본 영상을 바탕으로 새 버전을 하나 만들었고, 뒤에 15초 분량의 스토리를 추가했습니다. 앞의 20초 prompt와 에셋 이미지는 댓글에 있습니다👇 필요하신 분들은 직접 조금씩 수정해서 써보셔도 좋고, 더 많은 창의적인 아이디어를 기대합니다. https://t.co/CihOipZXXx\n---"
+    },
+    "pt": {
+      "content": "Ajuste o prompt para se adequar a um vídeo de 15 segundos  \nSe o rosto ficar deformado, adicione ao prompt instruções de zoom no rosto ou de enquadramento da parte superior do corpo para estabilizá-lo  \nFaça upscale da saída do Seedance 2.0/2.5 no Topaz AI para comparar e melhorar a qualidade\n\n--- TWEET CITADO ---\nO tutorial chegou. Com base em um vídeo que vi no Douyin, fiz uma nova versão, adicionando a trama dos 15s finais. O prompt e os assets dos primeiros 20s estão nos comentários 👇 Quem precisar pode tentar ajustar por conta própria e brincar com isso. Espero ver mais criatividade. https://t.co/CihOipZXXx\n---"
+    },
+    "zh": {
+      "content": "根据15秒长度的视频调整 prompt  \n如果出现脸部崩坏，可以在 prompt 中加入脸部特写或上半身角度的指定，以增强稳定性  \n将 Seedance 2.0/2.5 的输出用 Topaz AI 进行 upscaling，并进行对比与画质提升\n\n--- 引用推文 ---\n教程来了，根据在抖音看过的视频做了一版新的，加了后面15s的剧情，前20s提示词及资产图在评论区👇需要的可以试着自己改改玩，期待更多创意。 https://t.co/CihOipZXXx"
+    }
+  }
+}

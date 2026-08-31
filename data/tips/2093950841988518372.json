@@ -1,0 +1,42 @@
+{
+  "id": "2093950841988518372",
+  "title": "絵コンテ（ストーリーボード）で事前に各シーンを決めてから生成し、無理に次の動作へ繋げようとして破綻するのを避ける",
+  "content": "絵コンテ（ストーリーボード）で事前に各シーンを決めてから生成し、無理に次の動作へ繋げようとして破綻するのを避ける  \nダンス動画はSeedance 2.5を使う（H3はダンス用途では避ける）  \n映像生成はSeedance 2.5の1080P設定で出力する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093949256617037824/img/TZowVvRlHN6ncoFs.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093950841988518372.mp4",
+  "sourceLink": "https://x.com/sailorv321/status/2093950841988518372",
+  "sourcePublishedAt": "2026-08-30",
+  "author": {
+    "name": "C’est La Vie | AI Director",
+    "link": "https://x.com/sailorv321"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "絵コンテ（ストーリーボード）で事前に各シーンを決めてから生成し、無理に次の動作へ繋げようとして破綻するのを避ける  \nダンス動画はSeedance 2.5を使う（H3はダンス用途では避ける）  \n映像生成はSeedance 2.5の1080P設定で出力する",
+  "translations": {
+    "en": {
+      "content": "Decide each scene in advance with a storyboard, then generate it to avoid the sequence breaking by forcing one action into the next.  \nUse Seedance 2.5 for dance videos (avoid H3 for dance use cases).  \nFor video generation, output using Seedance 2.5’s 1080P setting."
+    },
+    "es": {
+      "content": "Decide each scene in advance with a storyboard, then generate it to avoid breaking the flow by forcing one action to connect to the next.  \nUse Seedance 2.5 for dance videos (avoid H3 for dance use cases).  \nFor video generation, output using Seedance 2.5’s 1080P setting."
+    },
+    "fr": {
+      "content": "Définir à l’avance chaque scène à l’aide d’un storyboard, puis générer, afin d’éviter les ruptures causées par une tentative forcée de relier l’action suivante.  \nPour les vidéos de danse, utiliser Seedance 2.5 (éviter H3 pour un usage danse).  \nPour la génération vidéo, exporter en 1080P avec les paramètres de Seedance 2.5."
+    },
+    "ko": {
+      "content": "스토리보드로 미리 각 장면을 정해 둔 뒤 생성하고, 억지로 다음 동작으로 이어 붙이려다 무너지는 것을 피한다  \n댄스 영상은 Seedance 2.5를 사용한다(H3는 댄스 용도로는 피한다)  \n영상 생성은 Seedance 2.5의 1080P 설정으로 출력한다"
+    },
+    "pt": {
+      "content": "Decida cada cena previamente no storyboard (roteiro visual) antes de gerar, para evitar que a tentativa de forçar a transição para a próxima ação cause inconsistências.  \nPara vídeos de dança, use o Seedance 2.5 (evite o H3 para esse tipo de uso).  \nNa geração de vídeo, exporte usando a configuração 1080P do Seedance 2.5."
+    },
+    "zh": {
+      "content": "先在分镜（storyboard）中预先确定每个场景，再进行生成，避免为了强行衔接下一个动作而导致画面崩坏。  \n舞蹈视频请使用 Seedance 2.5（舞蹈用途避免使用 H3）。  \n视频生成请使用 Seedance 2.5 的 1080P 设置输出。"
+    }
+  }
+}

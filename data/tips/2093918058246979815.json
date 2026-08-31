@@ -1,0 +1,42 @@
+{
+  "id": "2093918058246979815",
+  "title": "Use two GPT Image 2 reference images in Seedance 2.5 on OpenArt—one to define…",
+  "content": "Use two GPT Image 2 reference images in Seedance 2.5 on OpenArt—one to define the scenario/artistic direction and one to define the product—then generate the video with a detailed prompt.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093918036256260096/img/ehpjfBFkDC3SdB7L.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093918058246979815.mp4",
+  "sourceLink": "https://x.com/Teavetua1971/status/2093918058246979815",
+  "sourcePublishedAt": "2026-08-30",
+  "author": {
+    "name": "Teavetua1971",
+    "link": "https://x.com/Teavetua1971"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use two GPT Image 2 reference images in Seedance 2.5 on OpenArt—one to define the scenario/artistic direction and one to define the product—then generate the video with a detailed prompt.",
+  "translations": {
+    "es": {
+      "content": "Usa dos imágenes de referencia de GPT Image 2 en Seedance 2.5 en OpenArt: una para definir la escena/dirección artística y otra para definir el producto; luego genera el video con un prompt detallado."
+    },
+    "fr": {
+      "content": "Utilisez deux images de référence GPT Image 2 dans Seedance 2.5 sur OpenArt — l’une pour définir le scénario/la direction artistique et l’autre pour définir le produit — puis générez la vidéo avec un prompt détaillé."
+    },
+    "ja": {
+      "content": "OpenArt の Seedance 2.5 で 2 枚の GPT Image 2 参照画像を使用します。1 枚はシナリオ／アートディレクションを定義し、もう 1 枚は製品を定義します。そのうえで、詳細なプロンプトを使って動画を生成します。"
+    },
+    "ko": {
+      "content": "OpenArt의 Seedance 2.5에서 두 개의 GPT Image 2 레퍼런스 이미지를 사용하세요. 하나는 시나리오/아트 디렉션을 정의하고, 다른 하나는 제품을 정의한 다음, 상세한 prompt로 비디오를 생성합니다."
+    },
+    "pt": {
+      "content": "Use duas imagens de referência do GPT Image 2 no Seedance 2.5 no OpenArt — uma para definir o cenário/direção artística e outra para definir o produto — e então gere o vídeo com um prompt detalhado."
+    },
+    "zh": {
+      "content": "在 OpenArt 的 Seedance 2.5 中使用两张 GPT Image 2 参考图——一张用于定义场景/艺术方向，另一张用于定义产品——然后通过详细的 prompt 生成视频。"
+    }
+  }
+}

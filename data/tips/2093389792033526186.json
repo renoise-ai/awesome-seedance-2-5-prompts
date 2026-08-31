@@ -1,0 +1,42 @@
+{
+  "id": "2093389792033526186",
+  "title": "Use MidJourney reference images as input to Seedance 2.5 to guide the visual…",
+  "content": "Use MidJourney reference images as input to Seedance 2.5 to guide the visual style of your AI animation (e.g., 90s OVA-inspired retro anime).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093389602220306432/img/mNb054xiVxIr6WB1.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093389792033526186.mp4",
+  "sourceLink": "https://x.com/botcreates/status/2093389792033526186",
+  "sourcePublishedAt": "2026-08-28",
+  "author": {
+    "name": "bot. creates",
+    "link": "https://x.com/botcreates"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use MidJourney reference images as input to Seedance 2.5 to guide the visual style of your AI animation (e.g., 90s OVA-inspired retro anime).",
+  "translations": {
+    "es": {
+      "content": "Usa imágenes de referencia de MidJourney como input en Seedance 2.5 para guiar el estilo visual de tu animación con IA (por ejemplo, anime retro inspirado en OVA de los 90)."
+    },
+    "fr": {
+      "content": "Utilisez des images de référence MidJourney comme entrée dans Seedance 2.5 pour guider le style visuel de votre animation IA (par exemple, un anime rétro inspiré des OVA des années 90)."
+    },
+    "ja": {
+      "content": "MidJourneyの参照画像をSeedance 2.5の入力として使用し、AIアニメーションのビジュアルスタイルを誘導します（例：90年代OVAに着想を得たレトロアニメ）。"
+    },
+    "ko": {
+      "content": "MidJourney 레퍼런스 이미지를 Seedance 2.5의 입력으로 사용해 AI 애니메이션의 비주얼 스타일을 가이드하세요(예: 90년대 OVA에서 영감을 받은 레트로 애니메이션)."
+    },
+    "pt": {
+      "content": "Use imagens de referência do MidJourney como input no Seedance 2.5 para orientar o estilo visual da sua animação com IA (por exemplo, anime retrô inspirado em OVA dos anos 90)."
+    },
+    "zh": {
+      "content": "将 MidJourney 参考图像作为输入导入 Seedance 2.5，以引导你的 AI 动画的视觉风格（例如，受 90 年代 OVA 启发的复古动漫风格）。"
+    }
+  }
+}

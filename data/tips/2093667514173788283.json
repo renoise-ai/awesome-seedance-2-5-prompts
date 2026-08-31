@@ -1,0 +1,43 @@
+{
+  "id": "2093667514173788283",
+  "title": "Use the same prompt across Seedance versions (e.g., 2.0 vs 2.5) to do an…",
+  "content": "Use the same prompt across Seedance versions (e.g., 2.0 vs 2.5) to do an apples-to-apples quality comparison for a specific scene type (e.g., fight scenes).",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2093665878609113088/img/bxmP5VbsVZl4Y62l.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2093667514173788283.mp4",
+  "sourceLink": "https://x.com/noki_____/status/2093667514173788283",
+  "sourcePublishedAt": "2026-08-29",
+  "author": {
+    "name": "noki",
+    "link": "https://x.com/noki_____"
+  },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Model Showcase"
+  ],
+  "tips": "Use the same prompt across Seedance versions (e.g., 2.0 vs 2.5) to do an apples-to-apples quality comparison for a specific scene type (e.g., fight scenes).",
+  "translations": {
+    "en": {
+      "content": "Use the same prompt across Seedance versions (e.g., 2.0 vs. 2.5) to make an apples-to-apples quality comparison for a specific scene type (e.g., fight scenes)."
+    },
+    "es": {
+      "content": "Usa el mismo prompt en todas las versiones de Seedance (por ejemplo, 2.0 frente a 2.5) para hacer una comparación de calidad justa y directa en un tipo de escena específico (por ejemplo, escenas de lucha)."
+    },
+    "fr": {
+      "content": "Utilisez le même prompt sur les différentes versions de Seedance (par exemple, 2.0 vs 2.5) afin de réaliser une comparaison de qualité à périmètre égal pour un type de scène spécifique (par exemple, des scènes de combat)."
+    },
+    "ko": {
+      "content": "특정 장면 유형(예: 격투 장면)에 대해 동일한 prompt를 Seedance 버전(예: 2.0 vs 2.5) 전반에 걸쳐 사용해, 동일 조건에서 품질을 비교하세요."
+    },
+    "pt": {
+      "content": "Use o mesmo prompt em diferentes versões do Seedance (por exemplo, 2.0 vs 2.5) para fazer uma comparação de qualidade justa, lado a lado, para um tipo específico de cena (por exemplo, cenas de luta)."
+    },
+    "zh": {
+      "content": "在 Seedance 不同版本之间使用相同的 prompt（例如 2.0 vs 2.5），以便针对特定场景类型（例如打斗场景）进行公平、直接的质量对比。"
+    }
+  }
+}
