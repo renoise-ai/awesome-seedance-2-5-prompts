@@ -66,7 +66,7 @@
 | 📝 提示词总数 | **2563** |
 | ⭐ 精选 | **0** |
 | 💡 技巧 & 教程 | **1845** |
-| 🔄 最后更新 | **2026-09-01** |
+| 🔄 最后更新 | **2026-09-02** |
 
 ---
 
@@ -8069,4 +8069,4 @@ Generate 10‑second samples at the lowest available resolution (e.g., Seedance 
 
 **🌐 [🎬 在画廊中查看](https://renoise.ai/zh-CN/showcase/awesome-seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **🎬 [Seedance 2.5 模型](https://renoise.ai/zh-CN/features/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **📝 提交提示词** • **⭐ 点个 Star**
 
-🤖 本 README 由脚本自动生成。最后更新： 2026-09-01T22:28:57.701Z
+🤖 本 README 由脚本自动生成。最后更新： 2026-09-02T03:44:17.032Z
