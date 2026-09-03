@@ -1,0 +1,45 @@
+{
+  "id": "2094763048141549732",
+  "title": "Twórz sceny jako grafiki (storyboard) i używaj ich jako zasad/wytycznych w…",
+  "content": "Twórz sceny jako grafiki (storyboard) i używaj ich jako zasad/wytycznych w promptach, żeby agent lepiej składał wideo z przejściami w Seedance 2.5  \nZbuduj stałe postacie animowane dla produktów i wielokrotnie używaj ich na różnych, wcześniej wygenerowanych tłach (np. tła z GPT Image 2)",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094762866842681344/img/Qa_IrE95Z8PW5VZm.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094763048141549732.mp4",
+  "sourceLink": "https://x.com/miroburn/status/2094763048141549732",
+  "sourcePublishedAt": "2026-09-01",
+  "author": {
+    "name": "miroburn",
+    "link": "https://x.com/miroburn"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Twórz sceny jako grafiki (storyboard) i używaj ich jako zasad/wytycznych w promptach, żeby agent lepiej składał wideo z przejściami w Seedance 2.5  \nZbuduj stałe postacie animowane dla produktów i wielokrotnie używaj ich na różnych, wcześniej wygenerowanych tłach (np. tła z GPT Image 2)",
+  "translations": {
+    "en": {
+      "content": "Create scenes as graphics (storyboards) and use them as rules/guidelines in prompts so the agent can better assemble videos with transitions in Seedance 2.5  \nBuild consistent animated characters for products and reuse them repeatedly on different, previously generated backgrounds (e.g., backgrounds from GPT Image 2)\n\n--- THREAD CONTINUATION ---\n[Thread 1] I keep thinking about creating consistent animated characters for products and using them repeatedly on different pre-generated backgrounds from GPT Image 2.\n---"
+    },
+    "es": {
+      "content": "Crea escenas como gráficos (storyboard) y úsalas como reglas/directrices en los prompts, para que el agente componga mejor el video con transiciones en Seedance 2.5  \nCrea personajes animados fijos para productos y reutilízalos repetidamente sobre distintos fondos previamente generados (p. ej., fondos de GPT Image 2)\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Sigo pensando en hacerme personajes animados fijos para productos y usarlos continuamente sobre distintos fondos pregenerados con GPT Image 2.\n---"
+    },
+    "fr": {
+      "content": "Créez des scènes sous forme de graphiques (storyboard) et utilisez-les comme règles/lignes directrices dans les prompts, afin que l’agent assemble mieux la vidéo avec des transitions dans Seedance 2.5  \nCréez des personnages animés récurrents pour les produits et réutilisez-les à plusieurs reprises sur différents arrière-plans déjà générés à l’avance (par ex. des fonds issus de GPT Image 2)\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Thread 1] Je pense sans cesse à me créer des personnages animés récurrents pour les produits et à les utiliser en continu sur différents fonds pré-générés avec GPT Image 2.\n---"
+    },
+    "ja": {
+      "content": "シーンをグラフィック（storyboard）として作成し、それを prompt のルール／ガイドラインとして使うことで、エージェントが Seedance 2.5 でトランジション付きの動画をよりうまく組み立てられるようにする  \n製品向けの固定アニメーションキャラクターを作成し、GPT Image 2 などで事前生成したさまざまな背景の上で繰り返し使用する\n\n--- THREAD CONTINUATION ---\n[Thread 1] 製品用に固定のアニメーションキャラクターを作って、GPT Image 2 で事前生成したさまざまな背景の上でずっと使い回そうと考えています。\n---"
+    },
+    "ko": {
+      "content": "장면을 그래픽(스토리보드)으로 만들어 prompt에서 규칙/가이드라인으로 활용하면, agent가 Seedance 2.5에서 전환이 있는 영상을 더 잘 구성할 수 있습니다.  \n제품용 고정 애니메이션 캐릭터를 만들어 두고, 다양한 미리 생성된 배경(예: GPT Image 2로 만든 배경) 위에 반복해서 활용하세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 제품용 고정 애니메이션 캐릭터를 만들어서, GPT Image 2로 미리 생성한 다양한 배경 위에 계속 활용하는 방안을 계속 생각하고 있습니다.\n---"
+    },
+    "pt": {
+      "content": "Crie cenas como gráficos (storyboard) e use-as como regras/diretrizes nos prompts, para que o agente monte melhor o vídeo com transições no Seedance 2.5  \nCrie personagens animados fixos para os produtos e reutilize-os várias vezes em diferentes fundos previamente gerados (por exemplo, fundos do GPT Image 2)\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Estou pensando o tempo todo em criar personagens animados fixos para os produtos e usá-los continuamente em diferentes fundos pré-gerados com o GPT Image 2.\n---"
+    },
+    "zh": {
+      "content": "将场景制作成图形（storyboard），并在 prompts 中将其作为规则/指引使用，这样 agent 就能在 Seedance 2.5 中更好地拼接带过渡的视频  \n为产品打造固定的动画角色，并在不同的、预先生成的背景上反复使用它们（例如来自 GPT Image 2 的背景）\n\n--- 线程续接 ---\n[Thread 1] 我一直在想，给产品做一套固定的动画角色，然后在不同的、由 GPT Image 2 预生成的背景上持续使用它们。\n---"
+    }
+  }
+}

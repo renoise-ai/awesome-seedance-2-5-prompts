@@ -1,0 +1,43 @@
+{
+  "id": "2094914479431774623",
+  "title": "Seedance2.5では、2人分の自然な日本語会話になるように会話文を具体的に書き分けてプロンプトに入れる",
+  "content": "Seedance2.5では、2人分の自然な日本語会話になるように会話文を具体的に書き分けてプロンプトに入れる  \n主役を1人だけ画面内に固定したい場合は、登場人物を1人に限定し「主役1人をフレーム内に固定／常に画面中央」などの指示を入れる  \nセリフごとに表情と細かいリアクションを出したい場合は、各セリフに対応する表情・動作（例：微笑む→驚く→うなずく等）をプロンプトで指定する  \niPhone手持ち撮影っぽい揺れを出したい場合は、カメラ指示に「iPhone手持ち撮影／手ブレ／軽い揺れ」を明記する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094913832670126080/img/O4UQOZKzQQT8M6mk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094914479431774623.mp4",
+  "sourceLink": "https://x.com/foxyy4i/status/2094914479431774623",
+  "sourcePublishedAt": "2026-09-01",
+  "author": {
+    "name": "HIKARI✨",
+    "link": "https://x.com/foxyy4i"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "POV"
+  ],
+  "tips": "Seedance2.5では、2人分の自然な日本語会話になるように会話文を具体的に書き分けてプロンプトに入れる  \n主役を1人だけ画面内に固定したい場合は、登場人物を1人に限定し「主役1人をフレーム内に固定／常に画面中央」などの指示を入れる  \nセリフごとに表情と細かいリアクションを出したい場合は、各セリフに対応する表情・動作（例：微笑む→驚く→うなずく等）をプロンプトで指定する  \niPhone手持ち撮影っぽい揺れを出したい場合は、カメラ指示に「iPhone手持ち撮影／手ブレ／軽い揺れ」を明記する",
+  "translations": {
+    "en": {
+      "content": "In Seedance2.5, write the dialogue in a concrete way so that it becomes a natural Japanese conversation between two people, and include it in the prompt.  \nIf you want to keep only one main character fixed in the frame, limit the cast to one person and add instructions such as “keep the main character fixed within the frame / always centered on screen.”  \nIf you want to show expressions and subtle reactions for each line of dialogue, specify the corresponding facial expressions and actions in the prompt for each line (e.g., smile → look surprised → nod, etc.).  \nIf you want to create the shaky feel of iPhone handheld footage, clearly state “iPhone handheld shooting / camera shake / slight wobble” in the camera instructions."
+    },
+    "es": {
+      "content": "En Seedance2.5, escribe de forma concreta y diferenciada los diálogos para que el prompt genere una conversación natural en japonés entre dos personas.  \nSi quieres fijar a un solo protagonista dentro del encuadre, limita los personajes a uno e incluye instrucciones como “fijar a un solo protagonista dentro del frame / siempre en el centro de la pantalla”.  \nSi quieres mostrar expresiones y reacciones detalladas para cada línea de diálogo, especifica en el prompt la expresión y la acción correspondientes a cada frase (por ejemplo: sonreír → sorprenderse → asentir, etc.).  \nSi quieres un movimiento tembloroso tipo grabación a mano con iPhone, deja claro en las instrucciones de cámara: “iPhone handheld shooting / camera shake / slight wobble”."
+    },
+    "fr": {
+      "content": "Dans Seedance2.5, rédigez des répliques de manière précise dans le prompt afin d’obtenir une conversation naturelle en japonais entre deux personnes.  \nSi vous souhaitez garder un seul protagoniste fixe à l’écran, limitez les personnages à une seule personne et ajoutez des instructions comme « fixer un seul protagoniste dans le cadre / toujours au centre de l’écran ».  \nSi vous voulez faire apparaître les expressions et les réactions détaillées pour chaque réplique, spécifiez dans le prompt les expressions et actions correspondant à chaque ligne de dialogue (par exemple : sourire → être surpris → hocher la tête, etc.).  \nSi vous voulez reproduire un léger tremblement de type prise de vue iPhone à la main, indiquez clairement dans les instructions caméra : « iPhone handheld filming / camera shake / léger tremblement »."
+    },
+    "ko": {
+      "content": "Seedance2.5에서는 2인분의 자연스러운 일본어 대화가 되도록 대화문을 구체적으로 나눠서 prompt에 넣는다  \n주인공 1명만 화면 안에 고정하고 싶다면 등장인물을 1명으로 제한하고 「주인공 1명을 프레임 안에 고정／항상 화면 중앙」 등의 지시를 넣는다  \n대사마다 표정과 세밀한 리액션을 넣고 싶다면 각 대사에 대응하는 표정·동작(예: 미소 짓기→놀라기→끄덕이기 등)을 prompt에서 지정한다  \niPhone 손촬영 같은 흔들림을 내고 싶다면 카메라 지시에 「iPhone 손촬영／손떨림／가벼운 흔들림」을 명시한다"
+    },
+    "pt": {
+      "content": "No Seedance2.5, escreva de forma específica as falas no prompt para que a conversa soe natural em japonês entre duas pessoas.  \nSe quiser manter apenas um protagonista fixo dentro da tela, limite os personagens a uma única pessoa e inclua instruções como “fixar um único protagonista no quadro / sempre no centro da tela”.  \nSe quiser expressões faciais e reações detalhadas para cada fala, especifique no prompt as expressões e ações correspondentes a cada linha de diálogo (por exemplo: sorrir → se surpreender → acenar com a cabeça).  \nSe quiser um movimento de câmera com aparência de filmagem manual de iPhone, deixe explícito nas instruções de câmera: “iPhone handheld / camera shake / leve tremor”."
+    },
+    "zh": {
+      "content": "在 Seedance2.5 中，要让两个人的对话呈现自然的日语会话效果，需要把对话内容具体地分开写进 prompt 里。  \n如果想让主角始终只固定在画面内一个人，就将登场人物限定为 1 人，并加入“主角1人固定在画面内／始终位于画面中央”等指示。  \n如果想让每句台词都呈现表情和细微反应，就在 prompt 中为每句台词指定对应的表情和动作（例如：微笑→惊讶→点头等）。  \n如果想营造出像 iPhone 手持拍摄那样的晃动感，就在 camera 指示中明确写入“iPhone 手持拍摄／手抖／轻微晃动”。"
+    }
+  }
+}

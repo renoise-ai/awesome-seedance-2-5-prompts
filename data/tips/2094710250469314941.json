@@ -1,0 +1,41 @@
+{
+  "id": "2094710250469314941",
+  "title": "用 Seedance 2.5 生成神话史诗巨人镜头时，将时长设置为 10 秒、比例设置为 9:16",
+  "content": "用 Seedance 2.5 生成神话史诗巨人镜头时，将时长设置为 10 秒、比例设置为 9:16  \n在提示词中明确要求：全程一镜到底，禁止切镜  \n使用人物参考（按链接中的人物参考规则）来锁定角色一致性  \n将语言设为无对白，并指定无字幕、无旁白、无文字以避免生成任何文字内容",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094710101651148800/img/BEZgeVPIdYeeJMd5.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094710250469314941.mp4",
+  "sourceLink": "https://x.com/johnAGI168/status/2094710250469314941",
+  "sourcePublishedAt": "2026-09-01",
+  "author": {
+    "name": "John",
+    "link": "https://x.com/johnAGI168"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Fantasy"
+  ],
+  "tips": "用 Seedance 2.5 生成神话史诗巨人镜头时，将时长设置为 10 秒、比例设置为 9:16  \n在提示词中明确要求：全程一镜到底，禁止切镜  \n使用人物参考（按链接中的人物参考规则）来锁定角色一致性  \n将语言设为无对白，并指定无字幕、无旁白、无文字以避免生成任何文字内容",
+  "translations": {
+    "en": {
+      "content": "When generating mythic epic giant shots with Seedance 2.5, set the duration to 10 seconds and the aspect ratio to 9:16.  \nIn the prompt, explicitly require: one continuous shot throughout, no cuts.  \nUse character reference (following the character reference rules in the link) to lock in character consistency.  \nSet the language to no dialogue, and specify no subtitles, no voiceover, and no text to avoid generating any textual content."
+    },
+    "es": {
+      "content": "Al generar con Seedance 2.5 una toma épica de un gigante de estilo mitológico, configura la duración en 10 segundos y la relación de aspecto en 9:16.  \nEn el prompt, indica claramente: una sola toma continua de principio a fin, sin cortes de cámara.  \nUsa una referencia de personaje (según las reglas de referencia de personaje del enlace) para fijar la consistencia del personaje.  \nConfigura el idioma como sin diálogo y especifica sin subtítulos, sin narración y sin texto para evitar que se genere cualquier contenido escrito."
+    },
+    "fr": {
+      "content": "Lors de la génération d’un plan de géant mythologique épique avec Seedance 2.5, réglez la durée sur 10 secondes et le format sur 9:16.  \nDans le prompt, demandez explicitement : un seul plan-séquence du début à la fin, sans aucun cut.  \nUtilisez une référence de personnage (selon les règles de référence de personnage du lien) pour verrouiller la cohérence du personnage.  \nRéglez la langue sur sans dialogue, et spécifiez sans sous-titres, sans voix off, sans texte afin d’éviter la génération de tout contenu textuel."
+    },
+    "ja": {
+      "content": "When generating mythic epic giant shots with Seedance 2.5, set the duration to 10 seconds and the aspect ratio to 9:16.  \nIn the prompt, explicitly request: one continuous shot throughout, no cuts.  \nUse character reference (following the character reference rules in the linked guide) to lock in character consistency.  \nSet the language to no dialogue, and specify no subtitles, no narration, and no text to avoid generating any text content."
+    },
+    "ko": {
+      "content": "Seedance 2.5로 신화적 서사 거인 샷을 생성할 때는, 길이를 10초로, 비율을 9:16으로 설정하세요.  \n프롬프트에서는 전 구간 원테이크로 진행하고, 컷 전환을 금지한다고 명확히 요구하세요.  \n인물 참조(링크에 있는 인물 참조 규칙에 따라)를 사용해 캐릭터 일관성을 고정하세요.  \n언어는 무대사로 설정하고, 자막 없음, 나레이션 없음, 텍스트 없음으로 지정해 어떤 문자 내용도 생성되지 않도록 하세요."
+    },
+    "pt": {
+      "content": "Ao gerar cenas épicas de gigantes mitológicos com o Seedance 2.5, defina a duração para 10 segundos e a proporção para 9:16  \nNo prompt, solicite explicitamente: take único do início ao fim, sem cortes de câmera  \nUse a referência de personagem (seguindo as regras de referência de personagem no link) para garantir a consistência do personagem  \nDefina o idioma como sem diálogos e especifique sem legendas, sem narração e sem texto para evitar a geração de qualquer conteúdo textual"
+    }
+  }
+}

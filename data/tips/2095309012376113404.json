@@ -1,0 +1,42 @@
+{
+  "id": "2095309012376113404",
+  "title": "Use a low-angle shot (camera low, looking up) to give your character power and…",
+  "content": "Use a low-angle shot (camera low, looking up) to give your character power and presence in Seedance.  \nJustify the low camera position in the prompt by placing the subject lower than the camera (e.g., knocked down, seated, bottom of a staircase).  \nBuild a clear height difference into the frame/composition prompt so the low-angle effect reads strongly.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2095305906452107265/img/4jbwlH3IrGc_17kR.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2095309012376113404.mp4",
+  "sourceLink": "https://x.com/AI__TSUBAKI/status/2095309012376113404",
+  "sourcePublishedAt": "2026-09-03",
+  "author": {
+    "name": "TSUBAKI",
+    "link": "https://x.com/AI__TSUBAKI"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a low-angle shot (camera low, looking up) to give your character power and presence in Seedance.  \nJustify the low camera position in the prompt by placing the subject lower than the camera (e.g., knocked down, seated, bottom of a staircase).  \nBuild a clear height difference into the frame/composition prompt so the low-angle effect reads strongly.",
+  "translations": {
+    "es": {
+      "content": "Usa un plano contrapicado (cámara baja, mirando hacia arriba) para darle a tu personaje poder y presencia en Seedance.  \nJustifica la posición baja de la cámara en el prompt colocando al sujeto por debajo de la cámara (por ejemplo, derribado, sentado, al pie de una escalera).  \nIncorpora una diferencia de altura clara en el prompt de encuadre/composición para que el efecto contrapicado se perciba con fuerza."
+    },
+    "fr": {
+      "content": "Utilisez un plan en contre-plongée (caméra basse, regard vers le haut) pour donner à votre personnage de la puissance et une forte présence dans Seedance.  \nJustifiez la position basse de la caméra dans le prompt en plaçant le sujet plus bas que la caméra (par exemple : à terre, assis, en bas d’un escalier).  \nIntégrez une différence de hauteur claire dans le prompt de cadrage/composition afin que l’effet de contre-plongée soit bien marqué."
+    },
+    "ja": {
+      "content": "Seedance でキャラクターに力強さと存在感を与えるには、ローアングルショット（カメラを低く構え、見上げる構図）を使いましょう。  \nprompt では、被写体をカメラより低い位置に置くことで、低いカメラ位置に必然性を持たせます（例：倒れている、座っている、階段の下段にいる）。  \nframe/composition の prompt に明確な高低差を組み込み、ローアングル効果がはっきり伝わるようにします。"
+    },
+    "ko": {
+      "content": "Seedance에서 캐릭터에 힘과 존재감을 부여하려면 로우 앵글 샷(camera low, looking up)을 사용하세요.  \n피사체를 카메라보다 낮은 위치에 두는 방식으로 prompt에서 낮은 카메라 위치를 자연스럽게 정당화하세요(예: 쓰러져 있는 상태, 앉아 있는 상태, 계단 아래쪽).  \n프레임/구도 prompt에 분명한 높이 차이를 넣어 로우 앵글 효과가 강하게 드러나도록 하세요."
+    },
+    "pt": {
+      "content": "Use um enquadramento em low-angle shot (câmera baixa, olhando para cima) para dar poder e presença ao seu personagem no Seedance.  \nJustifique a posição baixa da câmera no prompt colocando o sujeito abaixo da câmera (por exemplo, caído, sentado, no pé de uma escada).  \nCrie uma diferença clara de altura no prompt de frame/composition para que o efeito de low-angle fique bem evidente."
+    },
+    "zh": {
+      "content": "在 Seedance 中，使用低角度镜头（camera 低位仰拍）可以赋予角色力量感和存在感。  \n在 prompt 中通过将主体置于镜头下方来合理化低机位（例如：被击倒、坐着、站在楼梯底部）。  \n在 frame/composition prompt 中明确加入高度差，这样低角度效果会更强烈、更清晰。"
+    }
+  }
+}

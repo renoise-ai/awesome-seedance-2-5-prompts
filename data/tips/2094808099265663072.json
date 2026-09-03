@@ -1,0 +1,42 @@
+{
+  "id": "2094808099265663072",
+  "title": "Use Seedance 2.5’s strong text rendering to generate end credits directly via a…",
+  "content": "Use Seedance 2.5’s strong text rendering to generate end credits directly via a text prompt instead of assembling credits manually in CapCut.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094808038263717888/img/MlVAUIwFkKuCW0qC.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094808099265663072.mp4",
+  "sourceLink": "https://x.com/madgreek65/status/2094808099265663072",
+  "sourcePublishedAt": "2026-09-01",
+  "author": {
+    "name": "Max",
+    "link": "https://x.com/madgreek65"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5’s strong text rendering to generate end credits directly via a text prompt instead of assembling credits manually in CapCut.",
+  "translations": {
+    "es": {
+      "content": "Usa la potente renderización de texto de Seedance 2.5 para generar los créditos finales directamente mediante un prompt de texto, en lugar de ensamblar los créditos manualmente en CapCut."
+    },
+    "fr": {
+      "content": "Utilisez le puissant rendu de texte de Seedance 2.5 pour générer directement le générique de fin via un prompt textuel, au lieu d’assembler manuellement les crédits dans CapCut."
+    },
+    "ja": {
+      "content": "CapCutでクレジットを手作業で組み立てる代わりに、Seedance 2.5の強力なテキストレンダリングを使って、text promptだけでエンドクレジットを直接生成できます。"
+    },
+    "ko": {
+      "content": "CapCut에서 엔딩 크레딧을 수동으로 조합하는 대신, Seedance 2.5의 강력한 텍스트 렌더링을 활용해 텍스트 prompt만으로 엔딩 크레딧을 직접 생성하세요."
+    },
+    "pt": {
+      "content": "Use a forte renderização de texto do Seedance 2.5 para gerar os créditos finais diretamente por meio de um prompt de texto, em vez de montar os créditos manualmente no CapCut."
+    },
+    "zh": {
+      "content": "利用 Seedance 2.5 强大的文本渲染能力，直接通过文本 prompt 生成片尾字幕，而无需在 CapCut 中手动拼接制作。"
+    }
+  }
+}

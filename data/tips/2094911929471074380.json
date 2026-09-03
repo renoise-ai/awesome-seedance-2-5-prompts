@@ -1,0 +1,42 @@
+{
+  "id": "2094911929471074380",
+  "title": "Generate stylised 3D character images with GPT Image 2, then create a stylised…",
+  "content": "Generate stylised 3D character images with GPT Image 2, then create a stylised video with lip sync using Seedance 2.5.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094910794119127041/img/SlI7ZT2T-5Y4c8Oq.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094911929471074380.mp4",
+  "sourceLink": "https://x.com/buildingnamanm/status/2094911929471074380",
+  "sourcePublishedAt": "2026-09-01",
+  "author": {
+    "name": "Naman Madhur",
+    "link": "https://x.com/buildingnamanm"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Generate stylised 3D character images with GPT Image 2, then create a stylised video with lip sync using Seedance 2.5.",
+  "translations": {
+    "es": {
+      "content": "Genera imágenes de personajes 3D estilizados con GPT Image 2, y luego crea un video estilizado con sincronización labial usando Seedance 2.5."
+    },
+    "fr": {
+      "content": "Générez des images de personnages 3D stylisés avec GPT Image 2, puis créez une vidéo stylisée avec synchronisation labiale à l’aide de Seedance 2.5."
+    },
+    "ja": {
+      "content": "GPT Image 2でスタイライズされた3Dキャラクター画像を生成し、その後、Seedance 2.5を使ってリップシンク付きのスタイライズされた動画を作成します。"
+    },
+    "ko": {
+      "content": "GPT Image 2로 스타일화된 3D 캐릭터 이미지를 생성한 다음, Seedance 2.5를 사용해 립싱크가 적용된 스타일화된 비디오를 만드세요."
+    },
+    "pt": {
+      "content": "Gere imagens de personagens 3D estilizadas com o GPT Image 2 e, em seguida, crie um vídeo estilizado com lip sync usando o Seedance 2.5."
+    },
+    "zh": {
+      "content": "使用 GPT Image 2 生成风格化的 3D 角色图像，然后使用 Seedance 2.5 创建带有口型同步的风格化视频。"
+    }
+  }
+}

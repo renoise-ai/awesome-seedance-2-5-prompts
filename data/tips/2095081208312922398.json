@@ -1,0 +1,42 @@
+{
+  "id": "2095081208312922398",
+  "title": "Use broad genre-style prompt directions (e.g., dejavu planecrash, thriller) in…",
+  "content": "Use broad genre-style prompt directions (e.g., dejavu planecrash, thriller) in Seedance2.5 to get surprisingly good results even without detailed prompting.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2095075415295508486/img/dtwaes5f8GNQ-5Zl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2095081208312922398.mp4",
+  "sourceLink": "https://x.com/MukiTanaka/status/2095081208312922398",
+  "sourcePublishedAt": "2026-09-02",
+  "author": {
+    "name": "M.E.G. Pictures",
+    "link": "https://x.com/MukiTanaka"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use broad genre-style prompt directions (e.g., dejavu planecrash, thriller) in Seedance2.5 to get surprisingly good results even without detailed prompting.",
+  "translations": {
+    "es": {
+      "content": "Usa indicaciones de prompt amplias basadas en géneros (por ejemplo, dejavu planecrash, thriller) en Seedance2.5 para obtener resultados sorprendentemente buenos incluso sin un prompting detallado."
+    },
+    "fr": {
+      "content": "Utilisez des indications de prompt larges, orientées genre (par ex. dejavu planecrash, thriller) dans Seedance2.5 pour obtenir des résultats étonnamment bons, même sans prompt détaillé."
+    },
+    "ja": {
+      "content": "Seedance2.5では、詳細なプロンプトを使わなくても、dejavu planecrash、thriller のような幅広いジャンル指向の prompt を使うだけで、驚くほど良い結果が得られます。"
+    },
+    "ko": {
+      "content": "Seedance2.5에서는 상세한 프롬프트 없이도, broad genre-style prompt directions(예: dejavu planecrash, thriller)를 사용하면 놀라울 정도로 좋은 결과를 얻을 수 있습니다."
+    },
+    "pt": {
+      "content": "Use direções de prompt amplas e baseadas em gênero (por exemplo, dejavu planecrash, thriller) no Seedance2.5 para obter resultados surpreendentemente bons, mesmo sem prompts detalhados."
+    },
+    "zh": {
+      "content": "在 Seedance2.5 中使用宽泛的类型风格提示方向（例如 dejavu planecrash、thriller），即使不进行详细提示，也能获得出人意料的好结果。"
+    }
+  }
+}

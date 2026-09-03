@@ -1,0 +1,42 @@
+{
+  "id": "2094715426496499789",
+  "title": "Codex等でモーションコンテ（絵コンテ）を生成し、手元でイメージ通りになるまで修正してからSousaku…",
+  "content": "Codex等でモーションコンテ（絵コンテ）を生成し、手元でイメージ通りになるまで修正してからSousaku AIに接続し、Seedance2.5でそのコンテを元に動画化する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094711018207547392/img/oXxziTQyBPccJVQm.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094715426496499789.mp4",
+  "sourceLink": "https://x.com/Kashiko_AIart/status/2094715426496499789",
+  "sourcePublishedAt": "2026-09-01",
+  "author": {
+    "name": "かし子🍩",
+    "link": "https://x.com/Kashiko_AIart"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Codex等でモーションコンテ（絵コンテ）を生成し、手元でイメージ通りになるまで修正してからSousaku AIに接続し、Seedance2.5でそのコンテを元に動画化する",
+  "translations": {
+    "en": {
+      "content": "Generate a motion storyboard (storyboard) with Codex or similar tools, refine it locally until it matches the intended image, then connect it to Sousaku AI and use Seedance 2.5 to turn that storyboard into a video."
+    },
+    "es": {
+      "content": "Genera un storyboard de movimiento (絵コンテ) con Codex, etc., corrígelo localmente hasta que quede exactamente como lo imaginas, y luego conéctalo a Sousaku AI para convertir ese storyboard en video con Seedance2.5."
+    },
+    "fr": {
+      "content": "Générer un storyboard de mouvement (絵コンテ) avec Codex, le corriger localement jusqu’à obtenir exactement l’image souhaitée, puis le connecter à Sousaku AI et, avec Seedance2.5, transformer ce storyboard en vidéo sur cette base."
+    },
+    "ko": {
+      "content": "Codex 등으로 모션 콘티(스토리보드)를 생성한 뒤, 직접 원하는 이미지가 나올 때까지 수정하고, 그다음 Sousaku AI에 연결해 Seedance2.5로 그 콘티를 바탕으로 영상을 제작한다"
+    },
+    "pt": {
+      "content": "Gerar um storyboard de movimento (絵コンテ) com o Codex etc., ajustar manualmente até ficar exatamente como imaginado e, em seguida, conectar ao Sousaku AI para transformar esse storyboard em vídeo com o Seedance2.5."
+    },
+    "zh": {
+      "content": "使用 Codex 等生成 motion board（分镜脚本），在本地反复修改到符合预期的画面效果后，再连接到 Sousaku AI，并基于该分镜在 Seedance2.5 中生成视频。"
+    }
+  }
+}

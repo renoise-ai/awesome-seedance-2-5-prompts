@@ -1,0 +1,42 @@
+{
+  "id": "2095308293316985291",
+  "title": "Use Seedance 2.5 to create ad variants by swapping in a new person: provide the…",
+  "content": "Use Seedance 2.5 to create ad variants by swapping in a new person: provide the original winning ad plus one photo of the new person as inputs.  \nExtract the shot table from the source ad (cut timestamps, camera moves, lighting) and scope your Seedance prompt changes to specific shots and timestamps to keep every cut landing on the same frame.  \nPreserve captions/on-screen graphics/product packaging by locking non-target elements and only changing the person/face in the prompt.  \nAfter rendering in Seedance 2.5, lay the original ad’s audio back over the generated video to avoid regenerated voice and keep timing consistent.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2095292250599436288/img/7ChWovfx3QnhFRD9.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2095308293316985291.mp4",
+  "sourceLink": "https://x.com/mikefutia/status/2095308293316985291",
+  "sourcePublishedAt": "2026-09-03",
+  "author": {
+    "name": "Mike Futia",
+    "link": "https://x.com/mikefutia"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 to create ad variants by swapping in a new person: provide the original winning ad plus one photo of the new person as inputs.  \nExtract the shot table from the source ad (cut timestamps, camera moves, lighting) and scope your Seedance prompt changes to specific shots and timestamps to keep every cut landing on the same frame.  \nPreserve captions/on-screen graphics/product packaging by locking non-target elements and only changing the person/face in the prompt.  \nAfter rendering in Seedance 2.5, lay the original ad’s audio back over the generated video to avoid regenerated voice and keep timing consistent.",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 para crear variantes de anuncios sustituyendo a una nueva persona: proporciona como entradas el anuncio original ganador y una foto de la nueva persona.  \nExtrae la tabla de planos del anuncio fuente (marcas de tiempo de corte, movimientos de cámara, iluminación) y limita los cambios de tu prompt de Seedance a planos y marcas de tiempo específicos para que cada corte caiga en el mismo fotograma.  \nPreserva los subtítulos, los gráficos en pantalla y el packaging del producto bloqueando los elementos que no son objetivo y cambiando solo la persona/el rostro en el prompt.  \nDespués de renderizar en Seedance 2.5, vuelve a colocar el audio del anuncio original sobre el video generado para evitar una voz regenerada y mantener la sincronización consistente."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 pour créer des variantes publicitaires en remplaçant une personne par une nouvelle : fournissez en entrée la publicité originale gagnante ainsi qu’une photo de la nouvelle personne.  \nExtrayez le tableau des plans de la publicité source (timestamps des cuts, mouvements de caméra, éclairage) et limitez les modifications de votre prompt Seedance à des plans et timestamps précis afin que chaque cut tombe sur la même frame.  \nPréservez les captions/éléments graphiques à l’écran/l’emballage du produit en verrouillant les éléments non ciblés et en ne modifiant que la personne/le visage dans le prompt.  \nAprès le rendu dans Seedance 2.5, remettez l’audio de la publicité originale sur la vidéo générée afin d’éviter une voix régénérée et de conserver une synchronisation cohérente."
+    },
+    "ja": {
+      "content": "Seedance 2.5 を使って、新しい人物に差し替えることで広告バリエーションを作成します。入力として、元の勝ち広告と新しい人物の写真を1枚用意してください。  \n元の広告からショット表を抽出し（カットのタイムスタンプ、カメラの動き、ライティング）、Seedance の prompt の変更範囲を特定のショットとタイムスタンプに限定して、すべてのカットが同じフレームに着地するようにします。  \nキャプション／画面上のグラフィック／製品パッケージは、対象外の要素を固定し、prompt では人物／顔だけを変更することで保持します。  \nSeedance 2.5 でレンダリングした後、元の広告の音声を生成動画に再度重ねることで、再生成された音声を避け、タイミングの一貫性を保ちます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5를 사용해 새로운 인물로 교체하여 광고 변형본을 만드세요: 원본의 성공한 광고와 새 인물의 사진 1장을 입력으로 제공합니다.  \n소스 광고에서 샷 테이블(컷 타임스탬프, 카메라 무브, 조명)을 추출하고, Seedance 프롬프트 변경 범위를 특정 샷과 타임스탬프로 제한해 모든 컷이 같은 프레임에 정확히 맞도록 유지하세요.  \n자막/온스크린 그래픽/제품 패키징은 비대상 요소를 고정하고, 프롬프트에서는 사람/얼굴만 변경하여 보존하세요.  \nSeedance 2.5에서 렌더링한 뒤에는 원본 광고의 오디오를 생성된 영상 위에 다시 얹어, 재생성된 음성을 피하고 타이밍 일관성을 유지하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 para criar variações de anúncios substituindo por uma nova pessoa: forneça o anúncio vencedor original e uma foto da nova pessoa como entradas.  \nExtraia a tabela de cenas do anúncio de origem (timestamps de corte, movimentos de câmera, iluminação) e restrinja as alterações do prompt do Seedance a cenas e timestamps específicos para manter cada corte caindo no mesmo frame.  \nPreserve legendas/elementos na tela/embalagem do produto travando os elementos não-alvo e alterando apenas a pessoa/rosto no prompt.  \nApós renderizar no Seedance 2.5, reaplique o áudio do anúncio original sobre o vídeo gerado para evitar voz regenerada e manter a consistência do timing."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 通过替换新人物来创建广告变体：将原始获胜广告和新人物的一张照片作为输入。  \n从源广告中提取 shot table（剪辑时间戳、镜头运动、灯光），并将你的 Seedance prompt 修改范围限定在特定镜头和时间戳上，以确保每个 cut 都落在同一帧。  \n保留字幕/屏幕图形/产品包装，通过锁定非目标元素，只在 prompt 中更改人物/面部。  \n在 Seedance 2.5 中渲染后，将原广告的音频重新叠加到生成视频上，以避免重新生成的语音，并保持时间一致。"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2095041546630381579",
+  "title": "Have Claude (or another LLM) first describe the target creator’s visual…",
+  "content": "Have Claude (or another LLM) first describe the target creator’s visual signature, then incorporate those concrete traits into your Seedance prompt instead of only naming the creator/choreographer.\n\nWrite a detailed shot-by-shot breakdown in your Seedance prompt (camera placement, shot duration, fall timing, when to hold vs cut) to get directed results rather than an average “style” imitation.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2095040664970854402/img/oIeC_BdH3XtzuTqO.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2095041546630381579.mp4",
+  "sourceLink": "https://x.com/gillesguerraz/status/2095041546630381579",
+  "sourcePublishedAt": "2026-09-02",
+  "author": {
+    "name": "Gilles Guerraz",
+    "link": "https://x.com/gillesguerraz"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Have Claude (or another LLM) first describe the target creator’s visual signature, then incorporate those concrete traits into your Seedance prompt instead of only naming the creator/choreographer.\n\nWrite a detailed shot-by-shot breakdown in your Seedance prompt (camera placement, shot duration, fall timing, when to hold vs cut) to get directed results rather than an average “style” imitation.",
+  "translations": {
+    "es": {
+      "content": "Haz que Claude (u otro LLM) describa primero la firma visual del creador objetivo y luego incorpore esos rasgos concretos en tu prompt de Seedance, en lugar de limitarte a nombrar al creador/coreógrafo.\n\nEscribe un desglose detallado plano por plano en tu prompt de Seedance (ubicación de cámara, duración del plano, timing de la caída, cuándo mantener vs. cortar) para obtener resultados dirigidos en lugar de una imitación “de estilo” promedio."
+    },
+    "fr": {
+      "content": "Demandez à Claude (ou à un autre LLM) de décrire d’abord la signature visuelle du créateur cible, puis intégrez ces traits concrets dans votre prompt Seedance au lieu de vous contenter de nommer le créateur ou le chorégraphe.\n\nRédigez un découpage détaillé plan par plan dans votre prompt Seedance (placement de la caméra, durée du plan, timing de la chute, moments où maintenir l’image vs couper) afin d’obtenir un résultat vraiment dirigé, plutôt qu’une imitation moyenne du « style »."
+    },
+    "ja": {
+      "content": "まず Claude（または別の LLM）に、対象となるクリエイターのビジュアル上の特徴を説明させ、そのうえで、クリエイター名や振付師名を挙げるだけでなく、そうした具体的な特徴を Seedance のプロンプトに組み込みます。\n\n平均的な「スタイル」の模倣ではなく、演出意図のある結果を得るために、Seedance のプロンプトにはショットごとの詳細な内訳（カメラ位置、ショットの長さ、落下のタイミング、ホールドするかカットするかのタイミング）を記述してください。"
+    },
+    "ko": {
+      "content": "Claude(또는 다른 LLM)에게 먼저 대상 크리에이터의 비주얼 시그니처를 설명하게 한 다음, 크리에이터/안무가의 이름만 언급하는 대신 그 구체적인 특징들을 Seedance 프롬프트에 반영하세요.\n\n평균적인 “스타일” 모방이 아니라 연출된 결과를 얻으려면, Seedance 프롬프트에 샷별로 상세한 브레이크다운(카메라 위치, 샷 길이, 낙하 타이밍, 언제 홀드하고 언제 컷할지)을 작성하세요."
+    },
+    "pt": {
+      "content": "Peça ao Claude (ou a outro LLM) que primeiro descreva a assinatura visual do criador-alvo e, em seguida, incorpore esses traços concretos no seu prompt do Seedance, em vez de apenas citar o nome do criador/coreógrafo.\n\nEscreva um detalhamento cena a cena no seu prompt do Seedance (posicionamento da câmera, duração do plano, timing da queda, quando manter vs. cortar) para obter resultados dirigidos, em vez de uma imitação “de estilo” mediana."
+    },
+    "zh": {
+      "content": "先让 Claude（或其他 LLM）描述目标创作者的视觉签名，然后把这些具体特征融入你的 Seedance prompt，而不是只写创作者/编舞者的名字。\n\n在你的 Seedance prompt 中写出详细的分镜式 shot-by-shot breakdown（机位、镜头时长、坠落时机、何时停留、何时切换），这样才能得到更有导演感的结果，而不是普通的“风格”模仿。"
+    }
+  }
+}

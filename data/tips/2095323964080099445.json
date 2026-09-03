@@ -1,0 +1,42 @@
+{
+  "id": "2095323964080099445",
+  "title": "Claude CodeにSeedance 2.5、gemini-3.5-transcribe、gemini-3.1-flash-tts、X API…",
+  "content": "Claude CodeにSeedance 2.5、gemini-3.5-transcribe、gemini-3.1-flash-tts、X API v2をAPI連携し、Xリンクを入力するだけで動画生成までを自動化するワークフローを組む",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2095317492122222593/img/BgaFQcV-Phyc3QZl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2095323964080099445.mp4",
+  "sourceLink": "https://x.com/masahirochaen/status/2095323964080099445",
+  "sourcePublishedAt": "2026-09-03",
+  "author": {
+    "name": "チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》",
+    "link": "https://x.com/masahirochaen"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Claude CodeにSeedance 2.5、gemini-3.5-transcribe、gemini-3.1-flash-tts、X API v2をAPI連携し、Xリンクを入力するだけで動画生成までを自動化するワークフローを組む",
+  "translations": {
+    "en": {
+      "content": "Build a workflow that integrates Seedance 2.5, gemini-3.5-transcribe, gemini-3.1-flash-tts, and the X API v2 with Claude Code, so that video generation is automated simply by entering an X link.\n\n--- QUOTED TWEET ---\n[Breaking] Google has released Gemini 3.8 Flash. Low-cost models are starting to match the top tier.\n\nClaude Opus 5 costs $5.00 per input, GPT-5.6 Sol costs $4.00. 3.8 Flash is $0.75, about one-seventh the price, while matching the major benchmarks.\n\n・Coding: DeepSWE 73.7% (Opus 5: 74.0%)\n・Terminal operations: 89.4%, surpassing Opus 5’s 89.1%\n・Expert-level reasoning: HLE 54.9%, on par with Opus 5 and GPT-5.6\n・Financial and legal agent tasks: No. 1 among all models\n\nStrengths and weaknesses are in the thread below 👇 (figures measured by the company)\n---"
+    },
+    "es": {
+      "content": "Crear un flujo de trabajo que integre Claude Code con Seedance 2.5, gemini-3.5-transcribe, gemini-3.1-flash-tts y X API v2, de modo que al introducir solo un enlace de X se automatice todo el proceso hasta la generación de video\n\n--- TUIT CITADO ---\n【速報】Google ha lanzado Gemini 3.8 Flash. Los modelos baratos ya están empezando a igualar a los líderes.\n\nClaude Opus 5 cuesta $5.00 por entrada, GPT-5.6 Sol cuesta $4.00. 3.8 Flash cuesta $0.75, y con aproximadamente una séptima parte del precio iguala a los principales benchmarks.\n\n・Coding DeepSWE 73.7% (Opus 5 tiene 74.0%)\n・Operación de terminal 89.4%, superando el 89.1% de Opus 5\n・Razonamiento de nivel experto HLE 54.9%, al mismo nivel que Opus 5 y GPT-5.6\n・En tareas de agente para finanzas y asuntos legales, ocupa el primer lugar entre todos los modelos\n\nSus puntos fuertes y débiles están en el hilo 👇 (las cifras son mediciones de la empresa)\n---"
+    },
+    "fr": {
+      "content": "Mettre en place un workflow qui relie Claude Code à Seedance 2.5, gemini-3.5-transcribe, gemini-3.1-flash-tts et à l’API X v2, afin d’automatiser la génération de vidéos à partir de la simple saisie d’un lien X\n\n--- TWEET CITÉ ---\n【速報】Google a publié Gemini 3.8 Flash. Les modèles bon marché commencent à rivaliser avec les meilleurs.\n\nClaude Opus 5 coûte $5.00 en entrée, GPT-5.6 Sol coûte $4.00. 3.8 Flash est à $0.75, soit environ 1/7 du prix, tout en égalant les principaux benchmarks.\n\n・Codage DeepSWE 73.7 % (Opus 5 : 74.0 %)\n・Opérations terminal 89.4 %, au-dessus des 89.1 % d’Opus 5\n・Raisonnement de niveau expert HLE 54.9 %, au même niveau qu’Opus 5 et GPT-5.6\n・Première place parmi tous les modèles pour les tâches d’agent en finance et en droit\n\nLes points forts et les points faibles sont dans le thread 👇 (les chiffres sont ceux mesurés par l’entreprise)\n---"
+    },
+    "ko": {
+      "content": "Claude Code에 Seedance 2.5, gemini-3.5-transcribe, gemini-3.1-flash-tts, X API v2를 API 연동해, X 링크를 입력하기만 하면 영상 생성까지 자동화하는 워크플로를 구축한다\n\n--- QUOTED TWEET ---\n【속보】Google이 Gemini 3.8 Flash를 공개했다. 저렴한 모델이 최상위권과 어깨를 나란히 하기 시작했다.\n\nClaude Opus 5는 입력 $5.00, GPT-5.6 Sol은 $4.00. 3.8 Flash는 $0.75로, 약 7분의 1 가격에 주요 벤치마크 성능이 대등하다.\n\n・코딩 DeepSWE 73.7% (Opus 5는 74.0%)\n・터미널 조작 89.4%로 Opus 5의 89.1%를 넘어섬\n・전문가급 추론 HLE 54.9%로 Opus 5·GPT-5.6과 같은 수준\n・금융과 법무 에이전트 업무는 전체 모델 중 1위\n\n강점과 약점은 스레드에서👇 (수치는 해당사 측정)\n---"
+    },
+    "pt": {
+      "content": "Conectar o Claude Code ao Seedance 2.5, gemini-3.5-transcribe, gemini-3.1-flash-tts e à API v2 do X por integração de API, criando um workflow que automatiza todo o processo até a geração de vídeo apenas com a entrada de um link do X\n\n--- TWEET CITADO ---\n【速報】Google lançou o Gemini 3.8 Flash. Os modelos mais baratos estão começando a alcançar os líderes.\n\nClaude Opus 5 custa US$5,00 por entrada, GPT-5.6 Sol custa US$4,00. O 3.8 Flash custa US$0,75 e, por cerca de 1/7 do preço, empata nos principais benchmarks.\n\n・Coding DeepSWE 73,7% (Opus 5: 74,0%)\n・Operação de terminal 89,4%, superando os 89,1% do Opus 5\n・Raciocínio em nível de especialista HLE 54,9%, no mesmo nível de Opus 5 e GPT-5.6\n・Em tarefas de agente em finanças e direito, ocupa o 1º lugar entre todos os modelos\n\nPontos fortes e fracos no thread abaixo 👇 (os números são medições da própria empresa)\n---"
+    },
+    "zh": {
+      "content": "将 Claude Code 与 Seedance 2.5、gemini-3.5-transcribe、gemini-3.1-flash-tts、X API v2 进行 API 联动，搭建一个只需输入 X 链接就能自动完成视频生成的工作流\n\n--- QUOTED TWEET ---\n【快讯】Google 发布了 Gemini 3.8 Flash。低价模型开始追平顶级模型了。\n\nClaude Opus 5 的输入价格为 $5.00，GPT-5.6 Sol 为 $4.00。3.8 Flash 仅 $0.75，价格约为前者的 1/7，但主要基准表现不相上下。\n\n・编码 DeepSWE 73.7%（Opus 5 为 74.0%）\n・终端操作 89.4%，超过 Opus 5 的 89.1%\n・专家级推理 HLE 54.9%，与 Opus 5、GPT-5.6 处于同一水平\n・金融和法务的 agent 任务在所有模型中排名第一\n\n优势和短板见线程👇（数值为该公司测量）\n---"
+    }
+  }
+}

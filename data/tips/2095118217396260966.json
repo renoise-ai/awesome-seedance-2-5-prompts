@@ -1,0 +1,42 @@
+{
+  "id": "2095118217396260966",
+  "title": "PixVerseV6では実写寄りで細かめのキャラシートを使うと顔が少し変わる（外国人化する）可能性があるので、顔の一致が重要な場合は注意する",
+  "content": "PixVerseV6では実写寄りで細かめのキャラシートを使うと顔が少し変わる（外国人化する）可能性があるので、顔の一致が重要な場合は注意する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2095118184215097344/img/5yIshYKsDUzhVQlf.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2095118217396260966.mp4",
+  "sourceLink": "https://x.com/YaReYaRu30Life/status/2095118217396260966",
+  "sourcePublishedAt": "2026-09-02",
+  "author": {
+    "name": "ヤレヤル（AI動画/AI画像/AI音楽）",
+    "link": "https://x.com/YaReYaRu30Life"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "PixVerseV6では実写寄りで細かめのキャラシートを使うと顔が少し変わる（外国人化する）可能性があるので、顔の一致が重要な場合は注意する",
+  "translations": {
+    "en": {
+      "content": "In PixVerse V6, if you use a more photorealistic, highly detailed character sheet, the face may change slightly (become more “foreign-looking”), so be careful when facial consistency is important."
+    },
+    "es": {
+      "content": "En PixVerseV6, si usas una character sheet más detallada y cercana a la imagen real, existe la posibilidad de que el rostro cambie un poco (se vuelva más “occidental”), así que ten cuidado si la coincidencia facial es importante."
+    },
+    "fr": {
+      "content": "Dans PixVerseV6, l’utilisation d’une character sheet plus détaillée et proche du live-action peut entraîner de légères modifications du visage du personnage (avec une tendance à le rendre plus « étranger »), donc il faut faire attention lorsque la fidélité du visage est importante."
+    },
+    "ko": {
+      "content": "PixVerseV6에서는 실사에 가까운 세밀한 캐릭터 시트를 사용하면 얼굴이 약간 달라질(외국인처럼 보일) 가능성이 있으므로, 얼굴 일치가 중요한 경우에는 주의해야 한다."
+    },
+    "pt": {
+      "content": "No PixVerseV6, ao usar um character sheet mais detalhado e próximo do live-action, há a possibilidade de o rosto mudar um pouco (ficar mais “estrangeiro”); portanto, tenha cuidado quando a semelhança facial for importante."
+    },
+    "zh": {
+      "content": "在 PixVerseV6 中，如果使用偏写实、细节较多的角色设定图，脸部可能会有些变化（变得更像外国人），因此如果脸部一致性很重要，需要注意。"
+    }
+  }
+}

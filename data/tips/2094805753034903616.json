@@ -1,0 +1,42 @@
+{
+  "id": "2094805753034903616",
+  "title": "Extract motion from a recording with SAM 3D Body, import it into Blender…",
+  "content": "Extract motion from a recording with SAM 3D Body, import it into Blender, control the camera there, then use the resulting motion/camera data with Seedance 2.5 for more control over body motion and camera movement.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094805711813234688/img/eD-NDw-lij90P_i3.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094805753034903616.mp4",
+  "sourceLink": "https://x.com/mintdotgg/status/2094805753034903616",
+  "sourcePublishedAt": "2026-09-01",
+  "author": {
+    "name": "mint",
+    "link": "https://x.com/mintdotgg"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Extract motion from a recording with SAM 3D Body, import it into Blender, control the camera there, then use the resulting motion/camera data with Seedance 2.5 for more control over body motion and camera movement.",
+  "translations": {
+    "es": {
+      "content": "Extrae el movimiento de una grabación con SAM 3D Body, impórtalo en Blender, controla allí la cámara y luego usa los datos resultantes de movimiento/cámara con Seedance 2.5 para tener más control sobre el movimiento del cuerpo y el movimiento de cámara.\n\n--- TUIT CITADO ---\nSAM 3D Body es de código abierto, así que puede ejecutarse localmente o en Comfy Cloud.\n\nExtraer movimiento de una grabación → llevarlo a Blender → controlar la cámara → usar el resultado con Seedance 2.5\n\nMás control sobre el movimiento del cuerpo y el movimiento de cámara.\n\nPara probar este workflow, enlaces abajo 👇 https://t.co/rMPn7GqVC0\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] https://t.co/XMBSktKLWY ¡para más información!\n---"
+    },
+    "fr": {
+      "content": "Extraire le mouvement d’un enregistrement avec SAM 3D Body, l’importer dans Blender, y contrôler la caméra, puis utiliser les données de mouvement/de caméra obtenues avec Seedance 2.5 pour avoir davantage de contrôle sur le mouvement du corps et les déplacements de caméra.\n\n--- TWEET CITÉ ---\nSAM 3D Body est open source, donc il peut être exécuté en local ou sur Comfy Cloud.\n\nExtraire le mouvement d’un enregistrement → l’importer dans Blender → contrôler la caméra → utiliser le résultat avec Seedance 2.5\n\nDavantage de contrôle sur le mouvement du corps et les déplacements de caméra.\n\nPour essayer ce workflow, liens ci-dessous 👇 https://t.co/rMPn7GqVC0\n\n--- SUITE DU FIL ---\n[Thread 1] https://t.co/XMBSktKLWY pour plus d’infos !\n---"
+    },
+    "ja": {
+      "content": "SAM 3D Bodyで録画からモーションを抽出し、それをBlenderに取り込み、そこでカメラを制御し、最終的にそのモーション／カメラデータをSeedance 2.5で使うことで、ボディモーションとカメラワークをより細かくコントロールできます。\n\n--- 引用ツイート ---\nSAM 3D Bodyはオープンソースなので、ローカル環境またはComfy Cloudで実行できます。\n\n録画からモーションを抽出 → Blenderに取り込む → カメラを制御する → その結果をSeedance 2.5で使う\n\nボディモーションとカメラの動きをより細かく制御できます。\n\nこのワークフローを試すには、下のリンクへ 👇 https://t.co/rMPn7GqVC0\n\n--- スレッドの続き ---\n[Thread 1] 詳細はこちら https://t.co/XMBSktKLWY\n---"
+    },
+    "ko": {
+      "content": "SAM 3D Body로 녹화본에서 모션을 추출한 뒤 Blender로 가져와 그곳에서 카메라를 제어하고, 이후 생성된 모션/카메라 데이터를 Seedance 2.5와 함께 사용하면 바디 모션과 카메라 움직임을 더 세밀하게 제어할 수 있습니다.\n\n--- 인용 트윗 ---\nSAM 3D Body는 오픈소스이므로 로컬에서 실행하거나 Comfy Cloud에서 사용할 수 있습니다.\n\n녹화본에서 모션 추출 → Blender로 가져오기 → 카메라 제어 → 결과를 Seedance 2.5와 함께 사용\n\n바디 모션과 카메라 움직임을 더 세밀하게 제어할 수 있습니다.\n\n이 워크플로우를 시도해 보려면 아래 링크를 확인하세요 👇 https://t.co/rMPn7GqVC0\n\n--- 스레드 이어서 ---\n[Thread 1] 자세한 내용은 https://t.co/XMBSktKLWY 를 확인하세요!\n---"
+    },
+    "pt": {
+      "content": "Extraia o movimento de uma gravação com o SAM 3D Body, importe-o para o Blender, controle a câmera lá e depois use os dados resultantes de movimento/câmera com o Seedance 2.5 para ter mais controle sobre o movimento do corpo e o movimento da câmera.\n\n--- TWEET CITADO ---\nO SAM 3D Body é open-source, então pode ser executado localmente ou no Comfy Cloud.\n\nExtrair movimento de uma gravação → levar para o Blender → controlar a câmera → usar o resultado com o Seedance 2.5\n\nMais controle sobre o movimento do corpo e o movimento da câmera.\n\nPara testar este workflow, links abaixo 👇 https://t.co/rMPn7GqVC0\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] https://t.co/XMBSktKLWY para mais informações!\n---"
+    },
+    "zh": {
+      "content": "使用 SAM 3D Body 从录制中提取动作，将其导入 Blender，在那里控制摄像机，然后将生成的动作/摄像机数据与 Seedance 2.5 结合使用，以便更好地控制身体动作和镜头运动。\n\n--- 引用推文 ---\nSAM 3D Body 是开源的，因此可以在本地运行，也可以在 Comfy Cloud 上运行。\n\n从录制中提取动作 → 导入 Blender → 控制摄像机 → 将结果与 Seedance 2.5 结合使用\n\n对身体动作和镜头运动拥有更多控制。\n\n想尝试这个工作流，请看下面的链接 👇 https://t.co/rMPn7GqVC0\n\n--- 线程续篇 ---\n[Thread 1] https://t.co/XMBSktKLWY 了解更多信息！\n---"
+    }
+  }
+}

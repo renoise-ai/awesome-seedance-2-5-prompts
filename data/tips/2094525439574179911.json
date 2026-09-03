@@ -1,0 +1,43 @@
+{
+  "id": "2094525439574179911",
+  "title": "Add reference art images and prompt the background to be a giant video wall…",
+  "content": "Add reference art images and prompt the background to be a giant video wall using “use image 1, image 2, image 3” and “animate them like an 80s music video” to drive the background animation.  \nSkip green screen by relying on Seedance’s edge detection/matting to cut out the subject cleanly.  \nIf the output misses elements, explicitly prompt the missing details to reduce errors.  \nUse Seedance’s lip sync for realistic talking/singing, but plan for higher cost.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094517674097135616/img/wiAJojFr0Vd5Dh8o.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094525439574179911.mp4",
+  "sourceLink": "https://x.com/GuidedbyHumans/status/2094525439574179911",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "Guided by Humans",
+    "link": "https://x.com/GuidedbyHumans"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "Add reference art images and prompt the background to be a giant video wall using “use image 1, image 2, image 3” and “animate them like an 80s music video” to drive the background animation.  \nSkip green screen by relying on Seedance’s edge detection/matting to cut out the subject cleanly.  \nIf the output misses elements, explicitly prompt the missing details to reduce errors.  \nUse Seedance’s lip sync for realistic talking/singing, but plan for higher cost.",
+  "translations": {
+    "es": {
+      "content": "Añade imágenes de referencia y pide que el fondo sea una enorme pared de video usando “use image 1, image 2, image 3” y “animate them like an 80s music video” para guiar la animación del fondo.  \nOmite el croma verde apoyándote en la detección de bordes/matting de Seedance para recortar al sujeto de forma limpia.  \nSi la salida omite elementos, indica explícitamente los detalles que faltan para reducir errores.  \nUsa el lip sync de Seedance para lograr un habla/canto realista, pero ten en cuenta que tendrá un coste mayor."
+    },
+    "fr": {
+      "content": "Ajoutez des images de référence artistiques et demandez que l’arrière-plan soit un immense mur vidéo en utilisant « use image 1, image 2, image 3 » et « animate them like an 80s music video » pour guider l’animation de l’arrière-plan.  \nÉvitez le fond vert en vous appuyant sur la détection des contours/le matting de Seedance pour détourer proprement le sujet.  \nSi la sortie omet certains éléments, indiquez explicitement les détails manquants dans le prompt afin de réduire les erreurs.  \nUtilisez le lip sync de Seedance pour un rendu réaliste des dialogues/du chant, mais prévoyez un coût plus élevé."
+    },
+    "ja": {
+      "content": "参考アート画像を追加し、背景には「use image 1, image 2, image 3」や「animate them like an 80s music video」とプロンプトして、巨大なビデオウォールにすることで背景アニメーションを駆動します。  \nSeedanceのエッジ検出／マッティングに頼って被写体をきれいに切り抜き、グリーンスクリーンは不要にします。  \n出力に要素が欠けている場合は、足りない詳細を明示的にプロンプトしてエラーを減らします。  \nSeedanceのlip syncを使えば、リアルな会話や歌唱を実現できますが、コストが高くなることを見込んでおきましょう。"
+    },
+    "ko": {
+      "content": "참고용 아트 이미지를 추가하고, 배경이 거대한 비디오 월이 되도록 “use image 1, image 2, image 3”와 “animate them like an 80s music video”를 프롬프트에 넣어 배경 애니메이션을 유도하세요.  \nSeedance의 edge detection/matting을 활용해 피사체를 깔끔하게 분리하면 green screen을 생략할 수 있습니다.  \n출력에서 요소가 빠지면, 누락된 디테일을 명시적으로 프롬프트에 추가해 오류를 줄이세요.  \n자연스러운 말하기/노래를 위해 Seedance의 lip sync를 사용하되, 비용이 더 높아질 수 있다는 점을 고려하세요."
+    },
+    "pt": {
+      "content": "Adicione imagens de referência de arte e peça para o fundo ser uma enorme video wall usando “use image 1, image 2, image 3” e “animate them like an 80s music video” para orientar a animação do fundo.  \nEvite o green screen contando com a detecção de bordas/matting do Seedance para recortar o sujeito com precisão.  \nSe o resultado omitir elementos, especifique explicitamente os detalhes ausentes no prompt para reduzir erros.  \nUse o lip sync do Seedance para falas/canto realistas, mas planeje um custo mais alto."
+    },
+    "zh": {
+      "content": "添加参考艺术图像，并通过“use image 1, image 2, image 3”和“animate them like an 80s music video”来提示背景设置为一块巨大的视频墙，以驱动背景动画。  \n利用 Seedance 的边缘检测/抠像功能干净地抠出主体，从而跳过绿幕。  \n如果输出缺少某些元素，就明确提示缺失的细节，以减少错误。  \n使用 Seedance 的 lip sync 来实现逼真的说话/唱歌效果，但要预留更高的成本。"
+    }
+  }
+}

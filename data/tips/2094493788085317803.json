@@ -1,0 +1,42 @@
+{
+  "id": "2094493788085317803",
+  "title": "Usa Seedance 2.5 solo con un prompt (sin crear modelos específicos) para…",
+  "content": "Usa Seedance 2.5 solo con un prompt (sin crear modelos específicos) para generar personajes distintos con características diferentes y movimientos independientes y naturales  \nControla la iluminación cinematográfica especificándola directamente en el prompt",
+  "language": "es",
+  "thumbnail": "https://pbs.twimg.com/media/HREi2_IXAAAhNDs.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094493788085317803.mp4",
+  "sourceLink": "https://x.com/negromagiic/status/2094493788085317803",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "Negro Magic",
+    "link": "https://x.com/negromagiic"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Usa Seedance 2.5 solo con un prompt (sin crear modelos específicos) para generar personajes distintos con características diferentes y movimientos independientes y naturales  \nControla la iluminación cinematográfica especificándola directamente en el prompt",
+  "translations": {
+    "en": {
+      "content": "Use Seedance 2.5 with just a prompt (without creating specific models) to generate different characters with distinct features and independent, natural movements  \nControl cinematic lighting by specifying it directly in the prompt"
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 avec un simple prompt (sans créer de modèles spécifiques) pour générer des personnages distincts avec des caractéristiques différentes et des mouvements indépendants et naturels  \nContrôlez l’éclairage cinématographique en le spécifiant directement dans le prompt"
+    },
+    "ja": {
+      "content": "Seedance 2.5 は、1つの prompt だけで（特定のモデルを作成せずに）使い、異なる特徴を持つ別々のキャラクターや、独立した自然な動きを生成できます。  \ncinematic なライティングは、prompt 内で直接指定してコントロールできます。"
+    },
+    "ko": {
+      "content": "Seedance 2.5를 프롬프트만으로 사용해(별도의 특정 모델을 만들지 않고) 서로 다른 특징과 독립적이고 자연스러운 움직임을 가진 다양한 캐릭터를 생성하세요.  \ncinematic 조명을 프롬프트에 직접 명시해 제어하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 apenas com um prompt (sem criar modelos específicos) para gerar personagens diferentes, com características distintas e movimentos independentes e naturais  \nControle a iluminação cinematográfica especificando-a diretamente no prompt"
+    },
+    "zh": {
+      "content": "仅使用一个 prompt（无需创建特定模型）即可使用 Seedance 2.5 生成具有不同特征和独立自然动作的不同角色  \n通过在 prompt 中直接指定，控制 cinematic lighting"
+    }
+  }
+}

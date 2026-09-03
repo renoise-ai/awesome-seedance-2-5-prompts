@@ -1,0 +1,44 @@
+{
+  "id": "2095149954604118473",
+  "title": "Use a character reference plus a detailed prompt in Seedance 2.5 to generate a…",
+  "content": "Use a character reference plus a detailed prompt in Seedance 2.5 to generate a multi-shot story while maintaining character consistency across shots  \nTest Seedance 2.5’s text-to-environment realism by generating scenes from text alone (no environment reference) across multiple shots",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2095149894461980673/img/isIDaJjPR5glDGec.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2095149954604118473.mp4",
+  "sourceLink": "https://x.com/HBCoop_/status/2095149954604118473",
+  "sourcePublishedAt": "2026-09-02",
+  "author": {
+    "name": "Heather Cooper",
+    "link": "https://x.com/HBCoop_"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a character reference plus a detailed prompt in Seedance 2.5 to generate a multi-shot story while maintaining character consistency across shots  \nTest Seedance 2.5’s text-to-environment realism by generating scenes from text alone (no environment reference) across multiple shots",
+  "translations": {
+    "es": {
+      "content": "Usa una referencia de personaje junto con un prompt detallado en Seedance 2.5 para generar una historia de múltiples planos manteniendo la consistencia del personaje entre tomas  \nPon a prueba el realismo de text-to-environment de Seedance 2.5 generando escenas solo a partir de texto (sin referencia de entorno) a lo largo de múltiples tomas"
+    },
+    "fr": {
+      "content": "Utilisez une référence de personnage ainsi qu’un prompt détaillé dans Seedance 2.5 pour générer une histoire en plusieurs plans tout en maintenant la cohérence du personnage d’un plan à l’autre  \nTestez le réalisme text-to-environment de Seedance 2.5 en générant des scènes à partir du texte seul (sans référence d’environnement) sur plusieurs plans"
+    },
+    "ja": {
+      "content": "Seedance 2.5では、キャラクターリファレンスと詳細なpromptを組み合わせて、ショット間でキャラクターの一貫性を保ちながらマルチショットのストーリーを生成する  \nSeedance 2.5のtext-to-environmentのリアリズムを、テキストのみ（環境リファレンスなし）で複数ショットにわたるシーン生成によってテストする"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 캐릭터 레퍼런스와 상세한 prompt를 함께 사용해, 샷 전반에 걸쳐 캐릭터 일관성을 유지하면서 멀티샷 스토리를 생성하세요  \n텍스트만으로 장면을 생성해(환경 레퍼런스 없이) 여러 샷에 걸친 Seedance 2.5의 text-to-environment 현실감을 테스트하세요"
+    },
+    "pt": {
+      "content": "Use uma referência de personagem mais um prompt detalhado no Seedance 2.5 para gerar uma história em múltiplos planos, mantendo a consistência do personagem entre os planos  \nTeste o realismo de text-to-environment do Seedance 2.5 gerando cenas apenas a partir de texto (sem referência de ambiente) em múltiplos planos"
+    },
+    "zh": {
+      "content": "使用角色参考图加上详细的 prompt，在 Seedance 2.5 中生成多镜头故事，同时保持各镜头中的角色一致性  \n通过仅凭文本生成场景（不使用环境参考），测试 Seedance 2.5 的 text-to-environment 真实感，并在多个镜头中呈现"
+    }
+  }
+}

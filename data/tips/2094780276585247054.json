@@ -1,0 +1,42 @@
+{
+  "id": "2094780276585247054",
+  "title": "アクションシーンは480p生成→アップスケールだと破綻（溶け）やすいので、Seedance2.5では最初から720pで生成する",
+  "content": "アクションシーンは480p生成→アップスケールだと破綻（溶け）やすいので、Seedance2.5では最初から720pで生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094780232935034880/img/IIIpOPE1sosByqUY.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094780276585247054.mp4",
+  "sourceLink": "https://x.com/ABCkenji/status/2094780276585247054",
+  "sourcePublishedAt": "2026-09-01",
+  "author": {
+    "name": "けんじー",
+    "link": "https://x.com/ABCkenji"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "アクションシーンは480p生成→アップスケールだと破綻（溶け）やすいので、Seedance2.5では最初から720pで生成する",
+  "translations": {
+    "en": {
+      "content": "For action scenes, generating at 480p and then upscaling tends to cause artifacts and “melting,” so in Seedance 2.5, generate at 720p from the start."
+    },
+    "es": {
+      "content": "Las escenas de acción tienden a desmoronarse (derretirse) fácilmente si se generan en 480p y luego se hace upscale, así que en Seedance2.5 se generan desde el principio en 720p."
+    },
+    "fr": {
+      "content": "Les scènes d’action ont tendance à se dégrader facilement (à « fondre ») lorsqu’on génère en 480p puis qu’on upscale, donc avec Seedance 2.5, il faut générer directement en 720p dès le départ."
+    },
+    "ko": {
+      "content": "액션 장면은 480p로 생성한 뒤 업스케일하면 깨짐(녹아내림)이 생기기 쉬우므로, Seedance2.5에서는 처음부터 720p로 생성한다"
+    },
+    "pt": {
+      "content": "Como cenas de ação tendem a apresentar falhas (derretimento) quando geradas em 480p e depois ampliadas, no Seedance 2.5 elas são geradas em 720p desde o início."
+    },
+    "zh": {
+      "content": "动作场景如果先生成 480p 再进行 upscaling，容易出现崩坏（融化）现象，所以在 Seedance2.5 中建议一开始就以 720p 生成。"
+    }
+  }
+}

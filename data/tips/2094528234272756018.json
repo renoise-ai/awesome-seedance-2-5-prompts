@@ -1,0 +1,41 @@
+{
+  "id": "2094528234272756018",
+  "title": "Use Gemini Flash TTS in FloraAI and prompt for tone/delivery/mood to generate…",
+  "content": "Use Gemini Flash TTS in FloraAI and prompt for tone/delivery/mood to generate dialogue as a WAV file, then connect that WAV to a Seedance 2.5 node as an audio reference input.  \nIn your Seedance prompt, specify the scene environment (eg, “empty mall hallway outside the store”) so Seedance can apply space-matching audio effects like reverb and delay to fit the voice into the location.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/thefinnmckenty/status/2094528234272756018",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "Finn McKenty",
+    "link": "https://x.com/thefinnmckenty"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Gemini Flash TTS in FloraAI and prompt for tone/delivery/mood to generate dialogue as a WAV file, then connect that WAV to a Seedance 2.5 node as an audio reference input.  \nIn your Seedance prompt, specify the scene environment (eg, “empty mall hallway outside the store”) so Seedance can apply space-matching audio effects like reverb and delay to fit the voice into the location.",
+  "translations": {
+    "es": {
+      "content": "Usa Gemini Flash TTS en FloraAI y pide tono/entrega/estado de ánimo para generar el diálogo como un archivo WAV; luego conecta ese WAV a un nodo de Seedance 2.5 como entrada de referencia de audio.  \nEn tu prompt de Seedance, especifica el entorno de la escena (p. ej., “pasillo vacío de un centro comercial fuera de la tienda”) para que Seedance pueda aplicar efectos de audio que coincidan con el espacio, como reverb y delay, y así integrar la voz en el lugar.\n\n--- TUIT CITADO ---\n¿Alguna vez te has preguntado qué hay en la trastienda de Hot Topic?\n\n→ Midjourney (personajes y fondos)\n→ Todo lo demás en @floraai :\n→ Nano Banana Pro (edición de personajes)\n→ Gemini Flash TTS (diálogo)\n→ Seedance 2.5 (video) https://t.co/ihR40pTyaE\n---"
+    },
+    "fr": {
+      "content": "Utilisez Gemini Flash TTS dans FloraAI et indiquez le ton, la diction et l’ambiance dans le prompt pour générer des dialogues au format WAV, puis connectez ce WAV à un nœud Seedance 2.5 comme entrée de référence audio.  \nDans votre prompt Seedance, précisez l’environnement de la scène (par ex. « couloir vide d’un centre commercial devant le magasin ») afin que Seedance puisse appliquer des effets audio adaptés à l’espace, comme la réverbération et le delay, pour intégrer la voix au lieu.\n\n--- TWEET CITÉ ---\nVous êtes-vous déjà demandé ce qu’il y a dans l’arrière-boutique de Hot Topic ?\n\n→ Midjourney (personnages et arrière-plans)\n→ Tout le reste dans @floraai :\n→ Nano Banana Pro (modifications de personnages)\n→ Gemini Flash TTS (dialogue)\n→ Seedance 2.5 (vidéo) https://t.co/ihR40pTyaE\n---"
+    },
+    "ja": {
+      "content": "FloraAIでGemini Flash TTSを使い、tone/delivery/mood を指定してダイアログをWAVファイルとして生成し、そのWAVをSeedance 2.5ノードにオーディオ参照入力として接続します。  \nSeedanceのpromptでは、シーンの環境（例: “empty mall hallway outside the store”）を明記して、Seedanceがreverbやdelayのような空間に合わせた音響効果を適用し、声をその場所に自然に馴染ませられるようにします。\n\n--- 引用ツイート ---\nHot Topicのバックルームに何があるのか、気になったことはありますか？\n\n→ Midjourney（キャラクター＆背景）\n→ それ以外はすべて @floraai で：\n→ Nano Banana Pro（キャラクター編集）\n→ Gemini Flash TTS（ダイアログ）\n→ Seedance 2.5（動画） https://t.co/ihR40pTyaE\n---"
+    },
+    "ko": {
+      "content": "FloraAI에서 Gemini Flash TTS를 사용하고 tone/delivery/mood를 프롬프트로 지정해 대사를 WAV 파일로 생성한 다음, 그 WAV를 오디오 레퍼런스 입력으로 Seedance 2.5 노드에 연결하세요.  \nSeedance 프롬프트에서는 장면의 환경(예: “empty mall hallway outside the store”)을 명시해 Seedance가 reverb와 delay 같은 공간 매칭 오디오 효과를 적용하여 목소리가 해당 장소에 자연스럽게 어우러지도록 할 수 있습니다.\n\n--- 인용된 트윗 ---\nHot Topic의 뒷방에 뭐가 있는지 궁금했던 적 있나요?\n\n→ Midjourney (캐릭터 &amp; 배경)\n→ @floraai의 나머지 모든 것:\n→ Nano Banana Pro (캐릭터 편집)\n→ Gemini Flash TTS (대사)\n→ Seedance 2.5 (비디오) https://t.co/ihR40pTyaE"
+    },
+    "pt": {
+      "content": "Use o Gemini Flash TTS no FloraAI e faça um prompt para tom/entrega/humor para gerar o diálogo como um arquivo WAV; depois conecte esse WAV a um nó do Seedance 2.5 como entrada de referência de áudio.  \nNo seu prompt do Seedance, especifique o ambiente da cena (por exemplo, “corredor vazio de shopping em frente à loja”) para que o Seedance possa aplicar efeitos de áudio compatíveis com o espaço, como reverb e delay, e encaixar a voz no local.\n\n--- TWEET CITADO ---\nJá se perguntou o que tem na sala dos fundos da Hot Topic?\n\n→ Midjourney (personagens e fundos)\n→ Todo o resto no @floraai :\n→ Nano Banana Pro (edições de personagens)\n→ Gemini Flash TTS (diálogo)\n→ Seedance 2.5 (vídeo) https://t.co/ihR40pTyaE\n---"
+    },
+    "zh": {
+      "content": "在 FloraAI 中使用 Gemini Flash TTS，并通过 prompt 指定语气/表达方式/情绪，将对白生成为 WAV 文件，然后把该 WAV 作为音频参考输入连接到 Seedance 2.5 节点。  \n在你的 Seedance prompt 中，明确指定场景环境（例如：“empty mall hallway outside the store”），这样 Seedance 就能应用与空间匹配的音频效果，如混响和延迟，让声音更贴合该地点。\n\n--- 引用推文 ---\n有没有想过 Hot Topic 后面的房间里有什么？\n\n→ Midjourney（角色与背景）\n→ 其余全部在 @floraai 中完成：\n→ Nano Banana Pro（角色编辑）\n→ Gemini Flash TTS（对白）\n→ Seedance 2.5（视频）https://t.co/ihR40pTyaE\n---"
+    }
+  }
+}

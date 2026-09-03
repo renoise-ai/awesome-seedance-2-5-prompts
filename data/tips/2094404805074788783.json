@@ -1,0 +1,42 @@
+{
+  "id": "2094404805074788783",
+  "title": "Lock the camera/motion in Blender using the Higgsfield plugin before generating…",
+  "content": "Lock the camera/motion in Blender using the Higgsfield plugin before generating to keep fight choreography and camera moves consistent.\n\nAnimate the locked-motion shot using Seedance 2.5 to produce the final AI video with controlled camera movement.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094403170160328704/img/i06hHi4Wix244MSj.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094404805074788783.mp4",
+  "sourceLink": "https://x.com/adilinthewild/status/2094404805074788783",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "Adil Alimzhanov",
+    "link": "https://x.com/adilinthewild"
+  },
+  "tags": [
+    "Action",
+    "Ring Fight",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Lock the camera/motion in Blender using the Higgsfield plugin before generating to keep fight choreography and camera moves consistent.\n\nAnimate the locked-motion shot using Seedance 2.5 to produce the final AI video with controlled camera movement.",
+  "translations": {
+    "es": {
+      "content": "Bloquea la cámara/el movimiento en Blender usando el plugin Higgsfield antes de generar, para mantener consistentes la coreografía de combate y los movimientos de cámara.\n\nAnima la toma con movimiento bloqueado usando Seedance 2.5 para producir el video final con IA y un movimiento de cámara controlado.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Tutorial completo (prompts+assets):\nhttps://t.co/Nb0qtJgjMD\n---"
+    },
+    "fr": {
+      "content": "Verrouillez la caméra/le mouvement dans Blender à l’aide du plugin Higgsfield avant la génération afin de conserver une chorégraphie de combat et des mouvements de caméra cohérents.\n\nAnimez la prise de vue au mouvement verrouillé avec Seedance 2.5 pour produire la vidéo IA finale avec un mouvement de caméra contrôlé.\n\n--- SUITE DU FIL ---\n[Fil 1] Tutoriel complet (prompts+assets) :\nhttps://t.co/Nb0qtJgjMD\n---"
+    },
+    "ja": {
+      "content": "生成前に、Blender で Higgsfield プラグインを使ってカメラ／モーションをロックし、格闘の振り付けとカメラワークの一貫性を保ちます。\n\nロックされたモーションのショットを Seedance 2.5 でアニメーション化し、カメラの動きを制御した最終的な AI 動画を生成します。\n\n--- スレッドの続き ---\n[Thread 1] 完全チュートリアル（プロンプト＋アセット）:\nhttps://t.co/Nb0qtJgjMD\n---"
+    },
+    "ko": {
+      "content": "생성하기 전에 Blender에서 Higgsfield 플러그인을 사용해 카메라/모션을 고정하면, 전투 안무와 카메라 움직임의 일관성을 유지할 수 있습니다.\n\n고정된 모션 샷을 Seedance 2.5로 애니메이션 처리해, 카메라 움직임이 제어된 최종 AI 비디오를 만드세요.\n\n--- THREAD CONTINUATION ---\n[Thread 1] 전체 튜토리얼(프롬프트+에셋):\nhttps://t.co/Nb0qtJgjMD\n---"
+    },
+    "pt": {
+      "content": "Trave a câmera/movimento no Blender usando o plugin Higgsfield antes de gerar, para manter a coreografia de luta e os movimentos de câmera consistentes.\n\nAnime a tomada com movimento travado usando o Seedance 2.5 para produzir o vídeo final com movimento de câmera controlado.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Tutorial completo (prompts+assets):\nhttps://t.co/Nb0qtJgjMD\n---"
+    },
+    "zh": {
+      "content": "在生成之前，使用 Higgsfield 插件在 Blender 中锁定 camera/motion，以保持打斗编排和镜头运动的一致性。\n\n使用 Seedance 2.5 对锁定 motion 的镜头进行动画处理，生成带有可控镜头运动的最终 AI 视频。\n\n--- 线程续接 ---\n[Thread 1] 完整教程（prompts+assets）：\nhttps://t.co/Nb0qtJgjMD\n---"
+    }
+  }
+}

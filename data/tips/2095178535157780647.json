@@ -1,0 +1,42 @@
+{
+  "id": "2095178535157780647",
+  "title": "動き・仕草・タイミングはAIプロンプト的な指示ではなく、言葉通りの文章（自然文）で記述して生成してみる",
+  "content": "動き・仕草・タイミングはAIプロンプト的な指示ではなく、言葉通りの文章（自然文）で記述して生成してみる  \n通常→崩壊の過程のスムーズさを比較検証して、破綻しにくい指示の書き方を探る  \nアニメ感を出したい場合はフレームレートを調整し、480p・12fps設定で生成して比較する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2095172588599402496/img/XezV3VJxEvwn1K4j.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2095178535157780647.mp4",
+  "sourceLink": "https://x.com/akuai33/status/2095178535157780647",
+  "sourcePublishedAt": "2026-09-02",
+  "author": {
+    "name": "JIN",
+    "link": "https://x.com/akuai33"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "動き・仕草・タイミングはAIプロンプト的な指示ではなく、言葉通りの文章（自然文）で記述して生成してみる  \n通常→崩壊の過程のスムーズさを比較検証して、破綻しにくい指示の書き方を探る  \nアニメ感を出したい場合はフレームレートを調整し、480p・12fps設定で生成して比較する",
+  "translations": {
+    "en": {
+      "content": "Describe movement, gestures, and timing using natural prose rather than AI prompt-style instructions, and try generating from that.  \nCompare and verify the smoothness of the transition from normal → collapse, and look for ways to phrase instructions that are less likely to break down.  \nIf you want to create an anime-like feel, adjust the frame rate and compare results by generating at 480p and 12fps."
+    },
+    "es": {
+      "content": "Probar a generar describiendo el movimiento, los gestos y el timing con frases literales en lenguaje natural, en lugar de instrucciones tipo prompt de IA.  \nComparar y verificar la fluidez del proceso de “normal” → “colapso”, y explorar cómo redactar instrucciones que sean menos propensas a romperse.  \nSi quieres dar una sensación de anime, ajusta el frame rate y genera con una configuración de 480p y 12 fps para comparar."
+    },
+    "fr": {
+      "content": "Essayer de générer les mouvements, les gestes et le timing en les décrivant sous forme de phrases naturelles, plutôt que comme des instructions de type prompt IA.  \nComparer et vérifier la fluidité du passage de l’état normal à l’état de dégradation, afin de trouver une manière de formuler des instructions qui limite les ruptures.  \nSi l’on veut donner un rendu plus animé, ajuster le frame rate et générer en 480p et 12 fps pour comparer."
+    },
+    "ko": {
+      "content": "움직임·몸짓·타이밍은 AI prompt식 지시가 아니라, 말 그대로의 문장(자연문)으로 서술해 생성해 본다  \n일반 상태 → 붕괴 과정의 매끄러움을 비교 검증해, 파탄이 덜 나는 지시문 작성법을 찾아본다  \n애니메이션 느낌을 내고 싶다면 프레임레이트를 조정해, 480p·12fps 설정으로 생성해 비교한다"
+    },
+    "pt": {
+      "content": "Tente gerar descrevendo movimento, gestos e timing em frases literais (texto natural), em vez de instruções no estilo de prompt de IA.  \nCompare e verifique a suavidade do processo de estado normal → colapso, e explore formas de escrever instruções que sejam menos propensas a falhas.  \nSe quiser dar um ar de animação, ajuste o frame rate e gere em 480p e 12fps para comparar."
+    },
+    "zh": {
+      "content": "动作、姿态和时机不要用 AI prompt 式的指令来写，而是尝试用字面意义上的句子（自然语言）来描述并生成。  \n比较验证从“通常”到“崩坏”过程的平滑度，探索不容易失真的指令写法。  \n如果想营造动画感，可以调整帧率，并用 480p・12fps 设置生成后进行比较。"
+    }
+  }
+}

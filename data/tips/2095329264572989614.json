@@ -1,0 +1,42 @@
+{
+  "id": "2095329264572989614",
+  "title": "Seedance 2.5에서 레퍼런스 오디오를 업로드해 원곡의 분위기와 핵심 요소가 영상에 얼마나 반영되는지 테스트해보세요.",
+  "content": "Seedance 2.5에서 레퍼런스 오디오를 업로드해 원곡의 분위기와 핵심 요소가 영상에 얼마나 반영되는지 테스트해보세요.\n와이드 샷에서 클로즈업으로 줌인되는 카메라 무빙을 원하면 프롬프트에 wide shot → close-up zoom-in 같은 샷 전환/줌인 지시를 넣어 생성해보세요.",
+  "language": "ko",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2095326570005282816/img/pBbNzBPtgI6Nsyew.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2095329264572989614.mp4",
+  "sourceLink": "https://x.com/EEJ_OOXO/status/2095329264572989614",
+  "sourcePublishedAt": "2026-09-03",
+  "author": {
+    "name": "OOXO",
+    "link": "https://x.com/EEJ_OOXO"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5에서 레퍼런스 오디오를 업로드해 원곡의 분위기와 핵심 요소가 영상에 얼마나 반영되는지 테스트해보세요.\n와이드 샷에서 클로즈업으로 줌인되는 카메라 무빙을 원하면 프롬프트에 wide shot → close-up zoom-in 같은 샷 전환/줌인 지시를 넣어 생성해보세요.",
+  "translations": {
+    "en": {
+      "content": "In Seedance 2.5, upload reference audio to test how much of the original track’s mood and key elements are reflected in the video.\n\nIf you want a camera move that zooms in from a wide shot to a close-up, try generating with shot transition/zoom-in instructions in the prompt, such as wide shot → close-up zoom-in."
+    },
+    "es": {
+      "content": "En Seedance 2.5, sube un audio de referencia para comprobar cuánto se reflejan en el video la atmósfera y los elementos clave de la canción original.\nSi quieres un movimiento de cámara que haga zoom desde un wide shot hasta un close-up, prueba a generar el resultado incluyendo en el prompt indicaciones de transición de plano/zoom como wide shot → close-up zoom-in."
+    },
+    "fr": {
+      "content": "Dans Seedance 2.5, téléversez un audio de référence pour tester dans quelle mesure l’ambiance et les éléments clés du morceau original se reflètent dans la vidéo.\nSi vous souhaitez un mouvement de caméra avec un zoom du wide shot vers un close-up, essayez de générer en ajoutant dans le prompt des indications de transition de plan / zoom-in comme wide shot → close-up zoom-in."
+    },
+    "ja": {
+      "content": "Seedance 2.5では、レファレンスオーディオをアップロードして、元曲の雰囲気や主要な要素が映像にどの程度反映されるかをテストしてみてください。  \nワイドショットからクローズアップへズームインするカメラワークを希望する場合は、prompt に wide shot → close-up zoom-in のようなショット切り替え／ズームインの指示を入れて生成してみてください。"
+    },
+    "pt": {
+      "content": "No Seedance 2.5, faça upload de um áudio de referência para testar o quanto a atmosfera e os elementos principais da música original são refletidos no vídeo.\nSe você quiser um movimento de câmera com zoom in, indo de wide shot para close-up, inclua no prompt instruções de transição de plano/zoom in como wide shot → close-up zoom-in para gerar o resultado desejado."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中上传参考音频，测试原曲的氛围和核心元素能在多大程度上体现在视频里。  \n如果你想要从 wide shot 变到 close-up 的 zoom-in 镜头运动，可以在 prompt 中加入 wide shot → close-up zoom-in 这样的镜头切换/变焦指令来生成。"
+    }
+  }
+}

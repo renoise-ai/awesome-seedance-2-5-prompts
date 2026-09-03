@@ -1,0 +1,42 @@
+{
+  "id": "2094771778451395031",
+  "title": "前作の30秒動画だけを参照動画としてSeedance 2.5に入力すると、キャラ・声・スタイル・動きの一貫性を近づけた生成ができる",
+  "content": "前作の30秒動画だけを参照動画としてSeedance 2.5に入力すると、キャラ・声・スタイル・動きの一貫性を近づけた生成ができる  \n参照動画を使うと色味が変わることがあるので、色の一貫性が必要なら生成後にカラー調整（グレーディング）前提で運用する  \n参照動画は平均化して参照されるため、参照元よりクオリティが少し落ちる可能性を見込んで、重要カットは追加生成や別テイクで補う  \n参照動画生成はコストがやや高いので、まず短尺・低回数でテストしてから本番生成に回す",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094770143595524096/img/0YFgGR2QOTfRt2KF.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094771778451395031.mp4",
+  "sourceLink": "https://x.com/keshiAIart/status/2094771778451395031",
+  "sourcePublishedAt": "2026-09-01",
+  "author": {
+    "name": "keshi",
+    "link": "https://x.com/keshiAIart"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "前作の30秒動画だけを参照動画としてSeedance 2.5に入力すると、キャラ・声・スタイル・動きの一貫性を近づけた生成ができる  \n参照動画を使うと色味が変わることがあるので、色の一貫性が必要なら生成後にカラー調整（グレーディング）前提で運用する  \n参照動画は平均化して参照されるため、参照元よりクオリティが少し落ちる可能性を見込んで、重要カットは追加生成や別テイクで補う  \n参照動画生成はコストがやや高いので、まず短尺・低回数でテストしてから本番生成に回す",
+  "translations": {
+    "en": {
+      "content": "If you input only the previous work’s 30-second video as a reference video into Seedance 2.5, it can generate results with closer consistency in character, voice, style, and motion.  \nWhen using a reference video, the color tone may change, so if color consistency is important, it’s best to operate on the assumption that color correction (grading) will be done after generation.  \nBecause the reference video is used in an averaged way, there is a possibility that the quality will be slightly lower than the source reference, so important shots should be supplemented with additional generations or alternate takes.  \nReference-video generation is somewhat more expensive, so it’s best to test first with short clips and a low number of attempts before moving on to full production generation.\n\n--- THREAD CONTINUATION ---\n[Thread 1] I generated it using only the previous work’s 30-second video as a reference. The color tone changed, but it produces results that are close in character, voice, style, and motion.  \nIt seems to reference the video in an averaged way, so the quality is slightly below the original. The cost is also a bit higher.\n---"
+    },
+    "es": {
+      "content": "Si solo introduces el video de 30 segundos de la obra anterior como video de referencia en Seedance 2.5, puedes generar resultados con una mayor coherencia en el personaje, la voz, el estilo y el movimiento.  \nAl usar videos de referencia, el color puede cambiar; por eso, si necesitas coherencia cromática, conviene operar asumiendo que habrá una corrección de color (grading) después de la generación.  \nComo el video de referencia se toma de forma promediada, conviene prever que la calidad puede quedar un poco por debajo de la fuente de referencia, y compensar los planos importantes con generación adicional o tomas alternativas.  \nLa generación con video de referencia tiene un coste algo más alto, así que primero conviene hacer pruebas con clips cortos y pocas iteraciones antes de pasar a la generación final.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Generé usando solo el video de 30 segundos de la obra anterior como referencia. El color cambió, pero sí consigue resultados parecidos en el personaje, la voz, el estilo y el movimiento.  \nParece que referencia el video de forma promediada, así que la calidad queda ligeramente por debajo. El coste también es un poco más alto.\n---"
+    },
+    "fr": {
+      "content": "Si vous n’utilisez comme vidéo de référence que les 30 secondes de la vidéo précédente dans Seedance 2.5, vous pouvez obtenir une génération avec une cohérence plus proche en termes de personnage, de voix, de style et de mouvement.  \nComme l’utilisation d’une vidéo de référence peut parfois modifier les couleurs, si la cohérence chromatique est importante, il vaut mieux prévoir un ajustement des couleurs (grading) après la génération.  \nLa vidéo de référence étant utilisée de manière moyennée, il faut anticiper une légère baisse de qualité par rapport à la source de référence, et compléter les plans importants par des générations supplémentaires ou d’autres prises.  \nLa génération avec vidéo de référence étant un peu plus coûteuse, il est préférable de commencer par des tests courts et peu nombreux avant de passer à la génération finale.\n\n--- THREAD CONTINUATION ---\n[Thread 1] J’ai généré en ne me basant que sur les 30 secondes de la vidéo précédente comme référence. Les couleurs ont changé, mais il produit quelque chose de proche en termes de personnage, de voix, de style et de mouvement.\nIl semble référencer la vidéo de manière moyennée, donc la qualité n’atteint pas tout à fait celle de la source. Le coût est aussi un peu élevé.\n---"
+    },
+    "ko": {
+      "content": "前작의 30초 영상만을 참조 영상으로 Seedance 2.5에 입력하면, 캐릭터·목소리·스타일·움직임의 일관성을 더 잘 맞춘 결과를 생성할 수 있다  \n참조 영상을 사용하면 색감이 달라질 수 있으므로, 색의 일관성이 필요하다면 생성 후 컬러 조정(그레이딩)을 전제로 운용하는 것이 좋다  \n참조 영상은 평균화되어 참조되기 때문에, 참조 원본보다 퀄리티가 약간 떨어질 가능성을 염두에 두고 중요한 컷은 추가 생성이나 다른 테이크로 보완한다  \n참조 영상 생성은 비용이 다소 높으므로, 먼저 짧은 분량·적은 횟수로 테스트한 뒤 본 제작에 활용한다\n\n--- THREAD CONTINUATION ---\n[Thread 1] 전작의 30초 영상만을 참조해 생성했습니다. 색감은 달라졌지만, 캐릭터, 목소리, 스타일, 움직임 등은 비슷한 결과를 내줍니다.\n참조 영상을 평균화해 참조하는 듯해 퀄리티는 약간 미치지 못합니다. 비용도 조금 높습니다.\n---"
+    },
+    "pt": {
+      "content": "Se você inserir no Seedance 2.5 apenas o vídeo de 30 segundos da obra anterior como vídeo de referência, é possível gerar resultados com maior consistência de personagem, voz, estilo e movimento.  \nAo usar vídeo de referência, a tonalidade das cores pode mudar; portanto, se a consistência de cor for necessária, o ideal é operar já assumindo uma correção de cor (grading) após a geração.  \nComo o vídeo de referência é usado de forma “média” na referência, vale considerar a possibilidade de a qualidade ficar um pouco abaixo da do material original, compensando os cortes mais importantes com gerações adicionais ou takes alternativos.  \nA geração com vídeo de referência tem um custo um pouco mais alto, então o ideal é primeiro testar com trechos curtos e poucas tentativas antes de partir para a geração final.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Gerei usando apenas o vídeo de 30 segundos da obra anterior como referência. A tonalidade das cores mudou, mas ele entrega algo próximo em personagem, voz, estilo, movimento etc.  \nParece que o vídeo de referência é usado de forma média, então a qualidade fica um pouco aquém. O custo também é um pouco mais alto.\n---"
+    },
+    "zh": {
+      "content": "如果只将前作的 30 秒视频作为参考视频输入 Seedance 2.5，就能生成在角色、声音、风格和动作一致性上更接近的内容。  \n使用参考视频时，色调有时会发生变化，因此如果需要保持色彩一致性，建议在生成后进行颜色调整（grading）作为前提来运用。  \n由于参考视频会以平均化的方式被引用，生成结果可能会比参考源的质量略低，因此重要镜头最好通过追加生成或不同 take 来补足。  \n参考视频生成的成本稍高，所以建议先用短时长、低次数进行测试，再投入正式生成。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 仅参考前作的 30 秒视频进行了生成。虽然色调发生了变化，但在角色、声音、风格、动作等方面都能生成相近的内容。  \n看起来参考视频是以平均化的方式被引用，因此质量会略微达不到原作水平。成本也稍微高一些。\n---"
+    }
+  }
+}

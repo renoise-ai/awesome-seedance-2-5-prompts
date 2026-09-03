@@ -1,0 +1,42 @@
+{
+  "id": "2094582308540137717",
+  "title": "Seedance 2.5ではGridを使わずにリファレンス画像を役割別に分離してテストする（顔＝通常の顔シート1枚、衣装/体型＝顔を含まない衣装シート、Scen…",
+  "content": "Seedance 2.5ではGridを使わずにリファレンス画像を役割別に分離してテストする（顔＝通常の顔シート1枚、衣装/体型＝顔を含まない衣装シート、Scene＝画像なしでプロンプトのみで生成）",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094578141914386432/img/RX7NOXSPFV6sEB5z.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094582308540137717.mp4",
+  "sourceLink": "https://x.com/aratamadao/status/2094582308540137717",
+  "sourcePublishedAt": "2026-09-01",
+  "author": {
+    "name": "aratama 璞",
+    "link": "https://x.com/aratamadao"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5ではGridを使わずにリファレンス画像を役割別に分離してテストする（顔＝通常の顔シート1枚、衣装/体型＝顔を含まない衣装シート、Scene＝画像なしでプロンプトのみで生成）",
+  "translations": {
+    "en": {
+      "content": "In Seedance 2.5, test by separating reference images by role without using a grid (face = one standard face sheet, clothing/body type = a clothing sheet without the face, Scene = generate using prompt only, with no image)\n\n--- THREAD CONTINUATION ---\n[Thread 1] Here are the reference images used. https://t.co/TBsMKqR9QC\n---"
+    },
+    "es": {
+      "content": "En Seedance 2.5, se pueden separar y probar las imágenes de referencia por función sin usar Grid (rostro = una sola hoja de rostro normal; vestuario/complexión = una hoja de vestuario sin rostro; escena = generar solo con prompt, sin imagen)\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Estas son las referencias que se utilizaron. https://t.co/TBsMKqR9QC\n---"
+    },
+    "fr": {
+      "content": "Dans Seedance 2.5, tester en séparant les images de référence selon leur rôle, sans utiliser Grid (visage = une seule feuille de visage standard, tenue/corpulence = une feuille de tenue sans visage, scène = génération uniquement à partir du prompt, sans image)\n\n--- THREAD CONTINUATION ---\n[Thread 1] Voici les références utilisées. https://t.co/TBsMKqR9QC\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서는 Grid를 사용하지 않고, 레퍼런스 이미지를 역할별로 분리해 테스트한다(얼굴 = 일반적인 얼굴 시트 1장, 의상/체형 = 얼굴이 포함되지 않은 의상 시트, Scene = 이미지 없이 prompt만으로 생성)\n\n--- THREAD CONTINUATION ---\n[Thread 1] 사용한 레퍼런스는 여기입니다. https://t.co/TBsMKqR9QC\n---"
+    },
+    "pt": {
+      "content": "No Seedance 2.5, em vez de usar Grid, separe as imagens de referência por função para testar (rosto = uma única face sheet normal; roupa/tipo físico = uma clothing sheet sem rosto; cena = gerar apenas com prompt, sem imagem)\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] As referências usadas foram estas. https://t.co/TBsMKqR9QC\n---"
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中，不使用 Grid，而是按角色分离参考图进行测试（脸部＝仅使用一张普通的脸部参考图；服装/体型＝不包含脸部的服装参考图；Scene＝不使用图片，仅通过 prompt 生成）\n\n--- 线程续篇 ---\n[Thread 1] 使用的参考图在这里。 https://t.co/TBsMKqR9QC\n---"
+    }
+  }
+}

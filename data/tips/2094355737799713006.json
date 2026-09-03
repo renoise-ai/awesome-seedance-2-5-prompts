@@ -1,0 +1,42 @@
+{
+  "id": "2094355737799713006",
+  "title": "Seedance 2.5でロゴと素材を渡し、アイデア（コンセプト）を入力するだけで、After…",
+  "content": "Seedance 2.5でロゴと素材を渡し、アイデア（コンセプト）を入力するだけで、After Effectsやタイムライン操作なしに数分でモーション動画を生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094355670866984960/img/K-vHgcYkUDoi45eP.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094355737799713006.mp4",
+  "sourceLink": "https://x.com/kiAI_stable/status/2094355737799713006",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "きー from KiAI",
+    "link": "https://x.com/kiAI_stable"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Seedance 2.5でロゴと素材を渡し、アイデア（コンセプト）を入力するだけで、After Effectsやタイムライン操作なしに数分でモーション動画を生成する",
+  "translations": {
+    "en": {
+      "content": "With Seedance 2.5, simply provide the logo and assets and enter your idea (concept) to generate a motion video in minutes—no After Effects or timeline editing required."
+    },
+    "es": {
+      "content": "Con Seedance 2.5, basta con proporcionar el logo y los materiales e introducir la idea (concepto) para generar un video en motion en cuestión de minutos, sin necesidad de After Effects ni de manipular la línea de tiempo."
+    },
+    "fr": {
+      "content": "Avec Seedance 2.5, il suffit de fournir le logo et les assets, puis de saisir l’idée (le concept) pour générer en quelques minutes une vidéo motion, sans After Effects ni manipulation de timeline."
+    },
+    "ko": {
+      "content": "Seedance 2.5에 로고와 소재를 전달하고 아이디어(컨셉)만 입력하면, After Effects나 타임라인 조작 없이 몇 분 만에 모션 영상을 생성할 수 있다"
+    },
+    "pt": {
+      "content": "Com o Seedance 2.5, basta enviar o logo e os materiais, inserir a ideia (conceito) e gerar um vídeo em motion em poucos minutos, sem precisar do After Effects nem de operar a timeline."
+    },
+    "zh": {
+      "content": "只需将 logo 和素材交给 Seedance 2.5，并输入创意（concept），即可在无需 After Effects 或时间轴操作的情况下，于几分钟内生成 motion 视频。"
+    }
+  }
+}

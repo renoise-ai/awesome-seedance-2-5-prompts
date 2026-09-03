@@ -1,0 +1,42 @@
+{
+  "id": "2094703404631093721",
+  "title": "Selecciona la canción base para tu vídeo musical eligiendo un tema de…",
+  "content": "Selecciona la canción base para tu vídeo musical eligiendo un tema de actualidad o subiendo tu propia canción (por ejemplo, una generada con freebeat).  \nElige qué fragmento de la canción usar para el vídeo o selecciona toda la canción para generar el vídeo completo.  \nUsa el modo custom para seleccionar el modelo de generación y elige Seedance 2.5 cuando quieras generar con ese modelo.",
+  "language": "es",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094701616112783360/img/o-W4laGKLQ7p5f5o.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094703404631093721.mp4",
+  "sourceLink": "https://x.com/Fran_actua/status/2094703404631093721",
+  "sourcePublishedAt": "2026-09-01",
+  "author": {
+    "name": "Francisco García",
+    "link": "https://x.com/Fran_actua"
+  },
+  "tags": [
+    "Music & Dance",
+    "MV",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Selecciona la canción base para tu vídeo musical eligiendo un tema de actualidad o subiendo tu propia canción (por ejemplo, una generada con freebeat).  \nElige qué fragmento de la canción usar para el vídeo o selecciona toda la canción para generar el vídeo completo.  \nUsa el modo custom para seleccionar el modelo de generación y elige Seedance 2.5 cuando quieras generar con ese modelo.",
+  "translations": {
+    "en": {
+      "content": "Select the base song for your music video by choosing a trending track or uploading your own song (for example, one generated with freebeat).  \nChoose which part of the song to use for the video, or select the entire song to generate the full video.  \nUse custom mode to select the generation model, and choose Seedance 2.5 when you want to generate with that model."
+    },
+    "fr": {
+      "content": "Sélectionne la chanson de base pour ta vidéo musicale en choisissant un titre d’actualité ou en téléchargeant ta propre chanson (par exemple, une chanson générée avec freebeat).  \nChoisis quel extrait de la chanson utiliser pour la vidéo ou sélectionne la chanson entière pour générer la vidéo complète.  \nUtilise le mode custom pour sélectionner le modèle de génération et choisis Seedance 2.5 lorsque tu veux générer avec ce modèle."
+    },
+    "ja": {
+      "content": "ミュージックビデオのベースとなる曲を、話題の楽曲を選ぶか、自分の曲をアップロードして選択します（たとえば、freebeatで生成した曲など）。  \n動画に使用する曲の一部を選ぶか、曲全体を選択してフル動画を生成します。  \ncustomモードを使って生成モデルを選択し、そのモデルで生成したい場合は Seedance 2.5 を選びます。"
+    },
+    "ko": {
+      "content": "뮤직비디오의 기본 곡을 선택하세요. 최신 트렌드의 곡을 고르거나 직접 만든 노래를 업로드할 수 있습니다(예: freebeat로 생성한 곡).  \n영상에 사용할 노래의 특정 구간을 선택하거나, 전체 곡을 선택해 완성본 영상을 생성할 수 있습니다.  \ncustom 모드를 사용해 생성 모델을 선택하고, 해당 모델로 생성하고 싶을 때는 Seedance 2.5를 선택하세요."
+    },
+    "pt": {
+      "content": "Selecione a música base para o seu videoclipe escolhendo um tema em alta ou enviando sua própria música (por exemplo, uma gerada com freebeat).  \nEscolha qual trecho da música usar no vídeo ou selecione a música inteira para gerar o vídeo completo.  \nUse o modo custom para selecionar o modelo de geração e escolha Seedance 2.5 quando quiser gerar com esse modelo."
+    },
+    "zh": {
+      "content": "选择你的视频音乐的基础歌曲，可以挑选一首热门歌曲，或上传你自己的歌曲（例如用 freebeat 生成的歌曲）。  \n选择歌曲中用于视频的片段，或者选择整首歌曲来生成完整视频。  \n使用 custom 模式选择生成模型，并在想用该模型生成时选择 Seedance 2.5。"
+    }
+  }
+}

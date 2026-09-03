@@ -1,0 +1,42 @@
+{
+  "id": "2094659226958434621",
+  "title": "MotionStudioのテンプレートにスニーカー画像とプロンプトを入力し、Seedance2.5で30秒のスニーカーCMを生成する",
+  "content": "MotionStudioのテンプレートにスニーカー画像とプロンプトを入力し、Seedance2.5で30秒のスニーカーCMを生成する  \nテンプレートが用意されている場合はそれを活用して、構成を簡単に整えてからSeedanceで生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094657512331243520/img/NUNJ2rm86CjpP9A9.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094659226958434621.mp4",
+  "sourceLink": "https://x.com/minima_ai/status/2094659226958434621",
+  "sourcePublishedAt": "2026-09-01",
+  "author": {
+    "name": "MINIMA",
+    "link": "https://x.com/minima_ai"
+  },
+  "tags": [
+    "Product Ad",
+    "Luxury",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "MotionStudioのテンプレートにスニーカー画像とプロンプトを入力し、Seedance2.5で30秒のスニーカーCMを生成する  \nテンプレートが用意されている場合はそれを活用して、構成を簡単に整えてからSeedanceで生成する",
+  "translations": {
+    "en": {
+      "content": "Enter a sneaker image and prompt into MotionStudio’s template, then use Seedance 2.5 to generate a 30-second sneaker commercial.  \nIf a template is available, make use of it to quickly organize the composition before generating with Seedance."
+    },
+    "es": {
+      "content": "Introduce una imagen de unas zapatillas y un prompt en la plantilla de MotionStudio, y genera un anuncio de 30 segundos de zapatillas con Seedance2.5.  \nSi hay una plantilla disponible, aprovéchala para organizar fácilmente la composición antes de generar con Seedance."
+    },
+    "fr": {
+      "content": "Saisissez l’image de la sneaker et le prompt dans le template de MotionStudio, puis générez une publicité de 30 secondes pour la sneaker avec Seedance2.5.  \nSi un template est déjà disponible, utilisez-le pour structurer facilement la composition avant de générer avec Seedance."
+    },
+    "ko": {
+      "content": "MotionStudio 템플릿에 스니커즈 이미지와 prompt를 입력하고, Seedance2.5로 30초짜리 스니커즈 CM을 생성한다  \n템플릿이 준비되어 있다면 이를 활용해 구성을 간단히 정리한 뒤 Seedance로 생성한다"
+    },
+    "pt": {
+      "content": "Insira a imagem do tênis e o prompt no template do MotionStudio e gere um comercial de 30 segundos de tênis com o Seedance2.5.  \nSe houver um template disponível, aproveite-o para organizar facilmente a composição antes de gerar com o Seedance."
+    },
+    "zh": {
+      "content": "在 MotionStudio 的模板中输入运动鞋图片和 prompt，并使用 Seedance2.5 生成一支 30 秒的运动鞋广告片  \n如果已有现成模板，就加以利用，先轻松整理好构成，再用 Seedance 生成"
+    }
+  }
+}

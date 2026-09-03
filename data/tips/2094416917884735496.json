@@ -1,0 +1,42 @@
+{
+  "id": "2094416917884735496",
+  "title": "Use 4 generations with character reference images to maintain character…",
+  "content": "Use 4 generations with character reference images to maintain character consistency in Seedance 2.5.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094386469016141824/img/7irnX6hDsdhcBea2.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094416917884735496.mp4",
+  "sourceLink": "https://x.com/Dheepanratnam/status/2094416917884735496",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "Dheepan Ratnam",
+    "link": "https://x.com/Dheepanratnam"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use 4 generations with character reference images to maintain character consistency in Seedance 2.5.",
+  "translations": {
+    "es": {
+      "content": "Usa 4 generaciones con imágenes de referencia del personaje para mantener la consistencia del personaje en Seedance 2.5."
+    },
+    "fr": {
+      "content": "Utilisez 4 générations avec des images de référence du personnage pour maintenir la cohérence du personnage dans Seedance 2.5."
+    },
+    "ja": {
+      "content": "Seedance 2.5 でキャラクターの一貫性を保つには、キャラクター参照画像を使って4回生成してください。"
+    },
+    "ko": {
+      "content": "Seedance 2.5에서 캐릭터 일관성을 유지하려면 캐릭터 참조 이미지를 사용해 4개의 generation을 생성하세요."
+    },
+    "pt": {
+      "content": "Use 4 gerações com imagens de referência do personagem para manter a consistência do personagem no Seedance 2.5."
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 中，使用 4 次生成并配合角色参考图像，以保持角色一致性。"
+    }
+  }
+}

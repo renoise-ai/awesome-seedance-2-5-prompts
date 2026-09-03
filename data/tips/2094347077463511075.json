@@ -1,0 +1,42 @@
+{
+  "id": "2094347077463511075",
+  "title": "Stop generating lots of separate storyboards; instead imagine a complete scene…",
+  "content": "Stop generating lots of separate storyboards; instead imagine a complete scene and write it out as a full story in your own words before prompting Seedance.\n\nPaste your written scene into ChatGPT or Claude and ask it to break the story into timestamped beats/shots, then use those timestamps to structure your Seedance prompts.\n\nGenerate the base video in Seedance 2.5, then upscale the final render to 4K using Topaz Starlight Precise 2.6.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/media/HRCfCSdWYAA7yQz.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094347077463511075.mp4",
+  "sourceLink": "https://x.com/ibexdream/status/2094347077463511075",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "ibexdream",
+    "link": "https://x.com/ibexdream"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Stop generating lots of separate storyboards; instead imagine a complete scene and write it out as a full story in your own words before prompting Seedance.\n\nPaste your written scene into ChatGPT or Claude and ask it to break the story into timestamped beats/shots, then use those timestamps to structure your Seedance prompts.\n\nGenerate the base video in Seedance 2.5, then upscale the final render to 4K using Topaz Starlight Precise 2.6.",
+  "translations": {
+    "es": {
+      "content": "Deja de generar muchos storyboards separados; en su lugar, imagina una escena completa y escríbela como una historia completa con tus propias palabras antes de hacer el prompt para Seedance.\n\nPega la escena que escribiste en ChatGPT o Claude y pídele que divida la historia en beats/shots con marcas de tiempo; luego usa esos timestamps para estructurar tus prompts de Seedance.\n\nGenera el video base en Seedance 2.5 y luego haz upscale del render final a 4K usando Topaz Starlight Precise 2.6."
+    },
+    "fr": {
+      "content": "Arrêtez de générer une multitude de storyboards séparés ; imaginez plutôt une scène complète et rédigez-la sous forme d’une histoire entière, avec vos propres mots, avant de lancer Seedance.\n\nCollez la scène que vous avez rédigée dans ChatGPT ou Claude et demandez-lui de la découper en beats/shots horodatés, puis utilisez ces timestamps pour structurer vos prompts Seedance.\n\nGénérez la vidéo de base dans Seedance 2.5, puis upscalez le rendu final en 4K avec Topaz Starlight Precise 2.6."
+    },
+    "ja": {
+      "content": "たくさんの個別のストーリーボードを作るのはやめて、まずはシーン全体を頭の中で思い描き、Seedanceにプロンプトを出す前に、自分の言葉で完全なストーリーとして書き出してください。\n\n書いたシーンをChatGPTまたはClaudeに貼り付けて、ストーリーをタイムスタンプ付きのビート／ショットに分解するよう依頼し、そのタイムスタンプを使ってSeedanceのプロンプトを構成します。\n\nまずSeedance 2.5でベース動画を生成し、最後のレンダリングをTopaz Starlight Precise 2.6を使って4Kにアップスケールします。"
+    },
+    "ko": {
+      "content": "많은 개별 스토리보드를 생성하는 대신, 하나의 완성된 장면을 상상하고 Seedance에 프롬프트를 넣기 전에 자신의 말로 전체 이야기를 먼저 써보세요.\n\n작성한 장면을 ChatGPT나 Claude에 붙여넣고, 이야기를 타임스탬프가 있는 비트/샷으로 나눠 달라고 요청한 다음, 그 타임스탬프를 사용해 Seedance 프롬프트를 구성하세요.\n\nSeedance 2.5에서 기본 비디오를 생성한 다음, Topaz Starlight Precise 2.6을 사용해 최종 렌더를 4K로 업스케일하세요."
+    },
+    "pt": {
+      "content": "Pare de gerar vários storyboards separados; em vez disso, imagine uma cena completa e escreva-a como uma história inteira, com suas próprias palavras, antes de fazer o prompt para o Seedance.\n\nCole a cena que você escreveu no ChatGPT ou no Claude e peça para ele dividir a história em beats/shots com timestamps; depois use esses timestamps para estruturar seus prompts no Seedance.\n\nGere o vídeo base no Seedance 2.5 e, em seguida, faça o upscale do render final para 4K usando o Topaz Starlight Precise 2.6."
+    },
+    "zh": {
+      "content": "不要再生成大量彼此独立的分镜板了；相反，先在脑海中构想一个完整场景，并用你自己的话把它写成一个完整的故事，然后再去提示 Seedance。\n\n把你写好的场景粘贴到 ChatGPT 或 Claude 中，让它把这个故事拆分成带时间戳的节拍/镜头，然后用这些时间戳来组织你的 Seedance prompts。\n\n先在 Seedance 2.5 中生成基础视频，然后使用 Topaz Starlight Precise 2.6 将最终渲染升级到 4K。"
+    }
+  }
+}

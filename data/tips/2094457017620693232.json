@@ -1,0 +1,42 @@
+{
+  "id": "2094457017620693232",
+  "title": "Run SAM 3D Body locally (open-source) or on Comfy Cloud to extract body motion…",
+  "content": "Run SAM 3D Body locally (open-source) or on Comfy Cloud to extract body motion from a recording, then import that motion into Blender to control the camera, and use the resulting motion/camera setup as input for Seedance 2.5 for tighter control over body motion and camera movement.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094456962243231744/img/aH17ISVyfbJycf7m.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094457017620693232.mp4",
+  "sourceLink": "https://x.com/ComfyUI/status/2094457017620693232",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "ComfyUI",
+    "link": "https://x.com/ComfyUI"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Run SAM 3D Body locally (open-source) or on Comfy Cloud to extract body motion from a recording, then import that motion into Blender to control the camera, and use the resulting motion/camera setup as input for Seedance 2.5 for tighter control over body motion and camera movement.",
+  "translations": {
+    "es": {
+      "content": "Ejecuta SAM 3D Body localmente (open-source) o en Comfy Cloud para extraer el movimiento corporal de una grabación; luego importa ese movimiento en Blender para controlar la cámara y usa el movimiento/configuración de cámara resultante como entrada para Seedance 2.5, para un control más preciso sobre el movimiento corporal y el movimiento de cámara.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] SAM3D Body https://t.co/iyeyAfF6H8\n\n[Hilo 2] Seedance 2.5 https://t.co/tTyOlKzugz\n---"
+    },
+    "fr": {
+      "content": "Exécutez SAM 3D Body en local (open-source) ou sur Comfy Cloud pour extraire le mouvement du corps à partir d’un enregistrement, puis importez ce mouvement dans Blender pour contrôler la caméra, et utilisez le mouvement/la configuration caméra obtenus comme entrée pour Seedance 2.5 afin d’obtenir un contrôle plus précis du mouvement du corps et des déplacements de caméra.\n\n--- SUITE DU FIL DE DISCUSSION ---\n[Fil 1] SAM3D Body https://t.co/iyeyAfF6H8\n\n[Fil 2] Seedance 2.5 https://t.co/tTyOlKzugz\n---"
+    },
+    "ja": {
+      "content": "SAM 3D Body をローカル（オープンソース）または Comfy Cloud 上で実行して録画から身体のモーションを抽出し、そのモーションを Blender に取り込んでカメラを制御します。さらに、そのモーション／カメラ設定を Seedance 2.5 の入力として使用することで、身体の動きとカメラワークをより厳密にコントロールできます。\n\n--- スレッドの続き ---\n[Thread 1] SAM3D Body https://t.co/iyeyAfF6H8\n\n[Thread 2] Seedance 2.5 https://t.co/tTyOlKzugz\n---"
+    },
+    "ko": {
+      "content": "로컬에서 SAM 3D Body(오픈소스)를 실행하거나 Comfy Cloud에서 실행해 녹화본에서 바디 모션을 추출한 다음, 그 모션을 Blender로 가져와 카메라를 제어하고, 이렇게 생성된 모션/카메라 설정을 Seedance 2.5의 입력으로 사용하면 바디 모션과 카메라 움직임을 더 정밀하게 제어할 수 있습니다.\n\n--- 스레드 이어짐 ---\n[스레드 1] SAM3D Body https://t.co/iyeyAfF6H8\n\n[스레드 2] Seedance 2.5 https://t.co/tTyOlKzugz\n---"
+    },
+    "pt": {
+      "content": "Execute o SAM 3D Body localmente (open-source) ou no Comfy Cloud para extrair o movimento corporal de uma gravação, depois importe esse movimento para o Blender para controlar a câmera e use a configuração resultante de movimento/câmera como entrada para o Seedance 2.5, obtendo um controle mais preciso sobre o movimento corporal e o movimento da câmera.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] SAM3D Body https://t.co/iyeyAfF6H8\n\n[Thread 2] Seedance 2.5 https://t.co/tTyOlKzugz\n---"
+    },
+    "zh": {
+      "content": "在本地运行 SAM 3D Body（开源）或在 Comfy Cloud 上运行，从录制内容中提取身体运动，然后将该运动导入 Blender 以控制摄像机，并将生成的运动/摄像机设置作为 Seedance 2.5 的输入，从而更精确地控制身体运动和摄像机移动。\n\n--- 线程续篇 ---\n[Thread 1] SAM3D Body https://t.co/iyeyAfF6H8\n\n[Thread 2] Seedance 2.5 https://t.co/tTyOlKzugz\n---"
+    }
+  }
+}

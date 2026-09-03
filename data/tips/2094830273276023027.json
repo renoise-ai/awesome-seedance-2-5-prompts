@@ -1,0 +1,42 @@
+{
+  "id": "2094830273276023027",
+  "title": "Structure your Seedance prompt as a timecoded multi-shot montage (e.g…",
+  "content": "Structure your Seedance prompt as a timecoded multi-shot montage (e.g., 0:00–0:02 café, 0:02–0:04 walking, …) to control shot-by-shot actions and pacing within a 15-second video  \nSpecify camera and era explicitly (handheld early-2000s consumer DV camcorder) to drive the intended capture look  \nAdd documentary camera behavior keywords (handheld shake, imperfect autofocus, fast hard cuts, abrupt cut to black) to enforce realistic movement and editing  \nInclude texture/quality descriptors (digital grain, ultra-realistic documentary realism) to push the DV aesthetic  \nDefine diegetic audio elements and constraints in the prompt (café chatter, footsteps, traffic, refrigerator hum, laughter, final dialogue; no music) to guide sound design  \nDirect performance style explicitly (natural, comfortable, playful) to shape acting and expressions across shots",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094830180321968128/img/40F1ifhXye6luCkK.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094830273276023027.mp4",
+  "sourceLink": "https://x.com/Trumpal_trn/status/2094830273276023027",
+  "sourcePublishedAt": "2026-09-01",
+  "author": {
+    "name": "Conor",
+    "link": "https://x.com/Trumpal_trn"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Structure your Seedance prompt as a timecoded multi-shot montage (e.g., 0:00–0:02 café, 0:02–0:04 walking, …) to control shot-by-shot actions and pacing within a 15-second video  \nSpecify camera and era explicitly (handheld early-2000s consumer DV camcorder) to drive the intended capture look  \nAdd documentary camera behavior keywords (handheld shake, imperfect autofocus, fast hard cuts, abrupt cut to black) to enforce realistic movement and editing  \nInclude texture/quality descriptors (digital grain, ultra-realistic documentary realism) to push the DV aesthetic  \nDefine diegetic audio elements and constraints in the prompt (café chatter, footsteps, traffic, refrigerator hum, laughter, final dialogue; no music) to guide sound design  \nDirect performance style explicitly (natural, comfortable, playful) to shape acting and expressions across shots",
+  "translations": {
+    "es": {
+      "content": "Estructura tu prompt de Seedance como un montaje multiescena con marcas de tiempo (por ejemplo, 0:00–0:02 café, 0:02–0:04 caminando, …) para controlar las acciones y el ritmo plano por plano dentro de un video de 15 segundos  \nEspecifica explícitamente la cámara y la época (handheld early-2000s consumer DV camcorder) para lograr el look de captura deseado  \nAñade palabras clave de comportamiento de cámara documental (handheld shake, imperfect autofocus, fast hard cuts, abrupt cut to black) para imponer un movimiento y una edición realistas  \nIncluye descriptores de textura/calidad (digital grain, ultra-realistic documentary realism) para potenciar la estética DV  \nDefine en el prompt los elementos y restricciones del audio diegético (café chatter, footsteps, traffic, refrigerator hum, laughter, final dialogue; no music) para guiar el diseño sonoro  \nIndica explícitamente el estilo de interpretación (natural, comfortable, playful) para moldear la actuación y las expresiones a lo largo de las tomas"
+    },
+    "fr": {
+      "content": "Structurez votre prompt Seedance sous forme de montage multi-plans horodaté (par ex. 0:00–0:02 café, 0:02–0:04 marche, …) afin de contrôler les actions plan par plan et le rythme sur une vidéo de 15 secondes  \nPrécisez explicitement la caméra et l’époque (handheld early-2000s consumer DV camcorder) pour obtenir le rendu de capture souhaité  \nAjoutez des mots-clés de comportement caméra de style documentaire (handheld shake, imperfect autofocus, fast hard cuts, abrupt cut to black) pour imposer un mouvement et un montage réalistes  \nIncluez des descripteurs de texture/qualité (digital grain, ultra-realistic documentary realism) pour accentuer l’esthétique DV  \nDéfinissez dans le prompt les éléments et contraintes audio diégétiques (café chatter, footsteps, traffic, refrigerator hum, laughter, final dialogue; no music) pour guider la conception sonore  \nIndiquez explicitement le style de performance (natural, comfortable, playful) afin de façonner le jeu et les expressions sur l’ensemble des plans"
+    },
+    "ja": {
+      "content": "Seedance の prompt は、タイムコード付きのマルチショット・モンタージュとして構成してください（例: 0:00–0:02 café、0:02–0:04 walking、…）。これにより、15秒の動画内でショットごとの動きやテンポをコントロールできます。  \n意図した撮影ルックを実現するために、カメラと時代設定を明確に指定してください（handheld early-2000s consumer DV camcorder）。  \nリアルな動きと編集を徹底するため、ドキュメンタリー的なカメラ挙動を示すキーワードを追加してください（handheld shake、imperfect autofocus、fast hard cuts、abrupt cut to black）。  \nDVらしい質感を強めるために、テクスチャ／画質の描写を含めてください（digital grain、ultra-realistic documentary realism）。  \nサウンドデザインを導くために、prompt 内でダイジェティック音声要素と制約を定義してください（café chatter、footsteps、traffic、refrigerator hum、laughter、final dialogue; no music）。  \n演技や表情をショット全体で形作るために、パフォーマンスのスタイルを明確に指示してください（natural、comfortable、playful）。"
+    },
+    "ko": {
+      "content": "Seedance prompt를 15초 영상 안에서 샷별 동작과 페이싱을 제어할 수 있도록, 타임코드가 포함된 멀티샷 몽타주 형식으로 구성하세요(예: 0:00–0:02 카페, 0:02–0:04 걷기, …).  \n의도한 촬영 느낌을 구현하기 위해 카메라와 시대를 명확히 지정하세요(핸드헬드 early-2000s consumer DV camcorder).  \n현실적인 움직임과 편집을 강제하기 위해 다큐멘터리 카메라 동작 키워드(handheld shake, imperfect autofocus, fast hard cuts, abrupt cut to black)를 추가하세요.  \nDV aesthetic을 강화하려면 질감/화질 설명(digital grain, ultra-realistic documentary realism)을 포함하세요.  \n사운드 디자인을 유도할 수 있도록 prompt 안에 diegetic audio 요소와 제약 조건(café chatter, footsteps, traffic, refrigerator hum, laughter, final dialogue; no music)을 정의하세요.  \n샷 전반의 연기와 표정을 형성할 수 있도록 퍼포먼스 스타일을 명시적으로 지시하세요(natural, comfortable, playful)."
+    },
+    "pt": {
+      "content": "Estruture seu prompt do Seedance como uma montagem multi-shot com marcação de tempo (por exemplo, 0:00–0:02 café, 0:02–0:04 caminhando, …) para controlar as ações e o ritmo, tomada por tomada, dentro de um vídeo de 15 segundos  \nEspecifique explicitamente a câmera e a época (handheld early-2000s consumer DV camcorder) para orientar o visual de captura desejado  \nAdicione palavras-chave de comportamento de câmera documental (handheld shake, imperfect autofocus, fast hard cuts, abrupt cut to black) para reforçar o movimento e a edição realistas  \nInclua descritores de textura/qualidade (digital grain, ultra-realistic documentary realism) para acentuar a estética DV  \nDefina elementos e restrições de áudio diegético no prompt (café chatter, footsteps, traffic, refrigerator hum, laughter, final dialogue; no music) para orientar o sound design  \nDirecione explicitamente o estilo de performance (natural, comfortable, playful) para moldar a atuação e as expressões ao longo das cenas"
+    },
+    "zh": {
+      "content": "将你的 Seedance prompt 结构化为带时间码的多镜头 montage（例如，0:00–0:02 café，0:02–0:04 walking，……），以控制 15 秒视频内逐镜头的动作和节奏  \n明确指定 camera 和时代（handheld early-2000s consumer DV camcorder），以引导所需的拍摄质感  \n添加纪录片式 camera 行为关键词（handheld shake、imperfect autofocus、fast hard cuts、abrupt cut to black），以强化真实的运动和剪辑效果  \n加入纹理/画质描述词（digital grain、ultra-realistic documentary realism），以强化 DV 美学  \n在 prompt 中定义 diegetic audio 元素及限制（café chatter、footsteps、traffic、refrigerator hum、laughter、final dialogue；no music），以指导 sound design  \n明确指示表演风格（natural、comfortable、playful），以塑造各个镜头中的表演和表情"
+    }
+  }
+}

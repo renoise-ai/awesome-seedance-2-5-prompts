@@ -1,0 +1,41 @@
+{
+  "id": "2094427079714517214",
+  "title": "Explicitly specify bow-and-arrow orientation/physics in Seedance 2.5 prompts…",
+  "content": "Explicitly specify bow-and-arrow orientation/physics in Seedance 2.5 prompts (arrowhead forward, fletching/feathers at the rear, correct firing direction) to prevent common swaps like feathers appearing where the arrowhead should be.\n\nUse precise spatial/orientation language in prompts (in front/behind, left/right, in-frame/out-of-frame) to reduce Seedance 2.5 orientation errors where objects/cameras/binoculars/vehicles end up reversed or pop into the shot unexpectedly.",
+  "language": "en",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/Artedeingenio/status/2094427079714517214",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "OscarAI",
+    "link": "https://x.com/Artedeingenio"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Explicitly specify bow-and-arrow orientation/physics in Seedance 2.5 prompts (arrowhead forward, fletching/feathers at the rear, correct firing direction) to prevent common swaps like feathers appearing where the arrowhead should be.\n\nUse precise spatial/orientation language in prompts (in front/behind, left/right, in-frame/out-of-frame) to reduce Seedance 2.5 orientation errors where objects/cameras/binoculars/vehicles end up reversed or pop into the shot unexpectedly.",
+  "translations": {
+    "es": {
+      "content": "Especifica de forma explícita la orientación y la física del arco y la flecha en los prompts de Seedance 2.5 (punta de la flecha hacia delante, emplumado/plumas en la parte trasera, dirección correcta del disparo) para evitar errores comunes como que las plumas aparezcan donde debería estar la punta.\n\nUsa un lenguaje espacial y de orientación preciso en los prompts (delante/detrás, izquierda/derecha, dentro/fuera del encuadre) para reducir los errores de orientación de Seedance 2.5, en los que objetos/cámaras/binoculares/vehículos terminan invertidos o aparecen inesperadamente en la toma.\n\n--- TUIT CITADO ---\nUn pequeño arquero elfo enfrentándose a un Uruk-hai de la Mano Blanca y dándole una pelea seria.\n\nMidjourney + Seedance 2.5 es una combinación increíble.\n\nTambién compartiré este prompt con mis suscriptores. https://t.co/PtLrAFdCHf\n---"
+    },
+    "fr": {
+      "content": "Spécifiez explicitement l’orientation et la physique de l’arc et de la flèche dans les prompts Seedance 2.5 (pointe de flèche vers l’avant, empennage/plumes à l’arrière, bonne direction de tir) afin d’éviter les inversions fréquentes, comme des plumes apparaissant là où devrait se trouver la pointe de la flèche.\n\nUtilisez un langage spatial et d’orientation précis dans les prompts (devant/derrière, gauche/droite, dans le cadre/hors cadre) pour réduire les erreurs d’orientation de Seedance 2.5, où des objets/caméras/jumelles/véhicules se retrouvent inversés ou surgissent dans le plan de manière inattendue.\n\n--- TWEET CITÉ ---\nUn petit archer elfe affrontant un Uruk-hai de la Main Blanche et lui livrant un combat acharné.\n\nMidjourney + Seedance 2.5 est une combinaison vraiment incroyable.\n\nJe partagerai aussi ce prompt avec mes abonnés. https://t.co/PtLrAFdCHf\n---"
+    },
+    "ja": {
+      "content": "Seedance 2.5 のプロンプトでは、弓と矢の向き／物理を明示的に指定してください（矢じりが前、矢羽根／フェザーが後ろ、正しい発射方向）。そうすることで、矢じりがあるべき位置にフェザーが来てしまうような、よくある入れ替わりを防げます。\n\nプロンプトでは、正確な空間・向きの表現（前／後、左／右、画面内／画面外）を使ってください。これにより、Seedance 2.5 で物体／カメラ／双眼鏡／車両の向きが逆になったり、予期せず画面に飛び込んできたりする ориентация エラーを減らせます。\n\n--- 引用ツイート ---\n白の手のウルク＝ハイに立ち向かい、かなりの激戦を繰り広げる、ちょっとしたエルフの弓兵。\n\nMidjourney + Seedance 2.5 は本当に素晴らしい組み合わせです。\n\nこのプロンプトは、購読者の皆さんにも共有する予定です。 https://t.co/PtLrAFdCHf\n---"
+    },
+    "ko": {
+      "content": "Seedance 2.5 프롬프트에서는 활과 화살의 방향/물리 특성을 명시적으로 지정하세요(화살촉이 앞쪽, 깃털(fletching/feathers)은 뒤쪽, 올바른 발사 방향). 그래야 화살촉이 있어야 할 자리에 깃털이 나타나는 것 같은 흔한 뒤바뀜을 방지할 수 있습니다.\n\n프롬프트에서는 정확한 공간/방향 표현을 사용하세요(앞/뒤, 왼쪽/오른쪽, 프레임 안/프레임 밖). 이렇게 하면 Seedance 2.5에서 물체/카메라/쌍안경/차량의 방향이 뒤집히거나, 장면에 예기치 않게 튀어나오는 오류를 줄일 수 있습니다.\n\n--- 인용된 트윗 ---\n작은 엘프 궁수가 White Hand의 Uruk-hai와 맞서 진지한 싸움을 벌이고 있다.\n\nMidjourney + Seedance 2.5는 정말 놀라운 조합입니다.\n\n이 프롬프트는 제 구독자분들과도 공유할 예정입니다. https://t.co/PtLrAFdCHf\n---"
+    },
+    "pt": {
+      "content": "Especifique explicitamente a orientação/física do arco e flecha nos prompts do Seedance 2.5 (ponta da flecha voltada para a frente, penas/empennagem na parte traseira, direção correta do disparo) para evitar trocas comuns, como as penas aparecerem onde a ponta da flecha deveria estar.\n\nUse linguagem espacial/de orientação precisa nos prompts (na frente/atrás, esquerda/direita, dentro/fora do enquadramento) para reduzir erros de orientação do Seedance 2.5, em que objetos/câmeras/binóculos/veículos acabam invertidos ou entram inesperadamente na cena.\n\n--- TWEET CITADO ---\nUm pequeno arqueiro élfico enfrentando um Uruk-hai da Mão Branca e dando a ele uma luta séria.\n\nMidjourney + Seedance 2.5 é uma combinação incrível.\n\nVou compartilhar este prompt com meus assinantes também. https://t.co/PtLrAFdCHf\n---"
+    },
+    "zh": {
+      "content": "在 Seedance 2.5 prompts 中明确指定弓箭的朝向/物理关系（箭头朝前、尾羽/箭羽在后、正确的发射方向），以防止常见的错位，比如箭头该出现的位置却变成了羽毛。\n\n在 prompts 中使用精确的空间/朝向语言（前方/后方、左/右、画面内/画面外），以减少 Seedance 2.5 的朝向错误，例如物体/相机/望远镜/车辆被反向放置，或意外突然进入镜头。\n\n--- 引用的推文 ---\n一个小小的精灵弓箭手对上了一个白手的乌鲁克海，并且给了他一场相当激烈的战斗。\n\nMidjourney + Seedance 2.5 真是一个惊人的组合。\n\n我也会把这个 prompt 分享给我的订阅者。 https://t.co/PtLrAFdCHf"
+    }
+  }
+}

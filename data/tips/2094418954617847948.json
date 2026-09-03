@@ -1,0 +1,42 @@
+{
+  "id": "2094418954617847948",
+  "title": "用 Seedance 2.5 生成 29 秒、16:9 横屏、中文的视频，并在提示词里指定这些参数",
+  "content": "用 Seedance 2.5 生成 29 秒、16:9 横屏、中文的视频，并在提示词里指定这些参数  \n用提示词模板制作“电子女友桌面”：替换为你自己的图片、台词、衣服/装备即可快速复用  \n在提示词中加入人物参考链接（仅参考该图），并明确人物要求为成年女主以稳定角色一致性  \n在提示词中要求字幕逐字匹配台词以获得一字不差的字幕输出",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094418577877061633/img/HY4XzA0eav_oC4cL.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094418954617847948.mp4",
+  "sourceLink": "https://x.com/johnAGI168/status/2094418954617847948",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "John",
+    "link": "https://x.com/johnAGI168"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "用 Seedance 2.5 生成 29 秒、16:9 横屏、中文的视频，并在提示词里指定这些参数  \n用提示词模板制作“电子女友桌面”：替换为你自己的图片、台词、衣服/装备即可快速复用  \n在提示词中加入人物参考链接（仅参考该图），并明确人物要求为成年女主以稳定角色一致性  \n在提示词中要求字幕逐字匹配台词以获得一字不差的字幕输出",
+  "translations": {
+    "en": {
+      "content": "Generate a 29-second, 16:9 landscape, Chinese-language video with Seedance 2.5, and specify these parameters in the prompt.  \nUse the prompt template to create an “AI girlfriend desktop”: simply replace it with your own image, dialogue, and clothing/equipment for quick reuse.  \nAdd a character reference link in the prompt (for reference to that image only), and clearly specify that the character should be an adult female lead to maintain stable character consistency.  \nIn the prompt, require the subtitles to match the dialogue word for word to achieve exact subtitle output."
+    },
+    "es": {
+      "content": "Genera un video en chino con Seedance 2.5 de 29 segundos, en formato horizontal 16:9, y especifica estos parámetros en el prompt  \nCrea un “escritorio de novia electrónica” usando una plantilla de prompt: solo reemplaza tu propia imagen, diálogo y ropa/equipo para reutilizarlo rápidamente  \nAñade en el prompt un enlace de referencia del personaje (solo como referencia de esa imagen) y deja claro que el personaje debe ser una protagonista adulta para mantener la consistencia del角色  \nEn el prompt, pide que los subtítulos coincidan palabra por palabra con el diálogo para obtener subtítulos exactos, sin ninguna diferencia de texto"
+    },
+    "fr": {
+      "content": "Générez avec Seedance 2.5 une vidéo en chinois de 29 secondes, au format 16:9 horizontal, et spécifiez ces paramètres dans le prompt  \nCréez un « bureau de petite amie électronique » à l’aide du modèle de prompt : remplacez simplement par vos propres images, répliques et vêtements/équipement pour une réutilisation rapide  \nAjoutez dans le prompt un lien de référence du personnage (à utiliser uniquement comme référence visuelle) et précisez clairement que le personnage doit être une protagoniste adulte afin de stabiliser la cohérence du personnage  \nDans le prompt, demandez que les sous-titres correspondent mot à mot aux répliques afin d’obtenir une sortie de sous-titres parfaitement fidèle, sans aucune différence de texte"
+    },
+    "ja": {
+      "content": "Generate a 29-second, 16:9 landscape, Chinese video with Seedance 2.5, and specify these parameters in the prompt.  \nUse the prompt template to create an “electronic girlfriend desktop”: simply replace it with your own image, lines, and clothes/equipment for quick reuse.  \nAdd a character reference link in the prompt (use the image only as a reference), and clearly specify that the character should be an adult female lead to maintain stable character consistency.  \nIn the prompt, require the subtitles to match the dialogue word for word to achieve exact subtitle output."
+    },
+    "ko": {
+      "content": "Seedance 2.5로 29초, 16:9 가로 화면, 중국어 비디오를 생성하고, prompt에서 이러한 파라미터를 지정하세요  \nprompt 템플릿을 사용해 “전자 여자친구 데스크톱”을 제작하세요: 자신의 이미지, 대사, 의상/장비로 바꾸기만 하면 빠르게 재사용할 수 있습니다  \nprompt에 인물 참고 링크를 추가하고(해당 이미지만 참고), 인물 조건을 성인 여성 주인공으로 명확히 지정해 캐릭터 일관성을 안정적으로 유지하세요  \nprompt에서 자막이 대사와 한 글자도 다르지 않게 정확히 일치하도록 요구해, 한 글자도 틀리지 않는 자막 출력을 얻으세요"
+    },
+    "pt": {
+      "content": "Gere um vídeo em chinês com o Seedance 2.5, com 29 segundos, formato horizontal 16:9, e especifique esses parâmetros no prompt  \nCrie um “desktop de namorada virtual” usando o template de prompt: basta substituir pela sua própria imagem, falas e roupa/equipamento para reutilização rápida  \nAdicione no prompt um link de referência da personagem (apenas para referência dessa imagem) e deixe claro que a personagem deve ser uma protagonista adulta para manter a consistência do personagem  \nNo prompt, peça que as legendas correspondam palavra por palavra às falas para obter uma saída de legendas exatamente igual ao texto falado"
+    }
+  }
+}

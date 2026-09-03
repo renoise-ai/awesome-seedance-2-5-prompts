@@ -1,0 +1,43 @@
+{
+  "id": "2094275591780679889",
+  "title": "Generate UGC-style videos by using Nextify AI with an avatar and a custom…",
+  "content": "Generate UGC-style videos by using Nextify AI with an avatar and a custom prompt, then render the final video using the Seedance 2.5 model.  \nStart from one of Seedance’s 100+ UGC templates to quickly establish a concept before customizing the prompt/avatar.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094275234878935040/img/rgqCvPyddvZ01xqD.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094275591780679889.mp4",
+  "sourceLink": "https://x.com/ZaraIrahh/status/2094275591780679889",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "Zara",
+    "link": "https://x.com/ZaraIrahh"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial",
+    "Model Showcase"
+  ],
+  "tips": "Generate UGC-style videos by using Nextify AI with an avatar and a custom prompt, then render the final video using the Seedance 2.5 model.  \nStart from one of Seedance’s 100+ UGC templates to quickly establish a concept before customizing the prompt/avatar.",
+  "translations": {
+    "es": {
+      "content": "Genera videos estilo UGC usando Nextify AI con un avatar y un prompt personalizado, y luego renderiza el video final usando el modelo Seedance 2.5.  \nEmpieza con una de las más de 100 plantillas UGC de Seedance para establecer rápidamente un concepto antes de personalizar el prompt o el avatar."
+    },
+    "fr": {
+      "content": "Générez des vidéos au style UGC en utilisant Nextify AI avec un avatar et un prompt personnalisé, puis rendez la vidéo finale à l’aide du modèle Seedance 2.5.  \nCommencez par l’un des plus de 100 templates UGC de Seedance pour définir rapidement un concept avant de personnaliser le prompt/l’avatar."
+    },
+    "ja": {
+      "content": "Nextify AI を使って、アバターとカスタムプロンプトを組み合わせた UGC スタイルの動画を生成し、最後に Seedance 2.5 モデルで最終動画をレンダリングします。  \nまずは Seedance の 100 種類以上ある UGC テンプレートの中から 1 つを選び、コンセプトを素早く固めてから、プロンプトやアバターをカスタマイズしましょう。"
+    },
+    "ko": {
+      "content": "Nextify AI를 사용해 아바타와 커스텀 프롬프트로 UGC 스타일 영상을 생성한 다음, Seedance 2.5 모델로 최종 영상을 렌더링하세요.  \nSeedance의 100개 이상의 UGC 템플릿 중 하나로 시작해, 프롬프트/아바타를 커스터마이징하기 전에 콘셉트를 빠르게 잡을 수 있습니다."
+    },
+    "pt": {
+      "content": "Gere vídeos no estilo UGC usando o Nextify AI com um avatar e um prompt personalizado, e depois renderize o vídeo final usando o modelo Seedance 2.5.  \nComece com um dos mais de 100 templates UGC da Seedance para estabelecer rapidamente um conceito antes de personalizar o prompt/avatar."
+    },
+    "zh": {
+      "content": "使用 Nextify AI 搭配 avatar 和自定义 prompt 生成 UGC 风格视频，然后使用 Seedance 2.5 模型渲染最终视频。  \n先从 Seedance 提供的 100+ 个 UGC 模板中选择一个，快速建立概念，再对 prompt/avatar 进行自定义。"
+    }
+  }
+}

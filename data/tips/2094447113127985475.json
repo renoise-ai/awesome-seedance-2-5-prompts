@@ -1,0 +1,42 @@
+{
+  "id": "2094447113127985475",
+  "title": "Use a previz workflow (photo → object segmentation → generated 360 world →…",
+  "content": "Use a previz workflow (photo → object segmentation → generated 360 world → lighting → keyframed camera animation) and export the shot into Seedance 2.5 to lock composition/motion before generating, reducing the need to regenerate a 30-second shot multiple times.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094447054604959744/img/waGucCy3Q_he05Bk.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094447113127985475.mp4",
+  "sourceLink": "https://x.com/lvalics/status/2094447113127985475",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "Valics Lehel",
+    "link": "https://x.com/lvalics"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a previz workflow (photo → object segmentation → generated 360 world → lighting → keyframed camera animation) and export the shot into Seedance 2.5 to lock composition/motion before generating, reducing the need to regenerate a 30-second shot multiple times.",
+  "translations": {
+    "es": {
+      "content": "Usa un flujo de trabajo de previz (foto → segmentación de objetos → mundo 360 generado → iluminación → animación de cámara con keyframes) y exporta la toma a Seedance 2.5 para fijar la composición y el movimiento antes de generar, reduciendo la necesidad de regenerar varias veces una toma de 30 segundos."
+    },
+    "fr": {
+      "content": "Utilisez un workflow de previz (photo → segmentation d’objet → monde 360 généré → éclairage → animation de caméra keyframée) et exportez le plan dans Seedance 2.5 afin de verrouiller la composition et le mouvement avant la génération, réduisant ainsi le besoin de régénérer plusieurs fois un plan de 30 secondes."
+    },
+    "ja": {
+      "content": "previzワークフロー（写真 → オブジェクトセグメンテーション → 生成された360°ワールド → ライティング → キーフレーム付きカメラアニメーション）を使用し、ショットをSeedance 2.5にエクスポートして、生成前に構図とモーションを固定することで、30秒のショットを何度も再生成する必要を減らします。"
+    },
+    "ko": {
+      "content": "previz 워크플로우(사진 → 오브젝트 세분화 → 생성된 360도 월드 → 라이팅 → 키프레임 카메라 애니메이션)를 사용하고, 샷을 Seedance 2.5로 내보내 생성 전에 구도와 모션을 고정하면 30초짜리 샷을 여러 번 재생성해야 하는 필요를 줄일 수 있습니다."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho de previz (foto → segmentação de objetos → mundo 360 gerado → iluminação → animação de câmera com keyframes) e exporte a tomada para o Seedance 2.5 para travar a composição/movimento antes da geração, reduzindo a necessidade de regenerar uma tomada de 30 segundos várias vezes."
+    },
+    "zh": {
+      "content": "使用 previz 工作流（照片 → 物体分割 → 生成的 360 世界 → 灯光 → 关键帧 camera animation），并将镜头导出到 Seedance 2.5，在生成前锁定构图/运动，从而减少对一个 30 秒镜头反复重新生成的需要。"
+    }
+  }
+}

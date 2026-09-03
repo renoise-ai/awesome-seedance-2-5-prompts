@@ -1,0 +1,41 @@
+{
+  "id": "2094363030071169528",
+  "title": "パルクール向けの全体マップを作り、進行ルートを赤線で描き込んだ「ルート付きマップ」を用意する",
+  "content": "パルクール向けの全体マップを作り、進行ルートを赤線で描き込んだ「ルート付きマップ」を用意する  \nキャラクターシートとルート付きマップを参照画像としてSeedance2.5に渡し、そのルートに沿った追いかけっこパルクール動画を生成する",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094362960118546432/img/JC5xSYj0kFB_WXuo.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094363030071169528.mp4",
+  "sourceLink": "https://x.com/Kashiko_AIart/status/2094363030071169528",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "かし子🍩",
+    "link": "https://x.com/Kashiko_AIart"
+  },
+  "tags": [
+    "Action",
+    "Chase",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "tips": "パルクール向けの全体マップを作り、進行ルートを赤線で描き込んだ「ルート付きマップ」を用意する  \nキャラクターシートとルート付きマップを参照画像としてSeedance2.5に渡し、そのルートに沿った追いかけっこパルクール動画を生成する",
+  "translations": {
+    "en": {
+      "content": "Prepare a “route map” by creating an overall map for parkour and drawing the route in red lines.  \nPass the character sheet and the route map to Seedance2.5 as reference images, and generate a chase-style parkour video that follows that route."
+    },
+    "es": {
+      "content": "Crear un mapa general para parkour y preparar un “mapa con ruta” en el que se dibuje la ruta de avance con una línea roja.  \nPasar la hoja de personaje y el mapa con ruta a Seedance2.5 como imágenes de referencia, y generar un video de parkour de persecución siguiendo esa ruta."
+    },
+    "fr": {
+      "content": "Préparer une « carte avec itinéraire » en créant une carte globale pour le parkour et en y traçant le parcours en ligne rouge.  \nFournir à Seedance2.5 la character sheet et la carte avec itinéraire comme images de référence, puis générer une vidéo de parkour en poursuite suivant ce parcours."
+    },
+    "ko": {
+      "content": "파쿠르용 전체 맵을 만들고, 진행 경로를 빨간 선으로 그려 넣은 「루트 포함 맵」을 준비한다  \n캐릭터 시트와 루트 포함 맵을 참조 이미지로 Seedance2.5에 전달하고, 그 루트를 따라가는 추격전 파쿠르 영상을 생성한다"
+    },
+    "pt": {
+      "content": "Prepare um “mapa com rota” para parkour, criando um mapa geral e desenhando a rota de progressão com uma linha vermelha.  \nPasse a ficha do personagem e o mapa com rota para o Seedance2.5 como imagens de referência e gere um vídeo de parkour de perseguição seguindo essa rota."
+    },
+    "zh": {
+      "content": "制作一张适合跑酷的整体地图，并用红线标出行进路线，准备一张“带路线的地图”  \n将角色设定图和带路线的地图作为参考图传给 Seedance2.5，生成一段沿着该路线进行追逐跑酷的视频"
+    }
+  }
+}

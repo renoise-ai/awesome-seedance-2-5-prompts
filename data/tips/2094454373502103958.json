@@ -1,0 +1,42 @@
+{
+  "id": "2094454373502103958",
+  "title": "先用WorldGen搭建资产彼此独立、空间结构明确的3D场景（白模/基础渲染），再把该基础渲染交给Seedance…",
+  "content": "先用WorldGen搭建资产彼此独立、空间结构明确的3D场景（白模/基础渲染），再把该基础渲染交给Seedance 2.5补充人物表现、材质、光影与整体风格，将其转化为接近影视级的动态片段",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094453636965572608/img/H1U_2yWW2k4mrgE9.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094454373502103958.mp4",
+  "sourceLink": "https://x.com/xiaohu/status/2094454373502103958",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "小互",
+    "link": "https://x.com/xiaohu"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "先用WorldGen搭建资产彼此独立、空间结构明确的3D场景（白模/基础渲染），再把该基础渲染交给Seedance 2.5补充人物表现、材质、光影与整体风格，将其转化为接近影视级的动态片段",
+  "translations": {
+    "en": {
+      "content": "First use WorldGen to build a 3D scene with assets that are independent from one another and a clearly defined spatial structure (white model/basic render), then hand that base render to Seedance 2.5 to add character performance, materials, lighting and shadows, and the overall style, transforming it into a dynamic clip that approaches cinematic quality."
+    },
+    "es": {
+      "content": "Primero usa WorldGen para construir una escena 3D con assets independientes entre sí y una estructura espacial clara (white model / render básico), y luego entrega ese render base a Seedance 2.5 para añadir la actuación de los personajes, los materiales, la iluminación y sombras, y el estilo general, transformándolo en un fragmento dinámico cercano a nivel cinematográfico."
+    },
+    "fr": {
+      "content": "Commencez par utiliser WorldGen pour construire une scène 3D avec des assets indépendants les uns des autres et une structure spatiale claire (white model / rendu de base), puis confiez ce rendu de base à Seedance 2.5 afin d’ajouter les personnages, les matériaux, les effets de lumière et d’ombre ainsi que le style global, pour le transformer en un extrait dynamique proche d’un rendu cinématographique de niveau film."
+    },
+    "ja": {
+      "content": "First, use WorldGen to build a 3D scene with assets that are independent from each other and have a clearly defined spatial structure (white model/basic render), then hand off that base render to Seedance 2.5 to add character performance, materials, lighting and shadows, and the overall style, transforming it into a dynamic clip that approaches cinematic quality."
+    },
+    "ko": {
+      "content": "먼저 WorldGen으로 자산들이 서로 독립적이고 공간 구조가 명확한 3D 장면(화이트 모델/기본 렌더링)을 구축한 다음, 그 기본 렌더링을 Seedance 2.5에 넘겨 인물 표현, 재질, 조명과 그림자, 전체 스타일을 보강해 영화급에 가까운 동적 클립으로 전환한다."
+    },
+    "pt": {
+      "content": "Primeiro, use o WorldGen para construir uma cena 3D com assets independentes entre si e uma estrutura espacial bem definida (white model/renderização básica); depois, passe essa renderização base para o Seedance 2.5 para complementar a atuação dos personagens, os materiais, a iluminação e sombra e o estilo geral, transformando-a em um clipe dinâmico próximo ao nível cinematográfico."
+    }
+  }
+}

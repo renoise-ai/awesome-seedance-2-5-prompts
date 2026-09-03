@@ -1,0 +1,42 @@
+{
+  "id": "2095025524586193105",
+  "title": "上传自己的图片作为参考图（@图片1），并在提示词中要求锁定主角面部、发型和人物造型，不额外描述或更换穿着",
+  "content": "上传自己的图片作为参考图（@图片1），并在提示词中要求锁定主角面部、发型和人物造型，不额外描述或更换穿着  \n将 Seedance 2.5 的 Duration 设置为 10 秒生成视频  \n将 Aspect ratio 设置为 9:16 以生成竖屏视频  \n添加音频链接（Audio URL）作为配乐/节奏参考来驱动舞蹈效果",
+  "language": "zh",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2095025208868397062/img/L3qjQ78oYuvReMMB.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2095025524586193105.mp4",
+  "sourceLink": "https://x.com/johnAGI168/status/2095025524586193105",
+  "sourcePublishedAt": "2026-09-02",
+  "author": {
+    "name": "John",
+    "link": "https://x.com/johnAGI168"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "上传自己的图片作为参考图（@图片1），并在提示词中要求锁定主角面部、发型和人物造型，不额外描述或更换穿着  \n将 Seedance 2.5 的 Duration 设置为 10 秒生成视频  \n将 Aspect ratio 设置为 9:16 以生成竖屏视频  \n添加音频链接（Audio URL）作为配乐/节奏参考来驱动舞蹈效果",
+  "translations": {
+    "en": {
+      "content": "Upload your own image as a reference image (@image 1), and in the prompt, specify that the main character’s face, hairstyle, and overall appearance should be locked, without adding extra descriptions or changing the outfit.  \nSet Seedance 2.5’s Duration to 10 seconds to generate the video.  \nSet the Aspect ratio to 9:16 to generate a vertical video.  \nAdd an audio link (Audio URL) as a music/rhythm reference to drive the dance effect."
+    },
+    "es": {
+      "content": "Sube tu propia imagen como imagen de referencia (@imagen1) y, en el prompt, pide fijar el rostro, el peinado y la apariencia del personaje principal, sin describir ni cambiar la vestimenta.  \nConfigura la duración de Seedance 2.5 en 10 segundos para generar el video.  \nConfigura el aspect ratio en 9:16 para generar un video vertical.  \nAñade un enlace de audio (Audio URL) como referencia de música/ritmo para impulsar el efecto de baile."
+    },
+    "fr": {
+      "content": "Téléchargez votre propre image comme image de référence (@image 1), et dans le prompt, demandez de verrouiller le visage du personnage principal, sa coiffure et son apparence, sans décrire davantage ni changer ses vêtements.  \nRéglez la durée de Seedance 2.5 sur 10 secondes pour générer la vidéo.  \nRéglez le format d’image (Aspect ratio) sur 9:16 pour générer une vidéo verticale.  \nAjoutez un lien audio (Audio URL) comme référence musicale/rythmique afin de guider l’effet de danse."
+    },
+    "ja": {
+      "content": "自分の画像を参考画像（@画像1）としてアップロードし、prompt内で主役の顔、髪型、人物の造形を固定するよう指定し、服装については追加で描写したり変更したりしない  \nSeedance 2.5 の Duration を 10秒に設定して動画を生成する  \nAspect ratio を 9:16 に設定して縦長動画を生成する  \n音声リンク（Audio URL）をBGM／リズムの参考として追加し、ダンス効果を駆動する"
+    },
+    "ko": {
+      "content": "자신의 이미지를 참고 이미지(@图片1)로 업로드하고, prompt에서 주인공의 얼굴, 헤어스타일, 인물 스타일을 고정하도록 요청한 뒤, 의상은 추가로 묘사하거나 변경하지 않기  \nSeedance 2.5의 Duration을 10초로 설정해 비디오 생성  \nAspect ratio를 9:16으로 설정해 세로형 비디오 생성  \n오디오 링크(Audio URL)를 배경음악/리듬 참고용으로 추가해 춤 효과를 구동하기"
+    },
+    "pt": {
+      "content": "Envie sua própria imagem como imagem de referência (@imagem1) e, no prompt, peça para travar o rosto, o penteado e o visual do personagem principal, sem descrever ou trocar as roupas  \nDefina a Duration do Seedance 2.5 para 10 segundos para gerar o vídeo  \nDefina o Aspect ratio para 9:16 para gerar um vídeo em formato vertical  \nAdicione um link de áudio (Audio URL) como referência de trilha/ritmo para conduzir o efeito de dança"
+    }
+  }
+}

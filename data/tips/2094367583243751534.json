@@ -1,0 +1,42 @@
+{
+  "id": "2094367583243751534",
+  "title": "Use Seedance 2.5 video model and prompt it to generate a 30-second dance video",
+  "content": "Use Seedance 2.5 video model and prompt it to generate a 30-second dance video  \nCreate background images with ChatGPT and use them as the video background assets  \nUpload a character sheet in Lovart AI to keep character consistency in the Seedance video",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/media/HRCwgh-WUAAP-JD.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094367583243751534.mp4",
+  "sourceLink": "https://x.com/Shinebynous/status/2094367583243751534",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "Shine by Nous ✨",
+    "link": "https://x.com/Shinebynous"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "3D Animation",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 video model and prompt it to generate a 30-second dance video  \nCreate background images with ChatGPT and use them as the video background assets  \nUpload a character sheet in Lovart AI to keep character consistency in the Seedance video",
+  "translations": {
+    "es": {
+      "content": "Usa el modelo de video Seedance 2.5 y dale un prompt para generar un video de baile de 30 segundos  \nCrea imágenes de fondo con ChatGPT y úsalas como recursos de fondo del video  \nSube una hoja de personaje en Lovart AI para mantener la consistencia del personaje en el video de Seedance"
+    },
+    "fr": {
+      "content": "Utilisez le modèle vidéo Seedance 2.5 et rédigez un prompt pour générer une vidéo de danse de 30 secondes  \nCréez des images de fond avec ChatGPT et utilisez-les comme éléments d’arrière-plan de la vidéo  \nImportez une character sheet dans Lovart AI pour maintenir la cohérence du personnage dans la vidéo Seedance"
+    },
+    "ja": {
+      "content": "Seedance 2.5 video model を使用し、30秒のダンス動画を生成するよう prompt してください  \nChatGPT で背景画像を作成し、それを動画の背景アセットとして使用します  \nLovart AI にキャラクターシートをアップロードして、Seedance の動画内でキャラクターの一貫性を保ちます"
+    },
+    "ko": {
+      "content": "Seedance 2.5 비디오 모델을 사용해 30초짜리 댄스 영상을 생성하도록 prompt를 입력하세요  \nChatGPT로 배경 이미지를 만들고, 이를 영상의 배경 에셋으로 사용하세요  \nLovart AI에 캐릭터 시트를 업로드해 Seedance 영상에서 캐릭터 일관성을 유지하세요"
+    },
+    "pt": {
+      "content": "Use o modelo de vídeo Seedance 2.5 e faça um prompt para gerar um vídeo de dança de 30 segundos  \nCrie imagens de fundo com o ChatGPT e use-as como assets de background do vídeo  \nEnvie uma character sheet no Lovart AI para manter a consistência do personagem no vídeo do Seedance"
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 视频模型，并通过 prompt 让它生成一段 30 秒的舞蹈视频  \n使用 ChatGPT 创建背景图像，并将其作为视频背景素材  \n在 Lovart AI 中上传角色设定表，以保持 Seedance 视频中的角色一致性"
+    }
+  }
+}

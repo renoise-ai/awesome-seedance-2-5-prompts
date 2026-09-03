@@ -1,0 +1,41 @@
+{
+  "id": "2094379680061370856",
+  "title": "キャラクターシートと背景画像をリファレンスとしてアップロードして生成し、キャラの見た目と背景の一貫性を保つ",
+  "content": "キャラクターシートと背景画像をリファレンスとしてアップロードして生成し、キャラの見た目と背景の一貫性を保つ",
+  "language": "ja",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2094311810325463040/img/IEHSgtKFZlDBbBo4.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2094379680061370856.mp4",
+  "sourceLink": "https://x.com/ZetoGroovin/status/2094379680061370856",
+  "sourcePublishedAt": "2026-08-31",
+  "author": {
+    "name": "Zeto",
+    "link": "https://x.com/ZetoGroovin"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Portrait",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "tips": "キャラクターシートと背景画像をリファレンスとしてアップロードして生成し、キャラの見た目と背景の一貫性を保つ",
+  "translations": {
+    "en": {
+      "content": "Upload the character sheet and background image as references when generating, to maintain consistency in the character’s appearance and the background."
+    },
+    "es": {
+      "content": "Sube la hoja de personaje y la imagen de fondo como referencia para generar la imagen, y mantén la coherencia entre la apariencia del personaje y el fondo."
+    },
+    "fr": {
+      "content": "Téléchargez la character sheet et l’image de fond comme références pour générer le contenu, afin de conserver la cohérence de l’apparence du personnage et du décor."
+    },
+    "ko": {
+      "content": "캐릭터 시트와 배경 이미지를 레퍼런스로 업로드해 생성하고, 캐릭터의 외형과 배경의 일관성을 유지한다"
+    },
+    "pt": {
+      "content": "Faça o upload da character sheet e da imagem de fundo como referência para gerar, mantendo a consistência da aparência do personagem e do cenário."
+    },
+    "zh": {
+      "content": "上传角色设定图和背景图作为参考进行生成，保持角色外观与背景的一致性"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2095124962063323422",
+  "title": "Compare 15s vs 30s generations using the same prompt and only changing Duration…",
+  "content": "Compare 15s vs 30s generations using the same prompt and only changing Duration to diagnose where long clips drift.  \nFor one continuous action prompt, keep Duration around 15 seconds if you want a clear beginning-to-end progression without looping/drift.  \nWhen generating 30-second clips, use a stage template (structured stages) to maintain consistent progression past ~15 seconds.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2095124914143387648/img/jOeW5-4GeYgV6CeJ.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2095124962063323422.mp4",
+  "sourceLink": "https://x.com/GlennHasABeard/status/2095124962063323422",
+  "sourcePublishedAt": "2026-09-02",
+  "author": {
+    "name": "Glenn Williams",
+    "link": "https://x.com/GlennHasABeard"
+  },
+  "tags": [
+    "Story",
+    "Talk",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Compare 15s vs 30s generations using the same prompt and only changing Duration to diagnose where long clips drift.  \nFor one continuous action prompt, keep Duration around 15 seconds if you want a clear beginning-to-end progression without looping/drift.  \nWhen generating 30-second clips, use a stage template (structured stages) to maintain consistent progression past ~15 seconds.",
+  "translations": {
+    "es": {
+      "content": "Compara generaciones de 15 s frente a 30 s usando el mismo prompt y cambiando solo Duration para diagnosticar dónde se desvían los clips largos.  \nPara un prompt de acción continua, mantén Duration en torno a 15 segundos si quieres una progresión clara de principio a fin sin looping/drift.  \nAl generar clips de 30 segundos, usa una plantilla por etapas (structured stages) para mantener una progresión consistente más allá de ~15 segundos."
+    },
+    "fr": {
+      "content": "Comparez des générations de 15 s et de 30 s en utilisant le même prompt et en ne modifiant que la durée afin de diagnostiquer à quel moment les clips longs dérivent.  \nPour un prompt d’action continue, gardez la durée autour de 15 secondes si vous souhaitez une progression claire du début à la fin, sans boucle ni dérive.  \nLors de la génération de clips de 30 secondes, utilisez un stage template (structured stages) pour maintenir une progression cohérente au-delà d’environ 15 secondes."
+    },
+    "ja": {
+      "content": "同じ prompt を使い、Duration だけを変更して 15秒版と30秒版の生成結果を比較し、長尺クリップでどこから drift が起きるかを診断します。  \n1つの連続したアクション prompt では、ループや drift を避けつつ、始まりから終わりまでの流れを明確にしたい場合、Duration は約15秒に保つのがよいでしょう。  \n30秒のクリップを生成する場合は、stage template（structured stages）を使って、約15秒を超えても一貫した進行を維持します。"
+    },
+    "ko": {
+      "content": "같은 prompt를 사용하고 Duration만 변경해 15초와 30초 생성 결과를 비교하면, 긴 클립에서 어디서 drift가 발생하는지 진단할 수 있습니다.  \n하나의 연속적인 action prompt의 경우, looping/drift 없이 시작부터 끝까지의 명확한 진행을 원한다면 Duration을 약 15초로 유지하세요.  \n30초 클립을 생성할 때는 stage template(구조화된 stages)을 사용해 약 15초 이후에도 일관된 진행을 유지하세요."
+    },
+    "pt": {
+      "content": "Compare gerações de 15s vs 30s usando o mesmo prompt e alterando apenas a Duration para diagnosticar onde clipes longos começam a desviar.  \nPara um prompt de ação contínua, mantenha a Duration em torno de 15 segundos se quiser uma progressão clara do início ao fim, sem looping/drift.  \nAo gerar clipes de 30 segundos, use um stage template (structured stages) para manter uma progressão consistente além de ~15 segundos."
+    },
+    "zh": {
+      "content": "使用相同的 prompt 进行 15 秒与 30 秒生成对比，只更改 Duration，以诊断长片段在哪些地方开始偏移。  \n对于一个连续动作的 prompt，如果你希望从头到尾有清晰的推进且没有循环/漂移，建议将 Duration 保持在约 15 秒。  \n在生成 30 秒片段时，使用 stage template（结构化阶段）来维持超过约 15 秒后的持续一致推进。"
+    }
+  }
+}
