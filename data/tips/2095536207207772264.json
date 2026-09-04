@@ -1,0 +1,45 @@
+{
+  "id": "2095536207207772264",
+  "title": "Tek fotoğrafla karakter referansı vermek yerine, Seedance 2.5’te karakter…",
+  "content": "Tek fotoğrafla karakter referansı vermek yerine, Seedance 2.5’te karakter tutarlılığı için “karakter sayfası” kullanın: 6 açı turnaround + farklı ifadeler + ışık testleri ekleyin.  \nPromptta iki referansı net ayırın: karakter sayfası “kim olduğunu”, dans videosu “hareketi” belirlesin; aksi halde model kaynak videodaki siyah zemin gibi unsurları sahneye taşıyabilir.  \nHareket aktarımı için “tarif etmek” yerine bir dans/motion referans videosu gösterin; model “dans ediyor” komutundan çok, gösterilen dansı uygular.  \nHareket senkronunu doğrulamak için kaynak ve çıktı videolarını üst üste bindirip adımların aynı saniyelere oturup oturmadığını kontrol edin.",
+  "language": "tr",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2095535960566235136/img/ylzvDkJ0D-2kfO2N.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2095536207207772264.mp4",
+  "sourceLink": "https://x.com/erhanmeydan/status/2095536207207772264",
+  "sourcePublishedAt": "2026-09-03",
+  "author": {
+    "name": "Erhan Meydan",
+    "link": "https://x.com/erhanmeydan"
+  },
+  "tags": [
+    "Music & Dance",
+    "Dance",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Tek fotoğrafla karakter referansı vermek yerine, Seedance 2.5’te karakter tutarlılığı için “karakter sayfası” kullanın: 6 açı turnaround + farklı ifadeler + ışık testleri ekleyin.  \nPromptta iki referansı net ayırın: karakter sayfası “kim olduğunu”, dans videosu “hareketi” belirlesin; aksi halde model kaynak videodaki siyah zemin gibi unsurları sahneye taşıyabilir.  \nHareket aktarımı için “tarif etmek” yerine bir dans/motion referans videosu gösterin; model “dans ediyor” komutundan çok, gösterilen dansı uygular.  \nHareket senkronunu doğrulamak için kaynak ve çıktı videolarını üst üste bindirip adımların aynı saniyelere oturup oturmadığını kontrol edin.",
+  "translations": {
+    "en": {
+      "content": "Instead of using a single photo as a character reference, use a “character sheet” for character consistency in Seedance 2.5: include a 6-angle turnaround, different expressions, and lighting tests.  \nIn the prompt, clearly separate the two references: let the character sheet define “who they are,” and the dance video define “the movement”; otherwise, the model may carry over elements from the source video, such as a black background, into the scene.  \nFor motion transfer, show a dance/motion reference video instead of “describing” it; the model follows the demonstrated dance more than the command “is dancing.”  \nTo verify motion sync, overlay the source and output videos and check whether the steps land on the same seconds.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Link to the detailed video: https://t.co/YP0d8ImR2l\n---"
+    },
+    "es": {
+      "content": "En lugar de dar una referencia de personaje con una sola foto, en Seedance 2.5 usa una “character sheet” para mantener la consistencia del personaje: añade un turnaround de 6 ángulos + distintas expresiones + pruebas de iluminación.  \nEn el prompt, separa claramente las dos referencias: la character sheet debe definir “quién es”, y el video de baile debe definir “el movimiento”; de lo contrario, el modelo puede trasladar al escenario elementos del video fuente, como un fondo negro.  \nPara transferir el movimiento, en lugar de “describirlo”, muestra un video de referencia de baile/motion; el modelo ejecuta el baile mostrado más que obedecer un comando tipo “está bailando”.  \nPara verificar la sincronización del movimiento, superpone los videos fuente y de salida y comprueba si los pasos caen en los mismos segundos.\n\n--- CONTINUACIÓN DEL HILO ---\n[Hilo 1] Enlace al video detallado: https://t.co/YP0d8ImR2l\n---"
+    },
+    "fr": {
+      "content": "Au lieu de donner une référence de personnage avec une seule photo, utilisez une « character sheet » pour assurer la cohérence du personnage dans Seedance 2.5 : ajoutez un turnaround à 6 angles, différentes expressions et des tests d’éclairage.  \nDans le prompt, séparez clairement les deux références : la character sheet définit « qui est le personnage », tandis que la vidéo de danse définit « le mouvement » ; sinon, le modèle peut transférer à la scène des éléments comme le fond noir de la vidéo source.  \nPour le transfert de mouvement, montrez une vidéo de référence de danse/motion au lieu de simplement le décrire ; le modèle suit davantage la danse montrée que la commande « il danse ».  \nPour vérifier la synchronisation du mouvement, superposez les vidéos source et de sortie et contrôlez si les pas tombent sur les mêmes secondes.\n\n--- SUITE DU THREAD ---\n[Thread 1] Lien de la vidéo détaillée : https://t.co/YP0d8ImR2l\n---"
+    },
+    "ja": {
+      "content": "Tek bir fotoğrafla karakter referansı vermek yerine, Seedance 2.5’te karakter tutarlılığı için “character sheet” kullanın: 6 açıdan turnaround + farklı ifadeler + ışık testleri ekleyin.  \nPrompt’ta iki referansı net biçimde ayırın: character sheet “kim olduğunu”, dans videosu ise “hareketi” belirlesin; aksi halde model, kaynak videodaki siyah zemin gibi unsurları sahneye taşıyabilir.  \nHareket aktarımı için “tarif etmek” yerine bir dans/motion referans videosu gösterin; model, “dans ediyor” komutundan çok gösterilen dansı uygular.  \nHareket senkronunu doğrulamak için kaynak ve çıktı videolarını üst üste bindirip adımların aynı saniyelere oturup oturmadığını kontrol edin.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Detaylı videonun linki: https://t.co/YP0d8ImR2l\n---"
+    },
+    "ko": {
+      "content": "Tek fotoğrafla karakter referansı vermek yerine, Seedance 2.5’te karakter tutarlılığı için “karakter sayfası” kullanın: 6 açı turnaround + farklı ifadeler + ışık testleri ekleyin.  \nPromptta iki referansı net ayırın: karakter sayfası “kim olduğunu”, dans videosu “hareketi” belirlesin; aksi halde model kaynak videodaki siyah zemin gibi unsurları sahneye taşıyabilir.  \nHareket aktarımı için “tarif etmek” yerine bir dans/motion referans videosu gösterin; model “dans ediyor” komutundan çok, gösterilen dansı uygular.  \nHareket senkronunu doğrulamak için kaynak ve çıktı videolarını üst üste bindirip adımların aynı saniyelere oturup oturmadığını kontrol edin.\n\n--- THREAD CONTINUATION ---\n[Thread 1] Detaylı Videonun linki: https://t.co/YP0d8ImR2l\n---"
+    },
+    "pt": {
+      "content": "Em vez de usar uma única foto como referência de personagem, no Seedance 2.5 use uma “character sheet” para garantir consistência: inclua turnaround em 6 ângulos + diferentes expressões + testes de iluminação.  \nNo prompt, separe claramente as duas referências: a character sheet define “quem é” o personagem, e o vídeo de dança define o “movimento”; caso contrário, o modelo pode trazer para a cena elementos do vídeo de origem, como um fundo preto.  \nPara transferência de movimento, em vez de “descrever”, mostre um vídeo de referência de dança/motion; o modelo executa a dança mostrada, mais do que apenas obedecer ao comando “está dançando”.  \nPara verificar a sincronização do movimento, sobreponha os vídeos de origem e de saída e confira se os passos caem nos mesmos segundos.\n\n--- CONTINUAÇÃO DO THREAD ---\n[Thread 1] Link do vídeo detalhado: https://t.co/YP0d8ImR2l\n---"
+    },
+    "zh": {
+      "content": "不要只用一张照片来提供角色参考；在 Seedance 2.5 中，为了保持角色一致性，请使用“角色页”：加入 6 个角度的 turnarounds、不同表情以及光照测试。  \n在 prompt 中要清晰区分两个参考：角色页决定“是谁”，舞蹈视频决定“动作”；否则模型可能会把源视频里的黑色背景等元素带到场景中。  \n对于动作迁移，不要用“描述”的方式，而是展示一个舞蹈/motion 参考视频；模型更会执行你展示的舞蹈，而不是只理解“在跳舞”这个指令。  \n为了验证动作同步，请将源视频和输出视频叠加，检查每一步是否落在相同的秒点上。\n\n--- THREAD CONTINUATION ---\n[Thread 1] 详细视频链接：https://t.co/YP0d8ImR2l\n---"
+    }
+  }
+}

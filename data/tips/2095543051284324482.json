@@ -1,0 +1,42 @@
+{
+  "id": "2095543051284324482",
+  "title": "Use Seedance 2.5 with exactly 2 reference images (e.g., two stills in Omni)…",
+  "content": "Use Seedance 2.5 with exactly 2 reference images (e.g., two stills in Omni) plus a single prompt to generate a cohesive anime sequence that maintains character consistency, motion, and style without multi-pass rigging or hand-drawn in-betweens",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2095543005121802240/pu/img/3Mt2pv2EmXaUg5qW.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2095543051284324482.mp4",
+  "sourceLink": "https://x.com/Genflickmovies/status/2095543051284324482",
+  "sourcePublishedAt": "2026-09-03",
+  "author": {
+    "name": "GenFlick | Making Movies with AI | Join Us",
+    "link": "https://x.com/Genflickmovies"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Influencer",
+    "Anime 2D",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 with exactly 2 reference images (e.g., two stills in Omni) plus a single prompt to generate a cohesive anime sequence that maintains character consistency, motion, and style without multi-pass rigging or hand-drawn in-betweens",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 con exactamente 2 imágenes de referencia (por ejemplo, dos fotogramas fijos en Omni) más un solo prompt para generar una secuencia de anime cohesiva que mantenga la consistencia del personaje, el movimiento y el estilo, sin rigging en múltiples pasadas ni in-betweens dibujados a mano"
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 avec exactement 2 images de référence (par exemple, deux images fixes dans Omni) ainsi qu’un seul prompt pour générer une séquence anime cohérente qui conserve la cohérence des personnages, le mouvement et le style, sans rigging en plusieurs passes ni in-betweens dessinés à la main"
+    },
+    "ja": {
+      "content": "Seedance 2.5 を、ちょうど 2 枚の参照画像（例：Omni の 2 枚の静止画）と 1 つの prompt だけで使用し、マルチパスの rigging や手描きの in-between を使わずに、キャラクターの一貫性、動き、スタイルを維持したまとまりのあるアニメーションシーケンスを生成する"
+    },
+    "ko": {
+      "content": "Seedance 2.5를 정확히 2장의 레퍼런스 이미지(예: Omni의 두 스틸컷)와 단일 prompt와 함께 사용해, 멀티 패스 rigging이나 수작업 in-between 없이도 캐릭터 일관성, 움직임, 스타일을 유지하는 일관된 anime 시퀀스를 생성하세요."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 com exatamente 2 imagens de referência (por exemplo, dois stills no Omni) mais um único prompt para gerar uma sequência de anime coesa que mantenha a consistência do personagem, o movimento e o estilo, sem rigging em múltiplas passagens ou in-betweens desenhados à mão"
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5，配合恰好 2 张参考图像（例如 Omni 中的两张静帧）以及一条 prompt，即可生成一个连贯的 anime 序列，在无需多次 pass 的 rigging 或手绘中间帧的情况下，保持角色一致性、动作和风格。"
+    }
+  }
+}

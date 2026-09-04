@@ -1,0 +1,42 @@
+{
+  "id": "2095529877768114627",
+  "title": "Use Seedance 2.5 to generate the first ~3 seconds (the hook) of an ad with a…",
+  "content": "Use Seedance 2.5 to generate the first ~3 seconds (the hook) of an ad with a strong visual pattern interrupt (“wtf did I just see” moment).",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2095529823959756800/img/x-pNXifpuOr4gpZm.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2095529877768114627.mp4",
+  "sourceLink": "https://x.com/zedmadeit/status/2095529877768114627",
+  "sourcePublishedAt": "2026-09-03",
+  "author": {
+    "name": "ZED",
+    "link": "https://x.com/zedmadeit"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use Seedance 2.5 to generate the first ~3 seconds (the hook) of an ad with a strong visual pattern interrupt (“wtf did I just see” moment).",
+  "translations": {
+    "es": {
+      "content": "Usa Seedance 2.5 para generar los primeros ~3 segundos (el gancho) de un anuncio con una fuerte interrupción visual del patrón (“¿qué acabo de ver?”)."
+    },
+    "fr": {
+      "content": "Utilisez Seedance 2.5 pour générer les ~3 premières secondes (le hook) d’une publicité avec une forte rupture de pattern visuel (un moment « mais qu’est-ce que je viens de voir ? »)."
+    },
+    "ja": {
+      "content": "Seedance 2.5 を使って、広告の最初の約3秒（フック）を生成し、強いビジュアルのパターン・インタラプト（「今、何を見たんだ？」と思わせる瞬間）を作り出す。"
+    },
+    "ko": {
+      "content": "Seedance 2.5를 사용해 광고의 첫 약 3초(훅)를 생성하세요. 강렬한 시각적 패턴 인터럽트로 “방금 내가 뭘 본 거지?”라는 순간을 만들어야 합니다."
+    },
+    "pt": {
+      "content": "Use o Seedance 2.5 para gerar os primeiros ~3 segundos (o gancho) de um anúncio com uma forte interrupção visual de padrão (“que diabos eu acabei de ver?”)."
+    },
+    "zh": {
+      "content": "使用 Seedance 2.5 生成广告开头约 3 秒（hook），营造强烈的视觉模式打断（“我刚刚看到了什么”那种瞬间）。"
+    }
+  }
+}

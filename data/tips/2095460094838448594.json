@@ -1,0 +1,42 @@
+{
+  "id": "2095460094838448594",
+  "title": "実写映画＋モノクロ・ハイファッション広告＋ヴィクトリアン装飾＋シュルレアリスム＋キネティックタイポグラフィを基本コンセプトとしてプロンプトに明記する",
+  "content": "実写映画＋モノクロ・ハイファッション広告＋ヴィクトリアン装飾＋シュルレアリスム＋キネティックタイポグラフィを基本コンセプトとしてプロンプトに明記する  \n3倍速のハイスピードMVにしたい場合はプロンプトに3倍速（ハイスピード）を指定する  \n全体の色調をグレー／ホワイト／シルバー中心のモノクロームにしたい場合はその配色をプロンプトで指定する  \nアクセントカラーとして蛍光ピンクを入れたい場合はアクセントカラー：蛍光ピンクをプロンプトに追加する",
+  "language": "ja",
+  "thumbnail": "",
+  "sourceLink": "https://x.com/tokyo_Valentine/status/2095460094838448594",
+  "sourcePublishedAt": "2026-09-03",
+  "author": {
+    "name": "とすくん",
+    "link": "https://x.com/tokyo_Valentine"
+  },
+  "tags": [
+    "Portrait & Fashion",
+    "Fashion",
+    "Photoreal",
+    "Historical",
+    "Tutorial",
+    "VFX"
+  ],
+  "tips": "実写映画＋モノクロ・ハイファッション広告＋ヴィクトリアン装飾＋シュルレアリスム＋キネティックタイポグラフィを基本コンセプトとしてプロンプトに明記する  \n3倍速のハイスピードMVにしたい場合はプロンプトに3倍速（ハイスピード）を指定する  \n全体の色調をグレー／ホワイト／シルバー中心のモノクロームにしたい場合はその配色をプロンプトで指定する  \nアクセントカラーとして蛍光ピンクを入れたい場合はアクセントカラー：蛍光ピンクをプロンプトに追加する",
+  "translations": {
+    "en": {
+      "content": "Clearly state in the prompt that the basic concept is a live-action film + monochrome high-fashion advertising + Victorian ornamentation + surrealism + kinetic typography.\n\nIf you want it to be a 3x-speed high-speed MV, specify 3x speed (high-speed) in the prompt.\n\nIf you want the overall color tone to be monochrome centered on gray / white / silver, specify that color palette in the prompt.\n\nIf you want to add fluorescent pink as an accent color, add “accent color: fluorescent pink” to the prompt."
+    },
+    "es": {
+      "content": "Especifica claramente en el prompt como concepto básico: live-action film + anuncio de high fashion en blanco y negro + ornamentación victoriana + surrealismo + kinetic typography.  \nSi quieres convertirlo en un MV de alta velocidad a 3x, especifica 3x speed (high-speed) en el prompt.  \nSi quieres que la tonalidad general sea monocromática, centrada en gris / blanco / plata, especifica esa paleta de colores en el prompt.  \nSi quieres incluir rosa neón como color de acento, añade accent color: neon pink al prompt."
+    },
+    "fr": {
+      "content": "Indiquez clairement dans le prompt, comme concept de base, un film en prises de vue réelles + une publicité de haute couture en noir et blanc + des ornements victoriens + du surréalisme + de la typographie cinétique.  \nSi vous souhaitez en faire un MV en haute vitesse à 3x, spécifiez 3x speed (high-speed) dans le prompt.  \nSi vous voulez que l’ensemble de la palette soit monochrome, centré sur le gris / blanc / argent, indiquez cette combinaison de couleurs dans le prompt.  \nSi vous souhaitez ajouter du rose fluo comme couleur d’accent, ajoutez accent color: fluorescent pink au prompt."
+    },
+    "ko": {
+      "content": "실사 영화 + 흑백 하이패션 광고 + 빅토리아풍 장식 + 초현실주의 + 키네틱 타이포그래피를 기본 콘셉트로 프롬프트에 명시한다  \n3배속의 하이스피드 MV로 만들고 싶다면 프롬프트에 3배속(하이스피드)을 지정한다  \n전체 색조를 그레이/화이트/실버 중심의 모노크롬으로 하고 싶다면 그 배색을 프롬프트에 지정한다  \n액센트 컬러로 형광 핑크를 넣고 싶다면 액센트 컬러: 형광 핑크를 프롬프트에 추가한다"
+    },
+    "pt": {
+      "content": "Especifique no prompt como conceito básico: live-action film + black-and-white high-fashion advertising + Victorian ornamentation + surrealism + kinetic typography  \nSe quiser transformar em um MV em alta velocidade com 3x de velocidade, especifique 3x speed (high-speed) no prompt  \nSe quiser que a tonalidade geral seja um monochrome centrado em gray / white / silver, especifique essa paleta de cores no prompt  \nSe quiser incluir neon pink como cor de destaque, adicione accent color: neon pink ao prompt"
+    },
+    "zh": {
+      "content": "将实拍电影＋黑白高端时尚广告＋维多利亚装饰＋超现实主义＋kinetic typography 作为基本概念明确写入 prompt 中  \n如果想做成 3 倍速的 high-speed MV，就在 prompt 中指定 3 倍速（high-speed）  \n如果想让整体色调以灰色／白色／银色为主的 monochrome，就在 prompt 中指定该配色  \n如果想加入荧光粉作为 accent color，就在 prompt 中追加「accent color：荧光粉」"
+    }
+  }
+}

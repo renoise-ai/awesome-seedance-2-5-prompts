@@ -1,0 +1,42 @@
+{
+  "id": "2095437841958314100",
+  "title": "Use a pipeline where WorldGen generates the 3D scene/spatial structure first…",
+  "content": "Use a pipeline where WorldGen generates the 3D scene/spatial structure first, then render basic footage and run it through Seedance 2.5 to add character performance, materials, lighting, and overall style for near-cinematic results.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2095437760115183616/img/hYujbAYdTO5Q5jnI.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2095437841958314100.mp4",
+  "sourceLink": "https://x.com/grokkedd/status/2095437841958314100",
+  "sourcePublishedAt": "2026-09-03",
+  "author": {
+    "name": "grokked",
+    "link": "https://x.com/grokkedd"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Worldbuilding",
+    "3D Animation",
+    "Sci-Fi",
+    "Tutorial"
+  ],
+  "tips": "Use a pipeline where WorldGen generates the 3D scene/spatial structure first, then render basic footage and run it through Seedance 2.5 to add character performance, materials, lighting, and overall style for near-cinematic results.",
+  "translations": {
+    "es": {
+      "content": "Usa un pipeline en el que WorldGen genere primero la escena 3D/la estructura espacial, luego renderiza un metraje básico y pásalo por Seedance 2.5 para añadir la interpretación de los personajes, los materiales, la iluminación y el estilo general, logrando resultados casi cinematográficos."
+    },
+    "fr": {
+      "content": "Utilisez un pipeline dans lequel WorldGen génère d’abord la scène 3D / la structure spatiale, puis rendez des images de base et faites-les passer dans Seedance 2.5 pour ajouter la performance des personnages, les matériaux, l’éclairage et le style global, afin d’obtenir un rendu proche du cinématographique."
+    },
+    "ja": {
+      "content": "WorldGenでまず3Dシーン／空間構造を生成し、その後、基本的な映像をレンダリングしてSeedance 2.5に通し、キャラクターの演技、マテリアル、ライティング、そして全体のスタイルを加えることで、ほぼシネマティックな仕上がりを実現するパイプラインを使用します。"
+    },
+    "ko": {
+      "content": "WorldGen이 먼저 3D 장면/공간 구조를 생성한 다음, 기본 영상을 렌더링하고 이를 Seedance 2.5에 통과시켜 캐릭터 퍼포먼스, 재질, 조명, 그리고 전반적인 스타일을 더해 거의 시네마틱에 가까운 결과를 얻는 파이프라인을 사용하세요."
+    },
+    "pt": {
+      "content": "Use um pipeline em que o WorldGen gera primeiro a cena 3D/estrutura espacial, depois renderize uma filmagem básica e a passe pelo Seedance 2.5 para adicionar performance dos personagens, materiais, iluminação e estilo geral, obtendo resultados próximos ao cinematográfico."
+    },
+    "zh": {
+      "content": "采用这样的流程：先由 WorldGen 生成 3D 场景/空间结构，然后渲染基础素材，再通过 Seedance 2.5 进行处理，为其添加角色表演、材质、光照以及整体风格，从而获得接近电影级的效果。"
+    }
+  }
+}

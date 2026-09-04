@@ -1,0 +1,40 @@
+{
+  "id": "2095558795535474913",
+  "title": "the red light reflected across the whole wet street and the raindrops on the…",
+  "content": "the red light reflected across the whole wet street and the raindrops on the glass turning red",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2095558767178100737/img/sFy38JoBs1SrQppl.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2095558795535474913.mp4",
+  "sourceLink": "https://x.com/GlennHasABeard/status/2095558795535474913",
+  "sourcePublishedAt": "2026-09-03",
+  "author": {
+    "name": "Glenn Williams",
+    "link": "https://x.com/GlennHasABeard"
+  },
+  "tags": [
+    "Scenery & Spectacle",
+    "Cityscape",
+    "Photoreal",
+    "Realistic World"
+  ],
+  "translations": {
+    "es": {
+      "content": "la luz roja se reflejaba en toda la calle mojada y las gotas de lluvia en el cristal se volvían rojas"
+    },
+    "fr": {
+      "content": "la lumière rouge se reflétait sur toute la rue mouillée et les gouttes de pluie sur la vitre devenaient rouges"
+    },
+    "ja": {
+      "content": "赤い光が濡れた通り全体に反射し、ガラスの上の雨粒が赤く染まっている"
+    },
+    "ko": {
+      "content": "빨간 불빛이 젖은 거리 전체에 반사되고, 유리창 위의 빗방울들이 붉게 물드는 모습"
+    },
+    "pt": {
+      "content": "a luz vermelha refletida por toda a rua molhada e as gotas de chuva no vidro ficando vermelhas"
+    },
+    "zh": {
+      "content": "红色的光反射在整条湿漉漉的街道上，玻璃上的雨滴也变成了红色"
+    }
+  }
+}

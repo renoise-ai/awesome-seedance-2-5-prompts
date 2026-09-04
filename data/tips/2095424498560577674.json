@@ -1,0 +1,42 @@
+{
+  "id": "2095424498560577674",
+  "title": "Use a workflow where you build the ad in Wireflow, put the brand brain in a…",
+  "content": "Use a workflow where you build the ad in Wireflow, put the brand brain in a text card, have Claude Sonnet 5 generate the creative brief, use GPT Image 2 to create an approval storyboard before generating video, then render in Seedance 2.5 from the approved storyboard plus a product reference image.",
+  "language": "en",
+  "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2095424413273632768/img/ekLbnm8vOPKc2p6t.jpg",
+  "videoUrl": "https://talented-lioness-5423.edgespark.app/api/public/media/seedance/videos/2095424498560577674.mp4",
+  "sourceLink": "https://x.com/AndyAI_/status/2095424498560577674",
+  "sourcePublishedAt": "2026-09-03",
+  "author": {
+    "name": "AndyAI",
+    "link": "https://x.com/AndyAI_"
+  },
+  "tags": [
+    "Product Ad",
+    "Tech",
+    "Photoreal",
+    "Realistic World",
+    "Tutorial"
+  ],
+  "tips": "Use a workflow where you build the ad in Wireflow, put the brand brain in a text card, have Claude Sonnet 5 generate the creative brief, use GPT Image 2 to create an approval storyboard before generating video, then render in Seedance 2.5 from the approved storyboard plus a product reference image.",
+  "translations": {
+    "es": {
+      "content": "Usa un flujo de trabajo en el que construyas el anuncio en Wireflow, pongas el brand brain en una tarjeta de texto, hagas que Claude Sonnet 5 genere el creative brief, uses GPT Image 2 para crear un storyboard de aprobación antes de generar el video y, luego, renderices en Seedance 2.5 a partir del storyboard aprobado más una imagen de referencia del producto."
+    },
+    "fr": {
+      "content": "Utilisez un workflow dans lequel vous construisez la publicité dans Wireflow, placez le brand brain dans une carte texte, demandez à Claude Sonnet 5 de générer le brief créatif, utilisez GPT Image 2 pour créer un storyboard d’approbation avant de générer la vidéo, puis rendez le tout dans Seedance 2.5 à partir du storyboard approuvé et d’une image de référence du produit."
+    },
+    "ja": {
+      "content": "Wireflowで広告を構築し、ブランドのブレインをテキストカードに入れ、Claude Sonnet 5にクリエイティブブリーフを生成させ、動画生成の前にGPT Image 2で承認用のストーリーボードを作成し、その後、承認済みのストーリーボードと製品の参照画像をもとにSeedance 2.5でレンダリングするワークフローを使います。"
+    },
+    "ko": {
+      "content": "Wireflow에서 광고를 제작하고, 텍스트 카드에 브랜드 브레인을 넣은 다음, Claude Sonnet 5로 크리에이티브 브리프를 생성하고, GPT Image 2로 비디오 생성 전에 승인용 스토리보드를 만든 뒤, 승인된 스토리보드와 제품 레퍼런스 이미지를 바탕으로 Seedance 2.5에서 렌더링하는 워크플로를 사용하세요."
+    },
+    "pt": {
+      "content": "Use um fluxo de trabalho em que você cria o anúncio no Wireflow, coloca o brand brain em um cartão de texto, faz o Claude Sonnet 5 gerar o creative brief, usa o GPT Image 2 para criar um storyboard de aprovação antes de gerar o vídeo e, então, renderiza no Seedance 2.5 a partir do storyboard aprovado junto com uma imagem de referência do produto."
+    },
+    "zh": {
+      "content": "使用这样的工作流程：先在 Wireflow 中搭建广告，把品牌大脑放在一个文本卡片里，让 Claude Sonnet 5 生成创意简报，在生成视频之前先用 GPT Image 2 制作审批用分镜脚本，然后基于已批准的分镜脚本和一张产品参考图，在 Seedance 2.5 中渲染。"
+    }
+  }
+}
