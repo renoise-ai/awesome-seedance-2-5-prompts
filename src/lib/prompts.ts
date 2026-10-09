@@ -2,12 +2,40 @@ import type { Prompt, PromptTranslation } from "@/types/prompt";
 
 const DEFAULT_LANGUAGE = "en";
 
-function getYouBaseBaseUrl(): string {
-  const baseUrl = process.env.YOUBASE_URL?.trim();
+/**
+ * Seedance version this gallery serves. The `seedance` table upstream is shared
+ * between 2.0 and 2.5, so every read must scope itself with `?model=` or the
+ * two collections bleed into each other. The repo is the discriminator — the
+ * 2.0 gallery lives in its own repo with this set to "seedance-2.0".
+ */
+const MODEL = "seedance-2.5";
+
+/** Upstream caps `limit` at 100 per page. */
+const PAGE_SIZE = 100;
+
+/**
+ * Ceiling on how much of the collection a single page renders. 2.5 is well
+ * under it today, but the collection grows with every scrape, and this matches
+ * the number the renoise.ai showcase publishes so the two surfaces agree.
+ * Items arrive sorted by likes, so this keeps the strongest ones.
+ */
+const MAX_ITEMS = 200;
+
+function getApiBaseUrl(): string {
+  const baseUrl = process.env.PROMPTS_LIB_URL?.trim() || process.env.YOUBASE_URL?.trim();
   if (!baseUrl) {
-    throw new Error("Missing YOUBASE_URL. Please set it in your environment.");
+    throw new Error("Missing PROMPTS_LIB_URL. Please set it in your environment.");
   }
   return baseUrl.replace(/\/+$/, "");
+}
+
+/**
+ * Turn an `s3://assets/<path>` storage URI into a path under the upstream media
+ * proxy. Returns "" when the URI is absent or not a storage URI.
+ */
+function storagePath(value: unknown): string {
+  const uri = asString(value);
+  return uri.startsWith("s3://assets/") ? uri.slice("s3://assets/".length) : "";
 }
 
 function asString(value: unknown): string {
@@ -95,10 +123,19 @@ function normalizePrompt(raw: unknown, index: number): Prompt | null {
   const language = asString(row.language) || DEFAULT_LANGUAGE;
   const sourceLink = asString(row.sourceLink ?? row.source_link ?? row.url) || undefined;
   const sourcePublishedAt = asString(row.sourcePublishedAt ?? row.source_published_at ?? row.createdAt ?? row.created_at) || undefined;
-  const thumbnail = asString(row.thumbnail ?? row.videoThumbnail ?? row.video_thumbnail) || undefined;
-  const rawYoubaseVideoUrl = asString(row.youbaseVideoUrl);
-  const videoId = rawYoubaseVideoUrl.match(/\/videos\/play\/(\d+)/)?.[1];
-  const videoUrl = videoId ? `/api/video/${videoId}` : asString(row.videoUrl ?? row.video_url) || undefined;
+  // Poster: our own R2 cover first, then the Twitter thumbnail (pbs.twimg.com
+  // serves cross-origin fine).
+  const coverPath = storagePath(row.cover_storage_uri);
+  const thumbnail =
+    (coverPath && `/api/video/${coverPath}`) ||
+    asString(row.thumbnail ?? row.videoThumbnail ?? row.video_thumbnail) ||
+    undefined;
+
+  // Video: only our own R2 copy is embeddable. `video_url` points at
+  // video.twimg.com, which 403s on a Referer check from any non-Twitter origin,
+  // so it is never surfaced as a playable source.
+  const videoPath = storagePath(row.video_storage_uri);
+  const videoUrl = videoPath ? `/api/video/${videoPath}` : undefined;
   const tags = parseTags(row.tags);
   const tips = asString(row.tips ?? row.tip) || undefined;
   const featured = Boolean(row.featured);
@@ -149,30 +186,65 @@ function parseListPayload(payload: unknown): unknown[] {
   return [];
 }
 
-async function fetchFromYouBase(endpointPath: string): Promise<Prompt[]> {
-  const baseUrl = getYouBaseBaseUrl();
-  const res = await fetch(`${baseUrl}${endpointPath}`, {
-    cache: "no-store",
-    headers: {
-      Accept: "application/json",
-    },
-  });
+function hasMore(payload: unknown): boolean {
+  return Boolean(
+    payload && typeof payload === "object" && (payload as { has_more?: unknown }).has_more,
+  );
+}
 
-  if (!res.ok) {
-    console.error(`Failed to fetch ${endpointPath} from YouBase: ${res.status}`);
-    return [];
+/**
+ * Read one item type from the prompts-lib API, walking `offset` until the
+ * upstream runs out or MAX_ITEMS is reached. A failed page ends the walk and
+ * keeps whatever was collected, so a partial gallery beats a blank one.
+ */
+async function fetchItems(type: "prompt" | "tip"): Promise<Prompt[]> {
+  const baseUrl = getApiBaseUrl();
+  const items: Prompt[] = [];
+
+  for (let offset = 0; items.length < MAX_ITEMS; offset += PAGE_SIZE) {
+    const params = new URLSearchParams({
+      type,
+      model: MODEL,
+      sort: "likes",
+      order: "desc",
+      limit: String(PAGE_SIZE),
+      offset: String(offset),
+    });
+    const url = `${baseUrl}/api/public/items?${params}`;
+
+    let payload: unknown;
+    try {
+      const res = await fetch(url, {
+        cache: "no-store",
+        headers: { Accept: "application/json" },
+      });
+      if (!res.ok) {
+        console.error(`Failed to fetch ${type} items: ${res.status}`);
+        break;
+      }
+      payload = await res.json();
+    } catch (error) {
+      console.error(`Failed to fetch ${type} items:`, error);
+      break;
+    }
+
+    const list = parseListPayload(payload);
+    if (list.length === 0) break;
+
+    for (const raw of list) {
+      const item = normalizePrompt(raw, items.length);
+      if (item) items.push(item);
+      if (items.length >= MAX_ITEMS) break;
+    }
+
+    if (!hasMore(payload)) break;
   }
 
-  const payload = (await res.json()) as unknown;
-  const list = parseListPayload(payload);
-
-  return list
-    .map((item, index) => normalizePrompt(item, index))
-    .filter((item): item is Prompt => Boolean(item));
+  return items;
 }
 
 export async function getPrompts(): Promise<Prompt[]> {
-  const prompts = await fetchFromYouBase("/api/public/prompts");
+  const prompts = await fetchItems("prompt");
   return sortPrompts(prompts);
 }
 
@@ -182,6 +254,6 @@ export async function getPromptById(id: string): Promise<Prompt | null> {
 }
 
 export async function getTips(): Promise<Prompt[]> {
-  const tips = await fetchFromYouBase("/api/public/tips");
+  const tips = await fetchItems("tip");
   return sortPrompts(tips);
 }
