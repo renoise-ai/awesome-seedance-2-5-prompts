@@ -66,7 +66,7 @@
 | 📝 プロンプト総数 | **2853** |
 | ⭐ 注目 | **0** |
 | 💡 ヒント & チュートリアル | **2060** |
-| 🔄 最終更新 | **2026-11-27** |
+| 🔄 最終更新 | **2026-11-28** |
 
 ---
 
@@ -9278,4 +9278,4 @@ After generation, review for face/outfit/environment continuity, handheld camera
 
 **🌐 [🎬 ウェブギャラリーで閲覧](https://renoise.ai/ja/showcase/awesome-seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **🎬 [Seedance 2.5 モデル](https://renoise.ai/ja/features/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-5-prompts)** • **📝 プロンプトを提出** • **⭐ Star する**
 
-🤖 この README は自動生成されています。最終更新： 2026-11-27T23:57:07.504Z
+🤖 この README は自動生成されています。最終更新： 2026-11-28T07:31:10.612Z
